@@ -2,10 +2,14 @@
  "category": "", 
  "name": "Motor Mount Kit (6pcs)", 
  "subpart": [], 
- "url": [
-  "http://www.getfpv.com/motor-mount-upgrade-to-v1-1.html"
- ], 
  "equivalent": [], 
+ "urls": {
+  "store": [
+   "http://www.getfpv.com/motor-mount-upgrade-to-v1-1.html"
+  ], 
+  "related": [], 
+  "manufacturer": []
+ }, 
  "replacement": [], 
  "manufacturer": "FPV Manuals"
 }

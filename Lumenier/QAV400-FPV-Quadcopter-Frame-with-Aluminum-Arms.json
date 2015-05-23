@@ -2,10 +2,14 @@
  "category": "", 
  "name": "QAV400 FPV Quadcopter Frame with Aluminum Arms", 
  "subpart": [], 
- "url": [
-  "http://www.getfpv.com/qav400-frame-aluminum.html"
- ], 
  "equivalent": [], 
+ "urls": {
+  "store": [
+   "http://www.getfpv.com/qav400-frame-aluminum.html"
+  ], 
+  "related": [], 
+  "manufacturer": []
+ }, 
  "replacement": [], 
  "manufacturer": "Lumenier"
 }

@@ -2,10 +2,14 @@
  "category": "", 
  "name": "Tricopter Crash Replacement Hardware", 
  "subpart": [], 
- "url": [
-  "http://www.getfpv.com/tricopter-kit-hardware-package.html"
- ], 
  "equivalent": [], 
+ "urls": {
+  "store": [
+   "http://www.getfpv.com/tricopter-kit-hardware-package.html"
+  ], 
+  "related": [], 
+  "manufacturer": []
+ }, 
  "replacement": [], 
  "manufacturer": "FPV Manuals"
 }

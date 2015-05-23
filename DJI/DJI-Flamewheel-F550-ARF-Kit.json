@@ -2,10 +2,14 @@
  "category": "", 
  "name": "DJI Flamewheel F550 ARF Kit", 
  "subpart": [], 
- "url": [
-  "http://www.getfpv.com/dji-flamewheel-f550-arf-kit.html"
- ], 
  "equivalent": [], 
+ "urls": {
+  "store": [
+   "http://www.getfpv.com/dji-flamewheel-f550-arf-kit.html"
+  ], 
+  "related": [], 
+  "manufacturer": []
+ }, 
  "replacement": [], 
  "manufacturer": "DJI"
 }

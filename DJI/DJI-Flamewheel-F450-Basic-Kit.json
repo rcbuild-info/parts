@@ -2,10 +2,14 @@
  "category": "", 
  "name": "DJI Flamewheel F450 Basic Kit", 
  "subpart": [], 
- "url": [
-  "http://www.getfpv.com/dji-flamewheel-f450-basic-kit.html"
- ], 
  "equivalent": [], 
+ "urls": {
+  "store": [
+   "http://www.getfpv.com/dji-flamewheel-f450-basic-kit.html"
+  ], 
+  "related": [], 
+  "manufacturer": []
+ }, 
  "replacement": [], 
  "manufacturer": "DJI"
 }
