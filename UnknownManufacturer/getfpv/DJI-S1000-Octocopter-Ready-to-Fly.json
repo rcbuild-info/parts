@@ -1,15 +1,15 @@
 {
- "name": "DJI S1000 Octocopter Ready to Fly",
- "replacement": [],
- "manufacturer": null,
- "subpart": [],
- "equivalent": [],
- "category": "",
+ "category": "", 
+ "name": "DJI S1000 Octocopter Ready to Fly", 
+ "subpart": [], 
+ "equivalent": [], 
  "urls": {
-  "related": [],
   "store": [
    "http://www.getfpv.com/dji-s1000-octocopter-ready-to-fly.html"
-  ],
+  ], 
+  "related": [], 
   "manufacturer": []
- }
+ }, 
+ "replacement": [], 
+ "manufacturer": null
 }

@@ -1,15 +1,15 @@
 {
- "name": "Silicone Wire 12awg (1mtr)",
- "replacement": [],
- "manufacturer": null,
- "subpart": [],
- "equivalent": [],
- "category": "",
+ "category": "", 
+ "name": "Silicone Wire 12awg (1mtr)", 
+ "subpart": [], 
+ "equivalent": [], 
  "urls": {
-  "related": [],
   "store": [
    "http://www.getfpv.com/silicone-wire-12awg-1mtr.html"
-  ],
+  ], 
+  "related": [], 
   "manufacturer": []
- }
+ }, 
+ "replacement": [], 
+ "manufacturer": null
 }

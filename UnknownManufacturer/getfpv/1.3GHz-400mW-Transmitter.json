@@ -1,15 +1,15 @@
 {
- "name": "1.3GHz 400mW Transmitter",
- "replacement": [],
- "manufacturer": null,
- "subpart": [],
- "equivalent": [],
- "category": "",
+ "category": "", 
+ "name": "1.3GHz 400mW Transmitter", 
+ "subpart": [], 
+ "equivalent": [], 
  "urls": {
-  "related": [],
   "store": [
    "http://www.getfpv.com/1-3ghz-400mw-transmitter.html"
-  ],
+  ], 
+  "related": [], 
   "manufacturer": []
- }
+ }, 
+ "replacement": [], 
+ "manufacturer": null
 }

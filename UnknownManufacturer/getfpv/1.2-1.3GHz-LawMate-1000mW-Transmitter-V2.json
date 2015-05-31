@@ -1,15 +1,15 @@
 {
- "name": "1.2-1.3GHz LawMate 1000mW Transmitter V2",
- "replacement": [],
- "manufacturer": null,
- "subpart": [],
- "equivalent": [],
- "category": "",
+ "category": "", 
+ "name": "1.2-1.3GHz LawMate 1000mW Transmitter V2", 
+ "subpart": [], 
+ "equivalent": [], 
  "urls": {
-  "related": [],
   "store": [
    "http://www.getfpv.com/1-2-1-3ghz-lawmate-1000mw-transmitter-v2.html"
-  ],
+  ], 
+  "related": [], 
   "manufacturer": []
- }
+ }, 
+ "replacement": [], 
+ "manufacturer": null
 }
