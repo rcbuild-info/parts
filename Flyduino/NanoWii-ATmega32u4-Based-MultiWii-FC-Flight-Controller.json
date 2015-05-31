@@ -4,12 +4,12 @@
  "subpart": [], 
  "equivalent": [], 
  "urls": {
+  "related": [], 
   "store": [
    "http://www.getfpv.com/nanowii-atmega32u4-based-multiwii-fc-flight-controller.html"
   ], 
-  "related": [], 
   "manufacturer": []
  }, 
- "replacement": [], 
- "manufacturer": "Flyduino"
+ "manufacturer": "Flyduino", 
+ "replacement": []
 }

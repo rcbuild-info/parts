@@ -4,12 +4,12 @@
  "subpart": [], 
  "equivalent": [], 
  "urls": {
+  "related": [], 
   "store": [
    "http://www.getfpv.com/pixhawk-external-led-and-usb.html"
   ], 
-  "related": [], 
   "manufacturer": []
  }, 
- "replacement": [], 
- "manufacturer": "3DRobotics"
+ "manufacturer": "3DRobotics", 
+ "replacement": []
 }

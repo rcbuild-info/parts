@@ -4,12 +4,13 @@
  "subpart": [], 
  "equivalent": [], 
  "urls": {
-  "store": [
-   "http://www.getfpv.com/core-current-sensor-25-amps-482.html"
-  ], 
   "related": [], 
+  "store": [
+   "http://www.getfpv.com/core-current-sensor-25-amps-482.html", 
+   "http://www.getfpv.com/team-blacksheep-core-current-sensor-50-amps.html"
+  ], 
   "manufacturer": []
  }, 
- "replacement": [], 
- "manufacturer": "Team BlackSheep"
+ "manufacturer": "Team BlackSheep", 
+ "replacement": []
 }
