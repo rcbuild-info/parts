@@ -1,0 +1,15 @@
+{
+ "category": "hqcam", 
+ "name": "HERO3 White Edition", 
+ "subpart": [], 
+ "equivalent": [], 
+ "urls": {
+  "related": [], 
+  "store": [
+   "http://www.amazon.com/dp/B00GXKTEUI/?tag=rcbuildinfo-20"
+  ], 
+  "manufacturer": ["https://gopro.com/support/hero3-white-support"]
+ }, 
+ "manufacturer": "GoPro", 
+ "replacement": ["GoPro/HERO+-LCD"]
+}

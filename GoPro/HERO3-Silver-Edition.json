@@ -1,0 +1,15 @@
+{
+ "category": "hqcam", 
+ "name": "HERO3 Silver Edition", 
+ "subpart": [], 
+ "equivalent": [], 
+ "urls": {
+  "related": [], 
+  "store": [
+   "http://www.amazon.com/dp/B009PK9S90/?tag=rcbuildinfo-20"
+  ], 
+  "manufacturer": ["https://gopro.com/support/hero3-silver-support"]
+ }, 
+ "manufacturer": "GoPro", 
+ "replacement": ["GoPro/HERO4-Silver"]
+}
