@@ -1,17 +1,17 @@
 {
- "category": "hdcam", 
- "name": "Mobius Action Cam", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "hqcam",
+ "name": "Mobius Action Cam",
+ "subpart": [],
+ "equivalent": [],
  "urls": {
-  "related": [], 
+  "related": [],
   "store": [
    "http://www.getfpv.com/mobius-action-camera-1080p-hd.html",
    "http://www.amazon.com/dp/B00GT2B4R6/?tag=rcbuildinfo-20",
    "https://www.mobius-actioncam.com/store/products/mobius-basic-actioncam-3/"
-  ], 
+  ],
   "manufacturer": ["http://www.spytecinc.com/mobius-1080p-hd-action-camera.html"]
- }, 
- "manufacturer": "SpyTec", 
+ },
+ "manufacturer": "SpyTec",
  "replacement": []
 }
