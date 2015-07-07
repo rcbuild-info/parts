@@ -1,15 +1,15 @@
 {
+ "category": "motor",
+ "equivalent": [],
+ "manufacturer": "Cobra",
  "name": "CM-2204 1960kv",
  "replacement": [],
- "manufacturer": "Cobra",
  "subpart": [],
- "equivalent": [],
- "category": "motor",
  "urls": {
+  "manufacturer": ["http://www.cobramotorsusa.com/multirotor-2204-32.html"],
   "related": [],
   "store": [
    "http://www.getfpv.com/cobra-cm-2204-1960kv-motor.html"
-  ],
-  "manufacturer": []
+  ]
  }
 }

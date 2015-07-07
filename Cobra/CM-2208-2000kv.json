@@ -1,15 +1,15 @@
 {
- "name": "Cobra CM-2208 2000kv Motor",
- "replacement": [],
- "manufacturer": "Cobra",
- "subpart": [],
+ "category": "motor",
  "equivalent": [],
- "category": "",
+ "manufacturer": "Cobra",
+ "name": "CM-2208 2000kv",
+ "replacement": [],
+ "subpart": [],
  "urls": {
+  "manufacturer": ["http://www.cobramotorsusa.com/multirotor-2208-20.html"],
   "related": [],
   "store": [
    "http://www.getfpv.com/cobra-cm-2208-2000kv-motor.html"
-  ],
-  "manufacturer": []
+  ]
  }
 }
