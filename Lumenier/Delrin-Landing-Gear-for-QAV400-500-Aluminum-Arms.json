@@ -1,15 +1,16 @@
 {
  "category": "", 
- "name": "Delrin Landing Gear for QAV400/500 Aluminum Arms", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Lumenier", 
+ "name": "Delrin Landing Gear for QAV400/500 Aluminum Arms", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
-   "http://www.getfpv.com/landing-gear-for-qav400.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Lumenier", 
- "replacement": []
+   "http://www.getfpv.com/landing-gear-for-qav400.html", 
+   "http://www.getfpv.com/delrin-landing-gear-for-qav400-500-aluminum-arms.html"
+  ]
+ }
 }

@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "DJI Lightbridge 2.4G Full HD Video Downlink and Zeiss Cinemizer Bundle", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": null, 
+ "name": "DJI Lightbridge 2.4G Full HD Video Downlink and Zeiss Cinemizer Bundle", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
+  "related": [], 
   "store": [
    "http://www.getfpv.com/dji-lightbridge-2-4g-full-hd-video-downlink-and-zeiss-cinemizer-bundle.html"
-  ], 
-  "related": [], 
-  "manufacturer": []
- }, 
- "replacement": [], 
- "manufacturer": null
+  ]
+ }
 }

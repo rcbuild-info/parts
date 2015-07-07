@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "Electronics Package for the TBS Caipirinha", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Team BlackSheep", 
+ "name": "Electronics Package for the TBS Caipirinha", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/electronics-package-for-the-tbs-caipirinha.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Team BlackSheep", 
- "replacement": []
+  ]
+ }
 }

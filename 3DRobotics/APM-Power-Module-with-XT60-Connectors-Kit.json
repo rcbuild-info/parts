@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "APM Power Module with XT60 Connectors Kit", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "3DRobotics", 
+ "name": "APM Power Module with XT60 Connectors Kit", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/apm-power-module-with-xt60-connectors-kit.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "3DRobotics", 
- "replacement": []
+  ]
+ }
 }

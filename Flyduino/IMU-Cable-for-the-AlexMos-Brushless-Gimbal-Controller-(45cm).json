@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "IMU Cable for the AlexMos Brushless Gimbal Controller (45cm)", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Flyduino", 
+ "name": "IMU Cable for the AlexMos Brushless Gimbal Controller (45cm)", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/imu-cable-for-the-alexmos-brushless-gimbal-controller-45cm.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Flyduino", 
- "replacement": []
+  ]
+ }
 }

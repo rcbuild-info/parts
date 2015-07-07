@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "QAV500 Power Distribution Board v1.1", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Lumenier", 
+ "name": "QAV500 Power Distribution Board v1.1", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/qav500-power-distribution-board.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Lumenier", 
- "replacement": []
+  ]
+ }
 }

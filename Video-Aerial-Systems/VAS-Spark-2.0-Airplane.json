@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "VAS Spark 2.0 Airplane", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Video Aerial Systems", 
+ "name": "VAS Spark 2.0 Airplane", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/vas-spark-airplane.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Video Aerial Systems", 
- "replacement": []
+  ]
+ }
 }

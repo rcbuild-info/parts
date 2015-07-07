@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "Replacement Top Plate for the TBS Discovery", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Team BlackSheep", 
+ "name": "Replacement Top Plate for the TBS Discovery", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/replacement-top-plate-for-the-tbs-discovery.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Team BlackSheep", 
- "replacement": []
+  ]
+ }
 }

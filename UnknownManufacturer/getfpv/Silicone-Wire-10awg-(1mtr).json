@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "Silicone Wire 10awg (1mtr)", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": null, 
+ "name": "Silicone Wire 10awg (1mtr)", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
+  "related": [], 
   "store": [
    "http://www.getfpv.com/silicone-wire-10awg-1mtr.html"
-  ], 
-  "related": [], 
-  "manufacturer": []
- }, 
- "replacement": [], 
- "manufacturer": null
+  ]
+ }
 }

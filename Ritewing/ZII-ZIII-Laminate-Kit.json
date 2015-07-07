@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "ZII/ZIII Laminate Kit", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Ritewing", 
+ "name": "ZII/ZIII Laminate Kit", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/zii-laminate-kit.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Ritewing", 
- "replacement": []
+  ]
+ }
 }

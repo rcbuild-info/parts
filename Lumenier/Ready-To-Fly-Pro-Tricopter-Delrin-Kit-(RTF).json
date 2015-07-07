@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "Ready To Fly Pro Tricopter Delrin Kit (RTF)", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Lumenier", 
+ "name": "Ready To Fly Pro Tricopter Delrin Kit (RTF)", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/rtf-tricopter.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Lumenier", 
- "replacement": []
+  ]
+ }
 }

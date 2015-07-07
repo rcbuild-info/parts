@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "TBS 1050mAh 4s 20c Lipo Battery", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Team BlackSheep", 
+ "name": "TBS 1050mAh 4s 20c Lipo Battery", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/tbs-1050mah-4s-20c-lipo-battery.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Team BlackSheep", 
- "replacement": []
+  ]
+ }
 }

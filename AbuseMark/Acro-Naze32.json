@@ -1,15 +1,15 @@
 {
- "name": "Acro Naze32",
- "replacement": [],
- "manufacturer": "AbuseMark",
- "subpart": [],
- "equivalent": [],
- "category": "fc",
+ "category": "fc", 
+ "equivalent": [], 
+ "manufacturer": "AbuseMark", 
+ "name": "Acro Naze32", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "related": [],
+  "manufacturer": [], 
+  "related": [], 
   "store": [
    "http://www.getfpv.com/acro-naze32-flight-controller-straight-right-angle.html"
-  ],
-  "manufacturer": []
+  ]
  }
 }

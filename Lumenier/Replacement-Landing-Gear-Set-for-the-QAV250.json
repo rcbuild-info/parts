@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "Replacement Landing Gear Set for the QAV250", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Lumenier", 
+ "name": "Replacement Landing Gear Set for the QAV250", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/replacement-landing-gear-set-for-the-qav250.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Lumenier", 
- "replacement": []
+  ]
+ }
 }

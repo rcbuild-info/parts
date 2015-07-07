@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "TBS Discovery Endurance Upgrade Set", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Team BlackSheep", 
+ "name": "TBS Discovery Endurance Upgrade Set", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/tbs-discovery-endurance-upgrade-set.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Team BlackSheep", 
- "replacement": []
+  ]
+ }
 }

@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "G10 arm for QAV 520 Size", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Lumenier", 
+ "name": "G10 arm for QAV 520 Size", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/g10-arm-for-qav520.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Lumenier", 
- "replacement": []
+  ]
+ }
 }

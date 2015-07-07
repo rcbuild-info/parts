@@ -1,15 +1,17 @@
 {
- "category": "fc",
- "name": "SP Racing F3 Flight Controller (Acro)",
- "subpart": [],
- "equivalent": [],
+ "category": "fc", 
+ "equivalent": [], 
+ "manufacturer": "Seriously Pro", 
+ "name": "SP Racing F3 Flight Controller (Acro)", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "related": [],
+  "manufacturer": [
+   "http://seriouslypro.com/spracingf3"
+  ], 
+  "related": [], 
   "store": [
    "http://www.getfpv.com/sp-racing-f3-flight-controller-acro.html"
-  ],
-  "manufacturer": ["http://seriouslypro.com/spracingf3"]
- },
- "manufacturer": "Seriously Pro",
- "replacement": []
+  ]
+ }
 }

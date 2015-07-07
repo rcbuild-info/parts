@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "TATTU 7000mAh 6s 25c Lipo Battery", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Tattu", 
+ "name": "TATTU 7000mAh 6s 25c Lipo Battery", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/tattu-7000mah-6s-25c-lipo-battery.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Tattu", 
- "replacement": []
+  ]
+ }
 }

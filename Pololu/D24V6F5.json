@@ -1,15 +1,17 @@
 {
- "name": "D24V6F5",
- "replacement": [],
- "manufacturer": "Pololu",
- "subpart": [],
- "equivalent": [],
- "category": "",
+ "category": "", 
+ "equivalent": [], 
+ "manufacturer": "Pololu", 
+ "name": "D24V6F5", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "related": [],
+  "manufacturer": [
+   "https://www.pololu.com/product/2107"
+  ], 
+  "related": [], 
   "store": [
    "http://www.getfpv.com/5v-step-down-voltage-regulator.html"
-  ],
-  "manufacturer": ["https://www.pololu.com/product/2107"]
+  ]
  }
 }

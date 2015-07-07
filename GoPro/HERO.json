@@ -1,16 +1,18 @@
 {
  "category": "hqcam", 
- "name": "HERO", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "GoPro", 
+ "name": "HERO", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [
+   "http://shop.gopro.com/cameras/hero/CHDHA-301.html"
+  ], 
   "related": [], 
   "store": [
-   "http://www.getfpv.com/gopro-hero.html",
+   "http://www.getfpv.com/gopro-hero.html", 
    "http://www.amazon.com/dp/B00NIYNUXO/?tag=rcbuildinfo-20"
-  ], 
-  "manufacturer": ["http://shop.gopro.com/cameras/hero/CHDHA-301.html"]
- }, 
- "manufacturer": "GoPro", 
- "replacement": []
+  ]
+ }
 }

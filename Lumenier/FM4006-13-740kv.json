@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "FM4006-13 740kv", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Lumenier", 
+ "name": "FM4006-13 740kv", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/fm4006-13-740kv.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Lumenier", 
- "replacement": []
+  ]
+ }
 }

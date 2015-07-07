@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "Battery Charger for Phantom Smart Battery", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "DJI", 
+ "name": "Battery Charger for Phantom Smart Battery", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/battery-charger-for-phantom-smart-battery.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "DJI", 
- "replacement": []
+  ]
+ }
 }

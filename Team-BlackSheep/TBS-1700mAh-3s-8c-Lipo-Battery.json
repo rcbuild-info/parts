@@ -1,15 +1,16 @@
 {
  "category": "", 
- "name": "TBS 1700mAh 3s 8c Lipo Battery", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Team BlackSheep", 
+ "name": "TBS 1700mAh 3s 8c Lipo Battery", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
-   "http://www.getfpv.com/tbs-1700mah-3s-8c-lipo-battery.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Team BlackSheep", 
- "replacement": []
+   "http://www.getfpv.com/tbs-1700mah-3s-8c-lipo-battery.html", 
+   "http://www.getfpv.com/tbs-1700mah-3s-8c-lipo-battery-1846.html"
+  ]
+ }
 }

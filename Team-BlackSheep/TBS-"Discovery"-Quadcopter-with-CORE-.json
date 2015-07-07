@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "TBS \"Discovery\" Quadcopter with CORE ", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Team BlackSheep", 
+ "name": "TBS \"Discovery\" Quadcopter with CORE ", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
    "http://www.getfpv.com/discovery-quadcopter-with-core.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Team BlackSheep", 
- "replacement": []
+  ]
+ }
 }

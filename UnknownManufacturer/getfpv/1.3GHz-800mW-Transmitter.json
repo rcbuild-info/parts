@@ -1,15 +1,15 @@
 {
  "category": "", 
- "name": "1.3GHz 800mW Transmitter", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": null, 
+ "name": "1.3GHz 800mW Transmitter", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
+  "related": [], 
   "store": [
    "http://www.getfpv.com/800mw-1-3ghz-transmitter.html"
-  ], 
-  "related": [], 
-  "manufacturer": []
- }, 
- "replacement": [], 
- "manufacturer": null
+  ]
+ }
 }
