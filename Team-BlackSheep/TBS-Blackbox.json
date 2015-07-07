@@ -1,13 +1,13 @@
 {
- "category": "", 
- "equivalent": [], 
- "manufacturer": "Team BlackSheep", 
- "name": "TBS Blackbox", 
- "replacement": [], 
- "subpart": [], 
+ "category": "blackbox",
+ "equivalent": [],
+ "manufacturer": "Team BlackSheep",
+ "name": "TBS Blackbox",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "manufacturer": [], 
-  "related": [], 
+  "manufacturer": ["http://www.team-blacksheep.com/products/prod:tbs_blackbox"],
+  "related": [],
   "store": [
    "http://www.getfpv.com/tbs-blackbox.html"
   ]

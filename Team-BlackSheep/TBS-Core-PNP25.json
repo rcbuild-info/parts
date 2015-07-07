@@ -1,12 +1,12 @@
 {
- "category": "", 
- "equivalent": [], 
- "manufacturer": "Team BlackSheep", 
- "name": "TBS Core PNP25", 
- "replacement": [], 
- "subpart": [], 
+ "category": "osd",
+ "equivalent": [],
+ "manufacturer": "Team BlackSheep",
+ "name": "TBS Core PNP25",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "manufacturer": [], 
+  "manufacturer": ["http://www.team-blacksheep.com/products/prod:core_pnp25"],
   "related": [], 
   "store": [
    "http://www.getfpv.com/tbs-core-pnp25.html"
