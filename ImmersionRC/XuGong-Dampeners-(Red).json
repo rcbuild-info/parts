@@ -1,15 +1,16 @@
 {
  "category": "", 
- "name": "XuGong Dampeners (Red)", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "ImmersionRC", 
+ "name": "XuGong Dampeners (Red)", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
-   "http://www.getfpv.com/xugong-dampeners-red.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "ImmersionRC", 
- "replacement": []
+   "http://www.getfpv.com/xugong-dampeners-red.html", 
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3000"
+  ]
+ }
 }

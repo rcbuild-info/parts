@@ -1,15 +1,16 @@
 {
  "category": "", 
- "name": "Expander Extension Cable", 
- "subpart": [], 
  "equivalent": [], 
+ "manufacturer": "Eagle Tree Systems", 
+ "name": "Expander Extension Cable", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
+  "manufacturer": [], 
   "related": [], 
   "store": [
-   "http://www.getfpv.com/expander-extension-cable.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Eagle Tree Systems", 
- "replacement": []
+   "http://www.getfpv.com/expander-extension-cable.html", 
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=47"
+  ]
+ }
 }
