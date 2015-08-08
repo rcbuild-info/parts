@@ -1,17 +1,20 @@
 {
- "category": "receiver",
- "equivalent": [],
- "manufacturer": "FrSky",
- "name": "L9R",
- "replacement": [],
- "subpart": [],
+ "category": "receiver", 
+ "equivalent": [], 
+ "manufacturer": "FrSky", 
+ "name": "L9R", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "manufacturer": ["http://www.frsky-rc.com/product/pro.php?pro_id=106"],
-  "related": [],
+  "manufacturer": [
+   "http://www.frsky-rc.com/product/pro.php?pro_id=106"
+  ], 
+  "related": [], 
   "store": [
-   "http://flyduino.net/Frsky-L9R-9-12ch-Non-telemetry-Long-Range-Receiver_1",
-   "http://www.getfpv.com/frsky-l9r-long-range-receiver-9-12-non-telemetry.html",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3237"
+   "http://flyduino.net/Frsky-L9R-9-12ch-Non-telemetry-Long-Range-Receiver_1", 
+   "http://www.getfpv.com/frsky-l9r-long-range-receiver-9-12-non-telemetry.html", 
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3237", 
+   "http://www.dronematters.com/radios/frsky-l9r-long-range-receiver.html"
   ]
  }
 }
