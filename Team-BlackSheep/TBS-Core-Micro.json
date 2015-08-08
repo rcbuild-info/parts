@@ -1,13 +1,15 @@
 {
- "category": "",
- "equivalent": [],
- "manufacturer": "Team BlackSheep",
- "name": "TBS Core Micro",
- "replacement": [],
- "subpart": [],
+ "category": "", 
+ "equivalent": [], 
+ "manufacturer": "Team BlackSheep", 
+ "name": "TBS Core Micro", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "manufacturer": ["http://www.team-blacksheep.com/products/prod:core_micro"], 
-  "related": [],
+  "manufacturer": [
+   "http://www.team-blacksheep.com/products/prod:core_micro"
+  ], 
+  "related": [], 
   "store": [
    "http://www.getfpv.com/tbs-core-micro.html"
   ]

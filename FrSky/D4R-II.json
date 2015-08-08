@@ -1,19 +1,19 @@
 {
- "category": "receiver",
- "equivalent": [],
- "manufacturer": "FrSky",
- "name": "D4R-II",
- "replacement": [],
- "subpart": [],
+ "category": "receiver", 
+ "equivalent": [], 
+ "manufacturer": "FrSky", 
+ "name": "D4R-II", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
   "manufacturer": [
    "http://www.frsky-rc.com/product/pro.php?pro_id=24"
-  ],
-  "related": [],
+  ], 
+  "related": [], 
   "store": [
-   "http://www.getfpv.com/frsky-d4r-ii-4ch-2-4ghz-accst-receiver-w-telemetry.html",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2971",
-   "http://flyduino.net/Frsky-D4R-II-FrSky-4ch-telemetry-receiver"
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2971", 
+   "http://flyduino.net/Frsky-D4R-II-FrSky-4ch-telemetry-receiver", 
+   "http://www.getfpv.com/frsky-d4r-ii-4ch-2-4ghz-accst-receiver-w-telemetry.html"
   ]
  }
 }

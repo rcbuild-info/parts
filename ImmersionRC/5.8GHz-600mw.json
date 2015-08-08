@@ -1,13 +1,15 @@
 {
- "category": "videotx",
- "equivalent": [],
- "manufacturer": "ImmersionRC",
- "name": "5.8GHz 600mw",
- "replacement": [],
- "subpart": [],
+ "category": "videotx", 
+ "equivalent": [], 
+ "manufacturer": "ImmersionRC", 
+ "name": "5.8GHz 600mw", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "manufacturer": ["http://www.immersionrc.com/fpv-products/5-8ghz-600mw-av-tx/"],
-  "related": [],
+  "manufacturer": [
+   "http://www.immersionrc.com/fpv-products/5-8ghz-600mw-av-tx/"
+  ], 
+  "related": [], 
   "store": [
    "http://www.getfpv.com/5-8ghz-600mw-video-tx.html"
   ]

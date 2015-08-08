@@ -1,13 +1,15 @@
 {
- "category": "frame",
- "equivalent": [],
- "manufacturer": "Blackout",
- "name": "Mini X",
- "replacement": [],
- "subpart": [],
+ "category": "frame", 
+ "equivalent": [], 
+ "manufacturer": "Blackout", 
+ "name": "Mini X", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "manufacturer": ["http://www.minihquad.com/frames/mini-x-quad/blackout-mini-x"], 
-  "related": [],
+  "manufacturer": [
+   "http://www.minihquad.com/frames/mini-x-quad/blackout-mini-x"
+  ], 
+  "related": [], 
   "store": [
    "http://www.getfpv.com/blackout-mini-x.html"
   ]

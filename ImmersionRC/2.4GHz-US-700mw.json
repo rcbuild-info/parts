@@ -1,16 +1,18 @@
 {
- "category": "videotx",
- "equivalent": [],
- "manufacturer": "ImmersionRC",
- "name": "2.4GHz 700mw US",
- "replacement": [],
- "subpart": [],
+ "category": "videotx", 
+ "equivalent": [], 
+ "manufacturer": "ImmersionRC", 
+ "name": "2.4GHz 700mw US", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "manufacturer": ["http://www.immersionrc.com/fpv-products/2-4ghz-700mw-av-tx/"],
-  "related": [],
+  "manufacturer": [
+   "http://www.immersionrc.com/fpv-products/2-4ghz-700mw-av-tx/"
+  ], 
+  "related": [], 
   "store": [
-   "http://www.getfpv.com/immersionrc-2-4ghz-700mw-a-v-transmitter-us-version.html",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3176"
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3176", 
+   "http://www.getfpv.com/immersionrc-2-4ghz-700mw-a-v-transmitter-us-version.html"
   ]
  }
 }

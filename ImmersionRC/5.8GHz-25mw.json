@@ -1,13 +1,15 @@
 {
- "category": "videotx",
- "equivalent": [],
- "manufacturer": "ImmersionRC",
- "name": "5.8gHz 25mw",
- "replacement": [],
- "subpart": [],
+ "category": "videotx", 
+ "equivalent": [], 
+ "manufacturer": "ImmersionRC", 
+ "name": "5.8gHz 25mw", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "manufacturer": ["http://www.immersionrc.com/fpv-products/25mw-5-8ghz-av-tx/"],
-  "related": [],
+  "manufacturer": [
+   "http://www.immersionrc.com/fpv-products/25mw-5-8ghz-av-tx/"
+  ], 
+  "related": [], 
   "store": [
    "http://www.getfpv.com/immersionrc-5-8ghz-25mw-video-transmitter.html"
   ]

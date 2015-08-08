@@ -1,17 +1,19 @@
 {
- "category": "receiver",
- "equivalent": [],
- "manufacturer": "FrSky",
- "name": "X4R-SB",
- "replacement": [],
- "subpart": [],
+ "category": "receiver", 
+ "equivalent": [], 
+ "manufacturer": "FrSky", 
+ "name": "X4R-SB", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "manufacturer": ["http://www.frsky-rc.com/product/pro.php?pro_id=135"],
-  "related": [],
+  "manufacturer": [
+   "http://www.frsky-rc.com/product/pro.php?pro_id=135"
+  ], 
+  "related": [], 
   "store": [
-   "http://www.getfpv.com/frsky-x4r-sb-3-16-channel-receiver-w-sbus.html",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3319",
-   "http://flyduino.net/Frsky-X4RSB-3-16ch-Telemetry-Receiver"
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3319", 
+   "http://flyduino.net/Frsky-X4RSB-3-16ch-Telemetry-Receiver", 
+   "http://www.getfpv.com/frsky-x4r-sb-3-16-channel-receiver-w-sbus.html"
   ]
  }
 }

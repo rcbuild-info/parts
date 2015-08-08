@@ -1,15 +1,17 @@
 {
- "category": "frame",
- "equivalent": [],
- "manufacturer": "Blackout",
- "name": "330 Quad",
- "replacement": [],
- "subpart": [],
+ "category": "frame", 
+ "equivalent": [], 
+ "manufacturer": "Blackout", 
+ "name": "330 Quad", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "manufacturer": ["http://www.minihquad.com/frames/blackout-330/blackout-330-frame"],
-  "related": [],
+  "manufacturer": [
+   "http://www.minihquad.com/frames/blackout-330/blackout-330-frame"
+  ], 
+  "related": [], 
   "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3656",
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3656", 
    "http://www.getfpv.com/blackout-330-quad-frame-w-pdb.html"
   ]
  }

@@ -1,13 +1,15 @@
 {
- "category": "battery",
- "equivalent": [],
- "manufacturer": "Lumenier",
- "name": "1800mAh 4s 35c Lipo",
- "replacement": [],
- "subpart": [],
+ "category": "battery", 
+ "equivalent": [], 
+ "manufacturer": "Lumenier", 
+ "name": "1800mAh 4s 35c Lipo", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "manufacturer": ["http://www.lumenier.com/products/lipo-batteries"],
-  "related": [],
+  "manufacturer": [
+   "http://www.lumenier.com/products/lipo-batteries"
+  ], 
+  "related": [], 
   "store": [
    "http://www.getfpv.com/lumenier-1800mah-4s-35c-lipo-battery-xt60.html"
   ]

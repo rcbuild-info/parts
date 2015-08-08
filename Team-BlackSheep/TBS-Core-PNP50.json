@@ -1,13 +1,15 @@
 {
- "category": "osd",
- "equivalent": [],
- "manufacturer": "Team BlackSheep",
- "name": "TBS Core PNP50",
- "replacement": [],
- "subpart": [],
+ "category": "osd", 
+ "equivalent": [], 
+ "manufacturer": "Team BlackSheep", 
+ "name": "TBS Core PNP50", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "manufacturer": ["http://www.team-blacksheep.com/products/prod:core_pnp50"], 
-  "related": [],
+  "manufacturer": [
+   "http://www.team-blacksheep.com/products/prod:core_pnp50"
+  ], 
+  "related": [], 
   "store": [
    "http://www.getfpv.com/tbs-core-pnp50.html"
   ]

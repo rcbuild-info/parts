@@ -1,13 +1,15 @@
 {
- "category": "battery",
- "equivalent": [],
- "manufacturer": "Lumenier",
- "name": "5200mAh 4s 35c Lipo",
- "replacement": [],
- "subpart": [],
+ "category": "battery", 
+ "equivalent": [], 
+ "manufacturer": "Lumenier", 
+ "name": "5200mAh 4s 35c Lipo", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "manufacturer": ["http://www.lumenier.com/products/lipo-batteries"],
-  "related": [],
+  "manufacturer": [
+   "http://www.lumenier.com/products/lipo-batteries"
+  ], 
+  "related": [], 
   "store": [
    "http://www.getfpv.com/lumenier-5200mah-4s-35c-lipo-battery.html"
   ]

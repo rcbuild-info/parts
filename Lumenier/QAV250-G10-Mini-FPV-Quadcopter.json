@@ -1,13 +1,17 @@
 {
- "category": "frame",
- "equivalent": [],
- "manufacturer": "Lumenier",
- "name": "QAV250 G10 Mini FPV Quadcopter",
- "replacement": [],
- "subpart": [],
+ "category": "frame", 
+ "equivalent": [], 
+ "manufacturer": "Lumenier", 
+ "name": "QAV250 G10 Mini FPV Quadcopter", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "manufacturer": ["http://www.lumenier.com/products/multirotors/qav250"],
-  "related": ["http://www.rcgroups.com/forums/showthread.php?t=2039728"], 
+  "manufacturer": [
+   "http://www.lumenier.com/products/multirotors/qav250"
+  ], 
+  "related": [
+   "http://www.rcgroups.com/forums/showthread.php?t=2039728"
+  ], 
   "store": [
    "http://www.getfpv.com/qav250-mini-fpv-quadcopter.html"
   ]
