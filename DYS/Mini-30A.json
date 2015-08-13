@@ -1,16 +1,22 @@
 {
- "category": "esc",
- "equivalent": ["RCTimer/Mini-ESC30A"],
- "manufacturer": "DYS",
- "name": "Mini 30A (BL30A, SN30A)",
- "replacement": [],
- "subpart": [],
+ "category": "esc", 
+ "equivalent": [
+  "RCTimer/Mini-ESC30A"
+ ], 
+ "manufacturer": "DYS", 
+ "name": "Mini 30A (BL30A, SN30A)", 
+ "replacement": [], 
+ "subpart": [], 
  "urls": {
-  "manufacturer": [],
-  "related": ["http://www.rcgroups.com/forums/showthread.php?t=2377027"],
+  "manufacturer": [], 
+  "related": [
+   "http://www.rcgroups.com/forums/showthread.php?t=2377027"
+  ], 
   "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4123",
-   "http://www.getfpv.com/dys-blheli-30a-esc-500hz-2-6s-opto.html"
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4123", 
+   "http://www.getfpv.com/dys-blheli-30a-esc-500hz-2-6s-opto.html", 
+   "http://www.multirotorsuperstore.com/esc/sn30a-opto-esc.html", 
+   "http://www.multirotorsuperstore.com/esc/bl30a-opto-esc-blheli-oneshot-rdy.html"
   ]
  }
 }
