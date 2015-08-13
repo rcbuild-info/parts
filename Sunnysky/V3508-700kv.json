@@ -1,15 +1,17 @@
 {
- "category": "", 
- "equivalent": [], 
- "manufacturer": "Sunnysky", 
- "name": "V3508 700kv", 
- "replacement": [], 
- "subpart": [], 
+ "category": "motor",
+ "equivalent": [],
+ "manufacturer": "Sunnysky",
+ "name": "V3508 700kv",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "manufacturer": [], 
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
-   "http://www.getfpv.com/sunnysky-v3508-700kv.html"
+   "http://www.getfpv.com/sunnysky-v3508-700kv.html",
+   "http://www.multirotorsuperstore.com/motors/motors-by-mfg/sunnysky-v3508-700kv-brushless-motor.html",
+   "http://www.dronematters.com/power-system/sunnysky-v3508-700kv-brushless-motor.html"
   ]
  }
 }

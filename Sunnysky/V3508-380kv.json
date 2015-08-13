@@ -1,15 +1,16 @@
 {
- "category": "", 
- "equivalent": [], 
- "manufacturer": "Sunnysky", 
- "name": "V3508 380kv", 
- "replacement": [], 
- "subpart": [], 
+ "category": "motor",
+ "equivalent": [],
+ "manufacturer": "Sunnysky",
+ "name": "V3508 380kv",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "manufacturer": [], 
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
-   "http://www.getfpv.com/sunnysky-v3508-380kv.html"
+   "http://www.getfpv.com/sunnysky-v3508-380kv.html",
+   "http://www.multirotorsuperstore.com/motors/motors-by-mfg/sunnysky/sunnysky-v3508-380kv-brushless-motor.html"
   ]
  }
 }
