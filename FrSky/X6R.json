@@ -1,19 +1,19 @@
 {
- "category": "receiver", 
- "equivalent": [], 
- "manufacturer": "FrSky", 
- "name": "X6R", 
- "replacement": [], 
- "subpart": [], 
+ "category": "receiver",
+ "equivalent": [],
+ "manufacturer": "FrSky",
+ "name": "X6R",
+ "replacement": [],
+ "subpart": [],
  "urls": {
   "manufacturer": [
    "http://www.frsky-rc.com/product/pro.php?pro_id=127"
-  ], 
-  "related": [], 
+  ],
+  "related": [],
   "store": [
-   "http://flyduino.net/Frsky-X6R-6-16ch-24GHz-6-PWM-16-SBUS-Smart-Port-Telemetrie-Receiver_1", 
-   "http://flyduino.net/Frsky-X6R-6-16ch-24GHz-6-PWM-16-SBUS-Smart-Port-Telemetrie-Receiver", 
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2584", 
+   "http://flyduino.net/Frsky-X6R-6-16ch-24GHz-6-PWM-16-SBUS-Smart-Port-Telemetrie-Receiver_1",
+   "http://flyduino.net/Frsky-X6R-6-16ch-24GHz-6-PWM-16-SBUS-Smart-Port-Telemetrie-Receiver",
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2584",
    "http://www.getfpv.com/frsky-x6r-16ch-receiver-sbus-smart-port.html"
   ]
  }

@@ -1,19 +1,20 @@
 {
- "category": "osd", 
- "equivalent": [], 
- "manufacturer": "ImmersionRC", 
- "name": "EzOSD", 
- "replacement": [], 
- "subpart": [], 
+ "category": "osd",
+ "equivalent": [],
+ "manufacturer": "ImmersionRC",
+ "name": "EzOSD",
+ "replacement": [],
+ "subpart": [],
  "urls": {
   "manufacturer": [
    "http://www.immersionrc.com/fpv-products/ezosd/"
-  ], 
-  "related": [], 
+  ],
+  "related": [],
   "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=53", 
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1186", 
-   "http://www.getfpv.com/ezosd-current-sensor-373.html"
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=53",
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1186",
+   "http://www.getfpv.com/ezosd-current-sensor-373.html",
+   "http://www.getfpv.com/immersionrc-ezosd-current-sensor-deans.html"
   ]
  }
 }

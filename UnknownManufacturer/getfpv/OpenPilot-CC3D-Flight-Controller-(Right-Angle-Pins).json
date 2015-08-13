@@ -1,15 +1,16 @@
 {
- "category": "", 
- "equivalent": [], 
- "manufacturer": "", 
- "name": "OpenPilot CC3D Flight Controller (Right Angle Pins)", 
- "replacement": [], 
- "subpart": [], 
+ "category": "",
+ "equivalent": [],
+ "manufacturer": "",
+ "name": "OpenPilot CC3D Flight Controller (Right Angle Pins)",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "manufacturer": [], 
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
-   "http://www.getfpv.com/openpilot-cc3d-flight-controller-right-angle-pins-1848.html"
+   "http://www.getfpv.com/openpilot-cc3d-flight-controller-right-angle-pins-1848.html",
+   "http://www.getfpv.com/openpilot-cc3d-flight-controller-right-angle-pins-1850.html"
   ]
  }
 }

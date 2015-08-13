@@ -1,18 +1,19 @@
 {
- "category": "prop", 
- "equivalent": [], 
- "manufacturer": "HQProp", 
- "name": "5x4.5 Bullnose Carbon Fiber Composite", 
- "replacement": [], 
- "subpart": [], 
+ "category": "prop",
+ "equivalent": [],
+ "manufacturer": "HQProp",
+ "name": "5x4.5 Bullnose Carbon Fiber Composite",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "manufacturer": [], 
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3553", 
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3551", 
-   "http://www.readytoflyquads.com/hq-prop-5x4-carbon-composite-prop-547", 
-   "http://www.getfpv.com/hqprop-5x4-5-bullnose-cw-propeller-carbon-composite-2-pack-black.html"
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3553",
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3551",
+   "http://www.readytoflyquads.com/hq-prop-5x4-carbon-composite-prop-547",
+   "http://www.getfpv.com/hqprop-5x4-5-bullnose-cw-propeller-carbon-composite-2-pack-black.html",
+   "http://www.getfpv.com/hqprop-5x4-5-bullnose-ccw-propeller-carbon-composite-2-pack-black.html"
   ]
  }
 }
