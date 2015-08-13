@@ -1,15 +1,16 @@
 {
- "category": "motor", 
- "equivalent": [], 
- "manufacturer": "DYS", 
- "name": "1306 3100kv", 
- "replacement": [], 
- "subpart": [], 
+ "category": "motor",
+ "equivalent": [],
+ "manufacturer": "DYS",
+ "name": "BX1306 3100kv",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "manufacturer": [], 
-  "related": [], 
+  "manufacturer": ["http://www.dys.hk/ProductShow.asp?ID=115"],
+  "related": [],
   "store": [
-   "http://www.dronematters.com/dys-1306-3100kv.html"
+   "http://www.dronematters.com/dys-1306-3100kv.html",
+   "http://www.multirotorsuperstore.com/motors/motors-by-mfg/dys/dys-bx1306-3100kv-brushless-motor.html"
   ]
  }
 }

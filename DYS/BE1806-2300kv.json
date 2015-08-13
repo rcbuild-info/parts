@@ -1,16 +1,18 @@
 {
- "category": "", 
- "equivalent": [], 
- "manufacturer": "DYS", 
- "name": "BE1806 2300kv", 
- "replacement": [], 
- "subpart": [], 
+ "category": "motor",
+ "equivalent": [],
+ "manufacturer": "DYS",
+ "name": "BE1806 2300kv",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "manufacturer": [], 
-  "related": [], 
+  "manufacturer": ["http://www.dys.hk/ProductShow.asp?ID=91"],
+  "related": [],
   "store": [
-   "http://www.multirotorsuperstore.com/motors/motors-by-mfg/dys/dys-be1806-2300kv.html", 
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=152"
+   "http://www.multirotorsuperstore.com/motors/motors-by-mfg/dys/dys-be1806-2300kv.html",
+   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=152",
+   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=214",
+   "http://www.dronematters.com/power-system/brushless-motors/brushless-motors-300mm/dys-motor-be1806-2300kv.html"
   ]
  }
 }
