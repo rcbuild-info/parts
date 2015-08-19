@@ -1,15 +1,16 @@
 {
- "category": "", 
- "equivalent": [], 
- "manufacturer": "T-Motor", 
- "name": "MN1806 1400kv", 
- "replacement": [], 
- "subpart": [], 
+ "category": "motor",
+ "equivalent": [],
+ "manufacturer": "T-Motor",
+ "name": "MN1806 1400kv",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "manufacturer": [], 
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2420"
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2420",
+   "http://www.readytoflyquads.com/tiger-mn1806-1400kv-motor"
   ]
  }
 }

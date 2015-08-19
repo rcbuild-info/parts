@@ -1,13 +1,13 @@
 {
- "category": "", 
- "equivalent": [], 
- "manufacturer": "T-Motor", 
- "name": "MN2212 920KV", 
- "replacement": [], 
- "subpart": [], 
+ "category": "motor",
+ "equivalent": [],
+ "manufacturer": "T-Motor",
+ "name": "MN2212 920kv",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "manufacturer": [], 
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
    "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-Navigator-Series_12"
   ]
