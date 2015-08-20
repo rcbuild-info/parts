@@ -1,15 +1,15 @@
 {
  "category": "esc",
- "name": "Mini ESC16A",
- "subpart": [],
  "equivalent": [],
+ "manufacturer": "RCTimer",
+ "name": "Mini ESC16A",
+ "replacement": [],
+ "subpart": [],
  "urls": {
+  "manufacturer": [],
   "related": [],
   "store": [
    "http://www.uavobjects.com/product/rctimer-mini-esc16a-opto-simonk-firmware/"
-  ],
-  "manufacturer": []
- },
- "replacement": [],
- "manufacturer": "RCTimer"
+  ]
+ }
 }

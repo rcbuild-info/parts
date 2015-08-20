@@ -1,15 +1,17 @@
 {
  "category": "esc",
- "name": "Mini ESC20A",
- "subpart": [],
  "equivalent": [],
+ "manufacturer": "RCTimer",
+ "name": "Mini ESC20A",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": ["http://www.rcgroups.com/forums/showthread.php?t=2377027"],
+  "manufacturer": [],
+  "related": [
+   "http://www.rcgroups.com/forums/showthread.php?t=2377027"
+  ],
   "store": [
    "http://www.uavobjects.com/product/rctimer-mini-esc20a-opto-blheli-firmware/"
-  ],
-  "manufacturer": []
- },
- "replacement": [],
- "manufacturer": "RCTimer"
+  ]
+ }
 }

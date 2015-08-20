@@ -1,15 +1,17 @@
 {
- "category": "hqcam", 
- "name": "HD", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "hqcam",
+ "equivalent": [],
+ "manufacturer": "RunCam",
+ "name": "HD",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [
+   "http://shop.runcam.com/runcam-hd/"
+  ],
+  "related": [],
   "store": [
    "http://www.amazon.com/dp/B00VT065GI/?tag=rcbuildinfo-20"
-  ], 
-  "manufacturer": ["http://shop.runcam.com/runcam-hd/"]
- }, 
- "manufacturer": "RunCam", 
- "replacement": []
+  ]
+ }
 }

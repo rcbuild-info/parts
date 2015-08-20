@@ -1,14 +1,15 @@
 {
- "category": "hqcam", 
- "name": "HD HERO2", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "hqcam",
+ "equivalent": [],
+ "manufacturer": "GoPro",
+ "name": "HD HERO2",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
-  "store": [
-  ], 
-  "manufacturer": ["https://gopro.com/support/hd-hero2-support"]
- }, 
- "manufacturer": "GoPro", 
- "replacement": []
+  "manufacturer": [
+   "https://gopro.com/support/hd-hero2-support"
+  ],
+  "related": [],
+  "store": []
+ }
 }

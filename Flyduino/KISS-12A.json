@@ -1,17 +1,17 @@
 {
- "category": "esc", 
- "equivalent": [], 
- "manufacturer": "Flyduino", 
- "name": "KISS 12A", 
- "replacement": [], 
- "subpart": [], 
+ "category": "esc",
+ "equivalent": [],
+ "manufacturer": "Flyduino",
+ "name": "KISS 12A",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "manufacturer": [], 
+  "manufacturer": [],
   "related": [
    "http://www.rcgroups.com/forums/showthread.php?t=2083052"
-  ], 
+  ],
   "store": [
-   "http://flyduino.net/KISS-ESC-2-4S-12A-v11_1", 
+   "http://flyduino.net/KISS-ESC-2-4S-12A-v11_1",
    "http://flyduino.net/KISS-ESC-2-4S-12A-v11"
   ]
  }

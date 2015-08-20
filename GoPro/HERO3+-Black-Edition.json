@@ -1,15 +1,19 @@
 {
- "category": "hqcam", 
- "name": "HERO3+ Black Edition", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "hqcam",
+ "equivalent": [],
+ "manufacturer": "GoPro",
+ "name": "HERO3+ Black Edition",
+ "replacement": [
+  "GoPro/HERO4-Black"
+ ],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [
+   "https://gopro.com/support/hero3plus-black-support"
+  ],
+  "related": [],
   "store": [
    "http://www.amazon.com/dp/B00F3F0GLU/?tag=rcbuildinfo-20"
-  ], 
-  "manufacturer": ["https://gopro.com/support/hero3plus-black-support"]
- }, 
- "manufacturer": "GoPro", 
- "replacement": ["GoPro/HERO4-Black"]
+  ]
+ }
 }

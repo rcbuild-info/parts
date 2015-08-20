@@ -1,15 +1,15 @@
 {
- "category": "", 
- "name": "Gimbal Brushless Motor 5208 / 0.24mm / 200T / 17.2ohms", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "",
+ "equivalent": [],
+ "manufacturer": "RCTimer",
+ "name": "Gimbal Brushless Motor 5208 / 0.24mm / 200T / 17.2ohms",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
    "http://www.uavobjects.com/product/rctimer-gimbal-brushless-motor-5208-0-24mm-200t-17-2ohms/"
-  ], 
-  "manufacturer": []
- }, 
- "replacement": [], 
- "manufacturer": "RCTimer"
+  ]
+ }
 }

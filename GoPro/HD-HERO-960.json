@@ -1,14 +1,15 @@
 {
- "category": "hqcam", 
- "name": "HD HERO 960", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "hqcam",
+ "equivalent": [],
+ "manufacturer": "GoPro",
+ "name": "HD HERO 960",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
-  "store": [
-  ], 
-  "manufacturer": ["https://gopro.com/support/hd-hero-960-support"]
- }, 
- "manufacturer": "GoPro", 
- "replacement": []
+  "manufacturer": [
+   "https://gopro.com/support/hd-hero-960-support"
+  ],
+  "related": [],
+  "store": []
+ }
 }

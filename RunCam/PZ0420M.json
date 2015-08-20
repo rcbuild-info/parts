@@ -1,16 +1,18 @@
 {
  "category": "flightcam",
- "name": "PZ0420M",
- "subpart": [],
  "equivalent": [],
+ "manufacturer": "RunCam",
+ "name": "PZ0420M",
+ "replacement": [],
+ "subpart": [],
  "urls": {
+  "manufacturer": [
+   "http://shop.runcam.com/runcam-pz0420m/"
+  ],
   "related": [],
   "store": [
    "http://www.amazon.com/dp/B00T5LLBX0/?tag=rcbuildinfo-20",
    "http://www.securitycamera2000.com/products/RunCam-600TVL-DC-5%252d17V-Wide-Voltage-Mini-FPV-Camera.html"
-  ],
-  "manufacturer": ["http://shop.runcam.com/runcam-pz0420m/"]
- },
- "manufacturer": "RunCam",
- "replacement": []
+  ]
+ }
 }

@@ -1,15 +1,15 @@
 {
- "category": "", 
- "name": "Arduflyer/APM/FixHawk Power Module XT60 Kit", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "",
+ "equivalent": [],
+ "manufacturer": "",
+ "name": "Arduflyer/APM/FixHawk Power Module XT60 Kit",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
    "http://www.uavobjects.com/product/arduflyerapmfixhawk-power-module-xt60-kit/"
-  ], 
-  "manufacturer": []
- }, 
- "replacement": [], 
- "manufacturer": ""
+  ]
+ }
 }

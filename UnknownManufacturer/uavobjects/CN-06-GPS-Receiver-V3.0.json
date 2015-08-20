@@ -1,15 +1,15 @@
 {
- "category": "", 
- "name": "CN-06 GPS Receiver V3.0", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "",
+ "equivalent": [],
+ "manufacturer": "",
+ "name": "CN-06 GPS Receiver V3.0",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
    "http://www.uavobjects.com/product/cn-06-gps-receiver-v3-0/"
-  ], 
-  "manufacturer": []
- }, 
- "replacement": [], 
- "manufacturer": ""
+  ]
+ }
 }

@@ -1,15 +1,15 @@
 {
- "category": "", 
- "name": "MultiRotor Power Distribution Board", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "",
+ "equivalent": [],
+ "manufacturer": "",
+ "name": "MultiRotor Power Distribution Board",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
    "http://www.uavobjects.com/product/multirotor-power-battery-to-8-connection-board/"
-  ], 
-  "manufacturer": []
- }, 
- "replacement": [], 
- "manufacturer": ""
+  ]
+ }
 }

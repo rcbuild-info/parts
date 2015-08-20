@@ -1,15 +1,15 @@
 {
- "category": "", 
- "name": "5.8GHz 32CH A/V 200mW Transmitter (TS5823)", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "",
+ "equivalent": [],
+ "manufacturer": "GetFPV Affiliate",
+ "name": "5.8GHz 32CH A/V 200mW Transmitter (TS5823)",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
    "http://www.getfpv.com/5-8ghz-32ch-a-v-200mw-transmitter-ts5823.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "GetFPV Affiliate", 
- "replacement": []
+  ]
+ }
 }

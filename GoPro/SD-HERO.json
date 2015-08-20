@@ -1,14 +1,15 @@
 {
- "category": "hqcam", 
- "name": "SD HERO", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "hqcam",
+ "equivalent": [],
+ "manufacturer": "GoPro",
+ "name": "SD HERO",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
-  "store": [
-  ], 
-  "manufacturer": ["https://gopro.com/support/standard-definition-hero-support"]
- }, 
- "manufacturer": "GoPro", 
- "replacement": []
+  "manufacturer": [
+   "https://gopro.com/support/standard-definition-hero-support"
+  ],
+  "related": [],
+  "store": []
+ }
 }

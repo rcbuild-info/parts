@@ -1,15 +1,15 @@
 {
- "category": "", 
- "name": "RC906 \u2013 5.8Ghz 32 Channel AV Receiver", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "",
+ "equivalent": [],
+ "manufacturer": "Elgae",
+ "name": "RC906 \u2013 5.8Ghz 32 Channel AV Receiver",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
    "http://www.uavobjects.com/product/elgae-rc906-5-8ghz-32-channel-av-receiver/"
-  ], 
-  "manufacturer": []
- }, 
- "replacement": [], 
- "manufacturer": "Elgae"
+  ]
+ }
 }

@@ -1,15 +1,17 @@
 {
- "category": "flightcam", 
- "name": "SKY2", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "flightcam",
+ "equivalent": [],
+ "manufacturer": "RunCam",
+ "name": "SKY2",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [
+   "http://shop.runcam.com/runcam-sky2/"
+  ],
+  "related": [],
   "store": [
    "http://www.amazon.com/dp/B00T47QI7E/?tag=rcbuildinfo-20"
-  ], 
-  "manufacturer": ["http://shop.runcam.com/runcam-sky2/"]
- }, 
- "manufacturer": "RunCam", 
- "replacement": []
+  ]
+ }
 }

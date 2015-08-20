@@ -1,6 +1,8 @@
 {
  "category": "esc",
- "equivalent": ["Favorite/LittleBee-20A"],
+ "equivalent": [
+  "Favorite/LittleBee-20A"
+ ],
  "manufacturer": "MultiRotorMania",
  "name": "Zeus 20A",
  "replacement": [],
@@ -10,7 +12,6 @@
   "related": [
    "http://www.rcgroups.com/forums/showpost.php?p=32457321&postcount=5096"
   ],
-  "store": [
-  ]
+  "store": []
  }
 }

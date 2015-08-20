@@ -1,15 +1,19 @@
 {
  "category": "esc",
+ "equivalent": [
+  "DYS/Mini-30A"
+ ],
+ "manufacturer": "RCTimer",
  "name": "Mini ESC30A",
+ "replacement": [],
  "subpart": [],
- "equivalent": ["DYS/Mini-30A"],
  "urls": {
-  "related": ["http://www.rcgroups.com/forums/showthread.php?t=2377027"],
+  "manufacturer": [],
+  "related": [
+   "http://www.rcgroups.com/forums/showthread.php?t=2377027"
+  ],
   "store": [
    "http://www.uavobjects.com/product/rctimer-mini-esc30a-opto-blheli-firmwareoneshot125-support-2-6s/"
-  ],
-  "manufacturer": []
- },
- "replacement": [],
- "manufacturer": "RCTimer"
+  ]
+ }
 }

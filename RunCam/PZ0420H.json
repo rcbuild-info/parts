@@ -1,15 +1,17 @@
 {
  "category": "flightcam",
- "name": "PZ0420H",
- "subpart": [],
  "equivalent": [],
+ "manufacturer": "RunCam",
+ "name": "PZ0420H",
+ "replacement": [],
+ "subpart": [],
  "urls": {
+  "manufacturer": [
+   "http://shop.runcam.com/runcam-pz0420h/"
+  ],
   "related": [],
   "store": [
-    "http://www.securitycamera2000.com/products/600TVL-SONY-SUPER-HAD-CCD-D%252dWDR-Color-Board-Camera-with-OSD-Menu-DNR.html"
-  ],
-  "manufacturer": ["http://shop.runcam.com/runcam-pz0420h/"]
- },
- "manufacturer": "RunCam",
- "replacement": []
+   "http://www.securitycamera2000.com/products/600TVL-SONY-SUPER-HAD-CCD-D%252dWDR-Color-Board-Camera-with-OSD-Menu-DNR.html"
+  ]
+ }
 }

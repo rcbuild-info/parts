@@ -1,15 +1,15 @@
 {
- "category": "", 
- "name": "Coreless Digital Servo 25g/6.3kg/0.07sec", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "",
+ "equivalent": [],
+ "manufacturer": "",
+ "name": "Coreless Digital Servo 25g/6.3kg/0.07sec",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
    "http://www.uavobjects.com/product/coreless-digital-servo-25g-6-3kg-0-07sec/"
-  ], 
-  "manufacturer": []
- }, 
- "replacement": [], 
- "manufacturer": ""
+  ]
+ }
 }

@@ -1,15 +1,17 @@
 {
- "category": "hqcam", 
- "name": "HERO+ LCD", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "hqcam",
+ "equivalent": [],
+ "manufacturer": "GoPro",
+ "name": "HERO+ LCD",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [
+   "http://shop.gopro.com/cameras/heroplus-lcd/CHDHB-101.html"
+  ],
+  "related": [],
   "store": [
    "http://www.amazon.com/dp/B00XUP5M6Y/?tag=rcbuildinfo-20"
-  ], 
-  "manufacturer": ["http://shop.gopro.com/cameras/heroplus-lcd/CHDHB-101.html"]
- }, 
- "manufacturer": "GoPro", 
- "replacement": []
+  ]
+ }
 }

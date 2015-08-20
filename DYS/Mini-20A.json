@@ -1,23 +1,23 @@
 {
- "category": "esc", 
+ "category": "esc",
  "equivalent": [
   "RCTimer/Mini-ESC20A"
- ], 
- "manufacturer": "DYS", 
- "name": "Mini 20A (BL20A, SN20A)", 
- "replacement": [], 
- "subpart": [], 
+ ],
+ "manufacturer": "DYS",
+ "name": "Mini 20A (BL20A, SN20A)",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "manufacturer": [], 
+  "manufacturer": [],
   "related": [
    "http://www.rcgroups.com/forums/showthread.php?t=2377027"
-  ], 
+  ],
   "store": [
-   "http://www.getfpv.com/dys-blheli-20a-esc-500hz-2-4s-opto.html", 
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4051", 
-   "http://www.readytoflyquads.com/bl20a-mini-esc-blheli-oneshot", 
-   "http://www.readytoflyquads.com/bl20a-mini-esc-simonk-rapidesc", 
-   "http://www.multirotorsuperstore.com/esc/sn20a-opto-esc-simonk.html", 
+   "http://www.getfpv.com/dys-blheli-20a-esc-500hz-2-4s-opto.html",
+   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4051",
+   "http://www.readytoflyquads.com/bl20a-mini-esc-blheli-oneshot",
+   "http://www.readytoflyquads.com/bl20a-mini-esc-simonk-rapidesc",
+   "http://www.multirotorsuperstore.com/esc/sn20a-opto-esc-simonk.html",
    "http://www.multirotorsuperstore.com/esc/bl20a-opto-esc-blheli-oneshot-rdy.html"
   ]
  }

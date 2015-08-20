@@ -1,15 +1,15 @@
 {
- "category": "", 
- "name": "Fixhawk/Pixhawk RGB External LED & USB module", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "",
+ "equivalent": [],
+ "manufacturer": "",
+ "name": "Fixhawk/Pixhawk RGB External LED & USB module",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
    "http://www.uavobjects.com/product/fixhawkpixhawk-rgb-external-led-usb-module/"
-  ], 
-  "manufacturer": []
- }, 
- "replacement": [], 
- "manufacturer": ""
+  ]
+ }
 }

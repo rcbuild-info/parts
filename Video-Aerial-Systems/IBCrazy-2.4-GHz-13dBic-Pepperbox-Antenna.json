@@ -1,15 +1,15 @@
 {
- "category": "", 
- "name": "IBCrazy 2.4 GHz 13dBic Pepperbox Antenna", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "",
+ "equivalent": [],
+ "manufacturer": "Video Aerial Systems",
+ "name": "IBCrazy 2.4 GHz 13dBic Pepperbox Antenna",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
    "http://www.getfpv.com/ibcrazy-2-4-ghz-13dbic-pepperbox-antenna.html"
-  ], 
-  "manufacturer": []
- }, 
- "manufacturer": "Video Aerial Systems", 
- "replacement": []
+  ]
+ }
 }

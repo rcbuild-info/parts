@@ -1,15 +1,15 @@
 {
- "category": "", 
- "name": "AVDome Protection AntiVibration Dome with CN06 Plus", 
- "subpart": [], 
- "equivalent": [], 
+ "category": "",
+ "equivalent": [],
+ "manufacturer": "RCTimer",
+ "name": "AVDome Protection AntiVibration Dome with CN06 Plus",
+ "replacement": [],
+ "subpart": [],
  "urls": {
-  "related": [], 
+  "manufacturer": [],
+  "related": [],
   "store": [
    "http://www.uavobjects.com/product/rctimer-antibration-dome-with-cno6plus/"
-  ], 
-  "manufacturer": []
- }, 
- "replacement": [], 
- "manufacturer": "RCTimer"
+  ]
+ }
 }
