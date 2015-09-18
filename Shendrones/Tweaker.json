@@ -4,10 +4,14 @@
  "manufacturer": "Shendrones",
  "name": "Tweaker",
  "replacement": [],
- "subpart": ["Shendrones/Tweaker-Replacement-Bottom-Plate",
-             "Shendrones/Tweaker-Replacement-Top-Plate"],
+ "subpart": [
+  "Shendrones/Tweaker-Replacement-Bottom-Plate",
+  "Shendrones/Tweaker-Replacement-Top-Plate"
+ ],
  "urls": {
-  "manufacturer": ["http://www.shendrones.com/tweaker"],
+  "manufacturer": [
+   "http://www.shendrones.com/tweaker"
+  ],
   "related": [],
   "store": [
    "http://shendrones.myshopify.com/products/tweaker-pre-order"
