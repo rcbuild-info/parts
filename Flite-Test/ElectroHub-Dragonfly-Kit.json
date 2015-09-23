@@ -6,8 +6,12 @@
  "replacement": [],
  "subpart": [],
  "urls": {
-  "manufacturer": ["http://store.flitetest.com/electrohub-dragonfly-kit/"],
+  "manufacturer": [
+   "http://store.flitetest.com/electrohub-dragonfly-kit/"
+  ],
   "related": [],
-  "store": []
+  "store": [
+   "http://store.flitetest.com/electrohub-dragonfly-kit/"
+  ]
  }
 }
