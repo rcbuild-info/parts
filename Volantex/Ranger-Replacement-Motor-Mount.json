@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Volantex",
  "name": "Ranger Replacement Motor Mount",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ranger-replacement-motor-mount.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:28 GMT",
+   "url": "http://www.getfpv.com/ranger-replacement-motor-mount.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

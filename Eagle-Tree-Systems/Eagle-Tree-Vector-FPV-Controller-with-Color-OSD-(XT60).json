@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Eagle Tree Systems",
  "name": "Eagle Tree Vector FPV Controller with Color OSD (XT60)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/eagle-tree-vector-fpv-controller-with-color-osd.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$237.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:57 GMT",
+   "url": "http://www.getfpv.com/eagle-tree-vector-fpv-controller-with-color-osd.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

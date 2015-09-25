@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "3.6mm F2.0 1/3\" CCTV Megapixel Board Camera Fixed Lens",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/3-6mm-f2-0-1-3-cctv-megapixel-board-camera-fixed-lens.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:14 GMT",
+   "url": "http://www.getfpv.com/3-6mm-f2-0-1-3-cctv-megapixel-board-camera-fixed-lens.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

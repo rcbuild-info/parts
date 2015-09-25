@@ -1,5 +1,7 @@
 {
- "category": "osd",
+ "categories": [
+  "osd"
+ ],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "EzOSD",
@@ -9,11 +11,28 @@
   "manufacturer": [
    "http://www.immersionrc.com/fpv-products/ezosd/"
   ],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=53",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1186",
-   "http://www.getfpv.com/ezosd-current-sensor-375.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=53"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1186"
+  },
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:16 GMT",
+   "url": "http://www.getfpv.com/ezosd-current-sensor-375.html"
+  },
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:28 GMT",
+   "url": "http://www.getfpv.com/immersionrc-ezosd-current-sensor-deans.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

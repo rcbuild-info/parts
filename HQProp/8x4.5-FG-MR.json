@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "8x4.5 Multirotor Fiberglass Composite",
@@ -7,26 +9,100 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/HQProp-8x45-G-Propeller-Orange-Multi-Rotor-Set-2-CW-und-2-CCW",
-   "http://flyduino.net/HQProp-8x45-G-Propeller-Green-Multi-Rotor-Set-2-CW-und-2-CCW",
-   "http://flyduino.net/Multikopter-Propeller-CW-CCW_42",
-   "http://flyduino.net/Multikopter-Propeller-CW-CCW_39",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3196",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3197",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3194",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3195",
-   "http://www.getfpv.com/hqprop-8x4-5-cw-propeller-multi-rotor-2-blade-2-pack.html",
-   "http://www.getfpv.com/hqprop-8x4-5o-ccw-propeller-multi-rotor-2-blade-2-pack.html",
-   "http://www.getfpv.com/hqprop-8x4-5o-cw-propeller-multi-rotor-2-blade-2-pack.html",
-   "http://www.getfpv.com/hqprop-8x4-5g-ccw-propeller-multi-rotor-2-blade-2-pack.html",
-   "http://www.getfpv.com/hqprop-8x4-5g-cw-propeller-multi-rotor-2-blade-2-pack.html",
-   "http://www.getfpv.com/hqprop-8x4-5-ccw-propeller-multi-rotor-2-blade-2-pack.html",
-   "http://flyduino.net/HQProp-8x45-O-Propeller-Orange-Multi-Rotor-Set-2-CW-und-2-CCW",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=189",
-   "http://www.readytoflyquads.com/hq-prop-8x45-mm-orange-carbon-composite-prop",
-   "https://www.multirotorparts.com/propellers/8/hqprop-8-x-4-5-glasvezel-versterkte-multirotor-propeller-set-van-4-kleur-oranje.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/HQProp-8x45-G-Propeller-Orange-Multi-Rotor-Set-2-CW-und-2-CCW"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-8x45-G-Propeller-Green-Multi-Rotor-Set-2-CW-und-2-CCW"
+  },
+  {
+   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_42"
+  },
+  {
+   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_39"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3196"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3197"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3194"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3195"
+  },
+  {
+   "description": "pack",
+   "price": "$4.40",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:54 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x4-5-cw-propeller-multi-rotor-2-blade-2-pack.html"
+  },
+  {
+   "description": "pack",
+   "price": "$3.78",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:28 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x4-5o-ccw-propeller-multi-rotor-2-blade-2-pack.html"
+  },
+  {
+   "description": "pack",
+   "price": "$3.78",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:28 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x4-5o-cw-propeller-multi-rotor-2-blade-2-pack.html"
+  },
+  {
+   "description": "pack",
+   "price": "$3.78",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:35 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x4-5g-ccw-propeller-multi-rotor-2-blade-2-pack.html"
+  },
+  {
+   "description": "pack",
+   "price": "$3.78",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:35 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x4-5g-cw-propeller-multi-rotor-2-blade-2-pack.html"
+  },
+  {
+   "description": "pack",
+   "price": "$4.40",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:54 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x4-5-ccw-propeller-multi-rotor-2-blade-2-pack.html"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-8x45-O-Propeller-Orange-Multi-Rotor-Set-2-CW-und-2-CCW"
+  },
+  {
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=189"
+  },
+  {
+   "url": "http://www.readytoflyquads.com/hq-prop-8x45-mm-orange-carbon-composite-prop"
+  },
+  {
+   "url": "https://www.multirotorparts.com/propellers/8/hqprop-8-x-4-5-glasvezel-versterkte-multirotor-propeller-set-van-4-kleur-oranje.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

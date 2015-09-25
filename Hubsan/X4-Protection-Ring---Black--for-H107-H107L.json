@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hubsan",
  "name": " X4 Protection Ring - Black  for H107/H107L",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hubsan-x4-protection-ring-black-for-h107-h107l.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/1/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:08:49 GMT",
+   "url": "http://www.getfpv.com/hubsan-x4-protection-ring-black-for-h107-h107l.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

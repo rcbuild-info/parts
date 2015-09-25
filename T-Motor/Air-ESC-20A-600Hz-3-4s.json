@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Air ESC 20A 600Hz 3-4s",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-air-esc-20a-600hz-3-4s.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:36 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-air-esc-20a-600hz-3-4s.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

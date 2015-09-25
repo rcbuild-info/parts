@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "5x4x3 CW Propeller - 3 Blade (Black - 2 pack)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hqprop-5x4x3-cw-propeller-3-blade-black-2-pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.39",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:51 GMT",
+   "url": "http://www.getfpv.com/hqprop-5x4x3-cw-propeller-3-blade-black-2-pack.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

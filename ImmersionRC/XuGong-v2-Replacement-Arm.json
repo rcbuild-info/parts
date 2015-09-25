@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "XuGong v2 Replacement Arm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/xugong-v2-replacement-arm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$21.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/29/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:15:33 GMT",
+   "url": "http://www.getfpv.com/xugong-v2-replacement-arm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

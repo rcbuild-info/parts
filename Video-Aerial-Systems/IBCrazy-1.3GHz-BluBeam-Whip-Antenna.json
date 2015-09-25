@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "IBCrazy 1.3GHz BluBeam Whip Antenna",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/1-3ghz-blubeam-whip.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$54.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:24 GMT",
+   "url": "http://www.getfpv.com/1-3ghz-blubeam-whip.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

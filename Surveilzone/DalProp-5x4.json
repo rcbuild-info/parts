@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Surveilzone",
  "name": "DalProp 5x4",
@@ -7,14 +9,52 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dal-5x4-propeller-set-of-4-black.html",
-   "http://www.getfpv.com/dal-5x4-propeller-set-of-4-green.html",
-   "http://www.getfpv.com/dal-5x4-propeller-set-of-4-orange.html",
-   "http://www.getfpv.com/dal-5x4-propeller-set-of-4-red.html",
-   "http://www.readytoflyquads.com/dal-a-k-a-indestructible-5x4-orange-props",
-   "http://www.dronematters.com/power-system/propellers/dal-rc-surveilzone-5040-black-1259.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "Black",
+   "price": "$1.98",
+   "quantity": 4,
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:53 GMT",
+   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-black.html"
+  },
+  {
+   "description": "Green",
+   "price": "$1.98",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:52 GMT",
+   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-green.html"
+  },
+  {
+   "description": "Orange",
+   "price": "$1.98",
+   "quantity": 4,
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:52 GMT",
+   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-orange.html"
+  },
+  {
+   "description": "Red",
+   "price": "$1.98",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:53 GMT",
+   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-red.html"
+  },
+  {
+   "url": "http://www.readytoflyquads.com/dal-a-k-a-indestructible-5x4-orange-props"
+  },
+  {
+   "url": "http://www.dronematters.com/power-system/propellers/dal-rc-surveilzone-5040-black-1259.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

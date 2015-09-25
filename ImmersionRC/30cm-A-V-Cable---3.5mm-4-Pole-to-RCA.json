@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "30cm A/V Cable - 3.5mm 4 Pole to RCA",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/30cm-a-v-cable-3-5mm-4-pole-to-rca.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:58 GMT",
+   "url": "http://www.getfpv.com/30cm-a-v-cable-3-5mm-4-pole-to-rca.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

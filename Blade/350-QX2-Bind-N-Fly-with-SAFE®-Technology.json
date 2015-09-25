@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blade",
  "name": " 350 QX2 Bind-N-Fly with SAFE\u00ae Technology",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/blade-350-qx2-bind-n-fly-with-safer-technology.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:12 GMT",
+   "url": "http://www.getfpv.com/blade-350-qx2-bind-n-fly-with-safer-technology.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

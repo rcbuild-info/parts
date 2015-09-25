@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": " S800 EVO Retract Module (Right)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-s800-evo-retract-module-right.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$240.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:57 GMT",
+   "url": "http://www.getfpv.com/dji-s800-evo-retract-module-right.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

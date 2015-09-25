@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "BlackBirdFPV",
  "name": "CC3D Protective Acrylic Case (Right Angle Pins)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/cc3d-protective-acrylic-case-right-angle-pins.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:04 GMT",
+   "url": "http://www.getfpv.com/cc3d-protective-acrylic-case-right-angle-pins.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

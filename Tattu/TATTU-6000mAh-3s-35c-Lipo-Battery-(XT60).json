@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tattu",
  "name": "TATTU 6000mAh 3s 35c Lipo Battery (XT60)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tattu-6000mah-3s-35c-lipo-battery-xt60.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$79.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:56 GMT",
+   "url": "http://www.getfpv.com/tattu-6000mah-3s-35c-lipo-battery-xt60.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

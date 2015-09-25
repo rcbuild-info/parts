@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": null,
  "name": "GetFPV Gift Certificate",
@@ -7,9 +7,14 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/gift-certificate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "timestamp": "Fri, 25 Sep 2015 06:16:26 GMT",
+   "url": "http://www.getfpv.com/gift-certificate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

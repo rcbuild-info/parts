@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": " Uno 2.4GHz NexWave (UnFiltered)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/immersionrc-uno-2-4ghz-nexwave-filtered-1743.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$61.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:02 GMT",
+   "url": "http://www.getfpv.com/immersionrc-uno-2-4ghz-nexwave-filtered-1743.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "B6AC 80W Dual Power Battery Charger w/ Power Supply",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/b6ac-80w-dual-power-battery-charger-w-power-supply.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:28 GMT",
+   "url": "http://www.getfpv.com/b6ac-80w-dual-power-battery-charger-w-power-supply.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

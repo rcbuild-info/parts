@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": " GPS V2 Sensor with SMARTPort",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/frsky-gps-v2-sensor-with-smartport.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$32.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:30 GMT",
+   "url": "http://www.getfpv.com/frsky-gps-v2-sensor-with-smartport.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDE",
  "name": " 2206XF-2050 Brushless Motor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/kde-2206xf-2050-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:37 GMT",
+   "url": "http://www.getfpv.com/kde-2206xf-2050-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

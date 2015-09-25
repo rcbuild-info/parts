@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "32-Bit 3 Axis AlexMos Brushless Gimbal Controller with IMU (CNC Case)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/32bit-3-axis-alexmos-brushless-gimbal-controller-with-imu-cnc-case.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$219.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:04 GMT",
+   "url": "http://www.getfpv.com/32bit-3-axis-alexmos-brushless-gimbal-controller-with-imu-cnc-case.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

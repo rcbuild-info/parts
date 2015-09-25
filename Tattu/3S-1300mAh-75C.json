@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Tattu",
  "name": "3S 1300mAh 75C",
@@ -7,11 +9,23 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=297",
-   "http://www.getfpv.com/tattu-1300mah-3s-75c-lipo-battery.html",
-   "http://www.multirotorsuperstore.com/batteries/tattu-3s-1300mah-75c-lipo-battery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=297"
+  },
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:51 GMT",
+   "url": "http://www.getfpv.com/tattu-1300mah-3s-75c-lipo-battery.html"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/batteries/tattu-3s-1300mah-75c-lipo-battery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

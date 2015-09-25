@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Lumenier Mini Quad Power Pack",
@@ -7,9 +7,14 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-mini-quad-power-pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "timestamp": "Fri, 25 Sep 2015 06:14:49 GMT",
+   "url": "http://www.getfpv.com/lumenier-mini-quad-power-pack.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

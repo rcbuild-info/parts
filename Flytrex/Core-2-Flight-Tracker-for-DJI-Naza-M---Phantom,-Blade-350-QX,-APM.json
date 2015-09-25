@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flytrex",
  "name": " Core 2 Flight Tracker for DJI Naza-M / Phantom, Blade 350 QX, APM",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/flytrex-core-2-flight-tracker-for-dji-naza-m-phantom-blade-350-qx-apm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:47 GMT",
+   "url": "http://www.getfpv.com/flytrex-core-2-flight-tracker-for-dji-naza-m-phantom-blade-350-qx-apm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

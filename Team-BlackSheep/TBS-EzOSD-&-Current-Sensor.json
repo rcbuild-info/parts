@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "TBS EzOSD & Current Sensor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ezosd-current-sensor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$219.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:27 GMT",
+   "url": "http://www.getfpv.com/ezosd-current-sensor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

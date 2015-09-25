@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Bob Smith Industries",
  "name": "Foam-Cure EPP Foam Glue (4 oz.)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/foam-cure-epp-foam-glue-4-oz.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:53 GMT",
+   "url": "http://www.getfpv.com/foam-cure-epp-foam-glue-4-oz.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

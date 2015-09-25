@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": " 30 amp ESC with SimonK Firmware",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-30-amp-esc-with-simonk-firmware.html",
-   "https://www.liftrc.com/lumenier-30-amp-esc-with-simonk-firmware"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:35 GMT",
+   "url": "http://www.getfpv.com/lumenier-30-amp-esc-with-simonk-firmware.html"
+  },
+  {
+   "url": "https://www.liftrc.com/lumenier-30-amp-esc-with-simonk-firmware"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

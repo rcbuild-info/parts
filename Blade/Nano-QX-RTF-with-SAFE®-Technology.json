@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blade",
  "name": " Nano QX RTF with SAFE\u00ae Technology",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/blade-nano-qx-rtf-with-safe-technology.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:06 GMT",
+   "url": "http://www.getfpv.com/blade-nano-qx-rtf-with-safe-technology.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

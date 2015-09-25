@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Volantex",
  "name": " Ranger EX (757-3) (Kit)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/volantex-ranger-ex-757-3-kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$168.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:55 GMT",
+   "url": "http://www.getfpv.com/volantex-ranger-ex-757-3-kit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

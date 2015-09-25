@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "Anti-Vibration Neoprene Strip w/ Sticker",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/anti-vibration-neoprene-strip-w-sticker.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:06 GMT",
+   "url": "http://www.getfpv.com/anti-vibration-neoprene-strip-w-sticker.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

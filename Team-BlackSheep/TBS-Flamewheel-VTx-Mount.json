@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "TBS Flamewheel VTx Mount",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tbs-flamewheel-vtx-mount.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:24 GMT",
+   "url": "http://www.getfpv.com/tbs-flamewheel-vtx-mount.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

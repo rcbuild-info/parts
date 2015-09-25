@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "TBS Unify 2.4GHz 800mw 16ch VTX",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tbs-unify-2-4ghz-800mw-16ch-vtx.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/3/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:10:31 GMT",
+   "url": "http://www.getfpv.com/tbs-unify-2-4ghz-800mw-16ch-vtx.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

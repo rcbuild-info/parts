@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Graupner",
  "name": "Alpha 250Q HoTT Race Copter RTF",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/graupner-alpha-250q-hott-race-copter-rtf.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$599.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:06 GMT",
+   "url": "http://www.getfpv.com/graupner-alpha-250q-hott-race-copter-rtf.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

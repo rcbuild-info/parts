@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": " XJT 16ch Radio Transmitter Module - JR/Graupner Type",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/frsky-xjt-16ch-radio-transmitter-module-jr-graupner-type.html",
-   "http://www.dronematters.com/radios/frsky-xjt-module.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$36.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:34 GMT",
+   "url": "http://www.getfpv.com/frsky-xjt-16ch-radio-transmitter-module-jr-graupner-type.html"
+  },
+  {
+   "url": "http://www.dronematters.com/radios/frsky-xjt-module.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Feiyu Tech",
  "name": "FY-41AP-A Autopilot for Fixed Wing",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fy-41ap-a-autopilot-for-fixed-wing.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$229.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/29/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:09:01 GMT",
+   "url": "http://www.getfpv.com/fy-41ap-a-autopilot-for-fixed-wing.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

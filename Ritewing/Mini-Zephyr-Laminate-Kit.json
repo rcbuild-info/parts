@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Ritewing",
  "name": "Mini Zephyr Laminate Kit",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/mini-zephyr-laminate-kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:27 GMT",
+   "url": "http://www.getfpv.com/mini-zephyr-laminate-kit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

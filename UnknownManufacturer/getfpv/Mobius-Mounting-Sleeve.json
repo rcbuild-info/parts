@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mobius Mounting Sleeve",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/mobius-mounting-sleeve.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:07 GMT",
+   "url": "http://www.getfpv.com/mobius-mounting-sleeve.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

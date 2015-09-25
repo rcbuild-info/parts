@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Replacement C-Clips - For 3.175mm Shafts (10pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/c-clips-for-3-175mm-shafts-10pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:34 GMT",
+   "url": "http://www.getfpv.com/c-clips-for-3-175mm-shafts-10pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "M6 CCW Adapter for MT-3515 Motors with Carbon Fiber Props",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-m6-ccw-carbon-fiber-prop-adapter-for-mt-3515-motors.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:29 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-m6-ccw-carbon-fiber-prop-adapter-for-mt-3515-motors.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

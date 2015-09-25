@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Dominator HD / V2 Faceplate with Fan",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dominator-hd-v2-faceplate-with-fan.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:45 GMT",
+   "url": "http://www.getfpv.com/dominator-hd-v2-faceplate-with-fan.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

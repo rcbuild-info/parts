@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " Video only RCA to 2m Jack Cable",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-video-only-rca-to-2m-jack-cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:47 GMT",
+   "url": "http://www.getfpv.com/fatshark-video-only-rca-to-2m-jack-cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

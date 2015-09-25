@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Aerial Havoc",
  "name": "Havoc 340 FPV Quadcopter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/havoc-340.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$189.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:13 GMT",
+   "url": "http://www.getfpv.com/havoc-340.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

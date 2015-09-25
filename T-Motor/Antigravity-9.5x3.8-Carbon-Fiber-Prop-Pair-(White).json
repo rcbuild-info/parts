@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Antigravity 9.5x3.8 Carbon Fiber Prop Pair (White)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/antigravity-9-5x3-8-carbon-fiber-prop-pair-white.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:50 GMT",
+   "url": "http://www.getfpv.com/antigravity-9-5x3-8-carbon-fiber-prop-pair-white.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

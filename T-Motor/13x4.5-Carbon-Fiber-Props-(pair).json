@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "13x4.5 Carbon Fiber Props (pair)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-13x4-5-carbon-fiber-props-pair.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$55.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 7/21/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:07:50 GMT",
+   "url": "http://www.getfpv.com/tiger-13x4-5-carbon-fiber-props-pair.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hovership",
  "name": "Micro PDB",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hovership-micro-pdb.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:10 GMT",
+   "url": "http://www.getfpv.com/hovership-micro-pdb.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

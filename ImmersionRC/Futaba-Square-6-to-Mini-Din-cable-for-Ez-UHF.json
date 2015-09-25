@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Futaba Square-6 to Mini-Din cable for Ez-UHF",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/futaba-square-6-to-mini-din-cable-for-ez-uhf.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:59 GMT",
+   "url": "http://www.getfpv.com/futaba-square-6-to-mini-din-cable-for-ez-uhf.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Black Polyamide Standoff Set (6mm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/black-polyamide-standoff-set-6mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/29/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:15:25 GMT",
+   "url": "http://www.getfpv.com/black-polyamide-standoff-set-6mm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

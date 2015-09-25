@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": " Replacement Current Sensor for EzOSD",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/immersionrc-replacement-current-sensor-for-ezosd.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$45.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:30 GMT",
+   "url": "http://www.getfpv.com/immersionrc-replacement-current-sensor-for-ezosd.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "fc",
+ "categories": [
+  "fc"
+ ],
  "equivalent": [],
  "manufacturer": "AbuseMark",
  "name": "Full Naze32",
@@ -7,12 +9,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/full-naze32-flight-controller-straight-right-angle.html",
-   "http://www.voodooquads.com/naze32-full-flight-controller-with-pressure-sensor-and-mag/",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=83",
-   "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/naze-32.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$52.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:08 GMT",
+   "url": "http://www.getfpv.com/full-naze32-flight-controller-straight-right-angle.html"
+  },
+  {
+   "url": "http://www.voodooquads.com/naze32-full-flight-controller-with-pressure-sensor-and-mag/"
+  },
+  {
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=83"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/naze-32.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "1806-13 2300kv Brushless Motor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dys-1806-13-2300kv-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:00 GMT",
+   "url": "http://www.getfpv.com/dys-1806-13-2300kv-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

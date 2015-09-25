@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Fat Shark Dominator and Predator Replacement Eye Cups (Single)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fat-shark-dominator-and-predator-replacement-eye-cups-single.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:31 GMT",
+   "url": "http://www.getfpv.com/fat-shark-dominator-and-predator-replacement-eye-cups-single.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

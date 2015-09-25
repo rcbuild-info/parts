@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hovership",
  "name": "Mini Quad Landing Gear",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/mini-quad-landing-gear.html",
-   "http://www.multirotorsuperstore.com/frames/frame-parts/hovership-mini-quad-landing-gear.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:54 GMT",
+   "url": "http://www.getfpv.com/mini-quad-landing-gear.html"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frame-parts/hovership-mini-quad-landing-gear.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

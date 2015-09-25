@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN3510-25 360kv",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-mn3510-25-360kv.html",
-   "https://www.liftrc.com/t-motor-mn3510-25-360kv"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$79.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:47 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mn3510-25-360kv.html"
+  },
+  {
+   "url": "https://www.liftrc.com/t-motor-mn3510-25-360kv"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

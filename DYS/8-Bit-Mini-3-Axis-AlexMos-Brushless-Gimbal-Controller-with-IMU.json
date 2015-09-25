@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "8-Bit Mini 3 Axis AlexMos Brushless Gimbal Controller with IMU",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/8-bit-mini-3-axis-alexmos-brushless-gimbal-controller-with-imu.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$129.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:03 GMT",
+   "url": "http://www.getfpv.com/8-bit-mini-3-axis-alexmos-brushless-gimbal-controller-with-imu.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

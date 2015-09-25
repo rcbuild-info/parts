@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "FrUSB-3 FrSky Upgrade Cable",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/frusb-3-frsky-upgrade-cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.45",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:47 GMT",
+   "url": "http://www.getfpv.com/frusb-3-frsky-upgrade-cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

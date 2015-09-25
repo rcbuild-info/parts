@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "Flip Sport\" Frame (Black)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hoverthings-flip-sport-frame-black.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$89.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:45 GMT",
+   "url": "http://www.getfpv.com/hoverthings-flip-sport-frame-black.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

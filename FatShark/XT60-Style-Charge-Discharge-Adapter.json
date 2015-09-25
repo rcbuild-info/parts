@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " XT60 Style Charge/Discharge Adapter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/xt60-style-charge-discharge-adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:19 GMT",
+   "url": "http://www.getfpv.com/xt60-style-charge-discharge-adapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

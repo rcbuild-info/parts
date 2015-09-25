@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "4 pin Mini-Din to 5p Molex for JR Radio",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/4-pin-mini-din-to-5p-molex-for-jr-radio.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:59 GMT",
+   "url": "http://www.getfpv.com/4-pin-mini-din-to-5p-molex-for-jr-radio.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

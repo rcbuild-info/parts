@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "XOAR",
  "name": " PJN 11x6 Matched Pair",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/xoar-pjn-11x6-matched-pair.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$27.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:55 GMT",
+   "url": "http://www.getfpv.com/xoar-pjn-11x6-matched-pair.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

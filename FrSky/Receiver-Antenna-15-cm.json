@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": " Receiver Antenna 15 cm",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/frsky-receiver-antenna-15-cm.html",
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=244"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 8/30/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:13:33 GMT",
+   "url": "http://www.getfpv.com/frsky-receiver-antenna-15-cm.html"
+  },
+  {
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=244"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

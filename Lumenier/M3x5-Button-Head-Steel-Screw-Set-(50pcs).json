@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "M3x5 Button Head Steel Screw Set (50pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/m3x5-button-head-steel-screw-set-50pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:07 GMT",
+   "url": "http://www.getfpv.com/m3x5-button-head-steel-screw-set-50pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

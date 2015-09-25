@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "FPV Backpack (Kit)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fpv-backpack.html",
-   "https://www.liftrc.com/lumenier-fpv-backpack-kit"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:44 GMT",
+   "url": "http://www.getfpv.com/fpv-backpack.html"
+  },
+  {
+   "url": "https://www.liftrc.com/lumenier-fpv-backpack-kit"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

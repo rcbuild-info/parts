@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV \"Rib\" Landing Gear",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav-landing-gear-rib.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.99",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
+   "timestamp": "Fri, 25 Sep 2015 06:16:30 GMT",
+   "url": "http://www.getfpv.com/qav-landing-gear-rib.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

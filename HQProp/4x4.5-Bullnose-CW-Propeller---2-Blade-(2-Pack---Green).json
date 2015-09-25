@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "4x4.5 Bullnose CW Propeller - 2 Blade (2 Pack - Green)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hqprop-4x4-5-bullnose-cw-propeller-2-blade-2-pack-green.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.49",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:02 GMT",
+   "url": "http://www.getfpv.com/hqprop-4x4-5-bullnose-cw-propeller-2-blade-2-pack-green.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "LayerLens for GoPro 3 & 4",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/layerlens-for-gopro3.html",
-   "https://www.liftrc.com/lumenier-layerlens-for-gopro-3-4"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:34 GMT",
+   "url": "http://www.getfpv.com/layerlens-for-gopro3.html"
+  },
+  {
+   "url": "https://www.liftrc.com/lumenier-layerlens-for-gopro-3-4"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

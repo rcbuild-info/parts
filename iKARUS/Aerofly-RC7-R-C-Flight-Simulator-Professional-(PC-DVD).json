@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "iKARUS",
  "name": "Aerofly RC7 R/C Flight Simulator Professional (PC DVD)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/aerofly-rc7-r-c-flight-simulator-professional-pc-dvd.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:47 GMT",
+   "url": "http://www.getfpv.com/aerofly-rc7-r-c-flight-simulator-professional-pc-dvd.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": " 750kV Motors & ESCs (set of 4 motors and escs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/team-blacksheep-750kv-motor-set-of-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$189.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/3/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:07:16 GMT",
+   "url": "http://www.getfpv.com/team-blacksheep-750kv-motor-set-of-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

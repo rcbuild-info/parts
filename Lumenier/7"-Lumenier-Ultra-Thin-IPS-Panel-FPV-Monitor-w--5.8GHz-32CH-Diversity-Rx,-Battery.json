@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "7\" Lumenier Ultra-Thin IPS Panel FPV Monitor w/ 5.8GHz 32CH Diversity Rx, Battery",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/7-lumenier-ultra-thin-ips-panel-fpv-monitor-w-5-8ghz-32ch-diversity-rx-battery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$229.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:11 GMT",
+   "url": "http://www.getfpv.com/7-lumenier-ultra-thin-ips-panel-fpv-monitor-w-5-8ghz-32ch-diversity-rx-battery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5.8GHz 32CH FPV AV 600mW Transmitter & Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/5-8ghz-32ch-fpv-av-600mw-transmitter-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$109.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:59 GMT",
+   "url": "http://www.getfpv.com/5-8ghz-32ch-fpv-av-600mw-transmitter-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

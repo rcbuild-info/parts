@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "CM-2208 2000kv",
@@ -9,12 +11,26 @@
   "manufacturer": [
    "http://www.cobramotorsusa.com/multirotor-2208-20.html"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/cobra-cm-2208-2000kv-motor.html",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=227",
-   "http://www.multirotorsuperstore.com/motors/motors-by-size/22xx/cobra-2208-2000kv-brushless-motor.html",
-   "http://www.dronematters.com/power-system/brushless-motors/cobra-2208-20-2000kv-2-3s-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$25.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:14 GMT",
+   "url": "http://www.getfpv.com/cobra-cm-2208-2000kv-motor.html"
+  },
+  {
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=227"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/motors-by-size/22xx/cobra-2208-2000kv-brushless-motor.html"
+  },
+  {
+   "url": "http://www.dronematters.com/power-system/brushless-motors/cobra-2208-20-2000kv-2-3s-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

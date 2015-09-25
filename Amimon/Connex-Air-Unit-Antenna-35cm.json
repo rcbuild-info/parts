@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Amimon",
  "name": "Connex Air Unit Antenna 35cm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/connex-air-unit-antenna-35cm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$20.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:59 GMT",
+   "url": "http://www.getfpv.com/connex-air-unit-antenna-35cm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

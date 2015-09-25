@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "10000mAh 4s 25c Lipo",
@@ -9,9 +11,17 @@
   "manufacturer": [
    "http://www.lumenier.com/products/lipo-batteries"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-10000mah-4s-20c-lipo-battery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$119.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/22/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:10:04 GMT",
+   "url": "http://www.getfpv.com/lumenier-10000mah-4s-20c-lipo-battery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

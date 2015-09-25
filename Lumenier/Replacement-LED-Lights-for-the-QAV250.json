@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "Replacement LED Lights for the QAV250",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/replacement-led-lights-for-the-qav250.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.99",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
+   "timestamp": "Fri, 25 Sep 2015 06:09:19 GMT",
+   "url": "http://www.getfpv.com/replacement-led-lights-for-the-qav250.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

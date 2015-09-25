@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "M3x20 Button Head Titanium Screws (10pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/m3x20-button-head-titanium-screws-10pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:42 GMT",
+   "url": "http://www.getfpv.com/m3x20-button-head-titanium-screws-10pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

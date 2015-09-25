@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "iKARUS",
  "name": "RC SimConnector for Digital Sumsignal Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/rc-simconnector-for-digital-sumsignal-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$55.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:42 GMT",
+   "url": "http://www.getfpv.com/rc-simconnector-for-digital-sumsignal-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

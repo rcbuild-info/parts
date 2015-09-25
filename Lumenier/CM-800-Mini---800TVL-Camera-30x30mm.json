@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": " CM-800 Mini - 800TVL Camera 30x30mm",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-cm-800-mini-800tvl-camera-30x30mm.html",
-   "https://www.liftrc.com/lumenier-cm-800-mini-800tvl-camera-30x30mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:38 GMT",
+   "url": "http://www.getfpv.com/lumenier-cm-800-mini-800tvl-camera-30x30mm.html"
+  },
+  {
+   "url": "https://www.liftrc.com/lumenier-cm-800-mini-800tvl-camera-30x30mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

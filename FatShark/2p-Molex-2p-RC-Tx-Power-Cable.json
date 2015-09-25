@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " 2p Molex/2p RC Tx Power Cable",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fat-shark-2p-molex-2p-rc-tx-power-cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:05 GMT",
+   "url": "http://www.getfpv.com/fat-shark-2p-molex-2p-rc-tx-power-cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

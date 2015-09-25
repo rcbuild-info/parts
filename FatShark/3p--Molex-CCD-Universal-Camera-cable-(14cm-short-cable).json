@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " 3p/ Molex CCD Universal Camera cable (14cm short cable)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-3p-molex-ccd-universal-camera-cable-14cm-short-cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:22 GMT",
+   "url": "http://www.getfpv.com/fatshark-3p-molex-ccd-universal-camera-cable-14cm-short-cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

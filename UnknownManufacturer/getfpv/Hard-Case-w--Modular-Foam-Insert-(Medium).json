@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hard Case w/ Modular Foam Insert (Medium)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hard-case-w-modular-foam-insert-medium.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$109.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:08 GMT",
+   "url": "http://www.getfpv.com/hard-case-w-modular-foam-insert-medium.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

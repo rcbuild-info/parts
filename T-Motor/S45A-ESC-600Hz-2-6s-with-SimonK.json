@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "S45A ESC 600Hz 2-6s with SimonK",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-s45a-600hz-2-6s-with-simonk.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$46.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 7/21/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:14:15 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-s45a-600hz-2-6s-with-simonk.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "receiver",
+ "categories": [
+  "receiver"
+ ],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "X6R",
@@ -9,12 +11,26 @@
   "manufacturer": [
    "http://www.frsky-rc.com/product/pro.php?pro_id=127"
   ],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Frsky-X6R-6-16ch-24GHz-6-PWM-16-SBUS-Smart-Port-Telemetrie-Receiver_1",
-   "http://flyduino.net/Frsky-X6R-6-16ch-24GHz-6-PWM-16-SBUS-Smart-Port-Telemetrie-Receiver",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2584",
-   "http://www.getfpv.com/frsky-x6r-16ch-receiver-sbus-smart-port.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Frsky-X6R-6-16ch-24GHz-6-PWM-16-SBUS-Smart-Port-Telemetrie-Receiver_1"
+  },
+  {
+   "url": "http://flyduino.net/Frsky-X6R-6-16ch-24GHz-6-PWM-16-SBUS-Smart-Port-Telemetrie-Receiver"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2584"
+  },
+  {
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:29 GMT",
+   "url": "http://www.getfpv.com/frsky-x6r-16ch-receiver-sbus-smart-port.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

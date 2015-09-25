@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": " Small Lipo Velcro Strap (3pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-small-lipo-velcro-strap-3pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:07 GMT",
+   "url": "http://www.getfpv.com/lumenier-small-lipo-velcro-strap-3pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

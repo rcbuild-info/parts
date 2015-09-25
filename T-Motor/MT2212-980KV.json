@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT2212 980KV",
@@ -7,12 +9,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/T-Motor-MT2212-980KV",
-   "http://flyduino.net/T-Motor-Brushless-Multikopter-Motor-Tiger",
-   "http://www.getfpv.com/tiger-motor-mt-2212-13-980kv.html",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1490"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/T-Motor-MT2212-980KV"
+  },
+  {
+   "url": "http://flyduino.net/T-Motor-Brushless-Multikopter-Motor-Tiger"
+  },
+  {
+   "price": "$44.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:23 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mt-2212-13-980kv.html"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1490"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "GB4106 Brushless Gimbal Motor (hollow shaft)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-gb4106-brushless-gimbal-motor-hollow-shaft.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$45.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:09 GMT",
+   "url": "http://www.getfpv.com/tiger-gb4106-brushless-gimbal-motor-hollow-shaft.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

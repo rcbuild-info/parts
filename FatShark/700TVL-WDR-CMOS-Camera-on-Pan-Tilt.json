@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "700TVL WDR CMOS Camera on Pan/Tilt",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-700tvl-wdr-cmos-camera-on-pan-tilt.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$65.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:57 GMT",
+   "url": "http://www.getfpv.com/fatshark-700tvl-wdr-cmos-camera-on-pan-tilt.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

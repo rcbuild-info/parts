@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "Ready To Fly QAV400 (RTF)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ready-to-fly-qav400-rtf.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$494.90",
+   "stock_state": "in_stock",
+   "stock_text": "Made to Order",
+   "timestamp": "Fri, 25 Sep 2015 06:07:24 GMT",
+   "url": "http://www.getfpv.com/ready-to-fly-qav400-rtf.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

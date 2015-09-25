@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DTF UHF",
  "name": "OSDoge OSD for the Naze32",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/osdoge-osd-for-the-naze32.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$69.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:31 GMT",
+   "url": "http://www.getfpv.com/osdoge-osd-for-the-naze32.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

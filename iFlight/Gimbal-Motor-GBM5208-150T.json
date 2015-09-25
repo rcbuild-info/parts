@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "iFlight",
  "name": " Gimbal Motor GBM5208-150T",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/iflight-gimbal-motor-gbm5208-150t.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$79.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:47 GMT",
+   "url": "http://www.getfpv.com/iflight-gimbal-motor-gbm5208-150t.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

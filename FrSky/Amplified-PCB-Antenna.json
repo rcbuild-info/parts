@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": " - Amplified PCB Antenna",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/frsky-amplified-pcb-antenna.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:29 GMT",
+   "url": "http://www.getfpv.com/frsky-amplified-pcb-antenna.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

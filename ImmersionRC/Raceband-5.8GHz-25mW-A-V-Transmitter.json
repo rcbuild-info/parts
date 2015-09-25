@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Raceband 5.8GHz 25mW A/V Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/immersionrc-raceband-5-8ghz-25mw-a-v-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$33.99",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
+   "timestamp": "Fri, 25 Sep 2015 06:14:47 GMT",
+   "url": "http://www.getfpv.com/immersionrc-raceband-5-8ghz-25mw-a-v-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

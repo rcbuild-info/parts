@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SmartFPV",
  "name": "ImmersionRC Style Cable for GoPro Video Boards",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/immersionrc-style-cable-for-gopro-video-boards.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:25 GMT",
+   "url": "http://www.getfpv.com/immersionrc-style-cable-for-gopro-video-boards.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

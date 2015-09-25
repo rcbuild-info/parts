@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT-3506-25 650kv",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-mt-3506-25-650kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$64.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:20 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mt-3506-25-650kv.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

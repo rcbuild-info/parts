@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV500 V2 \"Clean Frame\" Base Plate",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav500-v2-clean-frame-base-plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$27.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:42 GMT",
+   "url": "http://www.getfpv.com/qav500-v2-clean-frame-base-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

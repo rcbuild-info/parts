@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tattu",
  "name": "TATTU 2700mAh 3s 35c Lipo Battery",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tattu-2700mah-3s-35c-lipo-battery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$35.96",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:56 GMT",
+   "url": "http://www.getfpv.com/tattu-2700mah-3s-35c-lipo-battery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Extension Arm for 450 & 550 pair",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-extension-arm-for-450-550-per-pair.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:32 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-extension-arm-for-450-550-per-pair.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

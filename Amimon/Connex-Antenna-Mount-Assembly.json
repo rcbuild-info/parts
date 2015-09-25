@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Amimon",
  "name": "Connex Antenna Mount Assembly",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/connex-antenna-mount-assembly.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:59 GMT",
+   "url": "http://www.getfpv.com/connex-antenna-mount-assembly.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

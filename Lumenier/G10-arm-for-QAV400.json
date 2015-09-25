@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "G10 arm for QAV400",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/g10-arm-for-qav400.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$17.39",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:54 GMT",
+   "url": "http://www.getfpv.com/g10-arm-for-qav400.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

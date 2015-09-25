@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lawmate",
  "name": "1.2-1.3GHz LawMate High Sensitivity Receiver (R1200 Plus)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/1-2-1-3ghz-lawmate-high-sensitivity-receiver-r1200-plus.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/1/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:11:00 GMT",
+   "url": "http://www.getfpv.com/1-2-1-3ghz-lawmate-high-sensitivity-receiver-r1200-plus.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

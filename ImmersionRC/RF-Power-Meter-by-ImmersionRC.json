@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "RF Power Meter by ImmersionRC",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/rf-power-meter-by-immersionrc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$149.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/29/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:12:56 GMT",
+   "url": "http://www.getfpv.com/rf-power-meter-by-immersionrc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

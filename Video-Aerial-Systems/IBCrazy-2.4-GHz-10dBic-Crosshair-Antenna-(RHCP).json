@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "IBCrazy 2.4 GHz 10dBic Crosshair Antenna (RHCP)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ibcrazy-2-4-ghz-10dbic-crosshair-antenna.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:38 GMT",
+   "url": "http://www.getfpv.com/ibcrazy-2-4-ghz-10dbic-crosshair-antenna.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

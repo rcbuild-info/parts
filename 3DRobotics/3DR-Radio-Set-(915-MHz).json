@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "3DR Radio Set (915 MHz)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/3dr-radio-set-915-mhz.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "MHz",
+   "price": "$99.99",
+   "quantity": 915,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:33 GMT",
+   "url": "http://www.getfpv.com/3dr-radio-set-915-mhz.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

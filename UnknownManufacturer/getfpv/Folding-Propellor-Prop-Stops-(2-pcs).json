@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": null,
  "name": "Folding Propellor Prop Stops (2 pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/folding-propellor-prop-stop.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "pcs",
+   "price": "$7.99",
+   "quantity": 2,
+   "timestamp": "Fri, 25 Sep 2015 06:07:05 GMT",
+   "url": "http://www.getfpv.com/folding-propellor-prop-stop.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

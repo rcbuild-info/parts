@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "EZUHF JR Module Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ezuhf-jr-module-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$98.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:56 GMT",
+   "url": "http://www.getfpv.com/ezuhf-jr-module-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

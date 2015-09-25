@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Beech Wood Propeller 13x5",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-beech-wood-propeller-13x5.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$36.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:40 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-beech-wood-propeller-13x5.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

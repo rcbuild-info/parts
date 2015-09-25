@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RF SMA Male to RP-SMA Female Adapter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/rf-sma-male-to-rp-sma-female-adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:32 GMT",
+   "url": "http://www.getfpv.com/rf-sma-male-to-rp-sma-female-adapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

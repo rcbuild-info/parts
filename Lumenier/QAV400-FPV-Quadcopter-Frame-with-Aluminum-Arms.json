@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV400 FPV Quadcopter Frame with Aluminum Arms",
@@ -9,9 +11,17 @@
   "manufacturer": [
    "http://www.lumenier.com/products/multirotors/qav400"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav400-frame-aluminum.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$164.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:11 GMT",
+   "url": "http://www.getfpv.com/qav400-frame-aluminum.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

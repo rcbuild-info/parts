@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "GB4006-120 Brushless Gimbal Motor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-gb4006-120-brushless-gimbal-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:01 GMT",
+   "url": "http://www.getfpv.com/tiger-gb4006-120-brushless-gimbal-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

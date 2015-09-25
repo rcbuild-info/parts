@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Futaba/Hitec Adapter for AeroSIM RC Flight Simulator",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/futaba-hitec-adapter-for-aerosim-rc-flight-simulator.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:31 GMT",
+   "url": "http://www.getfpv.com/futaba-hitec-adapter-for-aerosim-rc-flight-simulator.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

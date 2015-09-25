@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "APC",
  "name": " 12x4.7 SF",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/apc-12x4-7-sf.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:07 GMT",
+   "url": "http://www.getfpv.com/apc-12x4-7-sf.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

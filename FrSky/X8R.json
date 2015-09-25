@@ -1,5 +1,7 @@
 {
- "category": "receiver",
+ "categories": [
+  "receiver"
+ ],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "X8R",
@@ -9,12 +11,30 @@
   "manufacturer": [
    "http://www.frsky-rc.com/product/pro.php?pro_id=105"
   ],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Frsky-X8R-8-16ch-8-PWM-16-SBUS-Smart-Port-Telemetry-Receiver",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2419",
-   "http://www.getfpv.com/frsky-x8r-16ch-receiver-sbus-smart-port-standard-antenna.html",
-   "http://www.getfpv.com/frsky-x8r-16ch-receiver-sbus-smart-port-amplified-pcb-antenna.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Frsky-X8R-8-16ch-8-PWM-16-SBUS-Smart-Port-Telemetry-Receiver"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2419"
+  },
+  {
+   "price": "$32.49",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:35 GMT",
+   "url": "http://www.getfpv.com/frsky-x8r-16ch-receiver-sbus-smart-port-standard-antenna.html"
+  },
+  {
+   "price": "$33.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:35 GMT",
+   "url": "http://www.getfpv.com/frsky-x8r-16ch-receiver-sbus-smart-port-amplified-pcb-antenna.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

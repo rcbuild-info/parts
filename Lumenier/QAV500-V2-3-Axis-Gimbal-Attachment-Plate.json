@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV500 V2 3-Axis Gimbal Attachment Plate",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav500-v2-3-axis-gimbal-attachment-plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:38 GMT",
+   "url": "http://www.getfpv.com/qav500-v2-3-axis-gimbal-attachment-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

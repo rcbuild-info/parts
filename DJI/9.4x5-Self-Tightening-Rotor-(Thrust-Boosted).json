@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": " 9.4x5 Self-Tightening Rotor (Thrust Boosted)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-9-4x5-self-tightening-rotor-thrust-boosted.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:22 GMT",
+   "url": "http://www.getfpv.com/dji-9-4x5-self-tightening-rotor-thrust-boosted.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

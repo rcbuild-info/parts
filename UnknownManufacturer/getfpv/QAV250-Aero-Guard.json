@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": null,
  "name": "QAV250 Aero Guard",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav250-aero-guard.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.99",
+   "timestamp": "Fri, 25 Sep 2015 06:15:26 GMT",
+   "url": "http://www.getfpv.com/qav250-aero-guard.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

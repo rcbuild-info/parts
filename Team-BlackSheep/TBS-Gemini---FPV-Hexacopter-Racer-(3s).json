@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "TBS Gemini - FPV Hexacopter Racer (3s)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tbs-gemini-fpv-hexacopter-racer.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$599.95",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
+   "timestamp": "Fri, 25 Sep 2015 06:09:43 GMT",
+   "url": "http://www.getfpv.com/tbs-gemini-fpv-hexacopter-racer.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

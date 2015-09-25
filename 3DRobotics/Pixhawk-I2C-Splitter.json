@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "Pixhawk I2C Splitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/pixhawk-l2c-splitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:30 GMT",
+   "url": "http://www.getfpv.com/pixhawk-l2c-splitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

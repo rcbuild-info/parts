@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "KISS 18 amp ESC 2-4s v1.2",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/kiss-18-amp-esc-2-4s.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:10 GMT",
+   "url": "http://www.getfpv.com/kiss-18-amp-esc-2-4s.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

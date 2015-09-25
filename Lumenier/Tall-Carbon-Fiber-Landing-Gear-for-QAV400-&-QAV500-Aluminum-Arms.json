@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "Tall Carbon-Fiber Landing Gear for QAV400 & QAV500 Aluminum Arms",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tall-carbon-fiber-landing-gear-for-qav400-qav500-aluminum-arms.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$39.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:22 GMT",
+   "url": "http://www.getfpv.com/tall-carbon-fiber-landing-gear-for-qav400-qav500-aluminum-arms.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

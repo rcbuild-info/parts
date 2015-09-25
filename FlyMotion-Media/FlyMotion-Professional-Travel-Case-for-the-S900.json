@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FlyMotion Media",
  "name": "FlyMotion Professional Travel Case for the S900",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/flymotion-professional-travel-case-for-the-s900.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$799.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:07 GMT",
+   "url": "http://www.getfpv.com/flymotion-professional-travel-case-for-the-s900.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

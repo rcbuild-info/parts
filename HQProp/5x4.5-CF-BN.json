@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "5x4.5 Bullnose Carbon Fiber Composite",
@@ -7,15 +9,43 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3553",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3551",
-   "http://www.getfpv.com/hqprop-5x4-5-bullnose-cw-propeller-carbon-composite-2-pack-black.html",
-   "http://www.getfpv.com/hqprop-5x4-5-bullnose-ccw-propeller-carbon-composite-2-pack-black.html",
-   "http://flyduino.net/HQProp-5x45-127cm-Bullnose-Propeller-Set-Black-4-pcs-Carbon-reinforced",
-   "http://www.readytoflyquads.com/hq-prop-5x4-carbon-composite-prop-547",
-   "http://www.multirotorsuperstore.com/props/props-by-size/5-inch/hqprop-5045-bullnose-carbon-fiber-nylon.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3553"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3551"
+  },
+  {
+   "description": "Black",
+   "price": "$2.99",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:18 GMT",
+   "url": "http://www.getfpv.com/hqprop-5x4-5-bullnose-cw-propeller-carbon-composite-2-pack-black.html"
+  },
+  {
+   "description": "Black",
+   "price": "$2.99",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:18 GMT",
+   "url": "http://www.getfpv.com/hqprop-5x4-5-bullnose-ccw-propeller-carbon-composite-2-pack-black.html"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-5x45-127cm-Bullnose-Propeller-Set-Black-4-pcs-Carbon-reinforced"
+  },
+  {
+   "url": "http://www.readytoflyquads.com/hq-prop-5x4-carbon-composite-prop-547"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/props/props-by-size/5-inch/hqprop-5045-bullnose-carbon-fiber-nylon.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDE",
  "name": " 1806XF-2350 Brushless Motor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/kde-1806xf-2350-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:37 GMT",
+   "url": "http://www.getfpv.com/kde-1806xf-2350-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

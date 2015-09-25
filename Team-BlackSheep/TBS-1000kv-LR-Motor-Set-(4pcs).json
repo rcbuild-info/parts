@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "TBS 1000kv LR Motor Set (4pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tbs-1000kv-lr-motor-set-4pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$180.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/3/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:14:34 GMT",
+   "url": "http://www.getfpv.com/tbs-1000kv-lr-motor-set-4pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

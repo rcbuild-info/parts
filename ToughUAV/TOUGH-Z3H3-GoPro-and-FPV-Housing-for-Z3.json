@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ToughUAV",
  "name": " - TOUGH Z3H3 GoPro and FPV Housing for Z3",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/toughuav-tough-z3h3-gopro-and-fpv-housing-for-z3.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:03 GMT",
+   "url": "http://www.getfpv.com/toughuav-tough-z3h3-gopro-and-fpv-housing-for-z3.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

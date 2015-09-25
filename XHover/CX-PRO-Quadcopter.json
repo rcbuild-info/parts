@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "XHover",
  "name": "CX PRO Quadcopter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/xhover-cx-pro-quadcopter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$119.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:50 GMT",
+   "url": "http://www.getfpv.com/xhover-cx-pro-quadcopter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

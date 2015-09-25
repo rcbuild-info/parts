@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " Predator V2 CE Video Glasses w/Transmitter and Camera",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-predator-v2-ce-video-glasses-w-transmitter-and-camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$339.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:01 GMT",
+   "url": "http://www.getfpv.com/fatshark-predator-v2-ce-video-glasses-w-transmitter-and-camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

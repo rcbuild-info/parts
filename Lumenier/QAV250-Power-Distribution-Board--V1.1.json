@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV250 Power Distribution Board  V1.1",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav250-power-distribution-board-v1-1.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:20 GMT",
+   "url": "http://www.getfpv.com/qav250-power-distribution-board-v1-1.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

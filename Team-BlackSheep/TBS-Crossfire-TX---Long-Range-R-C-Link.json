@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "TBS Crossfire TX - Long Range R/C Link",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tbs-crossfire-tx-long-range-r-c-link.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$208.99",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
+   "timestamp": "Fri, 25 Sep 2015 06:15:48 GMT",
+   "url": "http://www.getfpv.com/tbs-crossfire-tx-long-range-r-c-link.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

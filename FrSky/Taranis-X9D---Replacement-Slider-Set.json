@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": " Taranis X9D - Replacement Slider Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/frsky-taranis-x9d-replacement-slider-set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:21 GMT",
+   "url": "http://www.getfpv.com/frsky-taranis-x9d-replacement-slider-set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

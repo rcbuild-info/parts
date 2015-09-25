@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": " Receiver Antenna 40 cm",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/frsky-receiver-antenna-40-cm.html",
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=245"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.10",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:29 GMT",
+   "url": "http://www.getfpv.com/frsky-receiver-antenna-40-cm.html"
+  },
+  {
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=245"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

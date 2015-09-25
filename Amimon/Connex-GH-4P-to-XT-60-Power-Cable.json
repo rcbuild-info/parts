@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Amimon",
  "name": "Connex GH-4P to XT-60 Power Cable",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/connex-gh-4p-to-xt-60-power-cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:58 GMT",
+   "url": "http://www.getfpv.com/connex-gh-4p-to-xt-60-power-cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

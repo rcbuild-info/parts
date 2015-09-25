@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "R-Squared Innovations",
  "name": "Nemesis 240 Mini FPV Quadcopter (G10)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/nemesis-240-mini-fpv-quadcopter-g10.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$120.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:35 GMT",
+   "url": "http://www.getfpv.com/nemesis-240-mini-fpv-quadcopter-g10.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

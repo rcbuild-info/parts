@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " 9G Tilt/Roll Servo for PTR",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-9g-tilt-roll-servo-for-ptr.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:16 GMT",
+   "url": "http://www.getfpv.com/fatshark-9g-tilt-roll-servo-for-ptr.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "IBCrazy 433MHz Turnstyle UHF Antenna",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ibcrazy-433mhz-turnstyle-uhf-antenna.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:35 GMT",
+   "url": "http://www.getfpv.com/ibcrazy-433mhz-turnstyle-uhf-antenna.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

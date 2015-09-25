@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "The Missing Gear",
  "name": "NerdSense Mk. 1 OSD for NerdCam3D",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/nerdsense-mk-1-osd-for-nerdcam3d.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:50 GMT",
+   "url": "http://www.getfpv.com/nerdsense-mk-1-osd-for-nerdcam3d.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": null,
  "name": "DJI S900 Hexacopter Ready to Fly",
@@ -7,9 +7,14 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-s900-hexacopter-ready-to-fly.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "timestamp": "Fri, 25 Sep 2015 06:10:07 GMT",
+   "url": "http://www.getfpv.com/dji-s900-hexacopter-ready-to-fly.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

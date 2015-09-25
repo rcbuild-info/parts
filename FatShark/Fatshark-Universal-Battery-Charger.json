@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Fatshark Universal Battery Charger",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-universal-battery-charger.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$16.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:21 GMT",
+   "url": "http://www.getfpv.com/fatshark-universal-battery-charger.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

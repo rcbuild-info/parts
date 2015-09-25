@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "Mini Spider Hex",
@@ -9,10 +11,20 @@
   "manufacturer": [
    "http://www.minihquad.com/frames/mini-spider-hex/blackout-mini-spider-hex"
   ],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2568",
-   "http://www.getfpv.com/blackout-mini-spider-hex.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2568"
+  },
+  {
+   "price": "$219.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:06 GMT",
+   "url": "http://www.getfpv.com/blackout-mini-spider-hex.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

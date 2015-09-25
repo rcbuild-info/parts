@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RunCam HD 1080P Mini FPV Camera w/ F2.8 Wide Angle Lens",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/runcam-hd-1080p-mini-fpv-camera-w-f2-8-wide-angle-lens.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$69.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:09 GMT",
+   "url": "http://www.getfpv.com/runcam-hd-1080p-mini-fpv-camera-w-f2-8-wide-angle-lens.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

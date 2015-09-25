@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN4010-9 580kv",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-mn4010-9-580kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$86.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:28 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mn4010-9-580kv.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

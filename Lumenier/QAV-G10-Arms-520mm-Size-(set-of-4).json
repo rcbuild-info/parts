@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV G10 Arms 520mm Size (set of 4)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav-g10-arms-520mm-size-set-of-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$82.59",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:55 GMT",
+   "url": "http://www.getfpv.com/qav-g10-arms-520mm-size-set-of-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

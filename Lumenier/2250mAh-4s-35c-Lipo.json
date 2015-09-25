@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "2250mAh 4s 35c Lipo",
@@ -9,9 +11,17 @@
   "manufacturer": [
    "http://www.lumenier.com/products/lipo-batteries"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-2250mah-4s-35c-lipo-battery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/8/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:12:55 GMT",
+   "url": "http://www.getfpv.com/lumenier-2250mah-4s-35c-lipo-battery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

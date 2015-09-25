@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "9.4x4.3 Multirotor Fiberglass Composite",
@@ -7,11 +9,25 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2850",
-   "http://www.getfpv.com/hqprop-9-4x4-3-dji-self-tightening-propeller-2-blade-2-pack.html",
-   "https://www.multirotorparts.com/propellers/9/hqprop-9443-zelfborgende-propellers-voor-de-phantom-2-en-de-vision.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2850"
+  },
+  {
+   "description": "pack",
+   "price": "$9.99",
+   "quantity": 2,
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:40 GMT",
+   "url": "http://www.getfpv.com/hqprop-9-4x4-3-dji-self-tightening-propeller-2-blade-2-pack.html"
+  },
+  {
+   "url": "https://www.multirotorparts.com/propellers/9/hqprop-9443-zelfborgende-propellers-voor-de-phantom-2-en-de-vision.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

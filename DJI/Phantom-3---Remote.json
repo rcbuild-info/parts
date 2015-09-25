@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Phantom 3 - Remote",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-phantom-3-remote.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$590.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:09 GMT",
+   "url": "http://www.getfpv.com/dji-phantom-3-remote.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Carl Zeiss",
  "name": "Cinemizer FPV Lanyard",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/cinemizer-fpv-lanyard.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:00 GMT",
+   "url": "http://www.getfpv.com/cinemizer-fpv-lanyard.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

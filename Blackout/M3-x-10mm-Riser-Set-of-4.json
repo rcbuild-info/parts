@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "M3 x 10mm Riser Set of 4",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/m3-x-10mm-riser-set-of-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.94",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 5/28/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:09:50 GMT",
+   "url": "http://www.getfpv.com/m3-x-10mm-riser-set-of-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SmartFPV",
  "name": "GoPro Video Board (Straight) - Live Video Out + Charge",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/gopro-video-board-straight-live-video-out-charge.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:25 GMT",
+   "url": "http://www.getfpv.com/gopro-video-board-straight-live-video-out-charge.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

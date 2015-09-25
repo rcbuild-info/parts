@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Volantex",
  "name": "Replacement 40A Brushless ESC",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/volantex-replacement-40a-brushless-esc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:27 GMT",
+   "url": "http://www.getfpv.com/volantex-replacement-40a-brushless-esc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

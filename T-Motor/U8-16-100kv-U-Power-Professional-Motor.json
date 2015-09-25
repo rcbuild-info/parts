@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "U8-16 100kv U-Power Professional Motor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-u8-16-100kv-u-power-professional-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$279.90",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
+   "timestamp": "Fri, 25 Sep 2015 06:08:35 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-u8-16-100kv-u-power-professional-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

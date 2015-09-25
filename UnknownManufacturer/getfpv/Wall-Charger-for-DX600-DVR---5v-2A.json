@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Wall Charger for DX600 DVR - 5v 2A",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/wall-charger-for-dx600-dvr-5v-2a.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:02 GMT",
+   "url": "http://www.getfpv.com/wall-charger-for-dx600-dvr-5v-2a.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

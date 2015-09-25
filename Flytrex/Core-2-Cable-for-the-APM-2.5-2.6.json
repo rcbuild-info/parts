@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flytrex",
  "name": " Core 2 Cable for the APM 2.5/2.6",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/flytrex-core-2-cable-for-the-apm-2-5-2-6.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:39 GMT",
+   "url": "http://www.getfpv.com/flytrex-core-2-cable-for-the-apm-2-5-2-6.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

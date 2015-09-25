@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "8\" Lumenier Slim FPV Monitor w/ 5.8GHz 32CH Diversity Rx, DVR, Battery & HDMI",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/8-lumenier-slim-fpv-monitor-w-5-8ghz-32ch-diversity-rx-dvr-battery-hdmi.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$289.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:09 GMT",
+   "url": "http://www.getfpv.com/8-lumenier-slim-fpv-monitor-w-5-8ghz-32ch-diversity-rx-dvr-battery-hdmi.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

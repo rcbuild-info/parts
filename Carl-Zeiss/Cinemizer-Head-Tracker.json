@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Carl Zeiss",
  "name": "Cinemizer Head Tracker",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/cinemizer-head-tracker.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$199.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:50 GMT",
+   "url": "http://www.getfpv.com/cinemizer-head-tracker.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

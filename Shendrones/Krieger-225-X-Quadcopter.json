@@ -1,0 +1,34 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "Shendrones",
+ "name": "Krieger 225 X Quadcopter",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "_example": true,
+   "description": "",
+   "location": "",
+   "price": "",
+   "quantity": 0,
+   "stock_quantity": "",
+   "stock_state": "",
+   "stock_text": "",
+   "timestamp": "",
+   "url": ""
+  },
+  {
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:26 GMT",
+   "url": "http://www.getfpv.com/krieger-225-x-quadcopter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
+}

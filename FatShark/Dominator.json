@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " Dominator",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dominator.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:20 GMT",
+   "url": "http://www.getfpv.com/dominator.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

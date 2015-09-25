@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "AN1206 High Gain Whip 1.2 GHz 6dBi Antenna - SMA Male",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/an1206-high-gain-whip-1-2-ghz-6dbi-antenna-sma-male.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:01 GMT",
+   "url": "http://www.getfpv.com/an1206-high-gain-whip-1-2-ghz-6dbi-antenna-sma-male.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

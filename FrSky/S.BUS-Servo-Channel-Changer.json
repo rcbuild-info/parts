@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "S.BUS Servo Channel Changer",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=530",
-   "http://www.getfpv.com/frsky-s-bus-servo-channel-changer.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=530"
+  },
+  {
+   "price": "$15.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:50 GMT",
+   "url": "http://www.getfpv.com/frsky-s-bus-servo-channel-changer.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

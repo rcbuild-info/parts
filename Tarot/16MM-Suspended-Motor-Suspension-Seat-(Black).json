@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "16MM Suspended Motor Suspension Seat (Black)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tarot-16mm-suspended-motor-suspension-seat-black.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:59 GMT",
+   "url": "http://www.getfpv.com/tarot-16mm-suspended-motor-suspension-seat-black.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

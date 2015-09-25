@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": " CE-720 EFFIO-V - 720TVL Super WDR Camera",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-ce-720-effio-v-720tvl-super-wdr-camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$147.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:06 GMT",
+   "url": "http://www.getfpv.com/lumenier-ce-720-effio-v-720tvl-super-wdr-camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

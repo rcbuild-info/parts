@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "FM2216-11 900kv",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fm2216-11-900kv.html",
-   "https://www.liftrc.com/lumenier-fm2216-11-900kv"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:36 GMT",
+   "url": "http://www.getfpv.com/fm2216-11-900kv.html"
+  },
+  {
+   "url": "https://www.liftrc.com/lumenier-fm2216-11-900kv"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "TrueRC",
  "name": "5.8GHz X-AIR (LHCP)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/truerc-5-8ghz-x-air-lhcp.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$69.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:56 GMT",
+   "url": "http://www.getfpv.com/truerc-5-8ghz-x-air-lhcp.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

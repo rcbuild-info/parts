@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "GB85-1 Brushless Gimbal Motor (hollow shaft)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-gb85-1-brushless-gimbal-motor-hollow-shaft.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:08 GMT",
+   "url": "http://www.getfpv.com/tiger-gb85-1-brushless-gimbal-motor-hollow-shaft.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

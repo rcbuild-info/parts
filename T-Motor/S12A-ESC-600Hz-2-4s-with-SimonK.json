@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "S12A ESC 600Hz 2-4s with SimonK",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-s6a-600hz-2-3s-with-simonk-944.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:14 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-s6a-600hz-2-3s-with-simonk-944.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

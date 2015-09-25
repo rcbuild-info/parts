@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "AC/DC Power Adapter 12v 1.5A",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ac-dc-power-adapter-12v-1-5a.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:52 GMT",
+   "url": "http://www.getfpv.com/ac-dc-power-adapter-12v-1-5a.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

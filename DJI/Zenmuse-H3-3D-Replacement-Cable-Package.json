@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Zenmuse H3-3D Replacement Cable Package",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/zenmuse-h3-3d-replacement-cable-package.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:01 GMT",
+   "url": "http://www.getfpv.com/zenmuse-h3-3d-replacement-cable-package.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

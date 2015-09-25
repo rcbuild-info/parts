@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": " 5.8 GHz SpiroNET Antenna Set RHCP (SMA Connector)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/5-8-ghz-spironet-antenna-set-sma.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$39.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:22 GMT",
+   "url": "http://www.getfpv.com/5-8-ghz-spironet-antenna-set-sma.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

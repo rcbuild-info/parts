@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": " CORE Current Sensor 100 amps",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/core-current-sensor-100-amps.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:19 GMT",
+   "url": "http://www.getfpv.com/core-current-sensor-100-amps.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN1804 2400kv",
@@ -7,10 +9,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-mn1804-2400kv.html",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2496"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$25.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:55 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mn1804-2400kv.html"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2496"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV250 G10 Mini FPV Quadcopter",
@@ -11,9 +13,16 @@
   ],
   "related": [
    "http://www.rcgroups.com/forums/showthread.php?t=2039728"
-  ],
-  "store": [
-   "http://www.getfpv.com/qav250-mini-fpv-quadcopter.html"
   ]
- }
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:36 GMT",
+   "url": "http://www.getfpv.com/qav250-mini-fpv-quadcopter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

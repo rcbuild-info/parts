@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": " Danaus FPV Quadcopter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/danaus-fpv-quadcopter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$169.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:18 GMT",
+   "url": "http://www.getfpv.com/danaus-fpv-quadcopter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

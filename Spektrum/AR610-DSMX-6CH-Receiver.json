@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Spektrum",
  "name": "AR610 DSMX 6CH Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/spektrum-ar610-dsmx-6ch-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:47 GMT",
+   "url": "http://www.getfpv.com/spektrum-ar610-dsmx-6ch-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

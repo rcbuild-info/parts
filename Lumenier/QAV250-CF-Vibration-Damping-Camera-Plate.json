@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV250 CF Vibration Damping Camera Plate",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav250-cf-vibration-damping-camera-plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
+   "timestamp": "Fri, 25 Sep 2015 06:11:19 GMT",
+   "url": "http://www.getfpv.com/qav250-cf-vibration-damping-camera-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

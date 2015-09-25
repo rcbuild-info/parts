@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "Bearing Kit for Cobra 2204 Motors (2 Pcs)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/bearing-kit-for-cobra-2204-motors-2-pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "Pcs",
+   "price": "$4.99",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:55 GMT",
+   "url": "http://www.getfpv.com/bearing-kit-for-cobra-2204-motors-2-pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

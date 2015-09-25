@@ -1,5 +1,7 @@
 {
- "category": "videotx",
+ "categories": [
+  "videotx"
+ ],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "5.8GHz 600mw",
@@ -9,9 +11,17 @@
   "manufacturer": [
    "http://www.immersionrc.com/fpv-products/5-8ghz-600mw-av-tx/"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/5-8ghz-600mw-video-tx.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$69.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:22 GMT",
+   "url": "http://www.getfpv.com/5-8ghz-600mw-video-tx.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

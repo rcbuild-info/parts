@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV250 Angled Motor Mount Extensions",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav250-angled-motor-mount-extensions.html",
-   "https://www.liftrc.com/lumenier-qav250-angled-motor-mount-extensions"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$28.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:30 GMT",
+   "url": "http://www.getfpv.com/qav250-angled-motor-mount-extensions.html"
+  },
+  {
+   "url": "https://www.liftrc.com/lumenier-qav250-angled-motor-mount-extensions"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

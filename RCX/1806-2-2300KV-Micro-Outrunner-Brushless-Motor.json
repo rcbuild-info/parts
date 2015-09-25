@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": " 1806-2 2300KV Micro Outrunner Brushless Motor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/rcx-1806-2-2300kv-micro-outrunner-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:24 GMT",
+   "url": "http://www.getfpv.com/rcx-1806-2-2300kv-micro-outrunner-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

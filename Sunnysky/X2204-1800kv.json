@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X2204 1800kv",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/sunnysky-x2204-1800kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:55 GMT",
+   "url": "http://www.getfpv.com/sunnysky-x2204-1800kv.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

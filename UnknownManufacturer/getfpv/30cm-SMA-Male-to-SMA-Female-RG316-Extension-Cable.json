@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "30cm SMA Male to SMA Female RG316 Extension Cable",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/30cm-sma-male-to-sma-female-rg316-extension-cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:42 GMT",
+   "url": "http://www.getfpv.com/30cm-sma-male-to-sma-female-rg316-extension-cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

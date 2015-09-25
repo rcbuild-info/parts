@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "UBEC High Voltage - Adjustable 6V, 9V, 12V at 5A (14-40V Input)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ubec-high-voltage-adjustable-6v-9v-12v-at-5a-14-40v-input.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:20 GMT",
+   "url": "http://www.getfpv.com/ubec-high-voltage-adjustable-6v-9v-12v-at-5a-14-40v-input.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

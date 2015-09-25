@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "Short Snap-On Delrin Landing Gear for G10 Arms (set of 4)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/short-delrin-landing-gear-for-g10-arms-set-of-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$13.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:56 GMT",
+   "url": "http://www.getfpv.com/short-delrin-landing-gear-for-g10-arms-set-of-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "TBS JelloGuard for GoPro 3 & 4",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tbs-jelloguard-for-gopro-3-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$17.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/3/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:12:15 GMT",
+   "url": "http://www.getfpv.com/tbs-jelloguard-for-gopro-3-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

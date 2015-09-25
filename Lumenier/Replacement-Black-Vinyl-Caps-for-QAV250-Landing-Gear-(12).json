@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "Replacement Black Vinyl Caps for QAV250 Landing Gear (12)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/replacement-vinyl-black-caps-for-qav250-landing-gear-12.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:03 GMT",
+   "url": "http://www.getfpv.com/replacement-vinyl-black-caps-for-qav250-landing-gear-12.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

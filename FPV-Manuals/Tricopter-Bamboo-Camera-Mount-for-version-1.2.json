@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FPV Manuals",
  "name": "Tricopter Bamboo Camera Mount for version 1.2",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tricopter-camera-mount-452.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:32 GMT",
+   "url": "http://www.getfpv.com/tricopter-camera-mount-452.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

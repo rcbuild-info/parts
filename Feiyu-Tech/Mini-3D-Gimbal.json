@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Feiyu Tech",
  "name": "Mini 3D Gimbal",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/feiyutech-mini-3d-gimbal.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$179.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/29/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:12:49 GMT",
+   "url": "http://www.getfpv.com/feiyutech-mini-3d-gimbal.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FPV Manuals",
  "name": "Tricopter Flight Controller Cover, Yellow",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tricopter-flight-controller-cover-yellow.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:51 GMT",
+   "url": "http://www.getfpv.com/tricopter-flight-controller-cover-yellow.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

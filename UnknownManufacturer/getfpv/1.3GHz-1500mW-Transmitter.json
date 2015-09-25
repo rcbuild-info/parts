@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": null,
  "name": "1.3GHz 1500mW Transmitter",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/1-3ghz-1500mw-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$77.99",
+   "timestamp": "Fri, 25 Sep 2015 06:08:06 GMT",
+   "url": "http://www.getfpv.com/1-3ghz-1500mw-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

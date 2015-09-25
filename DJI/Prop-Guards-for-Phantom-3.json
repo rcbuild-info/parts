@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Prop Guards for Phantom 3",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/prop-guards-for-phantom-3.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:09 GMT",
+   "url": "http://www.getfpv.com/prop-guards-for-phantom-3.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "GoPro",
  "name": "HERO4 Silver + Free LayerLens or Memory Card",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/gopro-hero4-silver-free-layerlens-or-memory-card.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$399.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:30 GMT",
+   "url": "http://www.getfpv.com/gopro-hero4-silver-free-layerlens-or-memory-card.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

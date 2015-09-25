@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": " DJ 2.4Ghz Combo Pack for JR w/ Module & RX",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/frsky-dj-2-4ghz-combo-pack-for-jr-w-module-rx.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$52.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:33 GMT",
+   "url": "http://www.getfpv.com/frsky-dj-2-4ghz-combo-pack-for-jr-w-module-rx.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

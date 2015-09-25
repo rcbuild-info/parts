@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": " Flamewheel F450 ARF Kit",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-flamewheel-f450-arf-kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$190.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:11 GMT",
+   "url": "http://www.getfpv.com/dji-flamewheel-f450-arf-kit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

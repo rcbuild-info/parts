@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "Propeller Reducers (2.9, 3.1, 4mm) (4 pcs)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/propeller-reducers-2-9-3-1-4mm-4-pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "pcs",
+   "price": "$0.99",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:07 GMT",
+   "url": "http://www.getfpv.com/propeller-reducers-2-9-3-1-4mm-4-pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hovership",
  "name": "ZUUL Racehound 285 Edition Frame",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/zuul-racehound-285-edition-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:11 GMT",
+   "url": "http://www.getfpv.com/zuul-racehound-285-edition-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

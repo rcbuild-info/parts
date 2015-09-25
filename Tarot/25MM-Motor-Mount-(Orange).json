@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "25MM Motor Mount (Orange)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tarot-25mm-motor-mount-orange.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$21.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:14 GMT",
+   "url": "http://www.getfpv.com/tarot-25mm-motor-mount-orange.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

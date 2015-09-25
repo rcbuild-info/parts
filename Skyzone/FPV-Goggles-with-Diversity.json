@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyzone",
  "name": " FPV Goggles with Diversity",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/skyzone-fpv-goggles-with-diversity.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:34 GMT",
+   "url": "http://www.getfpv.com/skyzone-fpv-goggles-with-diversity.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "U7 490kv U-Power Professional Motor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-u7-490kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$149.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:17 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-u7-490kv.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

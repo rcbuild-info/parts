@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SmartFPV",
  "name": "3 CH RC Video Switch",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/3-ch-rc-video-switch.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:52 GMT",
+   "url": "http://www.getfpv.com/3-ch-rc-video-switch.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

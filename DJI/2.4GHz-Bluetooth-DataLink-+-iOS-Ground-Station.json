@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": " 2.4GHz Bluetooth DataLink + iOS Ground Station",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-2-4ghz-bluetooth-datalink-ios-ground-station.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$199.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:57 GMT",
+   "url": "http://www.getfpv.com/dji-2-4ghz-bluetooth-datalink-ios-ground-station.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

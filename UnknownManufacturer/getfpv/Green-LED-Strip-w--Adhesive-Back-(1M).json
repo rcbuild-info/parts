@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Green LED Strip w/ Adhesive Back (1M)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/green-led-strip-w-adhesive-back-1m.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:14 GMT",
+   "url": "http://www.getfpv.com/green-led-strip-w-adhesive-back-1m.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

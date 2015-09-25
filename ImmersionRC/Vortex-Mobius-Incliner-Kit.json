@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Vortex Mobius Incliner Kit",
@@ -7,11 +7,23 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4211",
-   "http://www.getfpv.com/vortex-mobius-incliner-kit.html",
-   "https://www.multirotorparts.com/frames/immersionrc/immersionrc-vortex-mobius-incliner-kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4211"
+  },
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:43 GMT",
+   "url": "http://www.getfpv.com/vortex-mobius-incliner-kit.html"
+  },
+  {
+   "url": "https://www.multirotorparts.com/frames/immersionrc/immersionrc-vortex-mobius-incliner-kit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

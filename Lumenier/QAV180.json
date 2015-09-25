@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV180",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav180-carbon-fiber-fpv-quadcopter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$74.99",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Fri, 25 Sep 2015 06:16:04 GMT",
+   "url": "http://www.getfpv.com/qav180-carbon-fiber-fpv-quadcopter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

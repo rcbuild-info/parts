@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "M5 CW Prop Adapter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-m5-cw-prop-adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:40 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-m5-cw-prop-adapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": " RF Tin Shield for CORE",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tbs-rf-tin-shield.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/3/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:16:17 GMT",
+   "url": "http://www.getfpv.com/tbs-rf-tin-shield.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Replacement Washers - 4MM (10pcs, steel)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/replacement-washers-4mm-10pcs-steel.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:34 GMT",
+   "url": "http://www.getfpv.com/replacement-washers-4mm-10pcs-steel.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

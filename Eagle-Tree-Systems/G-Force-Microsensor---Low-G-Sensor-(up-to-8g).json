@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Eagle Tree Systems",
  "name": "G-Force Microsensor - Low G Sensor (up to 8g)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/g-force-microsensor-low-g-sensor-up-to-8g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:41 GMT",
+   "url": "http://www.getfpv.com/g-force-microsensor-low-g-sensor-up-to-8g.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

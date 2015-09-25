@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "CM-2204 1960kv",
@@ -9,13 +11,29 @@
   "manufacturer": [
    "http://www.cobramotorsusa.com/multirotor-2204-32.html"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/cobra-cm-2204-1960kv-motor.html",
-   "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=108",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=274",
-   "http://www.multirotorsuperstore.com/motors/motors-by-size/22xx/cobra-2204-1960kv-brushless-motor.html",
-   "http://www.dronematters.com/power-system/cobra-2204-32-1960kv-2-4s-brushless-motor-integrated-mount.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$20.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:31 GMT",
+   "url": "http://www.getfpv.com/cobra-cm-2204-1960kv-motor.html"
+  },
+  {
+   "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=108"
+  },
+  {
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=274"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/motors-by-size/22xx/cobra-2204-1960kv-brushless-motor.html"
+  },
+  {
+   "url": "http://www.dronematters.com/power-system/cobra-2204-32-1960kv-2-4s-brushless-motor-integrated-mount.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

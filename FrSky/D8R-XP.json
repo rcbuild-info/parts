@@ -1,5 +1,7 @@
 {
- "category": "receiver",
+ "categories": [
+  "receiver"
+ ],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "D8R-XP",
@@ -9,10 +11,20 @@
   "manufacturer": [
    "http://www.frsky-rc.com/product/pro.php?pro_id=21"
   ],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2970",
-   "http://www.getfpv.com/frsky-d8r-xp-2-4ghz-receiver-w-telemetry.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2970"
+  },
+  {
+   "price": "$33.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:32 GMT",
+   "url": "http://www.getfpv.com/frsky-d8r-xp-2-4ghz-receiver-w-telemetry.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

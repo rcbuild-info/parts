@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Spektrum",
  "name": "DX5e DSMX 2.4Ghz 5-Channel TX+RX Mode 2",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dx5e-dsmx-2-4ghz-5-channel-tx-rx-mode-2.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$89.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 8/27/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:12:17 GMT",
+   "url": "http://www.getfpv.com/dx5e-dsmx-2-4ghz-5-channel-tx-rx-mode-2.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

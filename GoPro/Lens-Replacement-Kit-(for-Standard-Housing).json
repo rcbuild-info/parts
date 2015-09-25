@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "GoPro",
  "name": " - Lens Replacement Kit (for Standard Housing)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/gopro-lens-replacement-kit-for-standard-housing.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:43 GMT",
+   "url": "http://www.getfpv.com/gopro-lens-replacement-kit-for-standard-housing.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

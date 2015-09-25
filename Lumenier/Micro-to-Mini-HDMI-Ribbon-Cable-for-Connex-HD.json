@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "Micro to Mini HDMI Ribbon Cable for Connex HD",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/micro-to-mini-hdmi-ribbon-cable-for-connex-hd.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:38 GMT",
+   "url": "http://www.getfpv.com/micro-to-mini-hdmi-ribbon-cable-for-connex-hd.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

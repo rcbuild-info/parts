@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "800mAh 3s 20c Lipo Battery (JST)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-800mah-3s-20c-lipo-battery-jst.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:10 GMT",
+   "url": "http://www.getfpv.com/lumenier-800mah-3s-20c-lipo-battery-jst.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

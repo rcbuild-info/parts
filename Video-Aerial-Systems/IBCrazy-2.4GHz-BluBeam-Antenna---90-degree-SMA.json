@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "IBCrazy 2.4GHz BluBeam Antenna / 90 degree SMA",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/2-4ghz-blubeam-whip-with-90-degree-sma.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$54.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:23 GMT",
+   "url": "http://www.getfpv.com/2-4ghz-blubeam-whip-with-90-degree-sma.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

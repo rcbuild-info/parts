@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SmartFPV",
  "name": "RC Camera Control (RCCC) V2",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/rc-camera-control-rccc-v2.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/24/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:13:52 GMT",
+   "url": "http://www.getfpv.com/rc-camera-control-rccc-v2.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

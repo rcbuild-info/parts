@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "Replacement Top Plate for the TBS Discovery",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/replacement-top-plate-for-the-tbs-discovery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/3/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:13:55 GMT",
+   "url": "http://www.getfpv.com/replacement-top-plate-for-the-tbs-discovery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

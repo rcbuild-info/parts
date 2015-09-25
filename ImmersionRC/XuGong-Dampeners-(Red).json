@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "XuGong Dampeners (Red)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3000",
-   "http://www.getfpv.com/xugong-dampeners-red.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3000"
+  },
+  {
+   "price": "$8.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:13 GMT",
+   "url": "http://www.getfpv.com/xugong-dampeners-red.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

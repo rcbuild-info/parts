@@ -1,5 +1,7 @@
 {
- "category": "videotx",
+ "categories": [
+  "videotx"
+ ],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "5.8GHz 250mW",
@@ -7,10 +9,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=485",
-   "http://www.getfpv.com/fat-shark-5-8ghz-250mw-a-v-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=485"
+  },
+  {
+   "price": "$64.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:05 GMT",
+   "url": "http://www.getfpv.com/fat-shark-5-8ghz-250mw-a-v-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

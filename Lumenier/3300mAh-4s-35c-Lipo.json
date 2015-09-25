@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "3300mAh 4s 35c Lipo",
@@ -9,9 +11,17 @@
   "manufacturer": [
    "http://www.lumenier.com/products/lipo-batteries"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-3300mah-4s-35c-lipo-battery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$46.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:58 GMT",
+   "url": "http://www.getfpv.com/lumenier-3300mah-4s-35c-lipo-battery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "osd",
+ "categories": [
+  "osd"
+ ],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "TBS Core PNP25",
@@ -9,9 +11,17 @@
   "manufacturer": [
    "http://www.team-blacksheep.com/products/prod:core_pnp25"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tbs-core-pnp25.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$69.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:52 GMT",
+   "url": "http://www.getfpv.com/tbs-core-pnp25.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

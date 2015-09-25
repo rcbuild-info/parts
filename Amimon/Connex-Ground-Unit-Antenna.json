@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Amimon",
  "name": "Connex Ground Unit Antenna",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/connex-ground-unit-antenna.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:31 GMT",
+   "url": "http://www.getfpv.com/connex-ground-unit-antenna.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

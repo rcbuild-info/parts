@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Tattu",
  "name": "4S1P 1300mAh 75C Racing Lipo Battery Pack",
@@ -7,11 +9,23 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/batteries/1083-tattu-4s1p-1300mah-75c-racing-lipo-battery-pack.html",
-   "http://www.getfpv.com/tattu-1300mah-4s-75c-lipo-battery.html",
-   "http://www.multirotorsuperstore.com/batteries/tattu-4s-1300mah-75c-lipo-battery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://multirotormania.com/batteries/1083-tattu-4s1p-1300mah-75c-racing-lipo-battery-pack.html"
+  },
+  {
+   "price": "$33.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:51 GMT",
+   "url": "http://www.getfpv.com/tattu-1300mah-4s-75c-lipo-battery.html"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/batteries/tattu-4s-1300mah-75c-lipo-battery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

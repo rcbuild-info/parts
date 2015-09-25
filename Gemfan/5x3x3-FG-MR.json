@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5x3x3 Multirotor Fiberglass Nylon",
@@ -7,16 +9,52 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3814",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2817",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2814",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2816",
-   "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-green.html",
-   "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-orange.html",
-   "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-black.html",
-   "http://www.dronematters.com/power-system/gemfan-5030-triblade-propellers-nylon-3ccw.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3814"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2817"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2814"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2816"
+  },
+  {
+   "description": "Green",
+   "price": "$17.45",
+   "quantity": 20,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:40 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-green.html"
+  },
+  {
+   "description": "Orange",
+   "price": "$19.95",
+   "quantity": 20,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:40 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-orange.html"
+  },
+  {
+   "description": "Black",
+   "price": "$19.95",
+   "quantity": 20,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:41 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-black.html"
+  },
+  {
+   "url": "http://www.dronematters.com/power-system/gemfan-5030-triblade-propellers-nylon-3ccw.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

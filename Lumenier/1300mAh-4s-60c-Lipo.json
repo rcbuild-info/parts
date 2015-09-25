@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "1300mAh 4s 60c Lipo",
@@ -9,9 +11,17 @@
   "manufacturer": [
    "http://www.lumenier.com/products/lipo-batteries"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-1300mah-4s-60c-lipo-battery-xt60.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:18 GMT",
+   "url": "http://www.getfpv.com/lumenier-1300mah-4s-60c-lipo-battery-xt60.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

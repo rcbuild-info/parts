@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Right Angle Pin Header 1 Row, 20 Pin, 2.54mm Pitch (2pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/right-angle-pin-header-1-row-20-pin-2-54mm-pitch-2pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:27 GMT",
+   "url": "http://www.getfpv.com/right-angle-pin-header-1-row-20-pin-2-54mm-pitch-2pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

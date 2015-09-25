@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Naze32 Pin Header Set (Straight + Right Angle)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/naze32-pin-header-set-straight-right-angle.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:26 GMT",
+   "url": "http://www.getfpv.com/naze32-pin-header-set-straight-right-angle.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "VAS Specter V3 Airplane",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/specter-airplane-basic-kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$134.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:38 GMT",
+   "url": "http://www.getfpv.com/specter-airplane-basic-kit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

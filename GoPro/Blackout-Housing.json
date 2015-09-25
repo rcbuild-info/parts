@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "GoPro",
  "name": "Blackout Housing",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3365",
-   "http://www.getfpv.com/gopro-blackout-housing.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3365"
+  },
+  {
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:44 GMT",
+   "url": "http://www.getfpv.com/gopro-blackout-housing.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

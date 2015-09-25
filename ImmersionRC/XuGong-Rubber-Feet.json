@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "XuGong Rubber Feet",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/xugong-rubber-feet.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:12 GMT",
+   "url": "http://www.getfpv.com/xugong-rubber-feet.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

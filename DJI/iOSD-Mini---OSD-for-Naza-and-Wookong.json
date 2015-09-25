@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": " iOSD Mini - OSD for Naza and Wookong",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-iosd-mini-osd-for-naza-and-wookong.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:01 GMT",
+   "url": "http://www.getfpv.com/dji-iosd-mini-osd-for-naza-and-wookong.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

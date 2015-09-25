@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "APC",
  "name": " 8x4.5MR",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/apc-8x4-5mr.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:51 GMT",
+   "url": "http://www.getfpv.com/apc-8x4-5mr.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

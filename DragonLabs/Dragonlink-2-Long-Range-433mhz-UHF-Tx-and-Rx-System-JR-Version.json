@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DragonLabs",
  "name": "Dragonlink 2 Long Range 433mhz UHF Tx and Rx System JR Version",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dragonlink-2-long-range-433mhz-uhf-tx-and-rx-system.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$267.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:11 GMT",
+   "url": "http://www.getfpv.com/dragonlink-2-long-range-433mhz-uhf-tx-and-rx-system.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

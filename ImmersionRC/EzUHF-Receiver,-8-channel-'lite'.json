@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": " EzUHF Receiver, 8 channel 'lite'",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ezuhf-receiver-8-channel-lite.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:22 GMT",
+   "url": "http://www.getfpv.com/ezuhf-receiver-8-channel-lite.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

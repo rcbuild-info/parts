@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": " S800 EVO Frame Arm (CW)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-s800-evo-frame-arm-cw.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$65.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:01 GMT",
+   "url": "http://www.getfpv.com/dji-s800-evo-frame-arm-cw.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

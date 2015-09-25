@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT-2216-11 900kv V2",
@@ -7,11 +9,23 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-mt-2216-11-900kv-v2.html",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1493",
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-T-Motor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$54.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:22 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mt-2216-11-900kv-v2.html"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1493"
+  },
+  {
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-T-Motor"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

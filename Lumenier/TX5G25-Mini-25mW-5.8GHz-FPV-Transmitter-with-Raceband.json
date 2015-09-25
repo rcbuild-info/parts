@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "TX5G25 Mini 25mW 5.8GHz FPV Transmitter with Raceband",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-tx5g25-mini-25mw-5-8ghz-fpv-racing-transmitter.html",
-   "https://www.liftrc.com/lumenier-tx5g25-mini-25mw-5-8ghz-fpv-transmitter-with-raceband"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$28.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:42 GMT",
+   "url": "http://www.getfpv.com/lumenier-tx5g25-mini-25mw-5-8ghz-fpv-racing-transmitter.html"
+  },
+  {
+   "url": "https://www.liftrc.com/lumenier-tx5g25-mini-25mw-5-8ghz-fpv-transmitter-with-raceband"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

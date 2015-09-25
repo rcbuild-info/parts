@@ -1,5 +1,7 @@
 {
- "category": "receiver",
+ "categories": [
+  "receiver"
+ ],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": " D6FR 6 Channel Receiver (w/telemetry)",
@@ -9,9 +11,17 @@
   "manufacturer": [
    "http://www.frsky-rc.com/product/pro.php?pro_id=23"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/frsky-d6fr-6-channel-receiver-w-telemetry.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$26.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:42 GMT",
+   "url": "http://www.getfpv.com/frsky-d6fr-6-channel-receiver-w-telemetry.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

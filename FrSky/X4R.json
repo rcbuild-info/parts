@@ -1,5 +1,7 @@
 {
- "category": "receiver",
+ "categories": [
+  "receiver"
+ ],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "X4R",
@@ -9,11 +11,23 @@
   "manufacturer": [
    "http://www.frsky-rc.com/product/pro.php?pro_id=134"
   ],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3318",
-   "http://www.getfpv.com/frsky-x4r-4-channel-receiver.html",
-   "http://www.dronematters.com/radios/frsky-x4r-4-channel-accst-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3318"
+  },
+  {
+   "price": "$24.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/18/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:11:09 GMT",
+   "url": "http://www.getfpv.com/frsky-x4r-4-channel-receiver.html"
+  },
+  {
+   "url": "http://www.dronematters.com/radios/frsky-x4r-4-channel-accst-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

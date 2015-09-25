@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "Mini Spider Hex - Power Distribution Board",
@@ -7,11 +7,23 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3523",
-   "http://www.getfpv.com/mini-spider-hex-power-distribution-board.html",
-   "https://www.multirotorparts.com/frames/spare-parts/blackout-parts/mini-spider-hex/blackout-mini-spider-hex-power-distribution-board.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3523"
+  },
+  {
+   "price": "$23.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:15 GMT",
+   "url": "http://www.getfpv.com/mini-spider-hex-power-distribution-board.html"
+  },
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/blackout-parts/mini-spider-hex/blackout-mini-spider-hex-power-distribution-board.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

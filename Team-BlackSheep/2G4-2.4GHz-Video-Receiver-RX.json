@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": " 2G4 2.4GHz Video Receiver RX",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/team-blacksheep-2g4-2-4ghz-video-receiver-rx.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$129.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:18 GMT",
+   "url": "http://www.getfpv.com/team-blacksheep-2g4-2-4ghz-video-receiver-rx.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

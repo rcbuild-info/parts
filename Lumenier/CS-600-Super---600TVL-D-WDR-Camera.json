@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": " CS-600 Super - 600TVL D-WDR Camera",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-cs-600-super-600tvl-d-wdr.html",
-   "https://www.liftrc.com/lumenier-cs-600-super-600tvl-d-wdr-camera"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$56.99",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
+   "timestamp": "Fri, 25 Sep 2015 06:08:11 GMT",
+   "url": "http://www.getfpv.com/lumenier-cs-600-super-600tvl-d-wdr.html"
+  },
+  {
+   "url": "https://www.liftrc.com/lumenier-cs-600-super-600tvl-d-wdr-camera"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

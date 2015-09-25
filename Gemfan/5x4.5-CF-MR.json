@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5x4.5 Multirotor Carbon Fiber",
@@ -7,11 +9,25 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4192",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4055",
-   "http://www.getfpv.com/gemfan-5x4-5-propeller-carbon-fiber-1-pair.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4192"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4055"
+  },
+  {
+   "description": "Pair",
+   "price": "$4.99",
+   "quantity": 1,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:46 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x4-5-propeller-carbon-fiber-1-pair.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

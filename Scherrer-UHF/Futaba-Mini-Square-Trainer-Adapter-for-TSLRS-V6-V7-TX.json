@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Scherrer UHF",
  "name": "Futaba Mini Square Trainer Adapter for TSLRS V6/V7 TX",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/futaba-mini-square-trainer-adapter-for-tslrs-v6-v7-tx.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$55.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:19 GMT",
+   "url": "http://www.getfpv.com/futaba-mini-square-trainer-adapter-for-tslrs-v6-v7-tx.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

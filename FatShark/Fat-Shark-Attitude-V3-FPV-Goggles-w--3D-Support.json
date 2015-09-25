@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Fat Shark Attitude V3 FPV Goggles w/ 3D Support",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fat-shark-attitude-v3-fpv-goggles-w-3d-support.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$331.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:13 GMT",
+   "url": "http://www.getfpv.com/fat-shark-attitude-v3-fpv-goggles-w-3d-support.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

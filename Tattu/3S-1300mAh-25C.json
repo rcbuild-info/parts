@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Tattu",
  "name": "TATTU 1300mAh 3s 25c Lipo Battery (XT60)",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tattu-1300mah-3s-25c-lipo-battery-xt60.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.53",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:59 GMT",
+   "url": "http://www.getfpv.com/tattu-1300mah-3s-25c-lipo-battery-xt60.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

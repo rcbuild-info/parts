@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": null,
  "name": "Male to Female Servo Extension Cable Twisted 22AWG - JR Style (5 pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/male-to-female-servo-extension-cable-twisted-22awg-jr-style-5-pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "pcs",
+   "price": "$5.99",
+   "quantity": 5,
+   "timestamp": "Fri, 25 Sep 2015 06:07:56 GMT",
+   "url": "http://www.getfpv.com/male-to-female-servo-extension-cable-twisted-22awg-jr-style-5-pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "27x8.8 Carbon Fiber Props (pair)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-27x8-8-carbon-fiber-props-pair.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$354.99",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
+   "timestamp": "Fri, 25 Sep 2015 06:14:28 GMT",
+   "url": "http://www.getfpv.com/tiger-27x8-8-carbon-fiber-props-pair.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

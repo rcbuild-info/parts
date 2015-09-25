@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "1800mAh 4s 35c Lipo",
@@ -9,10 +11,20 @@
   "manufacturer": [
    "http://www.lumenier.com/products/lipo-batteries"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-1800mah-4s-35c-lipo-battery-xt60.html",
-   "https://www.liftrc.com/lumenier-1800mah-4s-35c-lipo-battery"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$25.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:15 GMT",
+   "url": "http://www.getfpv.com/lumenier-1800mah-4s-35c-lipo-battery-xt60.html"
+  },
+  {
+   "url": "https://www.liftrc.com/lumenier-1800mah-4s-35c-lipo-battery"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "M2 x 12mm Bolt - Black Nylon 6/6 - (set of 4)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/m2-x-12mm-bolt-black-nylon-6-6-set-of-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.31",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:53 GMT",
+   "url": "http://www.getfpv.com/m2-x-12mm-bolt-black-nylon-6-6-set-of-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": " 12 amp ESC w/ SimonK AutoShot (2-4s N-FET)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-12a-esc-w-simonk-autoshot-2-4s-n-fet.html",
-   "https://www.liftrc.com/lumenier-12-amp-esc-simonk-autoshot-2-4s-n-fet"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$16.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:37 GMT",
+   "url": "http://www.getfpv.com/lumenier-12a-esc-w-simonk-autoshot-2-4s-n-fet.html"
+  },
+  {
+   "url": "https://www.liftrc.com/lumenier-12-amp-esc-simonk-autoshot-2-4s-n-fet"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

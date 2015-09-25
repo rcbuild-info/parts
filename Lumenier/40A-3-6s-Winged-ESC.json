@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "40A 3-6s Winged ESC",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-40a-3-6s-winged-esc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:27 GMT",
+   "url": "http://www.getfpv.com/lumenier-40a-3-6s-winged-esc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

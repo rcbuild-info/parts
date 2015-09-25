@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "GoPro Holder for the Phantom 2",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-gopro-holder-for-the-phantom-2.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:33 GMT",
+   "url": "http://www.getfpv.com/fatshark-gopro-holder-for-the-phantom-2.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

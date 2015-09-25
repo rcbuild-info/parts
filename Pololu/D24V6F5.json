@@ -1,5 +1,7 @@
 {
- "category": "voltagereg",
+ "categories": [
+  "voltagereg"
+ ],
  "equivalent": [],
  "manufacturer": "Pololu",
  "name": "D24V6F5",
@@ -9,10 +11,20 @@
   "manufacturer": [
    "https://www.pololu.com/product/2107"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/5v-step-down-voltage-regulator.html",
-   "http://www.multirotorsuperstore.com/accessories/pololu-5v-step-down-voltage-regulator.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:42 GMT",
+   "url": "http://www.getfpv.com/5v-step-down-voltage-regulator.html"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/pololu-5v-step-down-voltage-regulator.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

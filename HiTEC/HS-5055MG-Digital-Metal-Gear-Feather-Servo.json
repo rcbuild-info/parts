@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HiTEC",
  "name": " HS-5055MG Digital Metal Gear Feather Servo",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hitec-hs-5055mg-digital-metal-gear-feather-servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$27.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:07 GMT",
+   "url": "http://www.getfpv.com/hitec-hs-5055mg-digital-metal-gear-feather-servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

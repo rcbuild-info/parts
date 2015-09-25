@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "IBCrazy 1.3GHz BluBeam Omni Skew-Planar Antenna (single)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ibcrazy-1-3ghz-blubeam-omni-skew-planar-antenna-single.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$28.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:58 GMT",
+   "url": "http://www.getfpv.com/ibcrazy-1-3ghz-blubeam-omni-skew-planar-antenna-single.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

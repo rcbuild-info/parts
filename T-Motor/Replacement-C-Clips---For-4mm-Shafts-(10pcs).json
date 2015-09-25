@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Replacement C-Clips - For 4mm Shafts (10pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/replacement-c-clips-for-4mm-shafts-10pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:34 GMT",
+   "url": "http://www.getfpv.com/replacement-c-clips-for-4mm-shafts-10pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Smart Port RPM Sensor with 2 Temperature Sensors",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/smart-port-rpm-sensor-with-2-temperature-sensors.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.75",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:46 GMT",
+   "url": "http://www.getfpv.com/smart-port-rpm-sensor-with-2-temperature-sensors.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

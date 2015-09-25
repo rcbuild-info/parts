@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT-2216 V2 / V3 Bearings (EZO+Germany)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-mt-2216-v2-bearings-ezo-germany.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$23.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:35 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mt-2216-v2-bearings-ezo-germany.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

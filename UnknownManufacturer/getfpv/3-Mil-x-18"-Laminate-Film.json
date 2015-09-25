@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3 Mil x 18\" Laminate Film",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/3-mil-x-18-laminate-film.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.85",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:22 GMT",
+   "url": "http://www.getfpv.com/3-mil-x-18-laminate-film.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

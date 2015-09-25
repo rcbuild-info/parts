@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HiTEC",
  "name": " HS-81 Standard Micro Servo",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hitec-hs-81-standard-micro-servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:06 GMT",
+   "url": "http://www.getfpv.com/hitec-hs-81-standard-micro-servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

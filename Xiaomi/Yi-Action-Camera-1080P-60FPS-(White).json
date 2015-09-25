@@ -1,5 +1,7 @@
 {
- "category": "hqcam",
+ "categories": [
+  "hqcam"
+ ],
  "equivalent": [],
  "manufacturer": "Xiaomi",
  "name": "Yi",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/xiaomi-yi-action-camera-1080p-60fps-white.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:09 GMT",
+   "url": "http://www.getfpv.com/xiaomi-yi-action-camera-1080p-60fps-white.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

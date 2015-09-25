@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Feiyu Tech",
  "name": "Mini 2D Gimbal",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/feiyutech-mini-2d-gimbal.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$119.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:48 GMT",
+   "url": "http://www.getfpv.com/feiyutech-mini-2d-gimbal.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "Carbon-Fiber Landing Gear for QAV400 & QAV500 Aluminum Arms",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav500-landing-gear-cf.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$26.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:31 GMT",
+   "url": "http://www.getfpv.com/qav500-landing-gear-cf.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " PilotHD V1 FPV Camera with 720p SD Recorder",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-pilothd-fpv-camera-with-720p-sd-recorder.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$39.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:19 GMT",
+   "url": "http://www.getfpv.com/fatshark-pilothd-fpv-camera-with-720p-sd-recorder.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

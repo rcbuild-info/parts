@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "AltitudeRC",
  "name": " Nano 25mw 5.8GHz FPV Video Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/altituderc-nano-25mw-5-8ghz-fpv-video-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:22 GMT",
+   "url": "http://www.getfpv.com/altituderc-nano-25mw-5-8ghz-fpv-video-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "XHover",
  "name": "MXP300 Carbon Fiber FPV Quadcopter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/xhover-mxp300-carbon-fiber-fpv-quadcopter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$219.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:44 GMT",
+   "url": "http://www.getfpv.com/xhover-mxp300-carbon-fiber-fpv-quadcopter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

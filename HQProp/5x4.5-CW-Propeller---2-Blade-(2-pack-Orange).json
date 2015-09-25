@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "5x4.5 CW Propeller - 2 Blade (2 pack Orange)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hqprop-5x4-5-cw-propeller-2-blade-2-pack-orange.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "Orange",
+   "price": "$2.99",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:04 GMT",
+   "url": "http://www.getfpv.com/hqprop-5x4-5-cw-propeller-2-blade-2-pack-orange.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

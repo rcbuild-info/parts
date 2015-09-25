@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "6x4.5 Multirotor Fiberglass Nylon",
@@ -7,18 +9,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4188",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4187",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4186",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3625",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3623",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3624",
-   "http://www.getfpv.com/gemfan-6x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html",
-   "http://www.getfpv.com/gemfan-6x4-5-nylon-glass-fiber-propeller-set-of-4-black.html",
-   "http://www.getfpv.com/gemfan-6x4-5-nylon-glass-fiber-propeller-set-of-4-green.html",
-   "http://www.dronematters.com/power-system/gemfan-6045-propellers-nylon-4-ccw.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4188"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4187"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4186"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3625"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3623"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3624"
+  },
+  {
+   "description": "Orange",
+   "price": "$35.90",
+   "quantity": 40,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:35 GMT",
+   "url": "http://www.getfpv.com/gemfan-6x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html"
+  },
+  {
+   "description": "Black",
+   "price": "$35.90",
+   "quantity": 40,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:35 GMT",
+   "url": "http://www.getfpv.com/gemfan-6x4-5-nylon-glass-fiber-propeller-set-of-4-black.html"
+  },
+  {
+   "description": "Green",
+   "price": "$35.90",
+   "quantity": 40,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:36 GMT",
+   "url": "http://www.getfpv.com/gemfan-6x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
+  },
+  {
+   "url": "http://www.dronematters.com/power-system/gemfan-6045-propellers-nylon-4-ccw.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hubsan",
  "name": " X4 USB Charger for H107L/H107C/H107D",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hubsan-x4-usb-charger-for-h107l-h107c-h107d.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/1/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:08:22 GMT",
+   "url": "http://www.getfpv.com/hubsan-x4-usb-charger-for-h107l-h107c-h107d.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

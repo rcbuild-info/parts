@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "GoPro",
  "name": "Battery BacPac",
@@ -7,11 +7,23 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2881",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=470",
-   "http://www.getfpv.com/gopro-battery-bacpac.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2881"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=470"
+  },
+  {
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:47 GMT",
+   "url": "http://www.getfpv.com/gopro-battery-bacpac.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

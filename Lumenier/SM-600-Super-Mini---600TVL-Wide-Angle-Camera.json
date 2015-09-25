@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": " SM-600 Super Mini - 600TVL Wide Angle Camera",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-sm-600-super-mini-600tvl-wide-angle-camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:00 GMT",
+   "url": "http://www.getfpv.com/lumenier-sm-600-super-mini-600tvl-wide-angle-camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

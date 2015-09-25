@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DragonLabs",
  "name": "Dragonlink USB Update Device for V2 Transmitters and Receivers",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dragonlink-usb-update-device-for-v2-transmitters-and-receivers.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:17 GMT",
+   "url": "http://www.getfpv.com/dragonlink-usb-update-device-for-v2-transmitters-and-receivers.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

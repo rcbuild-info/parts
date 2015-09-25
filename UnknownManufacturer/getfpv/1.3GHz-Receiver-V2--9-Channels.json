@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1.3GHz Receiver V2- 9 Channels",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/1-3ghz-receiver-9-channels.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$40.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:06 GMT",
+   "url": "http://www.getfpv.com/1-3ghz-receiver-9-channels.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

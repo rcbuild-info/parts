@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M5 Orange Aluminum Flange Lock Nut (set of 4)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/m5-orange-aluminum-flange-lock-nut-set-of-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:13 GMT",
+   "url": "http://www.getfpv.com/m5-orange-aluminum-flange-lock-nut-set-of-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hovership Mini 3-LED Bar",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hovership-mini-3-led-bar.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "timestamp": "Fri, 25 Sep 2015 06:15:09 GMT",
+   "url": "http://www.getfpv.com/hovership-mini-3-led-bar.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

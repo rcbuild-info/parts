@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": " CP-520 Pico - 520TVL Nano Camera",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-cp-520-pico-520tvl-nano-camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:40 GMT",
+   "url": "http://www.getfpv.com/lumenier-cp-520-pico-520tvl-nano-camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

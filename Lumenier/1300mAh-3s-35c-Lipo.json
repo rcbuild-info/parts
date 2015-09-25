@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "1300mAh 3s 35c Lipo",
@@ -9,10 +11,24 @@
   "manufacturer": [
    "http://www.lumenier.com/products/lipo-batteries"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-1300mah-3s-35c-lipo-battery-xt60.html",
-   "http://www.getfpv.com/lumenier-1300mah-3s-35c-lipo-battery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$16.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:56 GMT",
+   "url": "http://www.getfpv.com/lumenier-1300mah-3s-35c-lipo-battery-xt60.html"
+  },
+  {
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:55 GMT",
+   "url": "http://www.getfpv.com/lumenier-1300mah-3s-35c-lipo-battery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

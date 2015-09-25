@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "GoPro",
  "name": "Anti-Fog Inserts",
@@ -7,11 +7,23 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=407",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1281",
-   "http://www.getfpv.com/gopro-anti-fog-inserts.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=407"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1281"
+  },
+  {
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:42 GMT",
+   "url": "http://www.getfpv.com/gopro-anti-fog-inserts.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

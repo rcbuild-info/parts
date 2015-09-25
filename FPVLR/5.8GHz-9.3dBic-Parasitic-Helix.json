@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FPVLR",
  "name": " 5.8GHz 9.3dBic Parasitic Helix",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/5-8ghz-9-3dbic-parasitic-helix.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$74.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:07 GMT",
+   "url": "http://www.getfpv.com/5-8ghz-9-3dbic-parasitic-helix.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

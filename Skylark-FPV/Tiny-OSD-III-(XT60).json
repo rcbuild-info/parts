@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skylark FPV",
  "name": "Tiny OSD III (XT60)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/skylark-tiny-osd-iii-xt60.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$108.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/28/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:14:04 GMT",
+   "url": "http://www.getfpv.com/skylark-tiny-osd-iii-xt60.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " Pan Tilt for 600TVL CMOS camera",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-pan-tilt-for-600tvl-cmos-camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$22.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:48 GMT",
+   "url": "http://www.getfpv.com/fatshark-pan-tilt-for-600tvl-cmos-camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

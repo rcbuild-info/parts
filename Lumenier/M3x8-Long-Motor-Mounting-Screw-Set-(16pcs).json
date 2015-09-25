@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "M3x8 Long Motor Mounting Screw Set (16pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/m3x8-long-motor-mounting-screw-set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:21 GMT",
+   "url": "http://www.getfpv.com/m3x8-long-motor-mounting-screw-set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

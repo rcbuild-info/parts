@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT-2212-16 750kv",
@@ -7,12 +9,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-mt-2212-16-750kv.html",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1491",
-   "http://flyduino.net/T-Motor-MT2212-750KV_1",
-   "http://flyduino.net/T-Motor-MT2212-750KV"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:06 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mt-2212-16-750kv.html"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1491"
+  },
+  {
+   "url": "http://flyduino.net/T-Motor-MT2212-750KV_1"
+  },
+  {
+   "url": "http://flyduino.net/T-Motor-MT2212-750KV"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

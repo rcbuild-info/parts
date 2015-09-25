@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lawmate",
  "name": "2.4GHz LawMate Deluxe Portable High Sensitivity Receiver (R2400)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/2-4ghz-lawmate-deluxe-portable-high-sensitivity-receiver-r2400.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:03 GMT",
+   "url": "http://www.getfpv.com/2-4ghz-lawmate-deluxe-portable-high-sensitivity-receiver-r2400.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

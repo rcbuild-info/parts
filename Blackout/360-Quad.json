@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "360 Quad",
@@ -9,10 +11,20 @@
   "manufacturer": [
    "http://www.minihquad.com/frames/blackout-330/blackout-330-frame"
   ],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3657",
-   "http://www.getfpv.com/blackout-360-quad-frame-w-pdb.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3657"
+  },
+  {
+   "price": "$258.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:24 GMT",
+   "url": "http://www.getfpv.com/blackout-360-quad-frame-w-pdb.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN-4012 + 4014 Series Bearings",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-mn-4012-4014-series-bearings.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:39 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mn-4012-4014-series-bearings.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

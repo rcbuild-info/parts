@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV500 Power Distribution Board v2",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav500-power-distribution-board-v2.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$39.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:30 GMT",
+   "url": "http://www.getfpv.com/qav500-power-distribution-board-v2.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

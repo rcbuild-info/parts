@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV250 Mini FPV Quadcopter - Carbon Fiber Edition",
@@ -11,9 +13,17 @@
   ],
   "related": [
    "http://www.rcgroups.com/forums/showthread.php?t=2039728"
-  ],
-  "store": [
-   "http://www.getfpv.com/qav250-mini-fpv-quadcopter-carbon-fiber-edition.html"
   ]
- }
+ },
+ "variants": [
+  {
+   "price": "$149.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:39 GMT",
+   "url": "http://www.getfpv.com/qav250-mini-fpv-quadcopter-carbon-fiber-edition.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "LayerLens GoPro Lens Protection (for GoPro 1 & 2)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/layerlens.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$22.99",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
+   "timestamp": "Fri, 25 Sep 2015 06:16:36 GMT",
+   "url": "http://www.getfpv.com/layerlens.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

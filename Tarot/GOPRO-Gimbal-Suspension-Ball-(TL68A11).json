@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": " GOPRO Gimbal Suspension Ball (TL68A11)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tarot-gopro-gimbal-suspension-ball-tl68a11.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 3/19/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:09:13 GMT",
+   "url": "http://www.getfpv.com/tarot-gopro-gimbal-suspension-ball-tl68a11.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

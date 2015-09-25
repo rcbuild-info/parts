@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT-4006-13 740kv",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-mt-4006-13-740kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$82.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:25 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mt-4006-13-740kv.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "VueXL",
  "name": "VX1 FPV Headset",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/vuexl-vx1-fpv-headset.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "out_of_stock",
+   "stock_text": "Pre-Order",
+   "timestamp": "Fri, 25 Sep 2015 06:16:07 GMT",
+   "url": "http://www.getfpv.com/vuexl-vx1-fpv-headset.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

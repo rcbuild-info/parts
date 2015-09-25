@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "M5 CCW Prop Adapter for MN1806, 1804, 2204 (1 set/bag)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-m5-ccw-prop-adapter-for-mn1806-1804-2204-1-set-bag.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 8/27/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:12:49 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-m5-ccw-prop-adapter-for-mn1806-1804-2204-1-set-bag.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

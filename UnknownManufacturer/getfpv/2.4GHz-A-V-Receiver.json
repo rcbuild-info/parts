@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2.4GHz A/V Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/2-4ghz-a-v-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$40.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:32 GMT",
+   "url": "http://www.getfpv.com/2-4ghz-a-v-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

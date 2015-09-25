@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Folding Aluminum GPS Antenna Mast for DJI",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/folding-aluminum-gps-mast-for-dji.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:02 GMT",
+   "url": "http://www.getfpv.com/folding-aluminum-gps-mast-for-dji.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

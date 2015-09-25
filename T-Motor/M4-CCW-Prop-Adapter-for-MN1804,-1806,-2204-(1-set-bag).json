@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "M4 CCW Prop Adapter for MN1804, 1806, 2204 (1 set/bag)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-m4-cw-prop-adapter-for-mn1804-1806-2204-1-set-bag-1495.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 1/28/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:09:33 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-m4-cw-prop-adapter-for-mn1804-1806-2204-1-set-bag-1495.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV540G Brushless Gimbal Airframe",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav540g-brushless-gimbal-airframe.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$359.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Discontinued",
+   "timestamp": "Fri, 25 Sep 2015 06:07:45 GMT",
+   "url": "http://www.getfpv.com/qav540g-brushless-gimbal-airframe.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

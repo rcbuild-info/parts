@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "IBCrazy 5.8GHz 12.5dbic Helical Black Cannon",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/5-8ghz-12-5dbic-helical-black-cannon.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:23 GMT",
+   "url": "http://www.getfpv.com/5-8ghz-12-5dbic-helical-black-cannon.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

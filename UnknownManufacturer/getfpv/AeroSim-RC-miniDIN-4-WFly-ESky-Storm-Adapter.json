@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "AeroSim RC miniDIN-4 WFly/ESky/Storm Adapter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/aerosim-rc-minidin-4-wfly-esky-storm-adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:26 GMT",
+   "url": "http://www.getfpv.com/aerosim-rc-minidin-4-wfly-esky-storm-adapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

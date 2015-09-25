@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN2212 920kv v2.0",
@@ -7,12 +9,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-mn2212-920kv-v2-0.html",
-   "http://flyduino.net/Brushless-Motor-Multicopter-T-Motor-Navigator-MN2212",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2500",
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-Navigator-Series_12"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$46.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:14 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mn2212-920kv-v2-0.html"
+  },
+  {
+   "url": "http://flyduino.net/Brushless-Motor-Multicopter-T-Motor-Navigator-MN2212"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2500"
+  },
+  {
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-Navigator-Series_12"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

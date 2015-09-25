@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": " Iron Man 650 Folding Quadcopter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tarot-iron-man-650-folding-quadcopter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$124.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:13 GMT",
+   "url": "http://www.getfpv.com/tarot-iron-man-650-folding-quadcopter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

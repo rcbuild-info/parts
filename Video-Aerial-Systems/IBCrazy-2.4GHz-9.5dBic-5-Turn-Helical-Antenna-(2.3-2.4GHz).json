@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "IBCrazy 2.4GHz 9.5dBic 5 Turn Helical Antenna (2.3-2.4GHz)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ibcrazy-2-4ghz-9-5dbic-5-turn-helical-antenna.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:19 GMT",
+   "url": "http://www.getfpv.com/ibcrazy-2-4ghz-9-5dbic-5-turn-helical-antenna.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

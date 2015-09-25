@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "10.1\" Lumenier LCD FPV Monitor with 5.8GHz 32CH Diversity Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/10-1-lumenier-lcd-fpv-monitor-with-5-8ghz-32ch-diversity-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$209.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:14 GMT",
+   "url": "http://www.getfpv.com/10-1-lumenier-lcd-fpv-monitor-with-5-8ghz-32ch-diversity-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": " Stickers (3 per sheet)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-stickers-3-per-sheet.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.59",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:53 GMT",
+   "url": "http://www.getfpv.com/lumenier-stickers-3-per-sheet.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

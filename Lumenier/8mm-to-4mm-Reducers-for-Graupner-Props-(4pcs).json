@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "8mm to 4mm Reducers for Graupner Props (4pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/graupner-prop-reducers-8mm-to-4mm-4pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:20 GMT",
+   "url": "http://www.getfpv.com/graupner-prop-reducers-8mm-to-4mm-4pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

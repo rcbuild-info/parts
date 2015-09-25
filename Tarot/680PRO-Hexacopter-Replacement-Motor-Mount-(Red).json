@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "680PRO Hexacopter Replacement Motor Mount (Red)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tarot-680pro-hexacopter-replacement-motor-mount-red.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:45 GMT",
+   "url": "http://www.getfpv.com/tarot-680pro-hexacopter-replacement-motor-mount-red.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

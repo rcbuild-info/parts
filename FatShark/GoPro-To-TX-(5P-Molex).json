@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " GoPro To TX (5P Molex)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-gopro-to-tx-5p-molex.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:49 GMT",
+   "url": "http://www.getfpv.com/fatshark-gopro-to-tx-5p-molex.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

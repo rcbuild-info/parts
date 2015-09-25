@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": " PM1806 2300kv Plastic Brushless Motor (CCW)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/emax-pm1806-2300kv-plastic-brushless-motor-ccw.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:16 GMT",
+   "url": "http://www.getfpv.com/emax-pm1806-2300kv-plastic-brushless-motor-ccw.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

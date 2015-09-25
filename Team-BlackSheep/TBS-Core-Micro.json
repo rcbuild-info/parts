@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "TBS Core Micro",
@@ -9,9 +9,17 @@
   "manufacturer": [
    "http://www.team-blacksheep.com/products/prod:core_micro"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tbs-core-micro.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$26.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:34 GMT",
+   "url": "http://www.getfpv.com/tbs-core-micro.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

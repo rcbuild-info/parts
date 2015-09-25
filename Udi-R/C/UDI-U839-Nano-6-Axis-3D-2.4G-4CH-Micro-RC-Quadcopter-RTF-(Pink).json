@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Udi R/C",
  "name": "UDI U839 Nano 6 Axis 3D 2.4G 4CH Micro RC Quadcopter RTF (Pink)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/udi-u839-nano-6-axis-3d-2-4g-4ch-micro-rc-quadcopter-rtf-pink.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$36.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:59 GMT",
+   "url": "http://www.getfpv.com/udi-u839-nano-6-axis-3d-2-4g-4ch-micro-rc-quadcopter-rtf-pink.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

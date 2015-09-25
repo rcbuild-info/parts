@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "E-flite",
  "name": "E-Flite 200mAh 1s 30c Lipo Battery",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/e-flite-200mah-1s-30c-lipo-battery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:11 GMT",
+   "url": "http://www.getfpv.com/e-flite-200mah-1s-30c-lipo-battery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

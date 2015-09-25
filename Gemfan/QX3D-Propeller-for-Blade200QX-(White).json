@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "QX3D Propeller for Blade200QX (White)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/gemfan-qx3d-propeller-for-blade200qx-white.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:34 GMT",
+   "url": "http://www.getfpv.com/gemfan-qx3d-propeller-for-blade200qx-white.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

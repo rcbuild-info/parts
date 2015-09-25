@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EC5 Lipo Pigtail Connection 12AWG (1pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ec5-lipo-pigtail-connection-12awg-1pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:43 GMT",
+   "url": "http://www.getfpv.com/ec5-lipo-pigtail-connection-12awg-1pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

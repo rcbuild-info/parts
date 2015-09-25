@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": " D25SA High Speed Digital Servo",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/frsky-d25sa-high-speed-digital-servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$31.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:09 GMT",
+   "url": "http://www.getfpv.com/frsky-d25sa-high-speed-digital-servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

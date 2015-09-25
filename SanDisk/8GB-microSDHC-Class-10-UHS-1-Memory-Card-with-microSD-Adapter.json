@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SanDisk",
  "name": " 8GB microSDHC Class 10 UHS-1 Memory Card with microSD Adapter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/sandisk-8gb-microsdhc-class-10-uhs-1-memory-card-with-microsd-adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:40 GMT",
+   "url": "http://www.getfpv.com/sandisk-8gb-microsdhc-class-10-uhs-1-memory-card-with-microsd-adapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

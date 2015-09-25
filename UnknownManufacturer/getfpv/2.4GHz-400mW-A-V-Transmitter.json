@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2.4GHz 400mW A/V Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/2-4ghz-400mw-a-v-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$47.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:22 GMT",
+   "url": "http://www.getfpv.com/2-4ghz-400mw-a-v-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

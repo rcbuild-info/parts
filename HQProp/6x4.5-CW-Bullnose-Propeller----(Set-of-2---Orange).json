@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "6x4.5 CW Bullnose Propeller -  (Set of 2 - Orange)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hqprop-6x4-5-cw-bullnose-propeller-set-of-2-orange.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "Orange",
+   "price": "$3.09",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:59 GMT",
+   "url": "http://www.getfpv.com/hqprop-6x4-5-cw-bullnose-propeller-set-of-2-orange.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

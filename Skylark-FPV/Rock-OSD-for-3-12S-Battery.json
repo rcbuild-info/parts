@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skylark FPV",
  "name": "Rock OSD for 3-12S Battery",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/skylark-rock-osd-for-3-12s-battery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$148.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:09 GMT",
+   "url": "http://www.getfpv.com/skylark-rock-osd-for-3-12s-battery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

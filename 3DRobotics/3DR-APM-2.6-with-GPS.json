@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "3DR APM 2.6 with GPS",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/3dr-apm-2-6-with-gps.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:12 GMT",
+   "url": "http://www.getfpv.com/3dr-apm-2-6-with-gps.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

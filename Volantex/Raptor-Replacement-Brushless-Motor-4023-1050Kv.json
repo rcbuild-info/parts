@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Volantex",
  "name": "Raptor Replacement Brushless Motor 4023/1050Kv",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/raptor-replacement-brushless-motor-4023-1050kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$17.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:25 GMT",
+   "url": "http://www.getfpv.com/raptor-replacement-brushless-motor-4023-1050kv.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

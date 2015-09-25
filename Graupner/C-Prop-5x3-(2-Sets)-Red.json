@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Graupner",
  "name": "C-Prop 5x3 (2 Sets) Red",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/graupner-c-prop-5x3-2-sets.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "Sets",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:42 GMT",
+   "url": "http://www.getfpv.com/graupner-c-prop-5x3-2-sets.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

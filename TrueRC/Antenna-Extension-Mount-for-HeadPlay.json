@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "TrueRC",
  "name": "Antenna Extension Mount for HeadPlay",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/antenna-extension-mount-for-headplay.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.49",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/29/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:15:56 GMT",
+   "url": "http://www.getfpv.com/antenna-extension-mount-for-headplay.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

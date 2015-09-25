@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Eagle Tree Systems",
  "name": "Extended 12\" Receiver Connection Harness for Vector",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2589",
-   "http://www.getfpv.com/extra-receiver-connection-harness-for-vector-1210.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2589"
+  },
+  {
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:16 GMT",
+   "url": "http://www.getfpv.com/extra-receiver-connection-harness-for-vector-1210.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Inspire 1 - 180W Rapid Charge Power Adapter (without AC Cable)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/inspire-1-180w-rapid-charge-power-adapter-without-ac-cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$90.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:13 GMT",
+   "url": "http://www.getfpv.com/inspire-1-180w-rapid-charge-power-adapter-without-ac-cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "receiver",
+ "categories": [
+  "receiver"
+ ],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Delta 8",
@@ -9,10 +11,20 @@
   "manufacturer": [
    "http://www.frsky-rc.com/product/pro.php?pro_id=110"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/frsky-delta-8-2-4ghz-8ch-multi-brand-receiver.html",
-   "http://www.dronematters.com/radios/frsky-delta-8-rx.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:34 GMT",
+   "url": "http://www.getfpv.com/frsky-delta-8-2-4ghz-8ch-multi-brand-receiver.html"
+  },
+  {
+   "url": "http://www.dronematters.com/radios/frsky-delta-8-rx.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

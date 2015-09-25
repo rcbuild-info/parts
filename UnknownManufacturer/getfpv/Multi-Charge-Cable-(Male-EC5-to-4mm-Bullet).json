@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Multi Charge Cable (Male EC5 to 4mm Bullet)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/multi-charge-cable-male-ec5-to-4mm-bullet.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:10 GMT",
+   "url": "http://www.getfpv.com/multi-charge-cable-male-ec5-to-4mm-bullet.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

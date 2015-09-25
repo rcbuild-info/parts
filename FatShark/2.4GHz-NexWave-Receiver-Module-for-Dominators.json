@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " 2.4GHz NexWave Receiver Module for Dominators",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-2-4ghz-receiver-module-for-dominators.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:09 GMT",
+   "url": "http://www.getfpv.com/fatshark-2-4ghz-receiver-module-for-dominators.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

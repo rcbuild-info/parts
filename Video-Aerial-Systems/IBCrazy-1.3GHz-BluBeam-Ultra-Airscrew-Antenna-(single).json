@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "IBCrazy 1.3GHz BluBeam Ultra Airscrew Antenna (single)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ibcrazy-1-3ghz-blubeam-ultra-airscrew-antenna-single.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$34.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:21 GMT",
+   "url": "http://www.getfpv.com/ibcrazy-1-3ghz-blubeam-ultra-airscrew-antenna-single.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

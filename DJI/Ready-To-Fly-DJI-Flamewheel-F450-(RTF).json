@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Ready To Fly DJI Flamewheel F450 (RTF)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ready-to-fly-dji-flamewheel-f450-rtf.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$349.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:46 GMT",
+   "url": "http://www.getfpv.com/ready-to-fly-dji-flamewheel-f450-rtf.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

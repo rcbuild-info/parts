@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "TrueRC",
  "name": " 5.8GHz X\u00b2-AIR Antenna",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/truerc-5-8ghz-x-air-antenna.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/29/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:10:35 GMT",
+   "url": "http://www.getfpv.com/truerc-5-8ghz-x-air-antenna.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "Clear Soft Silicone Bobbins (4pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/clear-soft-silicone-bobbins-4pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$13.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:07 GMT",
+   "url": "http://www.getfpv.com/clear-soft-silicone-bobbins-4pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": " FCS-40A SMARTPort Current Sensor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/frsky-fcs-40a-smartport-current-sensor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$25.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:30 GMT",
+   "url": "http://www.getfpv.com/frsky-fcs-40a-smartport-current-sensor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

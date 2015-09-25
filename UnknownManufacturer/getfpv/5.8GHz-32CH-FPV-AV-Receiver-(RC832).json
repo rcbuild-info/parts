@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5.8GHz 32CH FPV AV Receiver (RC832)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/5-8ghz-32ch-fpv-av-receiver-rc832.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:13 GMT",
+   "url": "http://www.getfpv.com/5-8ghz-32ch-fpv-av-receiver-rc832.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

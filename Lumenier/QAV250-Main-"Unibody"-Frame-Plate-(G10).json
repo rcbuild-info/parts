@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV250 Main \"Unibody\" Frame Plate (G10)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav250-main-unibody-frame-plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:23 GMT",
+   "url": "http://www.getfpv.com/qav250-main-unibody-frame-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

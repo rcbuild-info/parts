@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " Pan/Tilt/Roll Camera Mount + Servos",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-pan-tilt-roll-camera-mount-servos.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:30 GMT",
+   "url": "http://www.getfpv.com/fatshark-pan-tilt-roll-camera-mount-servos.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

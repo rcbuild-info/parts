@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tattu",
  "name": "TATTU 16000mAh 4s 15c Lipo Battery",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tattu-16000mah-4s-15c-lipo-battery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$248.83",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:22 GMT",
+   "url": "http://www.getfpv.com/tattu-16000mah-4s-15c-lipo-battery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

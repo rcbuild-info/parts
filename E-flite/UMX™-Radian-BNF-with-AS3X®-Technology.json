@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "E-flite",
  "name": "UMX\u2122 Radian BNF with AS3X\u00ae Technology",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/umxtm-radian-bnf-with-as3xr-technology.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:42 GMT",
+   "url": "http://www.getfpv.com/umxtm-radian-bnf-with-as3xr-technology.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

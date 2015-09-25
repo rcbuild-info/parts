@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "APC",
  "name": " 18x5.5MRP",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/apc-18x5-5mrp.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:57 GMT",
+   "url": "http://www.getfpv.com/apc-18x5-5mrp.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

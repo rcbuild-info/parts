@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "XHover",
  "name": "Replacement Red Standoffs 40mm (6pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/replacement-red-standoffs-40mm-6pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:33 GMT",
+   "url": "http://www.getfpv.com/replacement-red-standoffs-40mm-6pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

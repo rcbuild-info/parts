@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": " CS-800 Super - 800TVL S-WDR Camera (w/ case)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-cs-800-super-800tvl-s-wdr-camera-w-case.html",
-   "https://www.liftrc.com/lumenier-cs-800-super-800tvl-s-wdr-camera-w-case"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:36 GMT",
+   "url": "http://www.getfpv.com/lumenier-cs-800-super-800tvl-s-wdr-camera-w-case.html"
+  },
+  {
+   "url": "https://www.liftrc.com/lumenier-cs-800-super-800tvl-s-wdr-camera-w-case"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": " UBEC - 5V, 5.5V, 6v 5A (2-6s input)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-ubec-5v-5-5v-6v-5a-2-6s-input.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:27 GMT",
+   "url": "http://www.getfpv.com/lumenier-ubec-5v-5-5v-6v-5a-2-6s-input.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

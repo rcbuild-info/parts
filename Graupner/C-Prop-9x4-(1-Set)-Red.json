@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Graupner",
  "name": "C-Prop 9x4 (1 Set) Red",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/graupner-c-prop-9x4-1-set-red.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "Set",
+   "price": "$13.90",
+   "quantity": 1,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:40 GMT",
+   "url": "http://www.getfpv.com/graupner-c-prop-9x4-1-set-red.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

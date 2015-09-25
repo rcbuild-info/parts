@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "OpenPilot CC3D Atom Flight Controller w/ Case",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/openpilot-cc3d-atom-mini-flight-controller.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:15 GMT",
+   "url": "http://www.getfpv.com/openpilot-cc3d-atom-mini-flight-controller.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

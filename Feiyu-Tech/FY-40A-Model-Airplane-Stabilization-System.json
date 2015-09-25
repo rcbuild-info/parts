@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Feiyu Tech",
  "name": "FY-40A Model Airplane Stabilization System",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fy-40a-model-airplane-stabilization-system.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$69.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:02 GMT",
+   "url": "http://www.getfpv.com/fy-40a-model-airplane-stabilization-system.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Feiyu Tech",
  "name": "FY-G3 Steadycam Handheld Gimbal",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fy-g3-steadycam-handheld-gimbal.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:02 GMT",
+   "url": "http://www.getfpv.com/fy-g3-steadycam-handheld-gimbal.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

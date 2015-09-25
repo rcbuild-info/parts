@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Graupner",
  "name": " CAM Folding Prop 7x4",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/graupner-cam-folding-prop-7x4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.39",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:44 GMT",
+   "url": "http://www.getfpv.com/graupner-cam-folding-prop-7x4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyzone",
  "name": " TS800 5.8GHz 32CH 1500mW AV Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/skyzone-ts800-5-8ghz-32ch-1500mw-av-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:15 GMT",
+   "url": "http://www.getfpv.com/skyzone-ts800-5-8ghz-32ch-1500mw-av-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

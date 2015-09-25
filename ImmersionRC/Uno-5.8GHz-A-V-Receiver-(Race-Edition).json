@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Uno 5.8GHz A/V Receiver (Race Edition)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/immersionrc-uno-5-8ghz-a-v-receiver-race-edition.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$61.99",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
+   "timestamp": "Fri, 25 Sep 2015 06:12:45 GMT",
+   "url": "http://www.getfpv.com/immersionrc-uno-5-8ghz-a-v-receiver-race-edition.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

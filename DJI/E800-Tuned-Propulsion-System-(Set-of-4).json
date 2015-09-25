@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "E800 Tuned Propulsion System (Set of 4)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-e800-tuned-propulsion-system-set-of-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$319.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:34 GMT",
+   "url": "http://www.getfpv.com/dji-e800-tuned-propulsion-system-set-of-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

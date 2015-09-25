@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "Lens Mount OSD Cable & Heat Sink Accessories for Lumenier CU-690 Ultra",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lens-mount-osd-cable-heat-sink-accessories-for-lumenier-cu-690-ultra.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:14 GMT",
+   "url": "http://www.getfpv.com/lens-mount-osd-cable-heat-sink-accessories-for-lumenier-cu-690-ultra.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

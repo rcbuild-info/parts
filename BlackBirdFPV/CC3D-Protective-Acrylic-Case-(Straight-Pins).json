@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "BlackBirdFPV",
  "name": "CC3D Protective Acrylic Case (Straight Pins)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/cc3d-protective-acrylic-case-straight-pins.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:05 GMT",
+   "url": "http://www.getfpv.com/cc3d-protective-acrylic-case-straight-pins.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

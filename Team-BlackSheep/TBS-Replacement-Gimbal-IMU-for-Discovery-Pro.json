@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "TBS Replacement Gimbal IMU for Discovery Pro",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tbs-replacement-gimbal-imu-for-discovery-pro.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/3/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:13:30 GMT",
+   "url": "http://www.getfpv.com/tbs-replacement-gimbal-imu-for-discovery-pro.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

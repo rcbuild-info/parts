@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Phantom 2 Vision Plus",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-phantom-2-vision-fpv-3-axis-brushless-gimbal.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:51 GMT",
+   "url": "http://www.getfpv.com/dji-phantom-2-vision-fpv-3-axis-brushless-gimbal.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

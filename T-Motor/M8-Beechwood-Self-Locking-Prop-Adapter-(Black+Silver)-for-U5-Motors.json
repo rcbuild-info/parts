@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "M8 Beechwood Self-Locking Prop Adapter (Black+Silver) for U5 Motors",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/m8-beechwood-self-locking-prop-adapter-black-silver-for-u5-motors.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:37 GMT",
+   "url": "http://www.getfpv.com/m8-beechwood-self-locking-prop-adapter-black-silver-for-u5-motors.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

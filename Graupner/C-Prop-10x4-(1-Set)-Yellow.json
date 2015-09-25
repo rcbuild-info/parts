@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Graupner",
  "name": "C-Prop 10x4 (1 Set) Yellow",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/graupner-c-prop-10x4-1-set-yellow.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "Set",
+   "price": "$14.90",
+   "quantity": 1,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:39 GMT",
+   "url": "http://www.getfpv.com/graupner-c-prop-10x4-1-set-yellow.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

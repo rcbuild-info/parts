@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "U10 Plus 170kv U-Power Professional Motor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-u10-plus-170kv-u-power-professional-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$339.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:08 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-u10-plus-170kv-u-power-professional-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

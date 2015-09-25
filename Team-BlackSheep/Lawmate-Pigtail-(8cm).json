@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": " Lawmate Pigtail (8cm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/team-blacksheep-lawmate-pigtail-8cm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/3/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:07:16 GMT",
+   "url": "http://www.getfpv.com/team-blacksheep-lawmate-pigtail-8cm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

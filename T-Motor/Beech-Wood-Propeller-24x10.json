@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Beech Wood Propeller 24x10",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-beech-wood-propeller-24x10.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$98.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:26 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-beech-wood-propeller-24x10.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

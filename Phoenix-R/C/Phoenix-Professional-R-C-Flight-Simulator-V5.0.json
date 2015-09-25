@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Phoenix R/C",
  "name": "Phoenix Professional R/C Flight Simulator V5.0",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/phoenix-5-professional-radio-control-flight-simulation.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$129.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:17 GMT",
+   "url": "http://www.getfpv.com/phoenix-5-professional-radio-control-flight-simulation.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

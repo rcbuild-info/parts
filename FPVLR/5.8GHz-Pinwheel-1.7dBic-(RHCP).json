@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FPVLR",
  "name": " 5.8GHz Pinwheel 1.7dBic (RHCP)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fpvlr-5-8ghz-pinwheel-1-7dbic-rhcp.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:53 GMT",
+   "url": "http://www.getfpv.com/fpvlr-5-8ghz-pinwheel-1-7dbic-rhcp.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

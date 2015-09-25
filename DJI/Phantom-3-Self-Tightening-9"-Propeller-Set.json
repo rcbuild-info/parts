@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Phantom 3 Self-Tightening 9\" Propeller Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-phantom-3-vision-self-tightening-9-propeller-set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/4/2015",
+   "timestamp": "Fri, 25 Sep 2015 06:16:14 GMT",
+   "url": "http://www.getfpv.com/dji-phantom-3-vision-self-tightening-9-propeller-set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

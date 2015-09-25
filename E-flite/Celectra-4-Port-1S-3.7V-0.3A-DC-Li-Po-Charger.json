@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "E-flite",
  "name": "Celectra 4-Port 1S 3.7V 0.3A DC Li-Po Charger",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/celectra-4-port-1s-3-7v-0-3a-dc-li-po-charger.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:11 GMT",
+   "url": "http://www.getfpv.com/celectra-4-port-1s-3-7v-0-3a-dc-li-po-charger.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

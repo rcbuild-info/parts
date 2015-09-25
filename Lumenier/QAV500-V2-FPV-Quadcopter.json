@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV500 V2 FPV Quadcopter",
@@ -9,9 +11,15 @@
   "manufacturer": [
    "http://www.lumenier.com/products/multirotors/qav500"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav500-v2-fpv-quadcopter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$114.99",
+   "timestamp": "Fri, 25 Sep 2015 06:10:58 GMT",
+   "url": "http://www.getfpv.com/qav500-v2-fpv-quadcopter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

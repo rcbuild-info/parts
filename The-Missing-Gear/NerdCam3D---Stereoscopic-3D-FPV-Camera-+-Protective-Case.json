@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "The Missing Gear",
  "name": "NerdCam3D - Stereoscopic 3D FPV Camera + Protective Case",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/nerdcam3d-stereoscopic-3d-fpv-camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$199.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:31 GMT",
+   "url": "http://www.getfpv.com/nerdcam3d-stereoscopic-3d-fpv-camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

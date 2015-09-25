@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "680 Pro 3K Matte Carbon Tube 275MM",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tarot-680-pro-3k-matte-carbon-tube-275mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:14:58 GMT",
+   "url": "http://www.getfpv.com/tarot-680-pro-3k-matte-carbon-tube-275mm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

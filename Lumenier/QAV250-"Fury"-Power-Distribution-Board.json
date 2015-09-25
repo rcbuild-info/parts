@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV250 \"Fury\" Power Distribution Board",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/qav250-fury-power-distribution-board.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$56.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:59 GMT",
+   "url": "http://www.getfpv.com/qav250-fury-power-distribution-board.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

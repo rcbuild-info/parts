@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Male to 4p Right Angle w/ Power Cable",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-male-to-4p-right-angle-w-power-cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:12 GMT",
+   "url": "http://www.getfpv.com/fatshark-male-to-4p-right-angle-w-power-cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

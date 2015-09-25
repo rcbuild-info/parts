@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN3508-20 580kv",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-mn3508-20-580kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$69.90",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
+   "timestamp": "Fri, 25 Sep 2015 06:07:48 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mn3508-20-580kv.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

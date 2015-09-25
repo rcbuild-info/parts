@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M5 Black Aluminum Lock Nut (set of 4)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/m5-black-aluminum-lock-nut-set-of-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:59 GMT",
+   "url": "http://www.getfpv.com/m5-black-aluminum-lock-nut-set-of-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

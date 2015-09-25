@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "Black Hex Standoffs 20mm (4 pcs)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/black-hex-standoffs-20mm-4-pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "pcs",
+   "price": "$4.99",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:31 GMT",
+   "url": "http://www.getfpv.com/black-hex-standoffs-20mm-4-pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

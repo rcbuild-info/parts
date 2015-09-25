@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "Mounting Hardware for Lumenier G10 DJI Arm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/mounting-hardware-for-lumenier-g10-dji-arm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.79",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:04 GMT",
+   "url": "http://www.getfpv.com/mounting-hardware-for-lumenier-g10-dji-arm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

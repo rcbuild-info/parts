@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "M6 CW Prop Adapter Nut for MN-40XX Motors",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-m6-cw-prop-adapter-nut-for-mn-40xx-motors.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:33 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-m6-cw-prop-adapter-nut-for-mn-40xx-motors.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

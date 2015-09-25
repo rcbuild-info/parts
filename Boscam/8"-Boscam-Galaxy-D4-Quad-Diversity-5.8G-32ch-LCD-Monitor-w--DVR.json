@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "8\" Boscam Galaxy D4 Quad Diversity 5.8G 32ch LCD Monitor w/ DVR",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/8-boscam-galaxy-d4-quad-diversity-5-8g-32ch-lcd-monitor-w-dvr.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:06 GMT",
+   "url": "http://www.getfpv.com/8-boscam-galaxy-d4-quad-diversity-5-8g-32ch-lcd-monitor-w-dvr.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

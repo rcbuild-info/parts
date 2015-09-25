@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "M5 Green Aluminum Low Profile Lock Nut (set of 4 CCW)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-m5-green-aluminum-low-profile-lock-nut-set-of-4-ccw.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:12 GMT",
+   "url": "http://www.getfpv.com/lumenier-m5-green-aluminum-low-profile-lock-nut-set-of-4-ccw.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

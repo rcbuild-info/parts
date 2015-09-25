@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Graupner",
  "name": " E-Prop 13x8 Pusher",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/graupner-e-prop-13x8pusher.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$13.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:28 GMT",
+   "url": "http://www.getfpv.com/graupner-e-prop-13x8pusher.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tattu",
  "name": "TATTU 22000mAh 6s 25c Lipo Battery (AS150)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tattu-22000mah-6s-25c-lipo-battery-1962.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$569.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:15 GMT",
+   "url": "http://www.getfpv.com/tattu-22000mah-6s-25c-lipo-battery-1962.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "Danaus Top Cover Plate",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/danaus-top-cover-plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:15:15 GMT",
+   "url": "http://www.getfpv.com/danaus-top-cover-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

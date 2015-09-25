@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "Mini H Quad - Anti Vibration Camera Mount",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3525",
-   "http://www.getfpv.com/blackout-mini-h-quad-anti-vibration-camera-mount.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3525"
+  },
+  {
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:49 GMT",
+   "url": "http://www.getfpv.com/blackout-mini-h-quad-anti-vibration-camera-mount.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

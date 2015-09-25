@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV250 FPV Backpack",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-qav250-fpv-backpack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$179.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:51 GMT",
+   "url": "http://www.getfpv.com/lumenier-qav250-fpv-backpack.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

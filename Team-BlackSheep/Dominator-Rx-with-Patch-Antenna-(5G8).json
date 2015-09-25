@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": " Dominator Rx with Patch Antenna (5G8)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/team-blacksheep-dominator-rx-with-patch-antenna-5g8.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:17 GMT",
+   "url": "http://www.getfpv.com/team-blacksheep-dominator-rx-with-patch-antenna-5g8.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

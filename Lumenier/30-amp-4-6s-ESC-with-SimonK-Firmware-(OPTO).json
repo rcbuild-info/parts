@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": " 30 amp 4-6s ESC with SimonK Firmware (OPTO)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/lumenier-30-amp-4-6s-esc-with-simonk-firmware-opto.html",
-   "https://www.liftrc.com/lumenier-30-amp-4-6s-esc-with-simonk-firmware-opto"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:50 GMT",
+   "url": "http://www.getfpv.com/lumenier-30-amp-4-6s-esc-with-simonk-firmware-opto.html"
+  },
+  {
+   "url": "https://www.liftrc.com/lumenier-30-amp-4-6s-esc-with-simonk-firmware-opto"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

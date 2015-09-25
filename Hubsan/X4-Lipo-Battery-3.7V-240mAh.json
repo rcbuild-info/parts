@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hubsan",
  "name": " X4 Lipo Battery 3.7V 240mAh",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hubsan-x4-lipo-battery-3-7v-240mah.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:22 GMT",
+   "url": "http://www.getfpv.com/hubsan-x4-lipo-battery-3-7v-240mah.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

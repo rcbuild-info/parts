@@ -1,5 +1,7 @@
 {
- "category": "fc",
+ "categories": [
+  "fc"
+ ],
  "equivalent": [],
  "manufacturer": "AbuseMark",
  "name": "Acro Naze32",
@@ -7,13 +9,29 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/acro-naze32-flight-controller-straight-right-angle.html",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3066",
-   "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/abusemark/acro-naze-32.html",
-   "http://www.voodooquads.com/naze32-acro-flight-controller-no-pressure-sensor-or-mag/",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=70"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:09 GMT",
+   "url": "http://www.getfpv.com/acro-naze32-flight-controller-straight-right-angle.html"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3066"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/abusemark/acro-naze-32.html"
+  },
+  {
+   "url": "http://www.voodooquads.com/naze32-acro-flight-controller-no-pressure-sensor-or-mag/"
+  },
+  {
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=70"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

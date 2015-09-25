@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Vortex Crash Kit - Carbon Fiber Parts",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/vortex-crash-kit-carbon-fiber-parts.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$48.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:42 GMT",
+   "url": "http://www.getfpv.com/vortex-crash-kit-carbon-fiber-parts.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

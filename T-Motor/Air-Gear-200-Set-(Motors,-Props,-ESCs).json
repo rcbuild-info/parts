@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Air Gear 200 Set (Motors, Props, ESCs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-air-gear-200-set-motors-props-escs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:08 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-air-gear-200-set-motors-props-escs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

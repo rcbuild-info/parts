@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "GoPro HDMI Cable for the DJI Lightbridge",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/gopro-hdmi-cable-for-the-dji-lightbridge.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:37 GMT",
+   "url": "http://www.getfpv.com/gopro-hdmi-cable-for-the-dji-lightbridge.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

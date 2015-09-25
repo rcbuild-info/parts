@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "X6R 16ch Receiver, SBUS, Smart Port (150mm Coax Ant.)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/frsky-x6r-16ch-receiver-sbus-smart-port-150mm-coax-ant.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$27.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:32 GMT",
+   "url": "http://www.getfpv.com/frsky-x6r-16ch-receiver-sbus-smart-port-150mm-coax-ant.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

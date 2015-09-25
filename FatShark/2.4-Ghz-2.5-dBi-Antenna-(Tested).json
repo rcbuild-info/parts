@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " 2.4 Ghz 2.5 dBi Antenna (Tested)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/2-4-ghz-2-5-dbi-antenna-tested.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:18 GMT",
+   "url": "http://www.getfpv.com/2-4-ghz-2-5-dbi-antenna-tested.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

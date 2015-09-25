@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyzone",
  "name": " 5.8GHz 32CH 2000mW A/V Transmitter with OLED Display",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/skyzone-5-8ghz-32ch-2000mw-a-v-transmitter-with-oled-display.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:20 GMT",
+   "url": "http://www.getfpv.com/skyzone-5-8ghz-32ch-2000mw-a-v-transmitter-with-oled-display.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

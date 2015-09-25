@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": " S800 Frame Arm (CCW)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-s800-frame-arm-ccw.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$60.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:11:00 GMT",
+   "url": "http://www.getfpv.com/dji-s800-frame-arm-ccw.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

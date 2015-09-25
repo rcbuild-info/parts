@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "EzOSD to EzUHF I2C Patch Cable",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ezosd-to-ezuhf.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/28/2014",
+   "timestamp": "Fri, 25 Sep 2015 06:16:26 GMT",
+   "url": "http://www.getfpv.com/ezosd-to-ezuhf.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

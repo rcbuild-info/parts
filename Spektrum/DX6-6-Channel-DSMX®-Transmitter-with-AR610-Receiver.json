@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Spektrum",
  "name": "DX6 6-Channel DSMX\u00ae Transmitter with AR610 Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dx6-6-channel-dsmxr-transmitter-with-ar610-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$229.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:42 GMT",
+   "url": "http://www.getfpv.com/dx6-6-channel-dsmxr-transmitter-with-ar610-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

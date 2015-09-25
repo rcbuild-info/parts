@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "AIR2205 2000kv CW/CCW Motors (2 pcs)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/tiger-motor-air2205-2000kv-cw-ccw-motors-2-pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "pcs",
+   "price": "$34.99",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:07 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-air2205-2000kv-cw-ccw-motors-2-pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

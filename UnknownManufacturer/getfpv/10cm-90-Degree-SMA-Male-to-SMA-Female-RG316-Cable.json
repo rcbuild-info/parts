@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10cm 90 Degree SMA Male to SMA Female RG316 Cable",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/10cm-90-degree-sma-male-to-sma-female-rg316-cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:24 GMT",
+   "url": "http://www.getfpv.com/10cm-90-degree-sma-male-to-sma-female-rg316-cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

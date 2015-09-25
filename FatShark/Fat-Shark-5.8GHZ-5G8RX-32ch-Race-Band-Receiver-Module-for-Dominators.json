@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Fat Shark 5.8GHZ 5G8RX 32ch Race Band Receiver Module for Dominators",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fat-shark-5-8ghz-5g8rx-32ch-race-band-receiver-module-for-dominators.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:24 GMT",
+   "url": "http://www.getfpv.com/fat-shark-5-8ghz-5g8rx-32ch-race-band-receiver-module-for-dominators.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

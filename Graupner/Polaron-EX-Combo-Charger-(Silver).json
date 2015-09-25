@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Graupner",
  "name": "Polaron EX Combo Charger (Silver)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/graupner-polaron-ex-combo-charger-silver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$428.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:16:05 GMT",
+   "url": "http://www.getfpv.com/graupner-polaron-ex-combo-charger-silver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

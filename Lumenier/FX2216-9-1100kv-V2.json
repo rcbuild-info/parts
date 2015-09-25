@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "FX2216-9 1100kv V2",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fx2216-9-1100kv-v2.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$46.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:08 GMT",
+   "url": "http://www.getfpv.com/fx2216-9-1100kv-v2.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

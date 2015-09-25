@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": " Phantom 3 Advanced",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-phantom-3-advanced.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$999.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:40 GMT",
+   "url": "http://www.getfpv.com/dji-phantom-3-advanced.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

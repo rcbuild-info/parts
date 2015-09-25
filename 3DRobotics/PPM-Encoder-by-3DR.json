@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "PPM Encoder by 3DR",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/ppm-encoder-by-3dr.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:08:32 GMT",
+   "url": "http://www.getfpv.com/ppm-encoder-by-3dr.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

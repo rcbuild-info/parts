@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Feiyu Tech",
  "name": "Phantom Mount for FY G3 Gimbal",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/phantom-mount-for-fy-g3-gimbal.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:01 GMT",
+   "url": "http://www.getfpv.com/phantom-mount-for-fy-g3-gimbal.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

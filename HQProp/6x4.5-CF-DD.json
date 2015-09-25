@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "6x4.5 Direct Drive Carbon Fiber Composite",
@@ -7,19 +9,51 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/HQProp-6045-6x45-CF-reinforced-Propellers-Set-2-CW-und-2-CCW",
-   "http://flyduino.net/Multikopter-Propeller-CW-CCW_34",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2871",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2870",
-   "http://flyduino.net/HQProp-6x45-1524cm-Propeller-Set-Black-4-pcs-Carbon-reinforced",
-   "http://www.getfpv.com/hqprop-6x4-5-ccw-propeller-2-blade-2-pack.html",
-   "http://www.getfpv.com/hqprop-6x4-5-cw-propeller-2-blade-2-pack.html",
-   "http://www.readytoflyquads.com/hq-prop-6x4x5-carbon-composite-prop",
-   "http://www.multirotorsuperstore.com/props/props-by-mfg/hqprop/hqprop-6045-props.html",
-   "http://www.dronematters.com/power-system/hqprop-6045-carbon-composite-propellers-2-ccw.html",
-   "https://www.multirotorparts.com/propellers/hqprop-6-x-4-5-carbon-versterkte-propeller-set-van-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/HQProp-6045-6x45-CF-reinforced-Propellers-Set-2-CW-und-2-CCW"
+  },
+  {
+   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_34"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2871"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2870"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-6x45-1524cm-Propeller-Set-Black-4-pcs-Carbon-reinforced"
+  },
+  {
+   "price": "$3.09",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:03 GMT",
+   "url": "http://www.getfpv.com/hqprop-6x4-5-ccw-propeller-2-blade-2-pack.html"
+  },
+  {
+   "price": "$3.09",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:03 GMT",
+   "url": "http://www.getfpv.com/hqprop-6x4-5-cw-propeller-2-blade-2-pack.html"
+  },
+  {
+   "url": "http://www.readytoflyquads.com/hq-prop-6x4x5-carbon-composite-prop"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/props/props-by-mfg/hqprop/hqprop-6045-props.html"
+  },
+  {
+   "url": "http://www.dronematters.com/power-system/hqprop-6045-carbon-composite-propellers-2-ccw.html"
+  },
+  {
+   "url": "https://www.multirotorparts.com/propellers/hqprop-6-x-4-5-carbon-versterkte-propeller-set-van-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

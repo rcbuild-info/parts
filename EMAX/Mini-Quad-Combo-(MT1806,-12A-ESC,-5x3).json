@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": " Mini Quad Combo (MT1806, 12A ESC, 5x3)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/emax-mini-quad-combo-mt1806-12a-esc-5x3.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$84.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:12:21 GMT",
+   "url": "http://www.getfpv.com/emax-mini-quad-combo-mt1806-12a-esc-5x3.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

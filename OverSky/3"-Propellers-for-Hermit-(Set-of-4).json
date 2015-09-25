@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "OverSky",
  "name": "3\" Propellers for Hermit (Set of 4)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/3-propellers-for-hermit-set-of-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:10:38 GMT",
+   "url": "http://www.getfpv.com/3-propellers-for-hermit-set-of-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

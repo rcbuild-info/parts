@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Transmitter Wire Set for Immersion 600mW 5.8GHz A/V",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/transmitter-wire-set-for-immersion-600mw-5-8ghz-a-v.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:07:59 GMT",
+   "url": "http://www.getfpv.com/transmitter-wire-set-for-immersion-600mw-5-8ghz-a-v.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

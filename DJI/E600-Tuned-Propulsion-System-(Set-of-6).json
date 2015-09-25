@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "E600 Tuned Propulsion System (Set of 6)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/dji-e600-tuned-propulsion-system-set-of-6.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$449.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:09:56 GMT",
+   "url": "http://www.getfpv.com/dji-e600-tuned-propulsion-system-set-of-6.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Circular Wireless",
  "name": " SPW58 5.8GHz Antenna w/ 90 Degree SMA",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/circular-wireless-spw58-5-8ghz-antenna-w-90-degree-sma.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 25 Sep 2015 06:13:38 GMT",
+   "url": "http://www.getfpv.com/circular-wireless-spw58-5-8ghz-antenna-w-90-degree-sma.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
