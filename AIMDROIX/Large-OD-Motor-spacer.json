@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "AIMDROIX",
  "name": "Large OD Motor spacer",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2189"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.49",
+   "stock_state": "in_stock",
+   "stock_text": "449 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:55:52 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2189"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

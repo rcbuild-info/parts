@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "T-Plug Rubber Safety Caps (5 pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1762"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.49",
+   "stock_state": "in_stock",
+   "stock_text": "96 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:10:20 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1762"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

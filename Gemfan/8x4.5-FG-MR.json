@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "8x4.5 Multirotor Fiberglass Nylon",
@@ -7,10 +9,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2822",
-   "http://www.dronematters.com/power-system/gemfan-8045-epp-propellers-nylon-2-cw.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/gemfan-8045-epp-propellers-nylon-2-cw.html"
+  },
+  {
+   "price": "$2.79",
+   "stock_state": "in_stock",
+   "stock_text": "77 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:46 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2822"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

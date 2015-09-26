@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HB2815-1400/TB18/APC 7x5e Combo (Twin Star II)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=247"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$93.99",
+   "stock_state": "low_stock",
+   "stock_text": "1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:05:18 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=247"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

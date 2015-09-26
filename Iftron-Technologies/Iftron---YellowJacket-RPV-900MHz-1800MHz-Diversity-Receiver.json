@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Iftron Technologies",
  "name": "Iftron - YellowJacket RPV 900MHz-1800MHz Diversity Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2586"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$499.95",
+   "stock_state": "low_stock",
+   "stock_text": "1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:44:40 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2586"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

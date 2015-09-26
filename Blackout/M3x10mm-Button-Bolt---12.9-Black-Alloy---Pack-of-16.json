@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "M3x10mm Button Bolt - 12.9 Black Alloy - Pack of 16",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3534"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.61",
+   "stock_state": "in_stock",
+   "stock_text": "21 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:53:08 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3534"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Iftron Technologies",
  "name": "Iftron - Mondo Stinger 5.8 500mw AVD Transmitter (Heat Sink)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=24"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$289.95",
+   "stock_state": "in_stock",
+   "stock_text": "4 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:45:57 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=24"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

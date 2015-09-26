@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "15x5.5 Multirotor Carbon Fiber",
@@ -7,11 +9,31 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2784",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2782",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2779"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "91 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:27 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2784"
+  },
+  {
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "22 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:27 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2782"
+  },
+  {
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "22 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:27 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2779"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

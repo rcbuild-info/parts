@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "XuGong-10 Multicopter Frame V2/Pro Kit",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2145"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$199.99",
+   "stock_state": "backordered",
+   "stock_text": "-1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:55:00 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2145"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

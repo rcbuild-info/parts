@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "Programing card for Simon Series and 4-in-1 ESC",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3646"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.49",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:11 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3646"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

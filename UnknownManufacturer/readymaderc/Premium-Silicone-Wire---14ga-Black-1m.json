@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Premium Silicone Wire - 14ga Black 1m",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1460"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "540 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:11:41 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1460"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

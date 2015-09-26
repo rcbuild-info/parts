@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Bob Smith Industries",
  "name": "Ultra-Cure Tire Glue CA - 3/4 oz",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3067"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.49",
+   "stock_state": "in_stock",
+   "stock_text": "13 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:00:54 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3067"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

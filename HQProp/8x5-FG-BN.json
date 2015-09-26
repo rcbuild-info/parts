@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "8x5 Bullnose Fiberglass Composite",
@@ -7,16 +9,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4110",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4112",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4109",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4111",
-   "http://flyduino.net/HQProp-8x5-Bullnose-reinforced-Propeller-Schw-Set-2-CW-und-2-CCW",
-   "http://flyduino.net/HQProp-8x5-Bullnose-reinforced-Propeller-orange-Set-2-CW-und-2-CCW",
-   "http://multirotormania.com/hq-prop/1040-hqprop-6x45-bullnose-props-1-pair-choose-your-color.html",
-   "http://www.dronematters.com/hqprop-8050-carbon-composite-propeller-black-2-ccw-1270.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/HQProp-8x5-Bullnose-reinforced-Propeller-Schw-Set-2-CW-und-2-CCW"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-8x5-Bullnose-reinforced-Propeller-orange-Set-2-CW-und-2-CCW"
+  },
+  {
+   "url": "http://multirotormania.com/hq-prop/1040-hqprop-6x45-bullnose-props-1-pair-choose-your-color.html"
+  },
+  {
+   "url": "http://www.dronematters.com/hqprop-8050-carbon-composite-propeller-black-2-ccw-1270.html"
+  },
+  {
+   "price": "$4.40",
+   "stock_state": "in_stock",
+   "stock_text": "106 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:27 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4110"
+  },
+  {
+   "price": "$4.40",
+   "stock_state": "in_stock",
+   "stock_text": "109 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:28 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4112"
+  },
+  {
+   "price": "$4.40",
+   "stock_state": "in_stock",
+   "stock_text": "106 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:28 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4109"
+  },
+  {
+   "price": "$4.40",
+   "stock_state": "in_stock",
+   "stock_text": "109 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:29 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4111"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

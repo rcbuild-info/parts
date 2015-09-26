@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Eagle Tree Systems",
  "name": "Extra Pitot Tube with Silicone Tubing",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=532"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "20 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:30:17 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=532"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

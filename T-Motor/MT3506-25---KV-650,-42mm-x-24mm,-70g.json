@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT3506-25 - KV 650, 42mm x 24mm, 70g",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1496"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$64.90",
+   "stock_state": "low_stock",
+   "stock_text": "1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:43 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1496"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

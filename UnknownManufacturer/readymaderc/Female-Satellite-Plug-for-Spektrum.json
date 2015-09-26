@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Female Satellite Plug for Spektrum",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4228"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.89",
+   "stock_state": "in_stock",
+   "stock_text": "264 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:55:22 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4228"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

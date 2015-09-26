@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "12x4.5 Multirotor ABS",
@@ -7,13 +9,45 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2740",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2735",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2739",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2738",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2741"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.29",
+   "stock_state": "in_stock",
+   "stock_text": "23 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:10 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2740"
+  },
+  {
+   "price": "$2.29",
+   "stock_state": "in_stock",
+   "stock_text": "10 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:11 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2735"
+  },
+  {
+   "price": "$2.29",
+   "stock_state": "in_stock",
+   "stock_text": "26 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:11 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2739"
+  },
+  {
+   "price": "$2.29",
+   "stock_state": "in_stock",
+   "stock_text": "109 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:11 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2738"
+  },
+  {
+   "price": "$2.29",
+   "stock_state": "in_stock",
+   "stock_text": "40 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:11 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2741"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

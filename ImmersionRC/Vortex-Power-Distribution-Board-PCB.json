@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Vortex Power Distribution Board PCB",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4209"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$34.99",
+   "stock_state": "backordered",
+   "stock_text": "-17 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:54:58 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4209"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

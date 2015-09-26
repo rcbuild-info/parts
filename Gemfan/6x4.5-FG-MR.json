@@ -13,24 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4188"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4187"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4186"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3625"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3623"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3624"
-  },
-  {
    "url": "http://www.dronematters.com/power-system/gemfan-6045-propellers-nylon-4-ccw.html"
   },
   {
@@ -113,6 +95,48 @@
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:44:43 GMT",
    "url": "http://www.getfpv.com/gemfan-6x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
+  },
+  {
+   "price": "$3.59",
+   "stock_state": "in_stock",
+   "stock_text": "119 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:51 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3625"
+  },
+  {
+   "price": "$3.59",
+   "stock_state": "in_stock",
+   "stock_text": "117 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:51 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3623"
+  },
+  {
+   "price": "$3.59",
+   "stock_state": "in_stock",
+   "stock_text": "22 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:52 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3624"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "121 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:08 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4187"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "121 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:09 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4188"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "94 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:09 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4186"
   }
  ],
  "version": 2,

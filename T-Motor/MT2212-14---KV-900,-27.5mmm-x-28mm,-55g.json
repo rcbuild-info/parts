@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT2212-14 - KV 900, 27.5mmm x 28mm, 55g",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2128"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$22.45",
+   "stock_state": "low_stock",
+   "stock_text": "1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:52:35 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2128"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

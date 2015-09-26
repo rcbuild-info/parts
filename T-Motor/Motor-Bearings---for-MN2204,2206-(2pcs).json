@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Motor Bearings - for MN2204,2206 (2pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3137"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "3 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:39:45 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3137"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

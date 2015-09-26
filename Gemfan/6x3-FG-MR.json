@@ -13,15 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4184"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4185"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4183"
-  },
-  {
    "url": "http://www.dronematters.com/power-system/gemfan-6030-glass-composite-propellers-4-cw.html"
   },
   {
@@ -165,6 +156,27 @@
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 05:01:18 GMT",
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=105"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "21 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:03 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4185"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "40 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:03 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4184"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "26 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:09 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4183"
   }
  ],
  "version": 2,

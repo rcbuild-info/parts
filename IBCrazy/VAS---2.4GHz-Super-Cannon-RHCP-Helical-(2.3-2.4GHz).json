@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "VAS - 2.4GHz Super Cannon RHCP Helical (2.3-2.4GHz)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2560"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$74.99",
+   "stock_state": "in_stock",
+   "stock_text": "5 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:50:03 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2560"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

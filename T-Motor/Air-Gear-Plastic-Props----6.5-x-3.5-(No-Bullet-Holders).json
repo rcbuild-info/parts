@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Air Gear Plastic Props  - 6.5 x 3.5 (No Bullet Holders)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4265"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:00:35 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4265"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

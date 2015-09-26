@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "9x4.3 Multirotor Carbon Fiber Composite",
@@ -7,11 +9,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2849",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2848",
-   "https://www.multirotorparts.com/propellers/9/hqprop-9-x-4-3-carbon-versterkte-multirotor-propeller-set-van-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/propellers/9/hqprop-9-x-4-3-carbon-versterkte-multirotor-propeller-set-van-4.html"
+  },
+  {
+   "price": "$5.20",
+   "stock_state": "in_stock",
+   "stock_text": "154 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:07 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2849"
+  },
+  {
+   "price": "$5.20",
+   "stock_state": "in_stock",
+   "stock_text": "129 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:08 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2848"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

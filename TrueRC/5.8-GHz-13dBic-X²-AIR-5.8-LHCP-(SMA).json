@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "TrueRC",
  "name": "5.8 GHz 13dBic X\u00b2-AIR 5.8 LHCP (SMA)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4241"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.99",
+   "stock_state": "in_stock",
+   "stock_text": "3 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:40:15 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4241"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

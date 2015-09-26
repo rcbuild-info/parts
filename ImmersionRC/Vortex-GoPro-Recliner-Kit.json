@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4134"
-  },
-  {
    "price": "$27.99",
    "stock_state": "out_of_stock",
    "stock_text": "Expected on 9/29/2015",
    "timestamp": "Sat, 26 Sep 2015 03:41:50 GMT",
    "url": "http://www.getfpv.com/vortex-gopro-recliner-kit.html"
+  },
+  {
+   "price": "$27.99",
+   "stock_state": "in_stock",
+   "stock_text": "54 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:55:03 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4134"
   }
  ],
  "version": 2,

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Polarized & Clear Lens Kit for GO-Protector and 3DShellz",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2023"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "52 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:55:47 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2023"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

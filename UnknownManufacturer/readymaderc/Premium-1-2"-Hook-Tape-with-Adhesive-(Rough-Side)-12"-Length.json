@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Premium 1/2\" Hook Tape with Adhesive (Rough Side) 12\" Length",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1473"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.38",
+   "stock_state": "in_stock",
+   "stock_text": "41 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:43 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1473"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

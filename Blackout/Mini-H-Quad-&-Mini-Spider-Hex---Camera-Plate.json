@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "Mini H Quad & Mini Spider Hex - Camera Plate",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2940"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.99",
+   "stock_state": "in_stock",
+   "stock_text": "12 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:53:14 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2940"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

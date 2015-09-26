@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "M6 CCW Short Prop Adapter Nut For Carbon Props2PCS",
@@ -7,10 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2108",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2104"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.19",
+   "stock_state": "in_stock",
+   "stock_text": "7 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:00:49 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2108"
+  },
+  {
+   "price": "$2.19",
+   "stock_state": "in_stock",
+   "stock_text": "6 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:00:49 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2104"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

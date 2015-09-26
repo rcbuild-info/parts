@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FeiYu Tech",
  "name": "FY-40A Inertial Flight Stabilization System",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2966"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "61 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:42:15 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2966"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

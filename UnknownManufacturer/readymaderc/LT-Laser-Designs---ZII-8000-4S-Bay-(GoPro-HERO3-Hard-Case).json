@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LT Laser Designs - ZII 8000 4S Bay (GoPro HERO3 Hard Case)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3827"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.99",
+   "stock_state": "low_stock",
+   "stock_text": "1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:03:12 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3827"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -13,12 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4108"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4107"
-  },
-  {
    "url": "http://www.multirotorsuperstore.com/props/props-by-size/6-inch/hqprop-6045-bullnose-props.html"
   },
   {
@@ -43,6 +37,20 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 06:27:30 GMT",
    "url": "http://www.readytoflyquads.com/hq-prop-6x4-4-bull-carbon-composite-prop"
+  },
+  {
+   "price": "$3.24",
+   "stock_state": "in_stock",
+   "stock_text": "115 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:39 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4107"
+  },
+  {
+   "price": "$3.24",
+   "stock_state": "in_stock",
+   "stock_text": "94 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:40 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4108"
   }
  ],
  "version": 2,

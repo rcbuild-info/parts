@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ReadyMadeRC 6 Inch Sticker",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1036",
-   "http://www.readymaderc.com/store/index.php?zenid=45665fdabb0ba2d675d7a72c4d9e4f88&main_page=product_info&products_id=1036"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?zenid=45665fdabb0ba2d675d7a72c4d9e4f88&main_page=product_info&products_id=1036"
+  },
+  {
+   "price": "Price:",
+   "stock_state": "in_stock",
+   "stock_text": "162 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:13:05 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1036"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

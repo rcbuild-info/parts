@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "HOBBYWING FLY FUN 12A BRUSHLESS SPEED CONTROL",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=971"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.95",
+   "stock_state": "in_stock",
+   "stock_text": "5 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:05 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=971"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -13,24 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3589"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3590"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3570"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3591"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3592"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3571"
-  },
-  {
    "url": "http://www.getfpv.com/hqprop-5x4x3-ccw-propeller-3-blade-2-pack.html"
   },
   {
@@ -84,6 +66,48 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:16:17 GMT",
    "url": "http://flyduino.net/HQProp-Triple-Prop-5x4x3-Propeller-Set-Green-2CW-2-CCW"
+  },
+  {
+   "price": "$3.32",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:42 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3589"
+  },
+  {
+   "price": "$3.32",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:42 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3590"
+  },
+  {
+   "price": "$3.32",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:42 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3570"
+  },
+  {
+   "price": "$3.32",
+   "stock_state": "low_stock",
+   "stock_text": "1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:42 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3591"
+  },
+  {
+   "price": "$3.32",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:43 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3592"
+  },
+  {
+   "price": "$3.32",
+   "stock_state": "in_stock",
+   "stock_text": "9 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:43 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3571"
   }
  ],
  "version": 2,

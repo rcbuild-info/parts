@@ -13,12 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3966"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3965"
-  },
-  {
    "url": "https://www.multirotorparts.com/propellers/6-propellers/hqprop-6-x-4-5-carbon-versterkte-3-blads-propeller-set-van-4.html"
   },
   {
@@ -26,6 +20,20 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:16:24 GMT",
    "url": "http://flyduino.net/HQProp-Three-Blade-6x45-1524cm-Propeller-Set-Black-4-pcs-Carbon-reinforced"
+  },
+  {
+   "price": "$3.84",
+   "stock_state": "in_stock",
+   "stock_text": "22 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:03:35 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3966"
+  },
+  {
+   "price": "$3.84",
+   "stock_state": "in_stock",
+   "stock_text": "23 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:03:35 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3965"
   }
  ],
  "version": 2,

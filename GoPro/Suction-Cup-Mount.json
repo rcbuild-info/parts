@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "GoPro",
  "name": "Suction Cup Mount",
@@ -7,10 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1243",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2243"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$39.99",
+   "stock_state": "in_stock",
+   "stock_text": "5 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:42:58 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2243"
+  },
+  {
+   "price": "$20.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:13:12 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1243"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

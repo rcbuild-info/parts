@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "M5 CCW Prop Adapter for MT22xx for Carbon Prop",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2065"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "26 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:59:43 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2065"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

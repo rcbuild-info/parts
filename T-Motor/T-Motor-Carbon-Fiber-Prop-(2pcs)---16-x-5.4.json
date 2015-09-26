@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "T-Motor Carbon Fiber Prop (2pcs) - 16 x 5.4",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1795"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$89.90",
+   "stock_state": "in_stock",
+   "stock_text": "8 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:59:35 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1795"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "Nighthawk 250 Quad Frame Only- (Glass and CF Mix)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3647"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$34.99",
+   "stock_state": "in_stock",
+   "stock_text": "49 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:57:11 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3647"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Castle Creations",
  "name": "Thunderbird 9 Brushless ESC",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2000"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$25.46",
+   "stock_state": "in_stock",
+   "stock_text": "10 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:05 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2000"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

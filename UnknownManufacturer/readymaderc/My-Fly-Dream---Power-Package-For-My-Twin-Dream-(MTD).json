@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "My Fly Dream - Power Package For My Twin Dream (MTD)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4321"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "stock_text": "23 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:33 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4321"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

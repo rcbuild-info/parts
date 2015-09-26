@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "Pro-1200 5\" FPV DVR w/5.8GHz Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3895"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$149.99",
+   "stock_state": "in_stock",
+   "stock_text": "69 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:35:25 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3895"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

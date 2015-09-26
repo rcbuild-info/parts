@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Premium Silicone Wire - 10ga Red 1m",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3887"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.29",
+   "stock_state": "in_stock",
+   "stock_text": "43 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:11:42 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3887"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

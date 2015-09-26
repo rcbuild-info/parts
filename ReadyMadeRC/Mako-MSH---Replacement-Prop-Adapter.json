@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "Mako/MSH - Replacement Prop Adapter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4397"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "stock_text": "96 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:01:55 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4397"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

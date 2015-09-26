@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "VAS Spark 2.0 Trainer - Basic Kit",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3929"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "3 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:03:02 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3929"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

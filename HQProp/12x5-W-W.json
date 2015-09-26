@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "12x5  Wood",
@@ -7,10 +9,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1883",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1881"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.00",
+   "stock_state": "in_stock",
+   "stock_text": "64 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:13:08 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1883"
+  },
+  {
+   "price": "$3.00",
+   "stock_state": "in_stock",
+   "stock_text": "57 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:13:08 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1881"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

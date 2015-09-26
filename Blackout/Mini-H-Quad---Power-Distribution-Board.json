@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3524"
-  },
-  {
    "price": "$15.00",
    "stock_state": "out_of_stock",
    "stock_text": "Expected on 5/28/2015",
    "timestamp": "Sat, 26 Sep 2015 03:39:37 GMT",
    "url": "http://www.getfpv.com/mini-h-quad-power-distribution-board.html"
+  },
+  {
+   "price": "$14.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:53:18 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3524"
   }
  ],
  "version": 2,

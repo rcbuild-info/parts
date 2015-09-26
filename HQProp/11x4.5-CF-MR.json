@@ -13,12 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3202"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3201"
-  },
-  {
    "url": "https://www.multirotorparts.com/propellers/hqprop/hqprop-11-x-4-5-carbon-versterkte-multirotor-propeller-set-van-4.html"
   },
   {
@@ -26,6 +20,20 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:15:53 GMT",
    "url": "http://flyduino.net/HQProp-11x45-1145-MR-Carbon-reinforced-AP-Propeller-Set-Black-2CW-2-CCW"
+  },
+  {
+   "price": "$6.20",
+   "stock_state": "in_stock",
+   "stock_text": "61 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:55 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3202"
+  },
+  {
+   "price": "$6.20",
+   "stock_state": "in_stock",
+   "stock_text": "58 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:55 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3201"
   }
  ],
  "version": 2,

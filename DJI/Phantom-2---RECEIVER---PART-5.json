@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Phantom 2 - RECEIVER - PART 5",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2674"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$48.99",
+   "stock_state": "in_stock",
+   "stock_text": "3 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:54:14 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2674"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

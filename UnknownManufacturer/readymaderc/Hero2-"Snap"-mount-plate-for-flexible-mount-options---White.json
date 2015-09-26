@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hero2 \"Snap\"-mount plate for flexible mount options - White",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1903"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.47",
+   "stock_state": "in_stock",
+   "stock_text": "8 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:53:03 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1903"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

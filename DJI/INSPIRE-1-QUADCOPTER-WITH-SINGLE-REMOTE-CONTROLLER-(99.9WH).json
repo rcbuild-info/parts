@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "INSPIRE 1 QUADCOPTER WITH SINGLE REMOTE CONTROLLER (99.9WH)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3742"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2,899.00",
+   "stock_state": "low_stock",
+   "stock_text": "1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:53:58 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3742"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

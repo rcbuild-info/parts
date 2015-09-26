@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "MT2206-1900KV",
@@ -7,10 +9,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3653",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3652"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$17.99",
+   "stock_state": "in_stock",
+   "stock_text": "30 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:03:44 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3652"
+  },
+  {
+   "price": "$17.99",
+   "stock_state": "in_stock",
+   "stock_text": "45 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:17 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3653"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

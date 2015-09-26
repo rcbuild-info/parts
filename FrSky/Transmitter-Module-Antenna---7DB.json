@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Transmitter Module Antenna - 7DB",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2467"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.49",
+   "stock_state": "in_stock",
+   "stock_text": "17 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:12:39 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2467"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

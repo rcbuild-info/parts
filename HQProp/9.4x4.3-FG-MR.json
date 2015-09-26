@@ -13,9 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2850"
-  },
-  {
    "url": "https://www.multirotorparts.com/propellers/9/hqprop-9443-zelfborgende-propellers-voor-de-phantom-2-en-de-vision.html"
   },
   {
@@ -25,6 +22,13 @@
    "stock_text": "Out of Stock",
    "timestamp": "Sat, 26 Sep 2015 03:38:44 GMT",
    "url": "http://www.getfpv.com/hqprop-9-4x4-3-dji-self-tightening-propeller-2-blade-2-pack.html"
+  },
+  {
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "288 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:54:35 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2850"
   }
  ],
  "version": 2,

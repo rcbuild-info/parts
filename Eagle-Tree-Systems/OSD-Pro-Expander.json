@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Eagle Tree Systems",
  "name": "OSD Pro Expander",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?zenid=27e1625d5b378b6b39cd0b73cd1ba7bd&main_page=product_info&products_id=30"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?zenid=27e1625d5b378b6b39cd0b73cd1ba7bd&main_page=product_info&products_id=30"
+  },
+  {
+   "price": "$80.99",
+   "stock_state": "in_stock",
+   "stock_text": "21 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:49:36 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=30"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

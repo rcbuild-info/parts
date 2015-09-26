@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "HITEC X4 MULTICHARGER TP ADAPTER",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=966"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.95",
+   "stock_state": "in_stock",
+   "stock_text": "4 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:56:55 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=966"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

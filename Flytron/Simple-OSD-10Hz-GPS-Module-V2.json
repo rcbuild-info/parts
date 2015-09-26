@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flytron",
  "name": "Simple OSD 10Hz GPS Module V2",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=219"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$39.90",
+   "stock_state": "in_stock",
+   "stock_text": "5 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:42:21 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=219"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -13,103 +13,127 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4182"
+   "description": "Black",
+   "price": "$3.79",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:44 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-black.html"
   },
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4181"
+   "description": "Black",
+   "price": "$17.95",
+   "quantity": 20,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:44 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-black.html"
   },
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4180"
+   "description": "Black",
+   "price": "$33.90",
+   "quantity": 40,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:44 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-black.html"
   },
   {
+   "description": "Green",
+   "price": "$3.79",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:45 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
+  },
+  {
+   "description": "Green",
+   "price": "$17.95",
+   "quantity": 20,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:45 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
+  },
+  {
+   "description": "Green",
+   "price": "$33.90",
+   "quantity": 40,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:45 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
+  },
+  {
+   "description": "Orange",
+   "price": "$3.79",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:45 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html"
+  },
+  {
+   "description": "Orange",
+   "price": "$17.95",
+   "quantity": 20,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:45 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html"
+  },
+  {
+   "description": "Orange",
+   "price": "$33.90",
+   "quantity": 40,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:45 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html"
+  },
+  {
+   "price": "$3.19",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:33 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3810"
   },
   {
+   "price": "$3.19",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:33 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3812"
   },
   {
+   "price": "$3.19",
+   "stock_state": "backordered",
+   "stock_text": "-2 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:34 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3811"
   },
   {
-   "description": "Black",
    "price": "$3.79",
-   "quantity": 4,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:44 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-black.html"
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:08 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4181"
   },
   {
-   "description": "Black",
-   "price": "$17.95",
-   "quantity": 20,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:44 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-black.html"
-  },
-  {
-   "description": "Black",
-   "price": "$33.90",
-   "quantity": 40,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:44 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-black.html"
-  },
-  {
-   "description": "Green",
    "price": "$3.79",
-   "quantity": 4,
    "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:45 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
+   "stock_text": "107 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:09 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4182"
   },
   {
-   "description": "Green",
-   "price": "$17.95",
-   "quantity": 20,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:45 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
-  },
-  {
-   "description": "Green",
-   "price": "$33.90",
-   "quantity": 40,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:45 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
-  },
-  {
-   "description": "Orange",
    "price": "$3.79",
-   "quantity": 4,
    "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:45 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html"
-  },
-  {
-   "description": "Orange",
-   "price": "$17.95",
-   "quantity": 20,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:45 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html"
-  },
-  {
-   "description": "Orange",
-   "price": "$33.90",
-   "quantity": 40,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:45 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html"
+   "stock_text": "92 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:10 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4180"
   }
  ],
  "version": 2,

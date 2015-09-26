@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flying Cinema",
  "name": "CineTank Mk. 1",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2398"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$144.99",
+   "stock_state": "low_stock",
+   "stock_text": "1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:54:40 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2398"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

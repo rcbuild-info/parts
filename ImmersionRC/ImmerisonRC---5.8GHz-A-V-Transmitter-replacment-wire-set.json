@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "ImmerisonRC - 5.8GHz A/V Transmitter replacment wire set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=190"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "6 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:50:36 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=190"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

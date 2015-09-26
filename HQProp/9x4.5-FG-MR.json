@@ -13,18 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3594"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3597"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3595"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3598"
-  },
-  {
    "url": "http://flyduino.net/HQProp-9x45-G-Propeller-Orange-Multi-Rotor-Set-2-CW-und-2-CCW"
   },
   {
@@ -67,6 +55,34 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:15:38 GMT",
    "url": "http://flyduino.net/HQProp-9x45-G-Propeller-Green-Multi-Rotor-Set-2-CW-und-2-CCW"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "35 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:06 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3594"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "51 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:06 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3597"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "64 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:06 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3595"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "43 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:07 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3598"
   }
  ],
  "version": 2,

@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "10x4.5 Multirotor ABS",
@@ -7,16 +9,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2725",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2727",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2726",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2724",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2723",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2716",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2722",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2728"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "46 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:06:55 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2725"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "16 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:06:56 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2727"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:06:56 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2726"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "31 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:06:56 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2724"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "8 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:06:56 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2723"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "53 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:03 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2716"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "48 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:03 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2722"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "3 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:04 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2728"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

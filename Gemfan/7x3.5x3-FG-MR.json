@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "7x3.5x3 Multirotor Fiberglass Nylon",
@@ -7,11 +9,31 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2820",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2818",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2819"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.59",
+   "stock_state": "in_stock",
+   "stock_text": "23 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:49 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2820"
+  },
+  {
+   "price": "$2.59",
+   "stock_state": "in_stock",
+   "stock_text": "11 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:49 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2818"
+  },
+  {
+   "price": "$2.59",
+   "stock_state": "in_stock",
+   "stock_text": "93 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:49 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2819"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hook & Loop Tape with Adhesive Backing - BLUE (75mm x 1m)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3988"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.59",
+   "stock_state": "in_stock",
+   "stock_text": "139 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:11:35 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3988"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

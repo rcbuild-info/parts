@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Fr SKY - DFT & V8R4 II Combo",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2451"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "7 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:12:49 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2451"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

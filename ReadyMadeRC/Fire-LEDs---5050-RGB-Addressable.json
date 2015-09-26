@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "Fire LEDs - 5050 RGB Addressable",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4329"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.95",
+   "stock_state": "in_stock",
+   "stock_text": "105 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:00:29 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4329"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

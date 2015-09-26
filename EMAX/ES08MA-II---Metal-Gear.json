@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "ES08MA II - Metal Gear",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4035"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "221 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:05:01 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4035"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

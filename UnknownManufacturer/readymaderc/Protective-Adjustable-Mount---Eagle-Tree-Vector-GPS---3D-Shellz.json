@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Protective Adjustable Mount - Eagle Tree Vector GPS - 3D Shellz",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3603"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.99",
+   "stock_state": "in_stock",
+   "stock_text": "21 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:55:40 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3603"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "O-Ring Kit - RMRC GO-Protector and 3DShellz (5 pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2253"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.09",
+   "stock_state": "in_stock",
+   "stock_text": "85 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:46:49 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2253"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

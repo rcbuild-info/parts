@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Bob Smith Industries",
  "name": "Insta-Cure+ Gap Filling CA - 8 oz Refill",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=642"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$26.99",
+   "stock_state": "low_stock",
+   "stock_text": "1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:01:02 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=642"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

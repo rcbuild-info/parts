@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "TrueRC",
  "name": "2.4 GHz 10dBic Crosshair (2410mhz RHCP)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1996"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$74.99",
+   "stock_state": "in_stock",
+   "stock_text": "15 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:40:19 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1996"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "Prop Adapter - 3.17mm Shaft, 5mm Prop - SILVER",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2913"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.09",
+   "stock_state": "in_stock",
+   "stock_text": "112 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:59:54 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2913"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

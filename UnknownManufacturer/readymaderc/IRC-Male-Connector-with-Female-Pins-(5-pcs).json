@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "IRC Male Connector with Female Pins (5 pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2606"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "244 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:10:34 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2606"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

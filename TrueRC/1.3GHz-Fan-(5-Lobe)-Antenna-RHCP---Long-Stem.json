@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "TrueRC",
  "name": "1.3GHz Fan (5 Lobe) Antenna RHCP - Long Stem",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3210"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "5 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:40:18 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3210"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

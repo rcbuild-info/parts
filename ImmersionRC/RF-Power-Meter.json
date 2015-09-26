@@ -11,9 +11,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2320"
-  },
-  {
    "url": "http://www.multirotorsuperstore.com/fpv/immersionrc-rf-power-meter.html"
   },
   {
@@ -25,6 +22,13 @@
    "stock_text": "In stock",
    "timestamp": "Sat, 26 Sep 2015 02:44:44 GMT",
    "url": "http://www.multirotorsuperstore.com/immersionrc-rf-power-meter.html"
+  },
+  {
+   "price": "$149.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:05:23 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2320"
   }
  ],
  "version": 2,

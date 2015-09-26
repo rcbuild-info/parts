@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ImmersionRC - XUGONG V2/PRO Camera Gimbal",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3678"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$188.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:55:45 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3678"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=403"
-  },
-  {
    "price": "$19.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:37:46 GMT",
    "url": "http://www.getfpv.com/gopro-handlebar-seatpost-mount.html"
+  },
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "4 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:43:09 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=403"
   }
  ],
  "version": 2,

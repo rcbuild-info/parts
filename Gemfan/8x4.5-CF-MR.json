@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "8x4.5 Multirotor Carbon Fiber",
@@ -7,10 +9,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2762",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=100"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=100"
+  },
+  {
+   "price": "$7.99",
+   "stock_state": "in_stock",
+   "stock_text": "153 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:12 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2762"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

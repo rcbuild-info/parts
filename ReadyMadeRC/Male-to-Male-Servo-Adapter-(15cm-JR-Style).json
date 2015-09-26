@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "Male to Male Servo Adapter (15cm JR Style)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=933"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "913 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:42:16 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=933"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

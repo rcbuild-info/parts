@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DPC AV",
  "name": "Tiny Mic V2 Amplified Microphone with Volume Control",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1380"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$13.95",
+   "stock_state": "in_stock",
+   "stock_text": "44 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:31:11 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1380"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

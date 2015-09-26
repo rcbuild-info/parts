@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FLIR Vue 336x256 30Hz w/6.8mm Lens Thermal Cam - USA ONLY",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4504"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1,699.00",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:32:23 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4504"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

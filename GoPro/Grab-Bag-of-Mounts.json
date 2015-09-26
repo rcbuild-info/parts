@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=826"
-  },
-  {
    "price": "$14.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:37:52 GMT",
    "url": "http://www.getfpv.com/gopro-grab-bag-of-mounts.html"
+  },
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "5 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:43:08 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=826"
   }
  ],
  "version": 2,

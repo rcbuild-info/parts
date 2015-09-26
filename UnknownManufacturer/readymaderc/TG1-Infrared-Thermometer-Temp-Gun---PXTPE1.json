@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "TG1 Infrared Thermometer Temp Gun - PXTPE1",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3942"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$25.00",
+   "stock_state": "in_stock",
+   "stock_text": "3 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:05:25 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3942"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

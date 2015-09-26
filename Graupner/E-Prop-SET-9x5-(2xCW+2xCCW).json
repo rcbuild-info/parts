@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Graupner",
  "name": "E-Prop SET 9x5 (2xCW+2xCCW)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3836"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$32.89",
+   "stock_state": "in_stock",
+   "stock_text": "25 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:34 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3836"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

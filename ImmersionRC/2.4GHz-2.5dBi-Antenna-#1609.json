@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "2.4GHz 2.5dBi Antenna #1609",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3924"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "28 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:41:19 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3924"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

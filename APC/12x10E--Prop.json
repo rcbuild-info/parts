@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "APC",
  "name": "12x10E  Prop",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1174"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.30",
+   "stock_state": "in_stock",
+   "stock_text": "9 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:05:50 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1174"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

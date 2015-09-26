@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Triple HQ Prop - Carbon Composite - 10x6x3",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3323"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.58",
+   "stock_state": "in_stock",
+   "stock_text": "83 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:03:33 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3323"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "receiver",
+ "categories": [
+  "receiver"
+ ],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "V8R7-II",
@@ -9,9 +11,17 @@
   "manufacturer": [
    "http://www.frsky-rc.com/product/pro.php?pro_id=12"
   ],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3036"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$21.99",
+   "stock_state": "in_stock",
+   "stock_text": "12 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:12:30 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3036"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

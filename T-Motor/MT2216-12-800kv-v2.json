@@ -13,9 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1492"
-  },
-  {
    "url": "http://flyduino.net/T-Motor"
   },
   {
@@ -30,6 +27,13 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:15:49 GMT",
    "url": "http://flyduino.net/T-Motor-MT2216-800KV-v2"
+  },
+  {
+   "price": "$54.90",
+   "stock_state": "in_stock",
+   "stock_text": "19 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:44 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1492"
   }
  ],
  "version": 2,

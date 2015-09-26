@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DuBro",
  "name": "12\" Fully Threaded Rod (4-40) #379",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3864"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.76",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:10:35 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3864"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

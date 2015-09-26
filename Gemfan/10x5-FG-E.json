@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "10x5 Electric Fiberglass Nylon",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2695"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.09",
+   "stock_state": "in_stock",
+   "stock_text": "45 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:30 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2695"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

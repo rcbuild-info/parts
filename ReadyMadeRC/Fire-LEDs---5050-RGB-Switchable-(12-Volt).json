@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "Fire LEDs - 5050 RGB Switchable (12 Volt)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4331"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.95",
+   "stock_state": "in_stock",
+   "stock_text": "87 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:00:29 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4331"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

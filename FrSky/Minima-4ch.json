@@ -1,5 +1,7 @@
 {
- "category": "receiver",
+ "categories": [
+  "receiver"
+ ],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Minima 4ch",
@@ -9,9 +11,17 @@
   "manufacturer": [
    "http://www.frsky-rc.com/product/pro.php?pro_id=108"
   ],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2440"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "24 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:12:30 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2440"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

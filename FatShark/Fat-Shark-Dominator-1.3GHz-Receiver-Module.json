@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Fat Shark Dominator 1.3GHz Receiver Module",
@@ -7,9 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4505"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$37.99",
+   "stock_state": "backordered",
+   "stock_text": "-2 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:41:06 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4505"
+  },
+  {
+   "price": "$37.99",
+   "stock_state": "backordered",
+   "stock_text": "-2 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:13:16 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?zenid=da8b31925c68fb79b9bd16433016bfad&main_page=product_info&products_id=4505"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

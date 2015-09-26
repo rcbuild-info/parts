@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Pilot HD V2 onboard 720p FPV HD Camera",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3470"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "38 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:41:20 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3470"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

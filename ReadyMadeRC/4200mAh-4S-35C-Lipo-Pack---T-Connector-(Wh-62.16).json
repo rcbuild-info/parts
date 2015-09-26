@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "4200mAh 4S 35C Lipo Pack - T Connector (Wh 62.16)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1994"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$57.99",
+   "stock_state": "in_stock",
+   "stock_text": "58 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:58:41 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1994"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Tattu 1800mAh 3S 75C Lipo Pack - XT60  (Wh 20.0)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4316"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$33.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:58:35 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4316"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

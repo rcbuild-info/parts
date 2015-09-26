@@ -13,12 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3553"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3551"
-  },
-  {
    "url": "http://www.multirotorsuperstore.com/props/props-by-size/5-inch/hqprop-5045-bullnose-carbon-fiber-nylon.html"
   },
   {
@@ -64,6 +58,20 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:16:19 GMT",
    "url": "http://flyduino.net/HQProp-5x45-127cm-Bullnose-Propeller-Set-Black-4-pcs-Carbon-reinforced"
+  },
+  {
+   "price": "$2.58",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:36 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3551"
+  },
+  {
+   "price": "$2.58",
+   "stock_state": "backordered",
+   "stock_text": "-1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:37 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3553"
   }
  ],
  "version": 2,

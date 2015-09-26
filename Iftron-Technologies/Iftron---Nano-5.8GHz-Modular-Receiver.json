@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Iftron Technologies",
  "name": "Iftron - Nano 5.8GHz Modular Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=391"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$144.95",
+   "stock_state": "in_stock",
+   "stock_text": "6 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:45:55 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=391"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MS2814-10 - KV 770, 35mmm x 36mm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2151"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$40.90",
+   "stock_state": "in_stock",
+   "stock_text": "15 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:48 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2151"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

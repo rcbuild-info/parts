@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini USB 5 Pin Male Right Angle Connector (with housing)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3398"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.79",
+   "stock_state": "in_stock",
+   "stock_text": "36 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:10:17 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3398"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "Black Pearl 7\" RC801 FPV Monitor - 5.8G Diversity (11.1 WH)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4062"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$199.99",
+   "stock_state": "in_stock",
+   "stock_text": "275 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:35:25 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4062"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "CASTLE CREATIONS BEC SWITCHING REGULATOR - 10 AMP PEAK",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=954"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$21.21",
+   "stock_state": "backordered",
+   "stock_text": "-1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:05:08 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=954"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

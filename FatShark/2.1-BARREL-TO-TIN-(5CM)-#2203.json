@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "2.1 BARREL TO TIN (5CM) #2203",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3919"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "22 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:50:27 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3919"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

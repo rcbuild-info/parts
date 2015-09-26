@@ -1,5 +1,7 @@
 {
- "category": "receiver",
+ "categories": [
+  "receiver"
+ ],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "TFR4SB",
@@ -9,9 +11,17 @@
   "manufacturer": [
    "http://www.frsky-rc.com/product/pro.php?pro_id=32"
   ],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2415"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$38.49",
+   "stock_state": "in_stock",
+   "stock_text": "6 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:12:28 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2415"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

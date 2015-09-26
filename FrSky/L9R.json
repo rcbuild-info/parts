@@ -15,9 +15,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3237"
-  },
-  {
    "url": "http://www.dronematters.com/radios/frsky-l9r-long-range-receiver.html"
   },
   {
@@ -32,6 +29,13 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:17:59 GMT",
    "url": "http://flyduino.net/Frsky-L9R-9-12ch-Non-telemetry-Long-Range-Receiver_1"
+  },
+  {
+   "price": "$35.99",
+   "stock_state": "in_stock",
+   "stock_text": "86 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:43:37 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3237"
   }
  ],
  "version": 2,

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "APC",
  "name": "12x3.8 SF Pusher Prop",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=834"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.11",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:06:43 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=834"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

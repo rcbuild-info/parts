@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Flexible RED LED Strip with Adhesive Back 1m Section",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=767"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "60 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:00:40 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=767"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

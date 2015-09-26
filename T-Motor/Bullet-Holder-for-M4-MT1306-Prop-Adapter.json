@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Bullet Holder for M4 MT1306 Prop Adapter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2078"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "18 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:59:50 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2078"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

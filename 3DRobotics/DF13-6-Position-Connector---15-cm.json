@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "DF13 6 Position Connector - 15 cm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2888"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.35",
+   "stock_state": "backordered",
+   "stock_text": "-1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:47:03 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2888"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

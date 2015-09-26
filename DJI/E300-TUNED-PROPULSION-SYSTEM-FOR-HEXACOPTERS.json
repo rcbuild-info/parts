@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "E300 TUNED PROPULSION SYSTEM FOR HEXACOPTERS",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4044"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$179.00",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:05:20 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4044"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

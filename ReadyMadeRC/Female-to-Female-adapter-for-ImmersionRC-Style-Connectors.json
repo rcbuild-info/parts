@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "Female to Female adapter for ImmersionRC Style Connectors",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=358"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "stock_text": "175 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:36:55 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=358"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MPI Collet Prop Adapter: 3mm Shaft w/ 5mm, 3/16\" Prop Shaft",
@@ -7,10 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1362",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=703"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "stock_text": "13 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:00:12 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1362"
+  },
+  {
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "stock_text": "10 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:00:12 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=703"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

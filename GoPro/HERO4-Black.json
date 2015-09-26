@@ -1,5 +1,7 @@
 {
- "category": "hqcam",
+ "categories": [
+  "hqcam"
+ ],
  "equivalent": [],
  "manufacturer": "GoPro",
  "name": "HERO4 Black",
@@ -9,11 +11,23 @@
   "manufacturer": [
    "http://shop.gopro.com/hero4/hero4-black/CHDHX-401.html"
   ],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/gopro-hero4-black-free-layerlens-or-memory-card.html",
-   "http://www.amazon.com/dp/B00NIYNUF2/?tag=rcbuildinfo-20",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3329"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.getfpv.com/gopro-hero4-black-free-layerlens-or-memory-card.html"
+  },
+  {
+   "url": "http://www.amazon.com/dp/B00NIYNUF2/?tag=rcbuildinfo-20"
+  },
+  {
+   "price": "$499.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:42:56 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3329"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

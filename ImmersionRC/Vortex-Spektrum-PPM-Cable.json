@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Vortex Spektrum PPM Cable",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/immersionrc/immersionrc-vortex-spektrum-ppm-cable.html",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4210"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/immersionrc/immersionrc-vortex-spektrum-ppm-cable.html"
+  },
+  {
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "50 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:54:57 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4210"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

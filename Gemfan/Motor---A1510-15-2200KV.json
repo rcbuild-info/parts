@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "Motor - A1510-15 2200KV",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3235"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.99",
+   "stock_state": "in_stock",
+   "stock_text": "72 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:19 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3235"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

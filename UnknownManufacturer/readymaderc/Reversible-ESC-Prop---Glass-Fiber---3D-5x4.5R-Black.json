@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Reversible ESC Prop - Glass Fiber - 3D-5x4.5R Black",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3960"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.08",
+   "stock_state": "in_stock",
+   "stock_text": "70 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:11 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3960"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

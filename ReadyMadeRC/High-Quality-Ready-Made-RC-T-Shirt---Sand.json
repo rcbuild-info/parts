@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "High Quality Ready Made RC T-Shirt - Sand",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1985"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.99",
+   "stock_state": "in_stock",
+   "stock_text": "99878 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:13:03 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1985"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

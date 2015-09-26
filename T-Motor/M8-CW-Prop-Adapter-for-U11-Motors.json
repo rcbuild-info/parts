@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "M8 CW Prop Adapter for U11 Motors",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3115"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.59",
+   "stock_state": "in_stock",
+   "stock_text": "25 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:59:36 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3115"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

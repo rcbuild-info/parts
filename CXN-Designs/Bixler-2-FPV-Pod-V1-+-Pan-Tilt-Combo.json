@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "CXN Designs",
  "name": "Bixler 2 FPV Pod V1 + Pan/Tilt Combo",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3299"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "12 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:48:01 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3299"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

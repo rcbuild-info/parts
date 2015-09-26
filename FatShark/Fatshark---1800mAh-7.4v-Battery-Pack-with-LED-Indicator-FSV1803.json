@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Fatshark - 1800mAh 7.4v Battery Pack with LED Indicator FSV1803",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4485"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$22.99",
+   "stock_state": "backordered",
+   "stock_text": "-13 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:56:38 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4485"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

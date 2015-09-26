@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Torroid Ring - 12.5mm OD Ferrite - for RF Noise Suppression",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=325",
-   "http://www.readymaderc.com/store/index.php?zenid=45665fdabb0ba2d675d7a72c4d9e4f88&main_page=product_info&products_id=325"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?zenid=45665fdabb0ba2d675d7a72c4d9e4f88&main_page=product_info&products_id=325"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "53 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:05:26 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=325"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

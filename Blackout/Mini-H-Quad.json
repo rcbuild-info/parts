@@ -15,14 +15,18 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2567"
-  },
-  {
    "price": "$149.99",
    "stock_state": "out_of_stock",
    "stock_text": "Out of Stock",
    "timestamp": "Sat, 26 Sep 2015 03:43:32 GMT",
    "url": "http://www.getfpv.com/blackout-mini-h-quad-frame.html"
+  },
+  {
+   "price": "$149.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "-2 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:57:12 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2567"
   }
  ],
  "version": 2,

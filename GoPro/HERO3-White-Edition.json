@@ -1,5 +1,7 @@
 {
- "category": "hqcam",
+ "categories": [
+  "hqcam"
+ ],
  "equivalent": [],
  "manufacturer": "GoPro",
  "name": "HERO3 White Edition",
@@ -11,10 +13,20 @@
   "manufacturer": [
    "https://gopro.com/support/hero3-white-support"
   ],
-  "related": [],
-  "store": [
-   "http://www.amazon.com/dp/B00GXKTEUI/?tag=rcbuildinfo-20",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3360"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.amazon.com/dp/B00GXKTEUI/?tag=rcbuildinfo-20"
+  },
+  {
+   "price": "$199.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:42:56 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3360"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

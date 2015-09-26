@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "11x5 Electric Carbon Fiber Composite",
@@ -7,11 +9,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Multikopter-Propeller-CW-CCW_29",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2265",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2264"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_29"
+  },
+  {
+   "price": "$7.80",
+   "stock_state": "in_stock",
+   "stock_text": "67 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:52 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2265"
+  },
+  {
+   "price": "$7.80",
+   "stock_state": "in_stock",
+   "stock_text": "16 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:53 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2264"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

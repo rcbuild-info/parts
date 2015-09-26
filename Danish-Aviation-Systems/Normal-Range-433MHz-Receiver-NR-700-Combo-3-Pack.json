@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Danish Aviation Systems",
  "name": "Normal Range 433MHz Receiver NR 700 Combo-3 Pack",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=800"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$323.99",
+   "stock_state": "low_stock",
+   "stock_text": "2 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:47:52 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=800"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

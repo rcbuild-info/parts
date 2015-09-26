@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "900 MHz 8 dBi Flat Patch Antenna - 4ft SMA Male Connector",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=51"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$39.99",
+   "stock_state": "in_stock",
+   "stock_text": "8 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:35:34 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=51"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

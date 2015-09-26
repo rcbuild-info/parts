@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "350 QX3 RTF BLH8100",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3824"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$399.99",
+   "stock_state": "low_stock",
+   "stock_text": "1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:53:24 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3824"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "Penguin/Sky-Hunter Power Package HC3516-1350 EDGE50 APC9x6e",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1127"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$139.99",
+   "stock_state": "in_stock",
+   "stock_text": "9 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:05:22 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1127"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3113"
-  },
-  {
    "price": "$9.99",
    "stock_state": "out_of_stock",
    "stock_text": "Expected on 8/27/2015",
    "timestamp": "Sat, 26 Sep 2015 03:43:05 GMT",
    "url": "http://www.getfpv.com/m6-cw-prop-adapter-for-u7-motors.html"
+  },
+  {
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "9 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:59:37 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3113"
   }
  ],
  "version": 2,

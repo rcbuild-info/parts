@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "T-Motor Carbon Fiber Folding Prop (2pcs) - 15 x 4.5",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2592"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$96.50",
+   "stock_state": "in_stock",
+   "stock_text": "12 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:59:31 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2592"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

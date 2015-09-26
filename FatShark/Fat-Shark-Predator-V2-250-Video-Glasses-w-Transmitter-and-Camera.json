@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Fat Shark Predator V2 250 Video Glasses w/Transmitter and Camera",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1129"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$249.99",
+   "stock_state": "in_stock",
+   "stock_text": "115 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:57:08 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1129"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

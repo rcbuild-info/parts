@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "CXN Designs",
  "name": "Anaconda Bottom FPV Pod - V2",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3685"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$39.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:01:36 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3685"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

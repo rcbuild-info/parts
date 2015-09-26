@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN4010-14 - KV 370, 44.3mm x 30.5mm, 263g",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1499"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$86.90",
+   "stock_state": "in_stock",
+   "stock_text": "11 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:36 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1499"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

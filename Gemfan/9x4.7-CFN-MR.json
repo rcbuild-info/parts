@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "9x4.7 Multirotor Carbon Fiber Nylon",
@@ -7,11 +9,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2752",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2745",
-   "http://www.dronematters.com/power-system/gemfan-9047-carbon-composite-propellers-black-4-ccw.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/gemfan-9047-carbon-composite-propellers-black-4-ccw.html"
+  },
+  {
+   "price": "$3.29",
+   "stock_state": "in_stock",
+   "stock_text": "49 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:54 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2752"
+  },
+  {
+   "price": "$3.29",
+   "stock_state": "in_stock",
+   "stock_text": "75 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:58 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2745"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

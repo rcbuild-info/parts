@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "Jumper Cable (Audio) for Camera and Transmitter Cables",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=136"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "stock_text": "1038 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:36:50 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=136"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

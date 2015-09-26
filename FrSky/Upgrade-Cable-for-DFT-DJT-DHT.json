@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Upgrade Cable for DFT/DJT/DHT",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2435"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "156 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:12:08 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2435"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

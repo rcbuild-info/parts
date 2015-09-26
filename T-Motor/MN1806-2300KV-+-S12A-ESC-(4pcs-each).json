@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN1806 2300KV + S12A ESC (4pcs each)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3260"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$178.99",
+   "stock_state": "in_stock",
+   "stock_text": "34 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:03:48 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3260"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

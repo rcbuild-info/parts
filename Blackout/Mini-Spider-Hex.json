@@ -15,14 +15,18 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2568"
-  },
-  {
    "price": "$219.99",
    "stock_state": "out_of_stock",
    "stock_text": "Out of Stock",
    "timestamp": "Sat, 26 Sep 2015 03:42:10 GMT",
    "url": "http://www.getfpv.com/blackout-mini-spider-hex.html"
+  },
+  {
+   "price": "$219.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:56:51 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2568"
   }
  ],
  "version": 2,

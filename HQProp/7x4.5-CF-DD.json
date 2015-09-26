@@ -13,12 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3951"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3952"
-  },
-  {
    "url": "http://www.multirotorsuperstore.com/props/props-by-mfg/hqprop/hqprop-7045-carbon-fiber-nylon.html"
   },
   {
@@ -37,6 +31,20 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 02:45:05 GMT",
    "url": "http://www.multirotorsuperstore.com/hqprop-7045-carbon-fiber-nylon.html"
+  },
+  {
+   "price": "$3.98",
+   "stock_state": "in_stock",
+   "stock_text": "113 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:59 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3951"
+  },
+  {
+   "price": "$3.98",
+   "stock_state": "in_stock",
+   "stock_text": "108 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:59 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3952"
   }
  ],
  "version": 2,

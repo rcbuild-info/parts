@@ -13,12 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3199"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3200"
-  },
-  {
    "url": "http://flyduino.net/HQProp-8x45-black-carbon-reinforced-Multi-Rotor-Propeller-Set-2-CW-und-2-CCW"
   },
   {
@@ -29,6 +23,20 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 06:25:23 GMT",
    "url": "http://www.readytoflyquads.com/hq-prop-8x45-mm-carbon-composite-prop"
+  },
+  {
+   "price": "$4.40",
+   "stock_state": "in_stock",
+   "stock_text": "23 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:09 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3199"
+  },
+  {
+   "price": "$4.40",
+   "stock_state": "in_stock",
+   "stock_text": "43 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:09 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3200"
   }
  ],
  "version": 2,

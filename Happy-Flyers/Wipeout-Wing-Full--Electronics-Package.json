@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Happy Flyers",
  "name": "Wipeout Wing Full  Electronics Package",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4237"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$289.99",
+   "stock_state": "in_stock",
+   "stock_text": "3 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:02:16 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4237"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

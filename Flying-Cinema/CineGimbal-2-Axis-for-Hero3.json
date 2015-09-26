@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flying Cinema",
  "name": "CineGimbal 2 Axis for Hero3",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3575"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$89.00",
+   "stock_state": "in_stock",
+   "stock_text": "25 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:54:37 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3575"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

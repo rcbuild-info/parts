@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Marco Polo - Transceiver Tag",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3302"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$92.95",
+   "stock_state": "in_stock",
+   "stock_text": "18 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:31:26 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3302"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

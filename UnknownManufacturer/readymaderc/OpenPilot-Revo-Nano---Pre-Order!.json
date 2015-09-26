@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "OpenPilot Revo Nano - Pre Order!",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4297"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "-1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:55:30 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4297"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

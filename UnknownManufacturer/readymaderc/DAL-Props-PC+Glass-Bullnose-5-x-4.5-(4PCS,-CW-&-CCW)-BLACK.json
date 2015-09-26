@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DAL Props PC+Glass Bullnose 5 x 4.5 (4PCS, CW & CCW) BLACK",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4445"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "221 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:06:09 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4445"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

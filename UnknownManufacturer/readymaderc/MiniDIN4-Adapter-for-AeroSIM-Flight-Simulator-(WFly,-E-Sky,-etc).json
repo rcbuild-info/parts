@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MiniDIN4 Adapter for AeroSIM Flight Simulator (WFly, E-Sky, etc)",
@@ -7,9 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=720"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.17",
+   "stock_state": "low_stock",
+   "stock_text": "2 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:12:51 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=720"
+  },
+  {
+   "price": "$4.17",
+   "stock_state": "low_stock",
+   "stock_text": "2 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:13:21 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?zenid=da8b31925c68fb79b9bd16433016bfad&main_page=product_info&products_id=720"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

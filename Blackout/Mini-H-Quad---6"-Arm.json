@@ -13,14 +13,18 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3905"
-  },
-  {
    "price": "$10.99",
    "stock_state": "out_of_stock",
    "stock_text": "Out of Stock",
    "timestamp": "Sat, 26 Sep 2015 03:39:41 GMT",
    "url": "http://www.getfpv.com/blackout-mini-h-quad-6-arm.html"
+  },
+  {
+   "price": "$10.99",
+   "stock_state": "in_stock",
+   "stock_text": "68 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:53:20 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3905"
   }
  ],
  "version": 2,

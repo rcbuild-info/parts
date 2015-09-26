@@ -13,9 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3807"
-  },
-  {
    "description": "Black",
    "price": "$4.19",
    "quantity": 4,
@@ -41,6 +38,13 @@
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:38:52 GMT",
    "url": "http://www.getfpv.com/gemfan-5x3-carbon-nylon-propeller-2-blade-set-of-4-black.html"
+  },
+  {
+   "price": "$4.19",
+   "stock_state": "in_stock",
+   "stock_text": "66 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:57 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3807"
   }
  ],
  "version": 2,

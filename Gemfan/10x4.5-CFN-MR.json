@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "10x4.5 Multirotor Carbon Fiber Nylon",
@@ -7,10 +9,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2749",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2753"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.59",
+   "stock_state": "in_stock",
+   "stock_text": "39 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:47 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2749"
+  },
+  {
+   "price": "$3.59",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:47 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2753"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

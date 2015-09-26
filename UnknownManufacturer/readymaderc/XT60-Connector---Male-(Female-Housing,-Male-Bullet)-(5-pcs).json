@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XT60 Connector - Male (Female Housing, Male Bullet) (5 pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=440"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "458 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:10:20 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=440"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

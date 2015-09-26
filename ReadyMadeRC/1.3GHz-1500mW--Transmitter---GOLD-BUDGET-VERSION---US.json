@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "1.3GHz 1500mW  Transmitter - GOLD BUDGET VERSION - US",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1203"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$57.99",
+   "stock_state": "in_stock",
+   "stock_text": "71 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:34:44 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1203"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

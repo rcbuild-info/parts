@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Slow Fly HQ Prop - Carbon Composite - 8x4.5R",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2470"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.40",
+   "stock_state": "in_stock",
+   "stock_text": "67 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:15 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2470"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

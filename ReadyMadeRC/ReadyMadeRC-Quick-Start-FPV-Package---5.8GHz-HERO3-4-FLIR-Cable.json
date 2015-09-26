@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "ReadyMadeRC Quick Start FPV Package - 5.8GHz HERO3/4 FLIR Cable",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2066"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$284.99",
+   "stock_state": "in_stock",
+   "stock_text": "5 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:56:32 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2066"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

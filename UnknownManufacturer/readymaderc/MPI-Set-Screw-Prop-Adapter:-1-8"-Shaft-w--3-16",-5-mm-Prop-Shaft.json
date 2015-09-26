@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MPI Set Screw Prop Adapter: 1/8\" Shaft w/ 3/16\", 5 mm Prop Shaft",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1353"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "stock_text": "6 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:00:27 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1353"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

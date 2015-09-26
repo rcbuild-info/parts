@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "FrSky Mounting Stand for DHT-U/FLD-02",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2446"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "11 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:12:47 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2446"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

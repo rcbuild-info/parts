@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "USB Linker - SN Series ESC's",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4324"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "95 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:00 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4324"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

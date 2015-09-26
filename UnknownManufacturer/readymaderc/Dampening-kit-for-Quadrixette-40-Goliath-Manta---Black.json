@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dampening kit for Quadrixette 40/Goliath/Manta - Black",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1895",
-   "http://www.readymaderc.com/store/index.php?zenid=45665fdabb0ba2d675d7a72c4d9e4f88&main_page=product_info&products_id=1895"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?zenid=45665fdabb0ba2d675d7a72c4d9e4f88&main_page=product_info&products_id=1895"
+  },
+  {
+   "price": "$11.07",
+   "stock_state": "in_stock",
+   "stock_text": "27 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:52:54 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1895"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

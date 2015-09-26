@@ -15,9 +15,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3319"
-  },
-  {
    "url": "http://flyduino.net/Frsky-X4RSB-3-16ch-Telemetry-Receiver"
   },
   {
@@ -26,6 +23,13 @@
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:40:29 GMT",
    "url": "http://www.getfpv.com/frsky-x4r-sb-3-16-channel-receiver-w-sbus.html"
+  },
+  {
+   "price": "$25.99",
+   "stock_state": "backordered",
+   "stock_text": "-1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:12:15 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3319"
   }
  ],
  "version": 2,

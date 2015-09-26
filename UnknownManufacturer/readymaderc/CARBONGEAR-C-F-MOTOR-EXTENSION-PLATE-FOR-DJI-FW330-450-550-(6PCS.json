@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "CARBONGEAR C/F MOTOR EXTENSION PLATE FOR DJI FW330/450/550 (6PCS",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2132"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$75.99",
+   "stock_state": "low_stock",
+   "stock_text": "2 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:53:46 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2132"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

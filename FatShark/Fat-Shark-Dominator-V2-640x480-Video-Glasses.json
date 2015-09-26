@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Fat Shark Dominator V2 640x480 Video Glasses",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2545"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$324.99",
+   "stock_state": "in_stock",
+   "stock_text": "46 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:59:15 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2545"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

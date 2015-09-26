@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "iOSD MKII - On Screen Display",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1926"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$254.99",
+   "stock_state": "in_stock",
+   "stock_text": "3 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:54:27 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1926"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "APC",
  "name": "9x4.5MR Prop",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2048"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.59",
+   "stock_state": "in_stock",
+   "stock_text": "25 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:06:34 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2048"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

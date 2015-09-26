@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Deans Series Adapter, 2 Male to 1 Female",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1898"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "stock_text": "69 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:57:04 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1898"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "9.4x5 Multirotor Fiberglass Composite",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3341"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "47 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:45:23 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3341"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

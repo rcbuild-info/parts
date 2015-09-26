@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Iftron Technologies",
  "name": "Iftron - Stinger Pro 5.8 250mw AVD Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=25"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$169.99",
+   "stock_state": "in_stock",
+   "stock_text": "21 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:45:58 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=25"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

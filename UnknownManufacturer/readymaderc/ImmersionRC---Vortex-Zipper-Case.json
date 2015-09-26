@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ImmersionRC - Vortex Zipper Case",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4334"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$38.99",
+   "stock_state": "in_stock",
+   "stock_text": "155 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:54:57 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4334"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Flip FPV PRO Upgrade Kit",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3038"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$53.99",
+   "stock_state": "in_stock",
+   "stock_text": "7 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:54:48 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3038"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

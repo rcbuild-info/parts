@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1/4 Wave 433MHz Antenna w/SMA Male Connector",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=182"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.99",
+   "stock_state": "in_stock",
+   "stock_text": "29 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:35:03 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=182"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

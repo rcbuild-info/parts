@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Carbon Fiber Tube: 4mm x 2.5mm, 1m Long",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3712"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "stock_text": "80 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:10:09 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3712"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

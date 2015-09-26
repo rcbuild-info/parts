@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "VAS - 5.8 GHz Replacement Cover for Mad Mushroom or Airscrew",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4443"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.89",
+   "stock_state": "in_stock",
+   "stock_text": "42 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:40:34 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4443"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

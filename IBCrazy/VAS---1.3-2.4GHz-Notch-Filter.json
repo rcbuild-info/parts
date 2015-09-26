@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "VAS - 1.3/2.4GHz Notch Filter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1206"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "10 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:40:07 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1206"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

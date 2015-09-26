@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "GoPro HERO3/HERO3+/HERO4 Camera Cable (Audio and Video)",
@@ -7,9 +7,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?zenid=27e1625d5b378b6b39cd0b73cd1ba7bd&main_page=product_info&products_id=1295"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?zenid=27e1625d5b378b6b39cd0b73cd1ba7bd&main_page=product_info&products_id=1295"
+  },
+  {
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "330 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:56:21 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1295"
+  },
+  {
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "330 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:13:20 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?zenid=da8b31925c68fb79b9bd16433016bfad&main_page=product_info&products_id=1295"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

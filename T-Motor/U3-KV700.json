@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "U3 KV700",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2640",
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=729"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=729"
+  },
+  {
+   "price": "$109.90",
+   "stock_state": "in_stock",
+   "stock_text": "5 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:53 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2640"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

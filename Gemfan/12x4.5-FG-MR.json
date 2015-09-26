@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "12x4.5 Multirotor Fiberglass Nylon",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2824"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.74",
+   "stock_state": "in_stock",
+   "stock_text": "29 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:44 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2824"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

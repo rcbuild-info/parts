@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RF Coax Cable - Flexible RG316 (1 Meter)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3993"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.29",
+   "stock_state": "in_stock",
+   "stock_text": "46 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:34:37 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3993"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

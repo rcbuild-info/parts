@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Bullet Connectors - 24K 3.0MM (3 pairs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3172"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.38",
+   "stock_state": "in_stock",
+   "stock_text": "5 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:10:27 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3172"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

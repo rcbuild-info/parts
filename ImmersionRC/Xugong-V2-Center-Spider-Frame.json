@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Xugong V2 Center Spider Frame",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4216"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$30.99",
+   "stock_state": "in_stock",
+   "stock_text": "9 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:54:54 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4216"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

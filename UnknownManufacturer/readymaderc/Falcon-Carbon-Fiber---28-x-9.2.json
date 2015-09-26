@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Falcon Carbon Fiber - 28 x 9.2",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4235"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$309.60",
+   "stock_state": "in_stock",
+   "stock_text": "6 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:05:43 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4235"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

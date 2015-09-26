@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "900MHz-1.3Ghz Receiver w/1258 with RMRC Comtech Tuner",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=912"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$54.99",
+   "stock_state": "backordered",
+   "stock_text": "-1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:32:47 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=912"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

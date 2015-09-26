@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "XOAR",
  "name": "PJN - 10x5 (1 pc)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2341"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.50",
+   "stock_state": "in_stock",
+   "stock_text": "35 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:59:44 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2341"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "T-Motor Beech Wood Prop (2pcs) - 14 x 5",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3265"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$36.99",
+   "stock_state": "in_stock",
+   "stock_text": "9 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:59:26 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3265"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

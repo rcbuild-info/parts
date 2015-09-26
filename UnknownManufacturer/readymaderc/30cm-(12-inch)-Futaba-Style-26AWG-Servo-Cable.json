@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "30cm (12 inch) Futaba Style 26AWG Servo Cable",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=620"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "31 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:05:13 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=620"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

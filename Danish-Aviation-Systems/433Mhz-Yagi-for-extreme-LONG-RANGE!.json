@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Danish Aviation Systems",
  "name": "433Mhz Yagi for extreme LONG RANGE!",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=883"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:47:51 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=883"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

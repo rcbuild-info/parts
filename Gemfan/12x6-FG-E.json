@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "12x6 Electric Fiberglass Nylon",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2694"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "98 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:21 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2694"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

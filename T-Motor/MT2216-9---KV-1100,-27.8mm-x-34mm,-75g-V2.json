@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT2216-9 - KV 1100, 27.8mm x 34mm, 75g V2",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1779"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$54.90",
+   "stock_state": "in_stock",
+   "stock_text": "7 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:44 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1779"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

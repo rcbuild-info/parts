@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "1.3GHz 150mW Transmitter - INTL VERSION",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1018"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$42.99",
+   "stock_state": "in_stock",
+   "stock_text": "172 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:34:42 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1018"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

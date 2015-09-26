@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "3x2 Multirotor Fiberglass Nylon",
@@ -7,14 +9,52 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2833",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2830",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2832",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2834",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2835",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2831"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "17 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:40 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2833"
+  },
+  {
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "17 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:40 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2830"
+  },
+  {
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "10 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:41 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2832"
+  },
+  {
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "18 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:41 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2834"
+  },
+  {
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "15 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:41 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2835"
+  },
+  {
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "12 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:42 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2831"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

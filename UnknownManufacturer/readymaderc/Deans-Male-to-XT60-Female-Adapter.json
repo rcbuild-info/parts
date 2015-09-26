@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Deans Male to XT60 Female Adapter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=769"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "412 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:57:07 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=769"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

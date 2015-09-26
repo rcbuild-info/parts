@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X2204S 2300kv",
@@ -7,11 +9,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3901",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3902",
-   "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=87"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=87"
+  },
+  {
+   "price": "$17.95",
+   "stock_state": "backordered",
+   "stock_text": "-2 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:21 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3901"
+  },
+  {
+   "price": "$17.95",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:21 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3902"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

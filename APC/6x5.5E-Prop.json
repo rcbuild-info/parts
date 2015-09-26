@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "APC",
  "name": "6x5.5E Prop",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=84"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.29",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:06:21 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=84"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

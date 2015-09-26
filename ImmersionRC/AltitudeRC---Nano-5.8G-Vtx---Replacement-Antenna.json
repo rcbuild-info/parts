@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "AltitudeRC - Nano 5.8G Vtx - Replacement Antenna",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4058"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.49",
+   "stock_state": "in_stock",
+   "stock_text": "112 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:34:28 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4058"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "Wiring Harness for Altitude RC 5.8 GHz Tx (2PCS)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2862"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "51 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:37:00 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2862"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

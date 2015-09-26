@@ -13,139 +13,163 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4174"
+   "description": "Green",
+   "price": "$3.49",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:39:38 GMT",
+   "url": "http://www.getfpv.com/gemfan-4x4-5-propeller-2-blade-set-of-4-green.html"
   },
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4173"
+   "description": "Green",
+   "price": "$14.95",
+   "quantity": 20,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:39:38 GMT",
+   "url": "http://www.getfpv.com/gemfan-4x4-5-propeller-2-blade-set-of-4-green.html"
   },
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4172"
+   "description": "Black",
+   "price": "$3.49",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:39:39 GMT",
+   "url": "http://www.getfpv.com/gemfan-4x4-5-propeller-2-blade-set-of-4-black.html"
   },
   {
+   "description": "Black",
+   "price": "$14.95",
+   "quantity": 20,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:39:39 GMT",
+   "url": "http://www.getfpv.com/gemfan-4x4-5-propeller-2-blade-set-of-4-black.html"
+  },
+  {
+   "description": "Green",
+   "price": "$3.49",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:47 GMT",
+   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
+  },
+  {
+   "description": "Green",
+   "price": "$16.45",
+   "quantity": 20,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:47 GMT",
+   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
+  },
+  {
+   "description": "Green",
+   "price": "$30.90",
+   "quantity": 40,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:47 GMT",
+   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
+  },
+  {
+   "description": "Orange",
+   "price": "$3.49",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:48 GMT",
+   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html"
+  },
+  {
+   "description": "Orange",
+   "price": "$16.45",
+   "quantity": 20,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:48 GMT",
+   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html"
+  },
+  {
+   "description": "Orange",
+   "price": "$30.90",
+   "quantity": 40,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:48 GMT",
+   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html"
+  },
+  {
+   "description": "Black",
+   "price": "$3.49",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:48 GMT",
+   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-black.html"
+  },
+  {
+   "description": "Black",
+   "price": "$16.45",
+   "quantity": 20,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:48 GMT",
+   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-black.html"
+  },
+  {
+   "description": "Black",
+   "price": "$30.90",
+   "quantity": 40,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:48 GMT",
+   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-black.html"
+  },
+  {
+   "price": "$2.99",
+   "stock_state": "low_stock",
+   "stock_text": "1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:39 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3817"
   },
   {
+   "price": "$2.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:39 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3819"
   },
   {
+   "price": "$2.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:40 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3818"
   },
   {
-   "description": "Green",
    "price": "$3.49",
-   "quantity": 4,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:39:38 GMT",
-   "url": "http://www.getfpv.com/gemfan-4x4-5-propeller-2-blade-set-of-4-green.html"
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:06 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4173"
   },
   {
-   "description": "Green",
-   "price": "$14.95",
-   "quantity": 20,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:39:38 GMT",
-   "url": "http://www.getfpv.com/gemfan-4x4-5-propeller-2-blade-set-of-4-green.html"
-  },
-  {
-   "description": "Black",
    "price": "$3.49",
-   "quantity": 4,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:39:39 GMT",
-   "url": "http://www.getfpv.com/gemfan-4x4-5-propeller-2-blade-set-of-4-black.html"
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:07 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4172"
   },
   {
-   "description": "Black",
-   "price": "$14.95",
-   "quantity": 20,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:39:39 GMT",
-   "url": "http://www.getfpv.com/gemfan-4x4-5-propeller-2-blade-set-of-4-black.html"
-  },
-  {
-   "description": "Green",
    "price": "$3.49",
-   "quantity": 4,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:47 GMT",
-   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
-  },
-  {
-   "description": "Green",
-   "price": "$16.45",
-   "quantity": 20,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:47 GMT",
-   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
-  },
-  {
-   "description": "Green",
-   "price": "$30.90",
-   "quantity": 40,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:47 GMT",
-   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-green.html"
-  },
-  {
-   "description": "Orange",
-   "price": "$3.49",
-   "quantity": 4,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:48 GMT",
-   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html"
-  },
-  {
-   "description": "Orange",
-   "price": "$16.45",
-   "quantity": 20,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:48 GMT",
-   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html"
-  },
-  {
-   "description": "Orange",
-   "price": "$30.90",
-   "quantity": 40,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:48 GMT",
-   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-orange.html"
-  },
-  {
-   "description": "Black",
-   "price": "$3.49",
-   "quantity": 4,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:48 GMT",
-   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-black.html"
-  },
-  {
-   "description": "Black",
-   "price": "$16.45",
-   "quantity": 20,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:48 GMT",
-   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-black.html"
-  },
-  {
-   "description": "Black",
-   "price": "$30.90",
-   "quantity": 40,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:48 GMT",
-   "url": "http://www.getfpv.com/gemfan-4x4-5-nylon-glass-fiber-propeller-set-of-4-black.html"
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:08 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4174"
   }
  ],
  "version": 2,

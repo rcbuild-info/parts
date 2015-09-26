@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "NAZAM LITE/GPS, F550 ARF KIT COMBO",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2237"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$464.99",
+   "stock_state": "in_stock",
+   "stock_text": "9 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:53:48 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2237"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

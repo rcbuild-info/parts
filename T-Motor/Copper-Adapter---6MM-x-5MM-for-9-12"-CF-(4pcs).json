@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Copper Adapter - 6MM x 5MM for 9-12\" CF (4pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3164"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "20 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:39:53 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3164"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

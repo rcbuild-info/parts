@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "PHANTOM 2 - RTF (No Camera or Gimbal)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2672"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$499.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:51:34 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2672"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

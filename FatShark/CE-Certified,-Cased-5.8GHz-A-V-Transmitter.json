@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "CE Certified, Cased 5.8GHz A/V Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3178"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "35 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:35:50 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3178"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Tenma - Conical Replacement Tip - 0.2mm x 17mm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4073"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "low_stock",
+   "stock_text": "2 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:10:42 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4073"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

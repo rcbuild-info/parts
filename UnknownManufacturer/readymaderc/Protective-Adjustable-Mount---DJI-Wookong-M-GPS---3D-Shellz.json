@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Protective Adjustable Mount - DJI Wookong M GPS - 3D Shellz",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1184"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "20 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:56:06 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1184"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

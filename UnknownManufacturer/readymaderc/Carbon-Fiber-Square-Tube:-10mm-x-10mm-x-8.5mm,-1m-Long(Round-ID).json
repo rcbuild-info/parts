@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Carbon Fiber Square Tube: 10mm x 10mm x 8.5mm, 1m Long(Round ID)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3724"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.99",
+   "stock_state": "in_stock",
+   "stock_text": "54 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:10:06 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3724"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

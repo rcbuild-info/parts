@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "APC",
  "name": "7x4F Electric Folding Prop (Blades Only)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3764"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.39",
+   "stock_state": "in_stock",
+   "stock_text": "7 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:06:27 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3764"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

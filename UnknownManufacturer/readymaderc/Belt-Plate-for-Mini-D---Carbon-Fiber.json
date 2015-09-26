@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Belt Plate for Mini-D - Carbon Fiber",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3009"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$20.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:53:29 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3009"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

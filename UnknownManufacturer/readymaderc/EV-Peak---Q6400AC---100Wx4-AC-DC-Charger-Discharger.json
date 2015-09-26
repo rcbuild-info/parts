@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EV-Peak - Q6400AC - 100Wx4 AC/DC Charger/Discharger",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2853"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$189.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "-2 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:58:52 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2853"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

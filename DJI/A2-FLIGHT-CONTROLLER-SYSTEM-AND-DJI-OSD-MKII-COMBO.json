@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "A2 FLIGHT CONTROLLER SYSTEM AND DJI OSD MKII COMBO",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1927"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1,398.99",
+   "stock_state": "low_stock",
+   "stock_text": "2 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:55:25 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1927"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

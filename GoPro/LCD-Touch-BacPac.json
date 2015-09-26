@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1237"
-  },
-  {
    "price": "$79.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:37:47 GMT",
    "url": "http://www.getfpv.com/gopro-lcd-touch-bacpac.html"
+  },
+  {
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "10 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:13:13 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1237"
   }
  ],
  "version": 2,

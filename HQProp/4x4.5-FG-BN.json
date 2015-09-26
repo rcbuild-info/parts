@@ -13,24 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3946"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3949"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3947"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3948"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4114"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4113"
-  },
-  {
    "url": "http://flyduino.net/HQProp-4x45-1016cm-Bullnose-Propeller-Set-Black-4-pcs-Glass-reinforced_1"
   },
   {
@@ -66,6 +48,48 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:16:17 GMT",
    "url": "http://flyduino.net/HQProp-4x45-1016cm-Bullnose-Propeller-Set-Green-4-pcs-Glass-reinforced"
+  },
+  {
+   "price": "$2.38",
+   "stock_state": "low_stock",
+   "stock_text": "1 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:37 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3946"
+  },
+  {
+   "price": "$2.38",
+   "stock_state": "in_stock",
+   "stock_text": "86 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:37 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3949"
+  },
+  {
+   "price": "$2.38",
+   "stock_state": "backordered",
+   "stock_text": "-8 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:38 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4114"
+  },
+  {
+   "price": "$2.38",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:38 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3947"
+  },
+  {
+   "price": "$2.38",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:38 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3948"
+  },
+  {
+   "price": "$2.38",
+   "stock_state": "backordered",
+   "stock_text": "-4 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:38 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4113"
   }
  ],
  "version": 2,

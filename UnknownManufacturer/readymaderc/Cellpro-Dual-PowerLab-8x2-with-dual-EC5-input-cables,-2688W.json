@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Cellpro Dual PowerLab 8x2 with dual EC5 input cables, 2688W",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4048"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$369.95",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:58:49 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4048"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

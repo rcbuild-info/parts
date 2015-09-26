@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JST Female and Male Connector with Pins (5 pcs each)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2608"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.09",
+   "stock_state": "in_stock",
+   "stock_text": "1004 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:10:21 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2608"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

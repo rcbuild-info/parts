@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Castle Creations",
  "name": "Phoenix Talon 35 Brushless ESC w/BEC",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2019"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$50.11",
+   "stock_state": "in_stock",
+   "stock_text": "5 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:03:52 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2019"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

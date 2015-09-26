@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Flip 360 FPV Frame (Black/Orange)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2423"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$126.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:57:12 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2423"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

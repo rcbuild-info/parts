@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "MT1806-2280KV",
@@ -7,10 +9,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3648",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3649"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "51 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:17 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3649"
+  },
+  {
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "40 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:18 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3648"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

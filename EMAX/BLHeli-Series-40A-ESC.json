@@ -1,5 +1,7 @@
 {
- "category": "esc",
+ "categories": [
+  "esc"
+ ],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "BLHeli Series 40A",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4219"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.99",
+   "stock_state": "in_stock",
+   "stock_text": "13 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:01 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4219"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

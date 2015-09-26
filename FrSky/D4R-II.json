@@ -15,9 +15,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2971"
-  },
-  {
    "url": "http://flyduino.net/Frsky-D4R-II-FrSky-4ch-telemetry-receiver"
   },
   {
@@ -26,6 +23,13 @@
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:37:40 GMT",
    "url": "http://www.getfpv.com/frsky-d4r-ii-4ch-2-4ghz-accst-receiver-w-telemetry.html"
+  },
+  {
+   "price": "$25.99",
+   "stock_state": "in_stock",
+   "stock_text": "230 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:12:16 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2971"
   }
  ],
  "version": 2,

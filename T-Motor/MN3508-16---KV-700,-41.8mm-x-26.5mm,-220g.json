@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN3508-16 - KV 700, 41.8mm x 26.5mm, 220g",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1770"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$69.90",
+   "stock_state": "in_stock",
+   "stock_text": "7 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:39 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1770"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

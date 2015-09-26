@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "Braided Mesh - 6mm Black - 1m Section",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4151"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.49",
+   "stock_state": "in_stock",
+   "stock_text": "104 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:11:52 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4151"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

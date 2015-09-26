@@ -13,12 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2595"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2596"
-  },
-  {
    "price": "$5.00",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 06:27:04 GMT",
@@ -29,6 +23,20 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:15:38 GMT",
    "url": "http://flyduino.net/HQProp-9x45-Carbon-reinforced-AP-Propeller-Set-Black-2CW-2-CCW"
+  },
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "207 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:07 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2595"
+  },
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "141 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:07 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2596"
   }
  ],
  "version": 2,

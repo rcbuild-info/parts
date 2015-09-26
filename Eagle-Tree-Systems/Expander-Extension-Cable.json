@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=47"
-  },
-  {
    "price": "$4.49",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:36:43 GMT",
    "url": "http://www.getfpv.com/expander-extension-cable.html"
+  },
+  {
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "stock_text": "36 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:49:33 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=47"
   }
  ],
  "version": 2,

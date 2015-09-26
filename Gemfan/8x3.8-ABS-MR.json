@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "8x3.8 Multirotor ABS",
@@ -7,10 +9,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2709",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2708"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "63 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:02 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2709"
+  },
+  {
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "31 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:02 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2708"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "Anaconda - Replacement Landing Gear Kit",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3440"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.99",
+   "stock_state": "backordered",
+   "stock_text": "-4 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:01:39 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3440"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

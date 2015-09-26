@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Motor Bearings - for MT2208,2212,2216V1,MN2214 (2pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2082"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:39:46 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2082"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zeiss",
  "name": "Cinemizer HD Glasses + DJI Lightbridge 2.4 HD Video COMBO",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3301"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2,098.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:30:20 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3301"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

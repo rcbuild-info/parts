@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "M3 Cap Head Screw - 8mm (10pcs)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?zenid=27e1625d5b378b6b39cd0b73cd1ba7bd&main_page=product_info&products_id=4549"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?zenid=27e1625d5b378b6b39cd0b73cd1ba7bd&main_page=product_info&products_id=4549"
+  },
+  {
+   "price": "$2.09",
+   "stock_state": "in_stock",
+   "stock_text": "197 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:11:04 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4549"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

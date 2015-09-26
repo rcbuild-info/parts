@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "T-Motor ESC - SimonK 12A 2-4s, 1A BEC",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2580"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "270 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:09 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2580"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

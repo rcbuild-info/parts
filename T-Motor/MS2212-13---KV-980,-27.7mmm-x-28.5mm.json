@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MS2212-13 - KV 980, 27.7mmm x 28.5mm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1773"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$26.90",
+   "stock_state": "in_stock",
+   "stock_text": "44 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:32 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1773"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

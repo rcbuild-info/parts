@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DuBro",
  "name": "2\" Wing Tip/Tail Skid #991 (2pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2379"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.94",
+   "stock_state": "in_stock",
+   "stock_text": "41 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:11:54 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2379"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

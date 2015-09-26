@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Cable Protector - 1m per bag",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2099"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "stock_text": "41 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:11:38 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2099"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

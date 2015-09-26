@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Danish Aviation Systems",
  "name": "Scherrer Long Range Receiver Antenna (433MHz)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=158"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.99",
+   "stock_state": "backordered",
+   "stock_text": "-3 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:47:49 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=158"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

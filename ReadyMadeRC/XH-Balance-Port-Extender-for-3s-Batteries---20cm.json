@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "XH Balance Port Extender for 3s Batteries - 20cm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3638"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.19",
+   "stock_state": "in_stock",
+   "stock_text": "106 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:50:43 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3638"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

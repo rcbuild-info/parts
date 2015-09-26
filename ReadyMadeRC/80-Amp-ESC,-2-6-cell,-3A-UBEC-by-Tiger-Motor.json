@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyMadeRC",
  "name": "80 Amp ESC, 2-6 cell, 3A UBEC by Tiger Motor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3337"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "120 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:07 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3337"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

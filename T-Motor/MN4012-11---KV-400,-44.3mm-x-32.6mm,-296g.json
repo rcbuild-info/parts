@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN4012-11 - KV 400, 44.3mm x 32.6mm, 296g",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1753"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$46.45",
+   "stock_state": "in_stock",
+   "stock_text": "5 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:39:02 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1753"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "6 Position Potentiometer",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3231"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.39",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:12:47 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3231"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

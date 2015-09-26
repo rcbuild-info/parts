@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "IRC - 5.8 GHz SpiroNET Omni SMA Antenna Set (LHCP)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3192",
-   "http://www.readymaderc.com/store/index.php?zenid=45665fdabb0ba2d675d7a72c4d9e4f88&main_page=product_info&products_id=3192"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?zenid=45665fdabb0ba2d675d7a72c4d9e4f88&main_page=product_info&products_id=3192"
+  },
+  {
+   "price": "$39.99",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 21:46:16 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3192"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

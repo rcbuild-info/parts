@@ -19,12 +19,6 @@
    "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_34"
   },
   {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2871"
-  },
-  {
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2870"
-  },
-  {
    "url": "http://www.multirotorsuperstore.com/props/props-by-mfg/hqprop/hqprop-6045-props.html"
   },
   {
@@ -72,6 +66,20 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:16:25 GMT",
    "url": "http://flyduino.net/HQProp-6x45-1524cm-Propeller-Set-Black-4-pcs-Carbon-reinforced"
+  },
+  {
+   "price": "$3.08",
+   "stock_state": "backordered",
+   "stock_text": "0 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:01 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2871"
+  },
+  {
+   "price": "$3.08",
+   "stock_state": "in_stock",
+   "stock_text": "60 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:02 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2870"
   }
  ],
  "version": 2,

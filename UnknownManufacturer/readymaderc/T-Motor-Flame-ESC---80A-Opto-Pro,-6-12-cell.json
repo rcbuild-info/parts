@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "T-Motor Flame ESC - 80A Opto Pro, 6-12 cell",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3463"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$119.99",
+   "stock_state": "backordered",
+   "stock_text": "-8 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:04:11 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3463"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
