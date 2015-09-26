@@ -1,5 +1,7 @@
 {
- "category": "arm",
+ "categories": [
+  "arm"
+ ],
  "equivalent": [],
  "manufacturer": "ImpulseRC",
  "name": "String Theory -  4x12mm Arm (for 230mm Frame)",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/string-theory-4x12mm-arm-for-230mm-frame"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:39 GMT",
+   "url": "http://impulserc.com/string-theory-4x12mm-arm-for-230mm-frame"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImpulseRC",
  "name": "Alien 4\", 5\" & 6\" Cover CF 1.5mm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/alien-cover-cf-15mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.99",
+   "stock_state": "backordered",
+   "stock_text": "Available For Pre-Order",
+   "timestamp": "Sat, 26 Sep 2015 20:55:09 GMT",
+   "url": "http://impulserc.com/alien-cover-cf-15mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

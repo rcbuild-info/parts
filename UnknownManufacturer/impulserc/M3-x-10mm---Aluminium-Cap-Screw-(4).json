@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 x 10mm - Aluminium Cap Screw (4)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/m3-x-10mm-aluminium-cap-screw-4"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.69",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:56 GMT",
+   "url": "http://impulserc.com/m3-x-10mm-aluminium-cap-screw-4"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

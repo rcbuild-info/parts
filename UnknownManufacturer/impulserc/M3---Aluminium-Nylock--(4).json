@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 - Aluminium Nylock  (4)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/m3-aluminium-nylock-4"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.75",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:56 GMT",
+   "url": "http://impulserc.com/m3-aluminium-nylock-4"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

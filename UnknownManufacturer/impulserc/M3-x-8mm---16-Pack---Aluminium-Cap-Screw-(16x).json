@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 x 8mm - 16 Pack - Aluminium Cap Screw (16x)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/m3-x-8mm-16-pack-aluminium-cap-screw-16x"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:56 GMT",
+   "url": "http://impulserc.com/m3-x-8mm-16-pack-aluminium-cap-screw-16x"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImpulseRC",
  "name": "Alien 5\" LIPO pad",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/copy-of-alien-5-lipo-pad"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.49",
+   "stock_state": "backordered",
+   "stock_text": "Available For Pre-Order",
+   "timestamp": "Sat, 26 Sep 2015 20:54:32 GMT",
+   "url": "http://impulserc.com/copy-of-alien-5-lipo-pad"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

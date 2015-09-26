@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Turnigy Multifunctional Wrench (7mm / 8mm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/turnigy-multifunctional-wrench-7mm-8mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:35 GMT",
+   "url": "http://impulserc.com/turnigy-multifunctional-wrench-7mm-8mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,0 +1,34 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "Pololu",
+ "name": "5V, 500mA Step-Down Voltage Regulator",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "_example": true,
+   "description": "",
+   "location": "",
+   "price": "",
+   "quantity": 0,
+   "stock_quantity": "",
+   "stock_state": "",
+   "stock_text": "",
+   "timestamp": "",
+   "url": ""
+  },
+  {
+   "price": "$4.95",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:53 GMT",
+   "url": "http://impulserc.com/pololu-5v-500ma-step-down-voltage-regulator"
+  }
+ ],
+ "version": 2,
+ "weight": ""
+}

@@ -1,5 +1,7 @@
 {
- "category": "arm",
+ "categories": [
+  "arm"
+ ],
  "equivalent": [],
  "manufacturer": "ImpulseRC",
  "name": "String Theory -  Arm (for 200mm)",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/string-theory-arm-for-200mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:38 GMT",
+   "url": "http://impulserc.com/string-theory-arm-for-200mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

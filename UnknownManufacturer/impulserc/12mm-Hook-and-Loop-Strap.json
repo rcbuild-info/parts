@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "12mm Hook and Loop Strap",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/12mm-velcro-strap"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:55:03 GMT",
+   "url": "http://impulserc.com/12mm-velcro-strap"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

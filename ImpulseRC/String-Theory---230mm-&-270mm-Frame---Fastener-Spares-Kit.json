@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImpulseRC",
  "name": "String Theory - 230mm & 270mm Frame - Fastener Spares Kit",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/string-theory-230mm-270mm-frame-fastener-spares-kit"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.50",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:43 GMT",
+   "url": "http://impulserc.com/string-theory-230mm-270mm-frame-fastener-spares-kit"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "fc",
+ "categories": [
+  "fc"
+ ],
  "equivalent": [],
  "manufacturer": "MotoLab",
  "name": "Tornado F3",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/motolab-tornadofc-stm32f3-flight-controller"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:24 GMT",
+   "url": "http://impulserc.com/motolab-tornadofc-stm32f3-flight-controller"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

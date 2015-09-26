@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M4 - Aluminium Nylock - Motor  (4)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/m4-aluminium-nylock-motor-4"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.75",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:54 GMT",
+   "url": "http://impulserc.com/m4-aluminium-nylock-motor-4"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

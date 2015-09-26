@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HS1177 Camera Cable",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/hs1177-camera-cable"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.49",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:34 GMT",
+   "url": "http://impulserc.com/hs1177-camera-cable"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

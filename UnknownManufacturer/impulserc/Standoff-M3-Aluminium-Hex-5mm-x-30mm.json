@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Standoff M3 Aluminium Hex 5mm x 30mm",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/4x-standoff-m3-aluminium-hex-5mm-x-30mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.99",
+   "quantity": 4,
+   "stock_state": "backordered",
+   "stock_text": "Available For Pre-Order",
+   "timestamp": "Sat, 26 Sep 2015 20:54:48 GMT",
+   "url": "http://impulserc.com/4x-standoff-m3-aluminium-hex-5mm-x-30mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

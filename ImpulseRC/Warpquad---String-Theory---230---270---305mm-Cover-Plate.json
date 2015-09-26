@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImpulseRC",
  "name": "Warpquad - String Theory - 230 / 270 / 305mm Cover Plate",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/warpquad-string-theory-230-270-305mm-cover-plate"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.00",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:51 GMT",
+   "url": "http://impulserc.com/warpquad-string-theory-230-270-305mm-cover-plate"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

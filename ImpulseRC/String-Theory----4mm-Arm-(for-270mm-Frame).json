@@ -1,5 +1,7 @@
 {
- "category": "arm",
+ "categories": [
+  "arm"
+ ],
  "equivalent": [],
  "manufacturer": "ImpulseRC",
  "name": "String Theory -  4mm Arm (for 270mm Frame)",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/string-theory-4mm-arm-for-270mm-frame"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.50",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:46 GMT",
+   "url": "http://impulserc.com/string-theory-4mm-arm-for-270mm-frame"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5cm SMA pigtail - Right angle bulkhead",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/5cm-sma-pigtail-right-angle-bulkhead"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:55:03 GMT",
+   "url": "http://impulserc.com/5cm-sma-pigtail-right-angle-bulkhead"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

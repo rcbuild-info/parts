@@ -1,5 +1,7 @@
 {
- "category": "esc",
+ "categories": [
+  "esc"
+ ],
  "equivalent": [],
  "manufacturer": "ZTW",
  "name": "Spider 18A Opto",
@@ -7,11 +9,23 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/20-amp/1094-ztw-spider-18-amp-lite-opto-esc.html",
-   "http://www.banggood.com/ZTW-Spider-Series-18A-OPTO-ESC-With-SimonK-Oneshot-Program-p-983660.html",
-   "http://impulserc.com/ztw-18a-lite-esc-blheli"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://multirotormania.com/20-amp/1094-ztw-spider-18-amp-lite-opto-esc.html"
+  },
+  {
+   "url": "http://www.banggood.com/ZTW-Spider-Series-18A-OPTO-ESC-With-SimonK-Oneshot-Program-p-983660.html"
+  },
+  {
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:53 GMT",
+   "url": "http://impulserc.com/ztw-18a-lite-esc-blheli"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

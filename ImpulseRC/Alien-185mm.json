@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "ImpulseRC",
  "name": "Alien 185",
@@ -7,10 +9,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/alien-fpv-frames",
-   "http://impulserc.com/alien-4-fpv-frame"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://impulserc.com/alien-fpv-frames"
+  },
+  {
+   "price": "$129.00",
+   "stock_state": "backordered",
+   "stock_text": "Available For Pre-Order",
+   "timestamp": "Sat, 26 Sep 2015 20:55:09 GMT",
+   "url": "http://impulserc.com/alien-4-fpv-frame"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

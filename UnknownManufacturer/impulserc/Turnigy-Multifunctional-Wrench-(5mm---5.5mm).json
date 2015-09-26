@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Turnigy Multifunctional Wrench (5mm / 5.5mm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/turnigy-multifunctional-wrench-5mm-55mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:34 GMT",
+   "url": "http://impulserc.com/turnigy-multifunctional-wrench-5mm-55mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

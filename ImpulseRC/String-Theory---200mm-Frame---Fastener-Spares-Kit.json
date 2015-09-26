@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImpulseRC",
  "name": "String Theory - 200mm Frame - Fastener Spares Kit",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/string-theory-200mm-frame-fastener-spares-kit"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:37 GMT",
+   "url": "http://impulserc.com/string-theory-200mm-frame-fastener-spares-kit"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

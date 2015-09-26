@@ -1,5 +1,7 @@
 {
- "category": "fc",
+ "categories": [
+  "fc"
+ ],
  "equivalent": [],
  "manufacturer": "MotoLab",
  "name": "MotoWii",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/motowii-flight-controller-pdb"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$39.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:25 GMT",
+   "url": "http://impulserc.com/motowii-flight-controller-pdb"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

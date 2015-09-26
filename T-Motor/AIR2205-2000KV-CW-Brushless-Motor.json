@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "AIR2205 2000KV CW Brushless Motor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/tiger-motor-air2205-2000kv-cw-brushless-motor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:47 GMT",
+   "url": "http://impulserc.com/tiger-motor-air2205-2000kv-cw-brushless-motor"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

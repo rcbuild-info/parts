@@ -1,5 +1,7 @@
 {
- "category": "esc",
+ "categories": [
+  "esc"
+ ],
  "equivalent": [],
  "manufacturer": "Favorite",
  "name": "FVT LittleBee 20A",
@@ -9,9 +11,17 @@
   "manufacturer": [],
   "related": [
    "http://www.rcgroups.com/forums/showpost.php?p=32457321&postcount=5096"
-  ],
-  "store": [
-   "http://impulserc.com/littlebee-20a-esc-blheli"
   ]
- }
+ },
+ "variants": [
+  {
+   "price": "$14.50",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:24 GMT",
+   "url": "http://impulserc.com/littlebee-20a-esc-blheli"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImpulseRC",
  "name": "String Theory - Full 200mm Frame Fastener Kit",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://impulserc.com/string-theory-full-200mm-frame-fastener-kit"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.95",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:42 GMT",
+   "url": "http://impulserc.com/string-theory-full-200mm-frame-fastener-kit"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

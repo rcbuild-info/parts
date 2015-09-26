@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "CM2206-20 kv2100 Racing",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=953",
-   "http://impulserc.com/cobra-2206-2100kv-brushless-motor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=953"
+  },
+  {
+   "price": "$25.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:47 GMT",
+   "url": "http://impulserc.com/cobra-2206-2100kv-brushless-motor"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

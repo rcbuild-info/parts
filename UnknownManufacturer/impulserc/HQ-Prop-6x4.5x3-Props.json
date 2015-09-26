@@ -1,0 +1,35 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "",
+ "name": "HQ Prop 6x4.5x3 Props",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "_example": true,
+   "description": "",
+   "location": "",
+   "price": "",
+   "quantity": 0,
+   "stock_quantity": "",
+   "stock_state": "",
+   "stock_text": "",
+   "timestamp": "",
+   "url": ""
+  },
+  {
+   "price": "$7.68",
+   "quantity": 4,
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:36 GMT",
+   "url": "http://impulserc.com/4x-hq-prop-6x45x3-props"
+  }
+ ],
+ "version": 2,
+ "weight": ""
+}
