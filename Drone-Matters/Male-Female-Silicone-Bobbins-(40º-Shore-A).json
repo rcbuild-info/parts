@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Drone Matters",
  "name": "Male/Female Silicone Bobbins (40\u00ba Shore A)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/dm-male-female-silicone-bobbins-40-shore-a.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/dm-male-female-silicone-bobbins-40-shore-a.html"
+  },
+  {
+   "price": "US$4.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:43:40 GMT",
+   "url": "http://www.dronematters.com/dm-male-female-silicone-bobbins-40-shore-a.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Revolectrix 24 VDC 55A 1320W Power Station",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/batteries/revolectrix-1320w-power-station.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/batteries/revolectrix-1320w-power-station.html"
+  },
+  {
+   "price": "US$209.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:55 GMT",
+   "url": "http://www.dronematters.com/revolectrix-1320w-power-station.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

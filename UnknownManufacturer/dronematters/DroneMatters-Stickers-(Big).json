@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DroneMatters Stickers (Big)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/promos/dronematters-stickers-big.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/promos/dronematters-stickers-big.html"
+  },
+  {
+   "price": "US$0.01",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:29:55 GMT",
+   "url": "http://www.dronematters.com/dronematters-stickers-big.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

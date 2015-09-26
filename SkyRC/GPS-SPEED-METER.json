@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SkyRC",
  "name": "GPS SPEED METER",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/skyrc-gps-speed-meter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/skyrc-gps-speed-meter.html"
+  },
+  {
+   "price": "US$69.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 01:01:00 GMT",
+   "url": "http://www.dronematters.com/skyrc-gps-speed-meter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

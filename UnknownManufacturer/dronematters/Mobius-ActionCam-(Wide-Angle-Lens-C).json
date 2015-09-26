@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mobius ActionCam (Wide Angle Lens C)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/cameras-and-dvrs/mobius-actioncam-wide-angle.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/cameras-and-dvrs/mobius-actioncam-wide-angle.html"
+  },
+  {
+   "price": "US$77.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:43:44 GMT",
+   "url": "http://www.dronematters.com/mobius-actioncam-wide-angle.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

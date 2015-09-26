@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Battery-powered LED Lights with Straps",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/battery-powered-led-lights-with-straps.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/battery-powered-led-lights-with-straps.html"
+  },
+  {
+   "price": "US$1.79",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:32:36 GMT",
+   "url": "http://www.dronematters.com/battery-powered-led-lights-with-straps.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

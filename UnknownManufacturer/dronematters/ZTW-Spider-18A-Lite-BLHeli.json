@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ZTW Spider 18A Lite BLHeli",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/ztw-spider-18a-lite-blheli.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$12.24",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:33:47 GMT",
+   "url": "http://www.dronematters.com/ztw-spider-18a-lite-blheli.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ADS400Q Quadcopter Frame",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/ads400q.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/ads400q.html"
+  },
+  {
+   "price": "US$129.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:19 GMT",
+   "url": "http://www.dronematters.com/ads400q.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

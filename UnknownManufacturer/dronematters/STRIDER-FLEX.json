@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "STRIDER FLEX",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/300mm/quadcopters/strider-flex.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/300mm/quadcopters/strider-flex.html"
+  },
+  {
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:23:16 GMT",
+   "url": "http://www.dronematters.com/strider-flex.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

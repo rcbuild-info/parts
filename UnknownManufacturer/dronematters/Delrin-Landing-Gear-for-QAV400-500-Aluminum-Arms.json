@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Delrin Landing Gear for QAV400/500 Aluminum Arms",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/delrin-landing-gear-for-qav400-500-aluminum-arms.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/delrin-landing-gear-for-qav400-500-aluminum-arms.html"
+  },
+  {
+   "price": "US$14.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:25:44 GMT",
+   "url": "http://www.dronematters.com/delrin-landing-gear-for-qav400-500-aluminum-arms.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

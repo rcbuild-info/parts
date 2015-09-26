@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Bullet Soldering for Motor or ESC",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/brushless-motors/bullet-soldering-for-motor-or-esc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/brushless-motors/bullet-soldering-for-motor-or-esc.html"
+  },
+  {
+   "price": "US$5.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:21 GMT",
+   "url": "http://www.dronematters.com/bullet-soldering-for-motor-or-esc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

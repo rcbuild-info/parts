@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EU Socket Adapter",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/diy/eu-socket-adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/diy/eu-socket-adapter.html"
+  },
+  {
+   "price": "US$1.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:43 GMT",
+   "url": "http://www.dronematters.com/eu-socket-adapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

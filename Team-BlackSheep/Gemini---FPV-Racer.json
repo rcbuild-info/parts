@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "Gemini - FPV Racer",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/tbs-gemini-fpv-racer-1306.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$464.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:25:50 GMT",
+   "url": "http://www.dronematters.com/tbs-gemini-fpv-racer-1306.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

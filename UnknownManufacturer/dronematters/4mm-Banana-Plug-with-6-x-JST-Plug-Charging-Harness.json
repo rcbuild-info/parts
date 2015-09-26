@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4mm Banana Plug with 6 x JST Plug Charging Harness",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/batteries/4mm-banana-plug-with-6-x-jst-plug-charging-harness.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/batteries/4mm-banana-plug-with-6-x-jst-plug-charging-harness.html"
+  },
+  {
+   "price": "US$3.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:13:13 GMT",
+   "url": "http://www.dronematters.com/4mm-banana-plug-with-6-x-jst-plug-charging-harness.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Diatone #18 V3 G10 Version 230 Size Mini Quadcopter Frame",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/diatone-18-v3-g10-version-230-size-mini-quadcopter-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/diatone-18-v3-g10-version-230-size-mini-quadcopter-frame.html"
+  },
+  {
+   "price": "US$9.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:25 GMT",
+   "url": "http://www.dronematters.com/diatone-18-v3-g10-version-230-size-mini-quadcopter-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

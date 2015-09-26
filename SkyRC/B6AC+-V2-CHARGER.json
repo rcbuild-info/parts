@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SkyRC",
  "name": "B6AC+ V2 CHARGER",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/batteries/battery-charger/skyrc-b6ac-v2-charger.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/batteries/battery-charger/skyrc-b6ac-v2-charger.html"
+  },
+  {
+   "price": "US$59.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:17 GMT",
+   "url": "http://www.dronematters.com/skyrc-b6ac-v2-charger.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

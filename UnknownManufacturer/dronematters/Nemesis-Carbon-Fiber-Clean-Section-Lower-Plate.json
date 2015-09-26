@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Nemesis Carbon Fiber Clean Section Lower Plate",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/nemesis-carbon-fiber-clean-lower-plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/nemesis-carbon-fiber-clean-lower-plate.html"
+  },
+  {
+   "price": "US$15.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:36:58 GMT",
+   "url": "http://www.dronematters.com/nemesis-carbon-fiber-clean-lower-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

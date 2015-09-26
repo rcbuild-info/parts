@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "OrangeRx",
  "name": "DSMX/DSM2 Compatible 2.4Ghz Transmitter Module (JR/Turnigy/Taranis compatible)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/radios/orangerx-dsmx-dsm2-compatible-2-4ghz-transmitter-module-jr-turnigy-compatible.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/radios/orangerx-dsmx-dsm2-compatible-2-4ghz-transmitter-module-jr-turnigy-compatible.html"
+  },
+  {
+   "price": "US$39.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:47:34 GMT",
+   "url": "http://www.dronematters.com/orangerx-dsmx-dsm2-compatible-2-4ghz-transmitter-module-jr-turnigy-compatible.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Pololu",
  "name": "5V 600mA Step-Down Voltage Regulator D24V6F5",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/pololu-5v-600ma-step-down-voltage-regulator.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/pololu-5v-600ma-step-down-voltage-regulator.html"
+  },
+  {
+   "price": "US$6.45",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:29 GMT",
+   "url": "http://www.dronematters.com/pololu-5v-600ma-step-down-voltage-regulator.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

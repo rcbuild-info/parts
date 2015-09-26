@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Haptic Upgrade",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/radios/frsky-haptic-upgrade.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/radios/frsky-haptic-upgrade.html"
+  },
+  {
+   "price": "US$22.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:45:18 GMT",
+   "url": "http://www.dronematters.com/frsky-haptic-upgrade.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

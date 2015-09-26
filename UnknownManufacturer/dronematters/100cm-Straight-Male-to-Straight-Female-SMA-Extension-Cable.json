@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "100cm Straight Male to Straight Female SMA Extension Cable",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/100cm-straight-male-to-straight-female-sma-extension-cable-909.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/100cm-straight-male-to-straight-female-sma-extension-cable-909.html"
+  },
+  {
+   "price": "US$6.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:29 GMT",
+   "url": "http://www.dronematters.com/100cm-straight-male-to-straight-female-sma-extension-cable-909.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

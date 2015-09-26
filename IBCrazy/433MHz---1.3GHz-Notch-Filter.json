@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "433MHz / 1.3GHz Notch Filter",
@@ -7,9 +7,37 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/ibcrazy-1-3ghz-2-4ghz-notch-filter-478.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/ibcrazy-1-3ghz-2-4ghz-notch-filter-478.html"
+  },
+  {
+   "price": "US$15.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:08:35 GMT",
+   "url": "http://www.dronematters.com/ibcrazy-1-3ghz-2-4ghz-notch-filter-457.html"
+  },
+  {
+   "price": "US$15.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:04:31 GMT",
+   "url": "http://www.dronematters.com/ibcrazy-1-3ghz-2-4ghz-notch-filter-484.html"
+  },
+  {
+   "price": "US$15.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:51 GMT",
+   "url": "http://www.dronematters.com/ibcrazy-1-3ghz-2-4ghz-notch-filter.html"
+  },
+  {
+   "price": "US$15.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:38:51 GMT",
+   "url": "http://www.dronematters.com/ibcrazy-1-3ghz-2-4ghz-notch-filter-478.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Round Spirit Level",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/round-spirit-level.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/round-spirit-level.html"
+  },
+  {
+   "price": "US$0.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:44 GMT",
+   "url": "http://www.dronematters.com/round-spirit-level.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "5.8 GHz 13dBic Pepperbox Antenna (RHCP)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/ibcrazy-5-8-ghz-13dbic-pepperbox-antenna-rhcp.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$99.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:32:31 GMT",
+   "url": "http://www.dronematters.com/ibcrazy-5-8-ghz-13dbic-pepperbox-antenna-rhcp.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

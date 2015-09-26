@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "IMAX B6 Charger/Discharger 1-6 Cells",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/batteries/imax-b6-ac-charger-discharger-1-6-cells.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/batteries/imax-b6-ac-charger-discharger-1-6-cells.html"
+  },
+  {
+   "price": "US$19.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:56 GMT",
+   "url": "http://www.dronematters.com/imax-b6-ac-charger-discharger-1-6-cells.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

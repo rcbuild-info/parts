@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5.8G 32CH AV 600mW Mini VTx",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/vtx-vrx/5-8ghz/5-8g-32ch-av-600mw-mini-vtx.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/vtx-vrx/5-8ghz/5-8g-32ch-av-600mw-mini-vtx.html"
+  },
+  {
+   "price": "US$45.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 01:02:39 GMT",
+   "url": "http://www.dronematters.com/5-8g-32ch-av-600mw-mini-vtx.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

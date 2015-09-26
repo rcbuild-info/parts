@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "TS5823 5.8GHz 200MW 32-Channel Audio/Video Transmitter",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/vtx-vrx/5-8ghz/ts5823-5-8ghz-200mw-32-channel-audio-video-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/vtx-vrx/5-8ghz/ts5823-5-8ghz-200mw-32-channel-audio-video-transmitter.html"
+  },
+  {
+   "price": "US$29.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:50:11 GMT",
+   "url": "http://www.dronematters.com/ts5823-5-8ghz-200mw-32-channel-audio-video-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

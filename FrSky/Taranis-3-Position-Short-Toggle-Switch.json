@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Taranis 3 Position Short Toggle Switch",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/radios/frsky-tx-rx/frsky-taranis-3-position-short-toggle-switch.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/radios/frsky-tx-rx/frsky-taranis-3-position-short-toggle-switch.html"
+  },
+  {
+   "price": "US$2.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:50 GMT",
+   "url": "http://www.dronematters.com/frsky-taranis-3-position-short-toggle-switch.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

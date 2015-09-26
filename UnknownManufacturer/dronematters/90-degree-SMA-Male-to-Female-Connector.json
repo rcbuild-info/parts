@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "90-degree SMA Male to Female Connector",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/90-degree-sma-male-to-female-connector.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/90-degree-sma-male-to-female-connector.html"
+  },
+  {
+   "price": "US$3.89",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:31 GMT",
+   "url": "http://www.dronematters.com/90-degree-sma-male-to-female-connector.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

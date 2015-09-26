@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "1.3GHz Vee Antenna",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/antennas/1-2-1-3ghz/ibcrazy-1-3ghz-vee-antenna.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/antennas/1-2-1-3ghz/ibcrazy-1-3ghz-vee-antenna.html"
+  },
+  {
+   "price": "US$13.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:20:06 GMT",
+   "url": "http://www.dronematters.com/ibcrazy-1-3ghz-vee-antenna.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

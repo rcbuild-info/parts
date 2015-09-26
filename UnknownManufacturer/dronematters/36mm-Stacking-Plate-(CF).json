@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "36mm Stacking Plate (CF)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/flight-controllers/naze-cf-stacking-plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/flight-controllers/naze-cf-stacking-plate.html"
+  },
+  {
+   "price": "US$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:47:50 GMT",
+   "url": "http://www.dronematters.com/naze-cf-stacking-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

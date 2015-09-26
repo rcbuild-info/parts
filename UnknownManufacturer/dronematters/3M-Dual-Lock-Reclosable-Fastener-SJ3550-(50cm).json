@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3M Dual Lock Reclosable Fastener SJ3550 (50cm)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/3m-dual-lock-reclosable-fastener-sj3550-50cm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/3m-dual-lock-reclosable-fastener-sj3550-50cm.html"
+  },
+  {
+   "price": "US$4.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:11:43 GMT",
+   "url": "http://www.dronematters.com/3m-dual-lock-reclosable-fastener-sj3550-50cm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

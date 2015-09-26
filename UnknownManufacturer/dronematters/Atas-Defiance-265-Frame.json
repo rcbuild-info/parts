@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Atas Defiance 265 Frame",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/atas-defiance-265-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/atas-defiance-265-frame.html"
+  },
+  {
+   "price": "US$86.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:33:48 GMT",
+   "url": "http://www.dronematters.com/atas-defiance-265-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Taranis 2 Position Long Toggle Switch",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/radios/frsky-tx-rx/frsky-taranis-2-position-long-toggle-switch.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/radios/frsky-tx-rx/frsky-taranis-2-position-long-toggle-switch.html"
+  },
+  {
+   "price": "US$2.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:32:16 GMT",
+   "url": "http://www.dronematters.com/frsky-taranis-2-position-long-toggle-switch.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "2.4GHz ACCST Taranis X9D Plus (Mode 1)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/frsky-2-4ghz-accst-taranis-x9d-plus-mode-1.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$199.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:41 GMT",
+   "url": "http://www.dronematters.com/frsky-2-4ghz-accst-taranis-x9d-plus-mode-1.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

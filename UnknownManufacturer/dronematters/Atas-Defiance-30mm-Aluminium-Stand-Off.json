@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Atas Defiance 30mm Aluminium Stand Off",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/atas-defiance-stand-off.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$1.49",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:43:45 GMT",
+   "url": "http://www.dronematters.com/atas-defiance-stand-off.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

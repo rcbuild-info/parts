@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XE180 Quad Frame",
@@ -7,9 +7,25 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/featured-products-home/featured-frames/xe180-quad-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/featured-products-home/featured-frames/xe180-quad-frame.html"
+  },
+  {
+   "price": "US$69.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:38:32 GMT",
+   "url": "http://www.dronematters.com/xe180-quad-frame-1214.html"
+  },
+  {
+   "price": "US$69.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:13 GMT",
+   "url": "http://www.dronematters.com/xe180-quad-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

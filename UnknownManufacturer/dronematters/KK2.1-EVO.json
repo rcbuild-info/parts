@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "KK2.1 EVO",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/kk2-1-evo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/kk2-1-evo.html"
+  },
+  {
+   "price": "US$29.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:33:55 GMT",
+   "url": "http://www.dronematters.com/kk2-1-evo.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

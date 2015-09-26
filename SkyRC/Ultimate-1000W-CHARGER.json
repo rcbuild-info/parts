@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SkyRC",
  "name": "Ultimate 1000W CHARGER",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/skyrc-ultimate-1000w-charger.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$159.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:46 GMT",
+   "url": "http://www.dronematters.com/skyrc-ultimate-1000w-charger.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

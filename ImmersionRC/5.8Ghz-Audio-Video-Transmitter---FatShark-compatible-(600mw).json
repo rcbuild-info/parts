@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "5.8Ghz Audio/Video Transmitter - FatShark compatible (600mw)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/vtx-vrx/5-8ghz/immersionrc-5-8ghz-audio-video-transmitter-fatshark-compatible-600mw.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/vtx-vrx/5-8ghz/immersionrc-5-8ghz-audio-video-transmitter-fatshark-compatible-600mw.html"
+  },
+  {
+   "price": "US$69.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:59 GMT",
+   "url": "http://www.dronematters.com/immersionrc-5-8ghz-audio-video-transmitter-fatshark-compatible-600mw.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

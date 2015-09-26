@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "1.3GHz BluBeam Omni Antenna Set (RHCP)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/antennas/ibcrazy-1-3ghz-blubeam-omni-antenna-set-rhcp.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/antennas/ibcrazy-1-3ghz-blubeam-omni-antenna-set-rhcp.html"
+  },
+  {
+   "price": "US$54.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:38:38 GMT",
+   "url": "http://www.dronematters.com/ibcrazy-1-3ghz-blubeam-omni-antenna-set-rhcp.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

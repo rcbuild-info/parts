@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Drone Matters",
  "name": "HK Blue Series 12A RapidESC BLHeli 13.1",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/12a-bs-rapidesc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/12a-bs-rapidesc.html"
+  },
+  {
+   "price": "US$11.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:57 GMT",
+   "url": "http://www.dronematters.com/12a-bs-rapidesc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

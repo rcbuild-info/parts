@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "3D Reversible Bull Nose 5045 Glass Composite",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/hqprop-6045-glass-composite-propellers-2-ccw-1298.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/hqprop-6045-glass-composite-propellers-2-ccw-1298.html"
+  },
+  {
+   "price": "US$2.72",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:10 GMT",
+   "url": "http://www.dronematters.com/hqprop-6045-glass-composite-propellers-2-ccw-1298.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

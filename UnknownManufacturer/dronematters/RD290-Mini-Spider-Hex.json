@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RD290 Mini Spider Hex",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/rd290-mini-spider-hex.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/rd290-mini-spider-hex.html"
+  },
+  {
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:11 GMT",
+   "url": "http://www.dronematters.com/rd290-mini-spider-hex.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

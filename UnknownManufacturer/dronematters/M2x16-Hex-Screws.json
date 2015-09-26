@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M2x16 Hex Screws",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/m2x16-hex-screws.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/m2x16-hex-screws.html"
+  },
+  {
+   "price": "US$1.20",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:09 GMT",
+   "url": "http://www.dronematters.com/m2x16-hex-screws.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2.5mm Heat Shrink (1m)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/2-5mm-shrink-wrap.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/2-5mm-shrink-wrap.html"
+  },
+  {
+   "price": "US$0.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:08 GMT",
+   "url": "http://www.dronematters.com/2-5mm-shrink-wrap.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

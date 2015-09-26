@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Clear PVC Heat Shrink Tubing",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/pvc-heat-shrink-tubing.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/pvc-heat-shrink-tubing.html"
+  },
+  {
+   "price": "US$0.70",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:33:42 GMT",
+   "url": "http://www.dronematters.com/pvc-heat-shrink-tubing.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Futaba",
  "name": "T14SG 14-Channel 2.4GHz Computer Radio System (Mode 1)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/radios/futaba-t14sg-14-channel-2-4ghz-computer-radio-system-mode-1.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/radios/futaba-t14sg-14-channel-2-4ghz-computer-radio-system-mode-1.html"
+  },
+  {
+   "price": "US$496.46",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:34 GMT",
+   "url": "http://www.dronematters.com/futaba-t14sg-14-channel-2-4ghz-computer-radio-system-mode-1.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "TGY-212DMH Metal gear Coreless Digital Servo",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/tgy-212dmh-metal-gear-coreless-digital-servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/tgy-212dmh-metal-gear-coreless-digital-servo.html"
+  },
+  {
+   "price": "US$24.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:01 GMT",
+   "url": "http://www.dronematters.com/tgy-212dmh-metal-gear-coreless-digital-servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

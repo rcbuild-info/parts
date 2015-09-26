@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Plastic Multi-purpose Organizer",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/plastic-multi-purpose-organizer.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/plastic-multi-purpose-organizer.html"
+  },
+  {
+   "price": "US$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:14 GMT",
+   "url": "http://www.dronematters.com/plastic-multi-purpose-organizer.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

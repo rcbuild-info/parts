@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Dinogy",
  "name": "3S 1800mAh 65C",
@@ -7,9 +9,25 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/dinogy-3s-11-1v-1800mah-65c.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/dinogy-3s-11-1v-1800mah-65c.html"
+  },
+  {
+   "price": "US$24.65",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:48 GMT",
+   "url": "http://www.dronematters.com/dinogy-3s-11-1v-1800mah-65c.html"
+  },
+  {
+   "price": "US$24.65",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:42 GMT",
+   "url": "http://www.dronematters.com/dinogy-3s-11-1v-1800mah-65c-deans.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

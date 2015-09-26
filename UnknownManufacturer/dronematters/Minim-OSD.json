@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Minim OSD",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/on-screen-displays-osds/minim-osd.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/on-screen-displays-osds/minim-osd.html"
+  },
+  {
+   "price": "US$11.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:45 GMT",
+   "url": "http://www.dronematters.com/minim-osd.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

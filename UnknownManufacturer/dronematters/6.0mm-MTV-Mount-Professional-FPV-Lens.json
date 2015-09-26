@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "6.0mm MTV Mount Professional FPV Lens",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/cameras-and-dvrs/6-0mm-mtv-mount-lens.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/cameras-and-dvrs/6-0mm-mtv-mount-lens.html"
+  },
+  {
+   "price": "US$5.19",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:38:23 GMT",
+   "url": "http://www.dronematters.com/6-0mm-mtv-mount-lens.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

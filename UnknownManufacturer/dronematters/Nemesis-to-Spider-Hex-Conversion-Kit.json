@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Nemesis to Spider Hex Conversion Kit",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/nemesis-to-spider-hex-conversion-kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/nemesis-to-spider-hex-conversion-kit.html"
+  },
+  {
+   "price": "US$29.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:25:56 GMT",
+   "url": "http://www.dronematters.com/nemesis-to-spider-hex-conversion-kit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Replacement Arm for DJI 450 / TBS Discovery",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/replacement-arm-for-dji-450-tbs-discovery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/replacement-arm-for-dji-450-tbs-discovery.html"
+  },
+  {
+   "price": "US$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:43:41 GMT",
+   "url": "http://www.dronematters.com/replacement-arm-for-dji-450-tbs-discovery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

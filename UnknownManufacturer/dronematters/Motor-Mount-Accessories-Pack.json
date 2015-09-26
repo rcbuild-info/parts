@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Motor Mount Accessories Pack",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/brushless-motors/suunnysky-motor-accessories-pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/brushless-motors/suunnysky-motor-accessories-pack.html"
+  },
+  {
+   "price": "US$1.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:55:38 GMT",
+   "url": "http://www.dronematters.com/suunnysky-motor-accessories-pack.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

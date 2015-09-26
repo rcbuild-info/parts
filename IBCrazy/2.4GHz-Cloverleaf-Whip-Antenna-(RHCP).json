@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "2.4GHz Cloverleaf Whip Antenna (RHCP)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/antennas/ibcrazy-2-4ghz-cloverleaf-whip-antenna-rhcp.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/antennas/ibcrazy-2-4ghz-cloverleaf-whip-antenna-rhcp.html"
+  },
+  {
+   "price": "US$29.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:38:35 GMT",
+   "url": "http://www.dronematters.com/ibcrazy-2-4ghz-cloverleaf-whip-antenna-rhcp.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RD350 UBER Hex Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/rd350-uber-hex-kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/rd350-uber-hex-kit.html"
+  },
+  {
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:33 GMT",
+   "url": "http://www.dronematters.com/rd350-uber-hex-kit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

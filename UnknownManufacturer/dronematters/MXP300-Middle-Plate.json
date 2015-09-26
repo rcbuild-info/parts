@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MXP300 Middle Plate",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/mxp300-middle-plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/mxp300-middle-plate.html"
+  },
+  {
+   "price": "US$69.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:15 GMT",
+   "url": "http://www.dronematters.com/mxp300-middle-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

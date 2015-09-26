@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT500 500W Multi-Chemistry Charger with MPA",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/batteries/battery-charger/gt500-500w-multi-chemistry-charger-with-mpa.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/batteries/battery-charger/gt500-500w-multi-chemistry-charger-with-mpa.html"
+  },
+  {
+   "price": "US$219.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:47 GMT",
+   "url": "http://www.dronematters.com/gt500-500w-multi-chemistry-charger-with-mpa.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

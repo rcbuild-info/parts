@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Naze 32 \"Acro\" Mini Flight Controller",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/naze-acro-mini-flight-controller-white.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/naze-acro-mini-flight-controller-white.html"
+  },
+  {
+   "price": "US$24.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:35:38 GMT",
+   "url": "http://www.dronematters.com/naze-acro-mini-flight-controller-white.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

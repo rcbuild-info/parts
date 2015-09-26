@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Vibration Rubber Damper 100g",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/rubber-damper-100g-black.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/rubber-damper-100g-black.html"
+  },
+  {
+   "price": "US$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:32:13 GMT",
+   "url": "http://www.dronematters.com/rubber-damper-100g-black.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

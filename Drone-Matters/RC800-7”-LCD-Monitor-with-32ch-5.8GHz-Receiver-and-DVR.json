@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Drone Matters",
  "name": "RC800 7\u201d LCD Monitor with 32ch 5.8GHz Receiver and DVR",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/goggles-lcds/dm-rc800-7-lcd-monitor-with-32ch-5-6ghz-receiver-and-dvr.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/goggles-lcds/dm-rc800-7-lcd-monitor-with-32ch-5-6ghz-receiver-and-dvr.html"
+  },
+  {
+   "price": "US$142.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:51:05 GMT",
+   "url": "http://www.dronematters.com/dm-rc800-7-lcd-monitor-with-32ch-5-6ghz-receiver-and-dvr.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

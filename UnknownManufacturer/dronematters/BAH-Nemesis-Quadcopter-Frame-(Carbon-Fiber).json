@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BAH Nemesis Quadcopter Frame (Carbon Fiber)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/bah-nemesis-quadcopter-frame-cf.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/bah-nemesis-quadcopter-frame-cf.html"
+  },
+  {
+   "price": "US$143.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:45:03 GMT",
+   "url": "http://www.dronematters.com/bah-nemesis-quadcopter-frame-cf.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

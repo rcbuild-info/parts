@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyzone",
  "name": "3D-FPV Goggles",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/goggles-lcds/skyzone-3d-fpv-goggle.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/goggles-lcds/skyzone-3d-fpv-goggle.html"
+  },
+  {
+   "price": "US$539.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:51:38 GMT",
+   "url": "http://www.dronematters.com/skyzone-3d-fpv-goggle.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

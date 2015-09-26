@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Trinity Head Tracking Module",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/trinity-head-tracking-module.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/trinity-head-tracking-module.html"
+  },
+  {
+   "price": "US$119.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:21:30 GMT",
+   "url": "http://www.dronematters.com/trinity-head-tracking-module.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

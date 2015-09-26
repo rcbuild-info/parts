@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "FrUSB-3 USB",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/radios/frsky-frusb-3-usb.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/radios/frsky-frusb-3-usb.html"
+  },
+  {
+   "price": "US$10.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:45:22 GMT",
+   "url": "http://www.dronematters.com/frsky-frusb-3-usb.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

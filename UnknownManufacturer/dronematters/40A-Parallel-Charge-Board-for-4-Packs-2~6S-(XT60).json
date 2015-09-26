@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "40A Parallel Charge Board for 4 Packs 2~6S (XT60)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/batteries/battery-accessories/40a-parallel-charge-board-for-4-packs-2-6s-xt60.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/batteries/battery-accessories/40a-parallel-charge-board-for-4-packs-2-6s-xt60.html"
+  },
+  {
+   "price": "US$20.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:46 GMT",
+   "url": "http://www.dronematters.com/40a-parallel-charge-board-for-4-packs-2-6s-xt60.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

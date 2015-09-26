@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "X8R 8/16Ch S.BUS ACCST Telemetry Receiver W/Smart Port",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/radios/frsky-x8r-8-16ch-s-bus-accst-telemetry-receiver-w-smart-port.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/radios/frsky-x8r-8-16ch-s-bus-accst-telemetry-receiver-w-smart-port.html"
+  },
+  {
+   "price": "US$34.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:46:48 GMT",
+   "url": "http://www.dronematters.com/frsky-x8r-8-16ch-s-bus-accst-telemetry-receiver-w-smart-port.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "X-UAV MODEL LY-S01 SKY-SURFER X8 GLIDER PNP",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/skysurfer-x8.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$94.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:33:07 GMT",
+   "url": "http://www.dronematters.com/skysurfer-x8.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

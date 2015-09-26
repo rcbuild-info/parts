@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "AtasSphere",
  "name": "BLITZ 3S 11.4V 2050mah 70C LiHV Pack",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/batteries/high-voltage-flight-batteries/atassphere-blitz-3s-11-4v-2050mah-70c-lihv-pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/batteries/high-voltage-flight-batteries/atassphere-blitz-3s-11-4v-2050mah-70c-lihv-pack.html"
+  },
+  {
+   "price": "US$30.79",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:36:51 GMT",
+   "url": "http://www.dronematters.com/atassphere-blitz-3s-11-4v-2050mah-70c-lihv-pack.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

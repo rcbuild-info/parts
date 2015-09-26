@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Atas Sphere High Friction Battery Velcro Strap (Medium)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/frame-enhancements/atas-sphere-high-friction-battery-velcro-strap-big.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/frame-enhancements/atas-sphere-high-friction-battery-velcro-strap-big.html"
+  },
+  {
+   "price": "US$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:32:02 GMT",
+   "url": "http://www.dronematters.com/atas-sphere-high-friction-battery-velcro-strap-big.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

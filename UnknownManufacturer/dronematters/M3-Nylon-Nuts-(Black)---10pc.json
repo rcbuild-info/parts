@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 Nylon Nuts (Black) - 10pc",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/m3-nylon-nuts-black-10pc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/m3-nylon-nuts-black-10pc.html"
+  },
+  {
+   "price": "US$1.04",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:35 GMT",
+   "url": "http://www.dronematters.com/m3-nylon-nuts-black-10pc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

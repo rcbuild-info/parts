@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Drone Matters",
  "name": "FPV1000 Portable Digital Video Recorder",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/cameras-and-dvrs/dm-fpv1000-portable-digital-video-recorder.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/cameras-and-dvrs/dm-fpv1000-portable-digital-video-recorder.html"
+  },
+  {
+   "price": "US$109.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:02 GMT",
+   "url": "http://www.dronematters.com/dm-fpv1000-portable-digital-video-recorder.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

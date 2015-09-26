@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Atas 12A BLHeli ESC with BEC",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/escs/atas-12a-blheli-esc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/escs/atas-12a-blheli-esc.html"
+  },
+  {
+   "price": "US$13.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:57:05 GMT",
+   "url": "http://www.dronematters.com/atas-12a-blheli-esc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

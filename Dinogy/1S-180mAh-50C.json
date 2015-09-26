@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Dinogy",
  "name": "1S 180mAh 50C Lipo",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/dinogy-1s-3-7v-180mah-50c.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:32:44 GMT",
+   "url": "http://www.dronematters.com/dinogy-1s-3-7v-180mah-50c.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

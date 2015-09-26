@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Strider Top Plate",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/strider-top-plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/strider-top-plate.html"
+  },
+  {
+   "price": "US$18.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:30 GMT",
+   "url": "http://www.dronematters.com/strider-top-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

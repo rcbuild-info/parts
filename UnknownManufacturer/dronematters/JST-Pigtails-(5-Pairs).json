@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JST Pigtails (5 Pairs)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/jst-pigtails.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/jst-pigtails.html"
+  },
+  {
+   "price": "US$4.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:26 GMT",
+   "url": "http://www.dronematters.com/jst-pigtails.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

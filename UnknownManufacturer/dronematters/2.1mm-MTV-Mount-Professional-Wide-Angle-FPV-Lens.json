@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2.1mm MTV Mount Professional Wide Angle FPV Lens",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/cameras-and-dvrs/2-1mm-mtv-mount-professional-wide-angle-fpv-lens.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/cameras-and-dvrs/2-1mm-mtv-mount-professional-wide-angle-fpv-lens.html"
+  },
+  {
+   "price": "US$7.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:38:27 GMT",
+   "url": "http://www.dronematters.com/2-1mm-mtv-mount-professional-wide-angle-fpv-lens.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "2.4Ghz Audio/Video Transmitter (700mw)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/vtx-vrx/2-4ghz/immersionrc-2-4ghz-audio-video-transmitter-700mw.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/vtx-vrx/2-4ghz/immersionrc-2-4ghz-audio-video-transmitter-700mw.html"
+  },
+  {
+   "price": "US$79.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:50:58 GMT",
+   "url": "http://www.dronematters.com/immersionrc-2-4ghz-audio-video-transmitter-700mw.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "30cm Straight Male to Straight Female SMA Extension Cable",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/30cm-straight-male-to-straight-female-sma-extension-cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/30cm-straight-male-to-straight-female-sma-extension-cable.html"
+  },
+  {
+   "price": "US$4.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:08 GMT",
+   "url": "http://www.dronematters.com/30cm-straight-male-to-straight-female-sma-extension-cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2.1mm Barrel Connector with 50cm Cord (18AWG)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/2-1mm-barrel-connector-with-50cm-cord-18awg.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/2-1mm-barrel-connector-with-50cm-cord-18awg.html"
+  },
+  {
+   "price": "US$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:18 GMT",
+   "url": "http://www.dronematters.com/2-1mm-barrel-connector-with-50cm-cord-18awg.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

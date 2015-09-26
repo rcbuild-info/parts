@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Replacement Headset Eye Cups",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/replacement-heatset-eye-cups.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/replacement-heatset-eye-cups.html"
+  },
+  {
+   "price": "US$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:38:24 GMT",
+   "url": "http://www.dronematters.com/replacement-heatset-eye-cups.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini USB Cable",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/mini-usb-cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/mini-usb-cable.html"
+  },
+  {
+   "price": "US$3.89",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:35:57 GMT",
+   "url": "http://www.dronematters.com/mini-usb-cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

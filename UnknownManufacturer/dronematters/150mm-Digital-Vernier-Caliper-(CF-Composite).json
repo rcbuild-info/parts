@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "150mm Digital Vernier Caliper (CF Composite)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/150mm-digital-vernier-caliper-cf-composite.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/150mm-digital-vernier-caliper-cf-composite.html"
+  },
+  {
+   "price": "US$12.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:53 GMT",
+   "url": "http://www.dronematters.com/150mm-digital-vernier-caliper-cf-composite.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

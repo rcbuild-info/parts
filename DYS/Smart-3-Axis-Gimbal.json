@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "Smart 3 Axis Gimbal",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/dys-smart3-gimbal.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/dys-smart3-gimbal.html"
+  },
+  {
+   "price": "US$195.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:45:08 GMT",
+   "url": "http://www.dronematters.com/dys-smart3-gimbal.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

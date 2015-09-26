@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Nemesis Aluminum Hardware Kit",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/nemesis-aluminum-hardware-kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/nemesis-aluminum-hardware-kit.html"
+  },
+  {
+   "price": "US$15.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:47:29 GMT",
+   "url": "http://www.dronematters.com/nemesis-aluminum-hardware-kit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3M Self-Adhesive Velcro Strips (1mtr)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/3m-velcro-strips-1mtr.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/3m-velcro-strips-1mtr.html"
+  },
+  {
+   "price": "US$3.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:11:46 GMT",
+   "url": "http://www.dronematters.com/3m-velcro-strips-1mtr.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

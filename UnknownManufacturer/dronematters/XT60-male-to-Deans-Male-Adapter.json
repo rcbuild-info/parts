@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XT60 male to Deans Male Adapter",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/batteries/xt60-male-to-deans-male-adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/batteries/xt60-male-to-deans-male-adapter.html"
+  },
+  {
+   "price": "US$1.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:52 GMT",
+   "url": "http://www.dronematters.com/xt60-male-to-deans-male-adapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

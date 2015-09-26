@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Landing Gear (Wide) 10pcs",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/landing-gear-wide-10pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/landing-gear-wide-10pcs.html"
+  },
+  {
+   "price": "US$1.79",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:43:42 GMT",
+   "url": "http://www.dronematters.com/landing-gear-wide-10pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

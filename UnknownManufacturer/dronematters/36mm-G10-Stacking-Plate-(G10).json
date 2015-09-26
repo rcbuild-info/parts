@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "36mm G10 Stacking Plate (G10)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/flight-controllers/naze-g10-stacking-plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/flight-controllers/naze-g10-stacking-plate.html"
+  },
+  {
+   "price": "US$1.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:47:53 GMT",
+   "url": "http://www.dronematters.com/naze-g10-stacking-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyzone",
  "name": "FPV Video Goggles with Diversity",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/goggles-lcds/skyzone-fpv-video-goggles-with-diversity.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/goggles-lcds/skyzone-fpv-video-goggles-with-diversity.html"
+  },
+  {
+   "price": "US$409.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:44:47 GMT",
+   "url": "http://www.dronematters.com/skyzone-fpv-video-goggles-with-diversity.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

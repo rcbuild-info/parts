@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Atas Mini Power Distribution Board Pro",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/batteries/atas-mini-power-distribution-board-pro.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/batteries/atas-mini-power-distribution-board-pro.html"
+  },
+  {
+   "price": "US$28.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:13:47 GMT",
+   "url": "http://www.dronematters.com/atas-mini-power-distribution-board-pro.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "35mm Diameter Heat Shrink Tubing",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/35mm-diameter-heat-shrink-tubing.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/35mm-diameter-heat-shrink-tubing.html"
+  },
+  {
+   "price": "US$0.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:06 GMT",
+   "url": "http://www.dronematters.com/35mm-diameter-heat-shrink-tubing.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

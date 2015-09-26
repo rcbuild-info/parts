@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XT60 Male 14AWG Pigtail",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/xt60-male-14awg-pigtail.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/xt60-male-14awg-pigtail.html"
+  },
+  {
+   "price": "US$1.94",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:14:32 GMT",
+   "url": "http://www.dronematters.com/xt60-male-14awg-pigtail.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

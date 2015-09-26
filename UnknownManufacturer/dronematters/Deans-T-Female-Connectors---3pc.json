@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Deans T Female Connectors - 3pc",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/deans-t-female-connectors-3pc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/deans-t-female-connectors-3pc.html"
+  },
+  {
+   "price": "US$1.68",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:11 GMT",
+   "url": "http://www.dronematters.com/deans-t-female-connectors-3pc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

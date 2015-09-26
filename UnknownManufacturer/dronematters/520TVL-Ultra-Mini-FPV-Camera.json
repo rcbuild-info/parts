@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "520TVL Ultra Mini FPV Camera",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/cameras-and-dvrs/520tvl-ultra-mini-fpv-camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/cameras-and-dvrs/520tvl-ultra-mini-fpv-camera.html"
+  },
+  {
+   "price": "US$51.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:50:21 GMT",
+   "url": "http://www.dronematters.com/520tvl-ultra-mini-fpv-camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

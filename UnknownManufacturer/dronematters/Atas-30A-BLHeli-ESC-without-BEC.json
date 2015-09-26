@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Atas 30A BLHeli ESC without BEC",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/escs/atassphere-30a-blheli-esc-without-bec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/escs/atassphere-30a-blheli-esc-without-bec.html"
+  },
+  {
+   "price": "US$14.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:33:11 GMT",
+   "url": "http://www.dronematters.com/atassphere-30a-blheli-esc-without-bec.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

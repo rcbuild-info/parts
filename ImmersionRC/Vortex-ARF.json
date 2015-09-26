@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Vortex ARF",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/300mm/quadcopters/immersionrc-vortex-arf.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/300mm/quadcopters/immersionrc-vortex-arf.html"
+  },
+  {
+   "price": "US$449.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:38:51 GMT",
+   "url": "http://www.dronematters.com/immersionrc-vortex-arf.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

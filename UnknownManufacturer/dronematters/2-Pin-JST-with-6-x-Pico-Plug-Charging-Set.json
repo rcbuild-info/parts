@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2 Pin JST with 6 x Pico Plug Charging Set",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/batteries/2-pin-jst-with-6-x-pico-plug-charging-set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/batteries/2-pin-jst-with-6-x-pico-plug-charging-set.html"
+  },
+  {
+   "price": "US$1.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:36:46 GMT",
+   "url": "http://www.dronematters.com/2-pin-jst-with-6-x-pico-plug-charging-set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

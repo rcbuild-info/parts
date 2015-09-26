@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "PZ0420 IR-Sensitive 600TVL Sony Super HAD D-WDR CCD Camera with 2.8mm Lens",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/cameras-and-dvrs/pz0420-ir-sensitive-600tvl-sony-super-had-d-wdr-ccd-camera-with-2-8mm-lens.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/cameras-and-dvrs/pz0420-ir-sensitive-600tvl-sony-super-had-d-wdr-ccd-camera-with-2-8mm-lens.html"
+  },
+  {
+   "price": "US$34.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:50:31 GMT",
+   "url": "http://www.dronematters.com/pz0420-ir-sensitive-600tvl-sony-super-had-d-wdr-ccd-camera-with-2-8mm-lens.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

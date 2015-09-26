@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "YIHUA-628-I Hot Air Gun Bracket And Circuit Board Clamp",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/yihua-628-i-hot-air-gun-bracket-and-circuit-board-clamp.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$24.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:32:52 GMT",
+   "url": "http://www.dronematters.com/yihua-628-i-hot-air-gun-bracket-and-circuit-board-clamp.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

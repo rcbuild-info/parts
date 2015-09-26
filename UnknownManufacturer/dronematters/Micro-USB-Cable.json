@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Micro USB Cable",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/micro-usb-cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/micro-usb-cable.html"
+  },
+  {
+   "price": "US$3.89",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:19 GMT",
+   "url": "http://www.dronematters.com/micro-usb-cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

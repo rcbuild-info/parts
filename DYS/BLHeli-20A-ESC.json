@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "BLHeli 20A ESC",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/dys-blheli-20a-esc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/dys-blheli-20a-esc.html"
+  },
+  {
+   "price": "US$13.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:33:47 GMT",
+   "url": "http://www.dronematters.com/dys-blheli-20a-esc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

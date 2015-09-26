@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RCA Male to Male A/V Coupler Adapter",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/rca-male-to-male-a-v-coupler-adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/rca-male-to-male-a-v-coupler-adapter.html"
+  },
+  {
+   "price": "US$0.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:48:33 GMT",
+   "url": "http://www.dronematters.com/rca-male-to-male-a-v-coupler-adapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

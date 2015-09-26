@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "800TVL IR-Sensitive Sony EFFIO-V WDR Camera",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/cameras-and-dvrs/800tvl-ir-sensitive-sony-effio-v-wdr-camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/cameras-and-dvrs/800tvl-ir-sensitive-sony-effio-v-wdr-camera.html"
+  },
+  {
+   "price": "US$54.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:50:18 GMT",
+   "url": "http://www.dronematters.com/800tvl-ir-sensitive-sony-effio-v-wdr-camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

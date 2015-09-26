@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "433Mhz Radio Telemetry Kit",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/433mhz-radio-telemetry-kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/433mhz-radio-telemetry-kit.html"
+  },
+  {
+   "price": "US$34.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:51 GMT",
+   "url": "http://www.dronematters.com/433mhz-radio-telemetry-kit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

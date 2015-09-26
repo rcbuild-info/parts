@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Spider 12A ESC OPTO (BLHeli)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/spider-12a-esc-opto.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/spider-12a-esc-opto.html"
+  },
+  {
+   "price": "US$10.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:57 GMT",
+   "url": "http://www.dronematters.com/spider-12a-esc-opto.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

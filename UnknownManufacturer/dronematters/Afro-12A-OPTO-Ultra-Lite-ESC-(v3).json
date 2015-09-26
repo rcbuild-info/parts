@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Afro 12A OPTO Ultra Lite ESC (v3)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/afro-esc-12amp-opto.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/afro-esc-12amp-opto.html"
+  },
+  {
+   "price": "US$13.49",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:03:29 GMT",
+   "url": "http://www.dronematters.com/afro-esc-12amp-opto.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

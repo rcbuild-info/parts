@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Dinogy",
  "name": "4S 2200mAh 30C",
@@ -7,9 +9,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/dinogy-4s-14-8v-2200mah-30c.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/dinogy-4s-14-8v-2200mah-30c.html"
+  },
+  {
+   "price": "US$28.87",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:47 GMT",
+   "url": "http://www.dronematters.com/dinogy-4s-14-8v-2200mah-30c.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

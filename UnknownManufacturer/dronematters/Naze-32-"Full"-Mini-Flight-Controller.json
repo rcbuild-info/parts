@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Naze 32 \"Full\" Mini Flight Controller",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/naze-32-mini-flight-controller-white.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/naze-32-mini-flight-controller-white.html"
+  },
+  {
+   "price": "US$51.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:04 GMT",
+   "url": "http://www.dronematters.com/naze-32-mini-flight-controller-white.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

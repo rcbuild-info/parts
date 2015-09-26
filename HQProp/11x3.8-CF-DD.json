@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "11x3.8 Direct Drive Carbon Fiber Composite",
@@ -7,9 +9,25 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/hqprop-1138-carbon-composite-propeller-black-1-ccw.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/hqprop-1138-carbon-composite-propeller-black-1-ccw.html"
+  },
+  {
+   "price": "US$8.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:08:55 GMT",
+   "url": "http://www.dronematters.com/hqprop-1138-carbon-composite-propeller-black-1-cw.html"
+  },
+  {
+   "price": "US$8.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:32:39 GMT",
+   "url": "http://www.dronematters.com/hqprop-1138-carbon-composite-propeller-black-1-ccw.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 Nylon Philips Screws (Black)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/m3-black-nylon-philips-screws.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/m3-black-nylon-philips-screws.html"
+  },
+  {
+   "price": "US$1.29",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:15:32 GMT",
+   "url": "http://www.dronematters.com/m3-black-nylon-philips-screws.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

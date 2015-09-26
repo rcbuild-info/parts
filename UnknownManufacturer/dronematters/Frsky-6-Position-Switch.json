@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Frsky 6-Position Switch",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/radios/frsky-6-position-switch.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/radios/frsky-6-position-switch.html"
+  },
+  {
+   "price": "US$3.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:46:03 GMT",
+   "url": "http://www.dronematters.com/frsky-6-position-switch.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

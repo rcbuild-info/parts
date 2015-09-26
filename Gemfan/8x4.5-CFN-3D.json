@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "8x4.5 3D Carbon Fiber Nylon",
@@ -7,9 +9,37 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/gemfan-8045-3d-carbon-composite-propellers.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/gemfan-8045-3d-carbon-composite-propellers.html"
+  },
+  {
+   "price": "US$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:33:29 GMT",
+   "url": "http://www.dronematters.com/gemfan-8045-3d-carbon-composite-propellers-922.html"
+  },
+  {
+   "price": "US$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:33:25 GMT",
+   "url": "http://www.dronematters.com/gemfan-8045-3d-carbon-composite-propellers-925.html"
+  },
+  {
+   "price": "US$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:53:46 GMT",
+   "url": "http://www.dronematters.com/gemfan-8045-3d-carbon-composite-propellers-926.html"
+  },
+  {
+   "price": "US$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:33:58 GMT",
+   "url": "http://www.dronematters.com/gemfan-8045-3d-carbon-composite-propellers.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

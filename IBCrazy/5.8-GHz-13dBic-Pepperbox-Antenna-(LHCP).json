@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "5.8 GHz 13dBic Pepperbox Antenna (LHCP)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/antennas/5-8ghz/ibcrazy-5-8-ghz-13dbic-pepperbox-antenna-lhcp.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/antennas/5-8ghz/ibcrazy-5-8-ghz-13dbic-pepperbox-antenna-lhcp.html"
+  },
+  {
+   "price": "US$99.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 01:00:26 GMT",
+   "url": "http://www.dronematters.com/ibcrazy-5-8-ghz-13dbic-pepperbox-antenna-lhcp.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

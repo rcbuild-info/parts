@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Dinogy",
  "name": "1S 180mAh 25C",
@@ -7,9 +9,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/batteries/dinogy-1s-3-7v-180mah-25c.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/batteries/dinogy-1s-3-7v-180mah-25c.html"
+  },
+  {
+   "price": "US$3.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:18:19 GMT",
+   "url": "http://www.dronematters.com/dinogy-1s-3-7v-180mah-25c.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

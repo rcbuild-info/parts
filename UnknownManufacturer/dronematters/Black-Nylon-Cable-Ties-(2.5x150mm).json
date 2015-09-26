@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Black Nylon Cable Ties (2.5x150mm)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/diy/black-nylon-cable-ties-2-5x150mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/diy/black-nylon-cable-ties-2-5x150mm.html"
+  },
+  {
+   "price": "US$1.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:41 GMT",
+   "url": "http://www.dronematters.com/black-nylon-cable-ties-2-5x150mm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

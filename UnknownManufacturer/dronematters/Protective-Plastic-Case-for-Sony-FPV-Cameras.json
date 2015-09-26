@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Protective Plastic Case for Sony FPV Cameras",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/cameras-and-dvrs/protective-plastic-case-for-sony-fpv-cameras.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/cameras-and-dvrs/protective-plastic-case-for-sony-fpv-cameras.html"
+  },
+  {
+   "price": "US$4.54",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:38:24 GMT",
+   "url": "http://www.dronematters.com/protective-plastic-case-for-sony-fpv-cameras.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

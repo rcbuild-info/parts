@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Atas Magni Mini H 230 Clean Section Bottom Plate",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/atas-magni-mini-h-230-replacement/atas-magni-mini-h-230-clean-section-bottom-plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/atas-magni-mini-h-230-replacement/atas-magni-mini-h-230-clean-section-bottom-plate.html"
+  },
+  {
+   "price": "US$11.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:06 GMT",
+   "url": "http://www.dronematters.com/atas-magni-mini-h-230-clean-section-bottom-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

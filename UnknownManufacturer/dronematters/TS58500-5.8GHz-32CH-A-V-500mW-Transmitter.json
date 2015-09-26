@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "TS58500 5.8GHz 32CH A/V 500mW Transmitter",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/vtx-vrx/5-8ghz/ts58500-5-8ghz-32ch-a-v-500mw-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/vtx-vrx/5-8ghz/ts58500-5-8ghz-32ch-a-v-500mw-transmitter.html"
+  },
+  {
+   "price": "US$59.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:59 GMT",
+   "url": "http://www.dronematters.com/ts58500-5-8ghz-32ch-a-v-500mw-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

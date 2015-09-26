@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "QAV Quick-Mount Brushless Gimbal Unit",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/qav400-brushless-gimbal-unit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/qav400-brushless-gimbal-unit.html"
+  },
+  {
+   "price": "US$189.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:11 GMT",
+   "url": "http://www.dronematters.com/qav400-brushless-gimbal-unit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

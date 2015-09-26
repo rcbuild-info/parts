@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X22 Series Prop Adapter (CW)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/brushless-motors/sunnysky-x22-series-prop-adapter-cw.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/brushless-motors/sunnysky-x22-series-prop-adapter-cw.html"
+  },
+  {
+   "price": "US$5.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:57:00 GMT",
+   "url": "http://www.dronematters.com/sunnysky-x22-series-prop-adapter-cw.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

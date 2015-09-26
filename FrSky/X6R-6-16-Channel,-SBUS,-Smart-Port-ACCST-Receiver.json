@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "X6R 6-16 Channel, SBUS, Smart Port ACCST Receiver",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/radios/frsky-x6r-6-16-channel-sbus-smart-port-accst-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/radios/frsky-x6r-6-16-channel-sbus-smart-port-accst-receiver.html"
+  },
+  {
+   "price": "US$32.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:45:27 GMT",
+   "url": "http://www.dronematters.com/frsky-x6r-6-16-channel-sbus-smart-port-accst-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

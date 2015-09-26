@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SMA Male to RP-SMA Female Connector",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/sma-male-to-rpsma-male-connector.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/sma-male-to-rpsma-male-connector.html"
+  },
+  {
+   "price": "US$3.89",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:30:01 GMT",
+   "url": "http://www.dronematters.com/sma-male-to-rpsma-male-connector.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

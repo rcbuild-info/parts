@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Dinogy",
  "name": "3S 1500mAh 30C",
@@ -7,9 +9,25 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/dinogy-3s-11-1v-1500mah-30c.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/dinogy-3s-11-1v-1500mah-30c.html"
+  },
+  {
+   "price": "US$14.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:37 GMT",
+   "url": "http://www.dronematters.com/dinogy-3s-11-1v-1500mah-30c-deans.html"
+  },
+  {
+   "price": "US$14.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:16:45 GMT",
+   "url": "http://www.dronematters.com/dinogy-3s-11-1v-1500mah-30c.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

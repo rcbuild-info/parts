@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Dinogy",
  "name": "6S 11000mAh 25C Lipo",
@@ -7,9 +9,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/batteries/6s-flight-batteries/dinogy-4s-11-1v-1300mah-65c-1250.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/batteries/6s-flight-batteries/dinogy-4s-11-1v-1300mah-65c-1250.html"
+  },
+  {
+   "price": "US$171.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:36:53 GMT",
+   "url": "http://www.dronematters.com/dinogy-4s-11-1v-1300mah-65c-1250.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XUAV Mini Talon (Kit)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fixed-wings/xuav-mini-talon.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fixed-wings/xuav-mini-talon.html"
+  },
+  {
+   "price": "US$68.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:11 GMT",
+   "url": "http://www.dronematters.com/xuav-mini-talon.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

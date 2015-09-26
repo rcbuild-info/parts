@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "High Quality 24AWG Soft Silicone Wire",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/heat-shrinks-silicon-wires/high-quality-24awg-soft-silicone-wire.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/heat-shrinks-silicon-wires/high-quality-24awg-soft-silicone-wire.html"
+  },
+  {
+   "price": "US$0.60",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:25 GMT",
+   "url": "http://www.dronematters.com/high-quality-24awg-soft-silicone-wire.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LayerLens for GoPro 3 & 4 Replacement Lens (1pcs)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/layerlens-for-gopro-3-4-replacement-lens-1pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/layerlens-for-gopro-3-4-replacement-lens-1pcs.html"
+  },
+  {
+   "price": "US$9.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:38:26 GMT",
+   "url": "http://www.dronematters.com/layerlens-for-gopro-3-4-replacement-lens-1pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

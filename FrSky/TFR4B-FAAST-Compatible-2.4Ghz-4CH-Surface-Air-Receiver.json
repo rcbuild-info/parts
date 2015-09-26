@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "TFR4B FAAST Compatible 2.4Ghz 4CH Surface/Air Receiver",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/radios/frsky-tfr4b-faast-compatible-2-4ghz-4ch-surface-air-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/radios/frsky-tfr4b-faast-compatible-2-4ghz-4ch-surface-air-receiver.html"
+  },
+  {
+   "price": "US$36.32",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:45:21 GMT",
+   "url": "http://www.dronematters.com/frsky-tfr4b-faast-compatible-2-4ghz-4ch-surface-air-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

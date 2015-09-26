@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10cm Semi-rigid Straight Male to Straight Female SMA Extension Cable",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/10cm-semi-rigid-straight-male-to-straight-female-sma-extension-cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/10cm-semi-rigid-straight-male-to-straight-female-sma-extension-cable.html"
+  },
+  {
+   "price": "US$5.19",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:48:55 GMT",
+   "url": "http://www.dronematters.com/10cm-semi-rigid-straight-male-to-straight-female-sma-extension-cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

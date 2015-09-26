@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Right Angle Pin Pack for Naze (3Px6, 2Px10)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/right-angle-pin-pack-for-naze-3px6-2px10.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/right-angle-pin-pack-for-naze-3px6-2px10.html"
+  },
+  {
+   "price": "US$0.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:15:39 GMT",
+   "url": "http://www.dronematters.com/right-angle-pin-pack-for-naze-3px6-2px10.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

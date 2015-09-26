@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "5.8GHz 10dBic Crosshair Antenna (RHCP)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/antennas/5-8ghz/ibcrazy-5-8ghz-10dbic-crosshair-antenna-rhcp.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/antennas/5-8ghz/ibcrazy-5-8ghz-10dbic-crosshair-antenna-rhcp.html"
+  },
+  {
+   "price": "US$64.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:39:05 GMT",
+   "url": "http://www.dronematters.com/ibcrazy-5-8ghz-10dbic-crosshair-antenna-rhcp.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

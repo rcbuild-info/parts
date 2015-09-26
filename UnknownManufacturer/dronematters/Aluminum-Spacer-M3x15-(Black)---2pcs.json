@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Aluminum Spacer M3x15 (Black) - 2pcs",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/aluminum-spacer-m3x15-black-10pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/aluminum-spacer-m3x15-black-10pcs.html"
+  },
+  {
+   "price": "US$1.59",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:11 GMT",
+   "url": "http://www.dronematters.com/aluminum-spacer-m3x15-black-10pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

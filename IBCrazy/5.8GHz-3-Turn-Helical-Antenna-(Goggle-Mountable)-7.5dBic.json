@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "5.8GHz 3-Turn Helical Antenna (Goggle-Mountable) 7.5dBic",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/antennas/5-8ghz/ibcrazy-5-8ghz-3-turn-helical-antenna-goggle-mountable-7-5dbic.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/antennas/5-8ghz/ibcrazy-5-8ghz-3-turn-helical-antenna-goggle-mountable-7-5dbic.html"
+  },
+  {
+   "price": "US$29.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:49:58 GMT",
+   "url": "http://www.dronematters.com/ibcrazy-5-8ghz-3-turn-helical-antenna-goggle-mountable-7-5dbic.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

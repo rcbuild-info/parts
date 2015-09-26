@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "Unify 2G4 800mW 16ch Video Transmitter",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/vtx-vrx/2-4ghz/tbs-unify-2g4-800mw-16ch-video-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/vtx-vrx/2-4ghz/tbs-unify-2g4-800mw-16ch-video-transmitter.html"
+  },
+  {
+   "price": "US$99.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:50:57 GMT",
+   "url": "http://www.dronematters.com/tbs-unify-2g4-800mw-16ch-video-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

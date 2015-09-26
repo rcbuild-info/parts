@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "3515 650kv 3-5S Brushless Motor",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/brushless-motors/cobra-3515-650kv-3-5s-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/brushless-motors/cobra-3515-650kv-3-5s-brushless-motor.html"
+  },
+  {
+   "price": "US$51.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:33:53 GMT",
+   "url": "http://www.dronematters.com/cobra-3515-650kv-3-5s-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

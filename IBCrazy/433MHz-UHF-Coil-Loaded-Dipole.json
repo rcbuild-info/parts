@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "433MHz UHF Coil Loaded Dipole",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/antennas/433mhz/ibcrazy-433mhz-uhf-coil-dipole.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/antennas/433mhz/ibcrazy-433mhz-uhf-coil-dipole.html"
+  },
+  {
+   "price": "US$14.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:38:30 GMT",
+   "url": "http://www.dronematters.com/ibcrazy-433mhz-uhf-coil-dipole.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5\" G10 Propeller Guards",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/5-g10-propeller-guards.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/5-g10-propeller-guards.html"
+  },
+  {
+   "price": "US$12.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:12:03 GMT",
+   "url": "http://www.dronematters.com/5-g10-propeller-guards.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

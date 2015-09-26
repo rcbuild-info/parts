@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Atas Defiance Adaptive Motor Protection Kit",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/atas-defiance-adaptive-motor-protection-kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/atas-defiance-adaptive-motor-protection-kit.html"
+  },
+  {
+   "price": "US$9.70",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:57 GMT",
+   "url": "http://www.dronematters.com/atas-defiance-adaptive-motor-protection-kit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Turnigy TVS-2 3-Way Video Switch",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/turnigy-tvs-2-3-way-video-switch.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/turnigy-tvs-2-3-way-video-switch.html"
+  },
+  {
+   "price": "US$6.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:48 GMT",
+   "url": "http://www.dronematters.com/turnigy-tvs-2-3-way-video-switch.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

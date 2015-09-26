@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Atas Defiance Camera Protection",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/atas-defiance-camera-protection.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/atas-defiance-camera-protection.html"
+  },
+  {
+   "price": "US$3.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:36:28 GMT",
+   "url": "http://www.dronematters.com/atas-defiance-camera-protection.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

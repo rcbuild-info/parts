@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Spare Mobius Standard Lens Cap",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/cameras-and-dvrs/mobius-standard-angle-lens-module-504.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/cameras-and-dvrs/mobius-standard-angle-lens-module-504.html"
+  },
+  {
+   "price": "US$0.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:38:21 GMT",
+   "url": "http://www.dronematters.com/mobius-standard-angle-lens-module-504.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

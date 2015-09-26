@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FTDI adapter",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/ftdi-adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/ftdi-adapter.html"
+  },
+  {
+   "price": "US$5.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:11:40 GMT",
+   "url": "http://www.dronematters.com/ftdi-adapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

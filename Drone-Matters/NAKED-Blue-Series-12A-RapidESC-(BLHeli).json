@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Drone Matters",
  "name": "NAKED Blue Series 12A RapidESC (BLHeli)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/drone-matters-naked-blue-series-12a-rapidesc-simonk.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/drone-matters-naked-blue-series-12a-rapidesc-simonk.html"
+  },
+  {
+   "price": "US$11.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:33:13 GMT",
+   "url": "http://www.dronematters.com/drone-matters-naked-blue-series-12a-rapidesc-simonk.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

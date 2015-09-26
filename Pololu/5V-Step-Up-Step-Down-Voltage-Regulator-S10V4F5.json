@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Pololu",
  "name": "5V Step-Up/Step-Down Voltage Regulator S10V4F5",
@@ -7,10 +7,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/pololu-5v-step-up-step-down-voltage-regulator-s10v4f5",
-   "http://www.dronematters.com/others/pololu-5v-step-up-step-down-voltage-regulator-s10v4f5.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.liftrc.com/pololu-5v-step-up-step-down-voltage-regulator-s10v4f5"
+  },
+  {
+   "url": "http://www.dronematters.com/others/pololu-5v-step-up-step-down-voltage-regulator-s10v4f5.html"
+  },
+  {
+   "price": "US$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:26 GMT",
+   "url": "http://www.dronematters.com/pololu-5v-step-up-step-down-voltage-regulator-s10v4f5.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

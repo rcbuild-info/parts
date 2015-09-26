@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2206-140Kv Brushless Gimbal Motor (Ideal for GoPro style Cameras)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/brushless-motors/2206-140kv-brushless-gimbal-motor-ideal-for-gopro-style-cameras.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/brushless-motors/2206-140kv-brushless-gimbal-motor-ideal-for-gopro-style-cameras.html"
+  },
+  {
+   "price": "US$17.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:52 GMT",
+   "url": "http://www.dronematters.com/2206-140kv-brushless-gimbal-motor-ideal-for-gopro-style-cameras.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M2 Vibration Rubber Dampeners - 4pcs",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/m2-vibration-rubber-dampeners-4pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/m2-vibration-rubber-dampeners-4pcs.html"
+  },
+  {
+   "price": "US$1.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:37:08 GMT",
+   "url": "http://www.dronematters.com/m2-vibration-rubber-dampeners-4pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

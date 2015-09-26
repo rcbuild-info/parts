@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M2 Stainless Steel Nuts",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/multirotors/spare-parts/type304-m2-nuts.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/multirotors/spare-parts/type304-m2-nuts.html"
+  },
+  {
+   "price": "US$0.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:36 GMT",
+   "url": "http://www.dronematters.com/type304-m2-nuts.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

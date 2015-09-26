@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ABS Hard Storage Case (Big)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/abs-hard-storage-case-big.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/abs-hard-storage-case-big.html"
+  },
+  {
+   "price": "US$135.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:49 GMT",
+   "url": "http://www.dronematters.com/abs-hard-storage-case-big.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

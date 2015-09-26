@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "u-blox LEA-6H GPS & MAG V2",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/fpv/fpv-accessories/u-blox-lea-6h-gps-mag-v2.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/fpv/fpv-accessories/u-blox-lea-6h-gps-mag-v2.html"
+  },
+  {
+   "price": "US$53.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:51 GMT",
+   "url": "http://www.dronematters.com/u-blox-lea-6h-gps-mag-v2.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

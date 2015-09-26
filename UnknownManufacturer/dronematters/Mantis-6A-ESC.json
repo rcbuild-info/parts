@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mantis 6A ESC",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/mantis-6a-esc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/mantis-6a-esc.html"
+  },
+  {
+   "price": "US$10.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:33:48 GMT",
+   "url": "http://www.dronematters.com/mantis-6a-esc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

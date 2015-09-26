@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "VOLO LED Light Strip (White)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/others/volo-led-light-strip-white.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/others/volo-led-light-strip-white.html"
+  },
+  {
+   "price": "US$8.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:30 GMT",
+   "url": "http://www.dronematters.com/volo-led-light-strip-white.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

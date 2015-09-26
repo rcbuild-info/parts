@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EzUHF Transmitter",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/radios/ezuhf-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/radios/ezuhf-transmitter.html"
+  },
+  {
+   "price": "US$208.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:45:23 GMT",
+   "url": "http://www.dronematters.com/ezuhf-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

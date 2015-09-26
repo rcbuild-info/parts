@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Soldering Service for Naze Flight Controllers",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.dronematters.com/power-system/soldering-service-for-naze-flight-controllers.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/soldering-service-for-naze-flight-controllers.html"
+  },
+  {
+   "price": "US$9.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:34 GMT",
+   "url": "http://www.dronematters.com/soldering-service-for-naze-flight-controllers.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
