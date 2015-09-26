@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RTFHawk I2C Distribution board",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtfhawk-i2c-distribution-board"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:06 GMT",
+   "url": "http://www.readytoflyquads.com/rtfhawk-i2c-distribution-board"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

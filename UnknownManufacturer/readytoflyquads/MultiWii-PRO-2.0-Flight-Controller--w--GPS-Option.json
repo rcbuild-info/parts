@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MultiWii PRO 2.0 Flight Controller  w/ GPS Option",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/multiwii-pro-2-0-flight-controller"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$32.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:24:48 GMT",
+   "url": "http://www.readytoflyquads.com/multiwii-pro-2-0-flight-controller"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

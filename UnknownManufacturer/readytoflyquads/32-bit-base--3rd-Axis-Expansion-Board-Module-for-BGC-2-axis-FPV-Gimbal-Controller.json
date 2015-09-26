@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "32-bit base -3rd Axis Expansion Board Module for BGC 2-axis FPV Gimbal Controller",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/32-bit-base-3rd-axis-expansion-board-module-for-bgc-2-axis-fpv-gimbal-controller"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$13.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:08 GMT",
+   "url": "http://www.readytoflyquads.com/32-bit-base-3rd-axis-expansion-board-module-for-bgc-2-axis-fpv-gimbal-controller"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

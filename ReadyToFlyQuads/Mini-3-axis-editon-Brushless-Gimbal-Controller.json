@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "Mini 3-axis editon Brushless Gimbal Controller",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-mini-3-axis-editon-brushless-gimbal-controller"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$38.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:26 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-mini-3-axis-editon-brushless-gimbal-controller"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "10x4.5 Slow Flyer Carbon Fiber Composite",
@@ -7,11 +9,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/HQProp-10x45-Carbon-reinforced-Slow-Flyer-Propeller-Set-Black-2CW-2-CCW",
-   "http://flyduino.net/Multikopter-Propeller-CW-CCW_47",
-   "http://www.readytoflyquads.com/hq-prop-10x45-carbon-composite-prop-381"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/HQProp-10x45-Carbon-reinforced-Slow-Flyer-Propeller-Set-Black-2CW-2-CCW"
+  },
+  {
+   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_47"
+  },
+  {
+   "price": "$5.82",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:58 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-10x45-carbon-composite-prop-381"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F-12A-HV Fire Red series High Voltage OPTO (2-4 Cells) BLHELI-(ONESHOT)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/readytoflyv-f-12a-hv-fire-red-12-amp-blheli"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:30 GMT",
+   "url": "http://www.readytoflyquads.com/readytoflyv-f-12a-hv-fire-red-12-amp-blheli"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

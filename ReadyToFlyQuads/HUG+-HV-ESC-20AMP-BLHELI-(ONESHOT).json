@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "HUG+ HV ESC 20AMP BLHELI-(ONESHOT)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-hug-hv-esc-20amp-blheli-oneshot"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:26 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-hug-hv-esc-20amp-blheli-oneshot"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

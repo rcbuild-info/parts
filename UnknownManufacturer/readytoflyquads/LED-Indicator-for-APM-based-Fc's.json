@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LED Indicator for APM based Fc's",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/led-indicator-for-apm-based-fc-s"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:02 GMT",
+   "url": "http://www.readytoflyquads.com/led-indicator-for-apm-based-fc-s"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "KK2.1.5 Multi-rotor LCD Flight Control Board",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/kk2-1-5-multi-rotor-lcd-flight-control-board"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:24:54 GMT",
+   "url": "http://www.readytoflyquads.com/kk2-1-5-multi-rotor-lcd-flight-control-board"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

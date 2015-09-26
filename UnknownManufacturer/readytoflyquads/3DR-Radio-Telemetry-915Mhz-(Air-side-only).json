@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3DR Radio Telemetry 915Mhz (Air side only)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/3dr-radio-telemetry-kit-915mhz-air-only"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:47 GMT",
+   "url": "http://www.readytoflyquads.com/3dr-radio-telemetry-kit-915mhz-air-only"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

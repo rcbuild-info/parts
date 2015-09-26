@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3DR Radio Telemetry Kit 915Mhz",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/3dr-radio-telemetry-kit-915mhz"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$25.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:24:56 GMT",
+   "url": "http://www.readytoflyquads.com/3dr-radio-telemetry-kit-915mhz"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

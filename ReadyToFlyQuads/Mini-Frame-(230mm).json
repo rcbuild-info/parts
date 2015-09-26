@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "Mini Frame (230mm)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-mini-frame-230mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:03 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-mini-frame-230mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

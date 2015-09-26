@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 Bolt 4-40 thread - Flat head 5mm shaft - Nylon",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/m3-bolt-4-40-thread-flat-head-5mm-shaft-nylon"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.20",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:15 GMT",
+   "url": "http://www.readytoflyquads.com/m3-bolt-4-40-thread-flat-head-5mm-shaft-nylon"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

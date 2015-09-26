@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "T-Motor MT replacement Hub Cap",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/t-motor-mt-replacement-hub-cap"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:39 GMT",
+   "url": "http://www.readytoflyquads.com/t-motor-mt-replacement-hub-cap"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

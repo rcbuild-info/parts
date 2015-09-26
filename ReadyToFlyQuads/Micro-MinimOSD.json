@@ -1,5 +1,7 @@
 {
- "category": "osd",
+ "categories": [
+  "osd"
+ ],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "Micro MinimOSD",
@@ -9,9 +11,16 @@
   "manufacturer": [
    "http://www.readytoflyquads.com/micro-minimosd"
   ],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/micro-minimosd"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:53 GMT",
+   "url": "http://www.readytoflyquads.com/micro-minimosd"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

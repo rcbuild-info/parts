@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Joystick Controller Set",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/joystick-controller-set"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:03 GMT",
+   "url": "http://www.readytoflyquads.com/joystick-controller-set"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

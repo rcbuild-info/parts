@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5.8GHz Light 250mW VTX for GoPro 3",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/5-8ghz-light-250mw-vtx-for-gopro-3"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:55 GMT",
+   "url": "http://www.readytoflyquads.com/5-8ghz-light-250mw-vtx-for-gopro-3"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

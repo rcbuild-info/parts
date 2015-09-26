@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV250 V2 Quadcopter Frame (250mm)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/fpv250-v2-quadcopter-frame-250mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$16.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:06 GMT",
+   "url": "http://www.readytoflyquads.com/fpv250-v2-quadcopter-frame-250mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

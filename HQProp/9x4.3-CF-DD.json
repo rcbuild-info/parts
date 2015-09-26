@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "9x4.3 Direct Drive Carbon Fiber Composite",
@@ -7,11 +9,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/HQProp-9x43-Carbon-reinforced-Endurance-Propeller-Set-Black-2CW-2-CCW",
-   "http://flyduino.net/Multikopter-Propeller-CW-CCW_14",
-   "http://www.readytoflyquads.com/hq-prop-9x43-carbon-composite-prop"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/HQProp-9x43-Carbon-reinforced-Endurance-Propeller-Set-Black-2CW-2-CCW"
+  },
+  {
+   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_14"
+  },
+  {
+   "price": "$5.20",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:03 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-9x43-carbon-composite-prop"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

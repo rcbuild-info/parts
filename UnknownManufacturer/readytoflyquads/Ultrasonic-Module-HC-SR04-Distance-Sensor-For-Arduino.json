@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Ultrasonic Module HC-SR04 Distance Sensor For Arduino",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/ultrasonic-module-hc-sr04-distance-sensor-for-arduino"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:41 GMT",
+   "url": "http://www.readytoflyquads.com/ultrasonic-module-hc-sr04-distance-sensor-for-arduino"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

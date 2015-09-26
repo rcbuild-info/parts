@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10\" x 4.5 Propeller (White)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/10-x4-5-propeller-white-set-of-2-pieces-1-cw-and-1-ccw-10-propeller"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:01 GMT",
+   "url": "http://www.readytoflyquads.com/10-x4-5-propeller-white-set-of-2-pieces-1-cw-and-1-ccw-10-propeller"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

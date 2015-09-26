@@ -1,5 +1,7 @@
 {
- "category": "blackbox",
+ "categories": [
+  "blackbox"
+ ],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "SD Data Logger",
@@ -9,9 +11,16 @@
   "manufacturer": [
    "http://www.readytoflyquads.com/gps-sd-data-logger"
   ],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/gps-sd-data-logger"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:00 GMT",
+   "url": "http://www.readytoflyquads.com/gps-sd-data-logger"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

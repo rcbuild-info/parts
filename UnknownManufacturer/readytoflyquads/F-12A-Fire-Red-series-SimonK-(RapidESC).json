@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F-12A Fire Red series SimonK-(RapidESC)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/readytoflyv-f-12a-fire-red-12-amp-rapidesc-simonk"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:06 GMT",
+   "url": "http://www.readytoflyquads.com/readytoflyv-f-12a-fire-red-12-amp-rapidesc-simonk"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

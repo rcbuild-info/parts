@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RTFPIXEL STICK - 8X RGB LEDS - WS2812",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtfpixel-stick-8x-rgb-leds"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:18 GMT",
+   "url": "http://www.readytoflyquads.com/rtfpixel-stick-8x-rgb-leds"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

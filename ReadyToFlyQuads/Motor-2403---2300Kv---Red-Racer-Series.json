@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "Motor 2403 - 2300Kv - Red Racer Series",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-2403-motor-2300kv-red-racer-series"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:13 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-2403-motor-2300kv-red-racer-series"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

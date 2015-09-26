@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV250 Leg Landing Gear (Black) (2pack)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/fpv250-leg-landing-gear-black"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:20 GMT",
+   "url": "http://www.readytoflyquads.com/fpv250-leg-landing-gear-black"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FLIP FPV PRO Gimbal set",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/flip-fpv-pro-gimbal-set"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:11 GMT",
+   "url": "http://www.readytoflyquads.com/flip-fpv-pro-gimbal-set"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

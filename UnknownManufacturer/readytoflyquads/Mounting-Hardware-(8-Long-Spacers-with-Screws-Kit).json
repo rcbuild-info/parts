@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mounting Hardware (8 Long Spacers with Screws Kit)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/mounting-hardware-8-long-spacers-with-screws-kit"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:19 GMT",
+   "url": "http://www.readytoflyquads.com/mounting-hardware-8-long-spacers-with-screws-kit"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

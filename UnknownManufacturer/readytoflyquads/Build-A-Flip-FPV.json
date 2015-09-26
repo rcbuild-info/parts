@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Build A Flip FPV",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/build-a-flip-fpv-v2"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$109.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:50 GMT",
+   "url": "http://www.readytoflyquads.com/build-a-flip-fpv-v2"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

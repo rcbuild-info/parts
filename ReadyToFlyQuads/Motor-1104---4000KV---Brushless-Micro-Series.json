@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "Motor 1104 - 4000KV - Brushless Micro Series",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf1104-brushless-micro-motors-kv4000"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:16 GMT",
+   "url": "http://www.readytoflyquads.com/rtf1104-brushless-micro-motors-kv4000"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

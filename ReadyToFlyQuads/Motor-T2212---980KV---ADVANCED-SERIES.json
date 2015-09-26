@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "Motor T2212 - 980KV - ADVANCED SERIES",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/t2212-980kv-rtf-motor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$17.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:48 GMT",
+   "url": "http://www.readytoflyquads.com/t2212-980kv-rtf-motor"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

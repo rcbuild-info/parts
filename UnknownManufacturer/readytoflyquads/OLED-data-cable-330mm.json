@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "OLED data cable 330mm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/oled-serial-cable-330mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:37 GMT",
+   "url": "http://www.readytoflyquads.com/oled-serial-cable-330mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

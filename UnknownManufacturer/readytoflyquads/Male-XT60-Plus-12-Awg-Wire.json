@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Male XT60 Plus 12 Awg Wire",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/xt60-female-plug-plus-xt60-12-awg"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:15 GMT",
+   "url": "http://www.readytoflyquads.com/xt60-female-plug-plus-xt60-12-awg"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

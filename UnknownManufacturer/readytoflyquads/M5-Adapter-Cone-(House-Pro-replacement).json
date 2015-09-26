@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M5 Adapter Cone (House Pro replacement)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/m5-adapter-cone-house-pro-replacement"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:11 GMT",
+   "url": "http://www.readytoflyquads.com/m5-adapter-cone-house-pro-replacement"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

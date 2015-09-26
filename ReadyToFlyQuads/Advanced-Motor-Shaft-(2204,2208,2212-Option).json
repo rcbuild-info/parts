@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "Advanced Motor Shaft (2204,2208,2212 Option)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-advanced-motor-shaft-2204-2208-2212-option"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:21 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-advanced-motor-shaft-2204-2208-2212-option"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

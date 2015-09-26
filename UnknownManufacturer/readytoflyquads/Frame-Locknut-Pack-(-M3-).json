@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Frame Locknut Pack ( M3 )",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/locknut-pack-m3"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:18 GMT",
+   "url": "http://www.readytoflyquads.com/locknut-pack-m3"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

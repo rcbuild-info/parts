@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "uBlox M8N GPS GLONASS W/ Mounting backplane and Compass",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/ublox-m8n-gps-w-55x45mm-mounting-backplane-and-compass"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$33.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:29 GMT",
+   "url": "http://www.readytoflyquads.com/ublox-m8n-gps-w-55x45mm-mounting-backplane-and-compass"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Programmable Motor LED Ring/ Motor RTFPIXEL Circle - 16X RGB LEDS - WS2812",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/programmable-motor-led-ring-motor-rtfpixel-circle-x-rgb-leds-ws2812"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:16 GMT",
+   "url": "http://www.readytoflyquads.com/programmable-motor-led-ring-motor-rtfpixel-circle-x-rgb-leds-ws2812"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

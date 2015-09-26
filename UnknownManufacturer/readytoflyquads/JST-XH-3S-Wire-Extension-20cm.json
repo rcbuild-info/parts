@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JST-XH 3S Wire Extension 20cm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/jst-xh-3s-wire-extension-20cm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:28 GMT",
+   "url": "http://www.readytoflyquads.com/jst-xh-3s-wire-extension-20cm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

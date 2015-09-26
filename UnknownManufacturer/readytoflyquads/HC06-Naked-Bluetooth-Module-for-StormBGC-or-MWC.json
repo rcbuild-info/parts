@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HC06 Naked Bluetooth Module for StormBGC or MWC",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/hc06-naked-bluetooth-module-for-stormbgc-or-mwc"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:08 GMT",
+   "url": "http://www.readytoflyquads.com/hc06-naked-bluetooth-module-for-stormbgc-or-mwc"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

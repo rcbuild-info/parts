@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mounting Hardware (4X Short Spacer Kit)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/mounting-hardware-4x-short-spacer-kit"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:18 GMT",
+   "url": "http://www.readytoflyquads.com/mounting-hardware-4x-short-spacer-kit"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

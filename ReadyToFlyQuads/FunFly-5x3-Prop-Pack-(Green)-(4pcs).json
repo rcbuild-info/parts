@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "FunFly 5x3 Prop Pack (Green) (4pcs)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/funfly-composite-prop-green"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:13 GMT",
+   "url": "http://www.readytoflyquads.com/funfly-composite-prop-green"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

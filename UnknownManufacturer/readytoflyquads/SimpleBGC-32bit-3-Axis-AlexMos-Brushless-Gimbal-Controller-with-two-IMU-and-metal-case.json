@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SimpleBGC 32bit 3 Axis AlexMos Brushless Gimbal Controller with two IMU and metal case",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/simplebgc-32bit-3-axis-alexmos-brushless-gimbal-controller-with-two-imu-and-metal-case"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$95.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:48 GMT",
+   "url": "http://www.readytoflyquads.com/simplebgc-32bit-3-axis-alexmos-brushless-gimbal-controller-with-two-imu-and-metal-case"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

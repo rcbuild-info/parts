@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XT60 Male to Deans Female Adapter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/male-xt60-female-t-connector"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:17 GMT",
+   "url": "http://www.readytoflyquads.com/male-xt60-female-t-connector"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

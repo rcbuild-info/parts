@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "uBlox 6M/6H cable for RTFHawk to GPS with serial and I2c",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/ublox-cable-for-hawk-to-gps"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:37 GMT",
+   "url": "http://www.readytoflyquads.com/ublox-cable-for-hawk-to-gps"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

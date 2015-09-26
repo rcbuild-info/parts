@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "Motor 2204 - 1400KV - Advanced Series",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-mini-motor-x2204-1400kv"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:48 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-mini-motor-x2204-1400kv"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

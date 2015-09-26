@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MiniReadytoFlyer / Mini APM 2.6 V3.1",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/minireadytoflyer-2-6-v3-1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$35.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:24:58 GMT",
+   "url": "http://www.readytoflyquads.com/minireadytoflyer-2-6-v3-1"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

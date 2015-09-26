@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "buzzer",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/buzzer"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:20 GMT",
+   "url": "http://www.readytoflyquads.com/buzzer"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

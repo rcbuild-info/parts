@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Unique White APM 2.X case (stright pin)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/unique-white-apm-2-x-case-sight-pin"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:08 GMT",
+   "url": "http://www.readytoflyquads.com/unique-white-apm-2-x-case-sight-pin"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

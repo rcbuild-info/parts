@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Arduino Pro Mini 328p 16Mhz",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/arduino-pro-mini-328p-16mhz"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:04 GMT",
+   "url": "http://www.readytoflyquads.com/arduino-pro-mini-328p-16mhz"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

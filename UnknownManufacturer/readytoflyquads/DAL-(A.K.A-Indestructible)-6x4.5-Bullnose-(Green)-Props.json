@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DAL (A.K.A Indestructible) 6x4.5 Bullnose (Green) Props",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/dal-a-k-a-indestructible-6x4-5-bullnose-green-props"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:37 GMT",
+   "url": "http://www.readytoflyquads.com/dal-a-k-a-indestructible-6x4-5-bullnose-green-props"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

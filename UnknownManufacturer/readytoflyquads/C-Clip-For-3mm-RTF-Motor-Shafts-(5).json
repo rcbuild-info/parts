@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "C-Clip For 3mm RTF Motor Shafts (5)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/c-clip-for-3mm-rtf-motor-shafts-5"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:34 GMT",
+   "url": "http://www.readytoflyquads.com/c-clip-for-3mm-rtf-motor-shafts-5"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

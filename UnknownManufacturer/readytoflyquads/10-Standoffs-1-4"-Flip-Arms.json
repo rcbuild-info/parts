@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10 Standoffs 1/4\" Flip Arms",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/10-standoffs-1-4-flip-arms"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:41 GMT",
+   "url": "http://www.readytoflyquads.com/10-standoffs-1-4-flip-arms"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

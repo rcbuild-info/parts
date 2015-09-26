@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Ultra High Gain GPS Active Extra thick Ceramic Antenna",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/ultra-high-gain-gps-active-ceramic-patch-antenna-45x45-3-5mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$17.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:26 GMT",
+   "url": "http://www.readytoflyquads.com/ultra-high-gain-gps-active-ceramic-patch-antenna-45x45-3-5mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

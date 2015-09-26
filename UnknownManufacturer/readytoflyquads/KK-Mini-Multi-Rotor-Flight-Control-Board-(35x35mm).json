@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "KK Mini Multi-Rotor Flight Control Board (35x35mm)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/kk-mini-multi-rotor-flight-control-board-36x36mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$22.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:26 GMT",
+   "url": "http://www.readytoflyquads.com/kk-mini-multi-rotor-flight-control-board-36x36mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "18A Spider Lite Series ESC BLHELI-(ONESHOT)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/spider-lite-18a-esc-blheli-oneshot"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:27 GMT",
+   "url": "http://www.readytoflyquads.com/spider-lite-18a-esc-blheli-oneshot"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

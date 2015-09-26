@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Bare Active Antenna GPS 6m Replacement (25x25mm)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/bare-active-antenna-gps-6m-replacement-25x25mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:25 GMT",
+   "url": "http://www.readytoflyquads.com/bare-active-antenna-gps-6m-replacement-25x25mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

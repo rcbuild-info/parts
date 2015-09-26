@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "(Build-a-Cable) molex to dupont",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/build-a-cable-molex-to-dupont"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:33 GMT",
+   "url": "http://www.readytoflyquads.com/build-a-cable-molex-to-dupont"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "esc",
+ "categories": [
+  "esc"
+ ],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "HugESC 12Amp",
@@ -7,9 +9,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-hugesc-12amp-bl-heli"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:00 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-hugesc-12amp"
+  },
+  {
+   "price": "$7.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:52 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-hugesc-12amp-bl-heli"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

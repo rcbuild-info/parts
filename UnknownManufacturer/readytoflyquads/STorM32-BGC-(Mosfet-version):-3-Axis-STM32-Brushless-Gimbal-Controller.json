@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "STorM32 BGC (Mosfet version): 3-Axis STM32 Brushless Gimbal Controller",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/storm32-bgc-3-axis-stm32-brushless-gimbal-controller-mosfet"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$16.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:46 GMT",
+   "url": "http://www.readytoflyquads.com/storm32-bgc-3-axis-stm32-brushless-gimbal-controller-mosfet"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GPS Case (45x45mm Format)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/gps-case-45x45mm-format"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:22 GMT",
+   "url": "http://www.readytoflyquads.com/gps-case-45x45mm-format"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

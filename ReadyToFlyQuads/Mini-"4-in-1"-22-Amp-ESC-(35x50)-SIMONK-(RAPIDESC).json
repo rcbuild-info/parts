@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "Mini \"4-in-1\" 22-Amp ESC (35x50) SIMONK-(RAPIDESC)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-mini-4-in-1-22-amp-35x50"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$37.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:28 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-mini-4-in-1-22-amp-35x50"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

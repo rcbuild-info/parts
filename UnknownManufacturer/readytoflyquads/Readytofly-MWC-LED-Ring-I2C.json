@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Readytofly MWC LED Ring I2C",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/readytofly-mwc-led-ring-i2c"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:24:58 GMT",
+   "url": "http://www.readytoflyquads.com/readytofly-mwc-led-ring-i2c"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

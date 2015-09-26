@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HT-450 Quad RTF with MultiWii",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/witespy-quad-advanced-edition"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$349.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:28:05 GMT",
+   "url": "http://www.readytoflyquads.com/witespy-quad-advanced-edition"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

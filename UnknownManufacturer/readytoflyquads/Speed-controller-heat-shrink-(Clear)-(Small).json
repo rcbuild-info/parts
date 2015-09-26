@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Speed controller heat shrink (Clear) (Small)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/speed-controller-heat-shrink-clear-small"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.15",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:15 GMT",
+   "url": "http://www.readytoflyquads.com/speed-controller-heat-shrink-clear-small"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

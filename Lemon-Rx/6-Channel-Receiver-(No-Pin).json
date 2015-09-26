@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lemon Rx",
  "name": "6-Channel Receiver (No Pin)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/lemon-dsm2-6-channel-receiver-no-pin"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:53 GMT",
+   "url": "http://www.readytoflyquads.com/lemon-dsm2-6-channel-receiver-no-pin"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "Mini Brushless Gimbal Controller",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-mini-brushless-gimbal-controller"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$26.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:28 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-mini-brushless-gimbal-controller"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

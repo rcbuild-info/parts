@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "OPQ RTS (Ready to Fly - One Piece Quad - Ready to Ship)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-poq-rts-ready-to-fly-one-piece-quad-ready-to-ship"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$235.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:28:05 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-poq-rts-ready-to-fly-one-piece-quad-ready-to-ship"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

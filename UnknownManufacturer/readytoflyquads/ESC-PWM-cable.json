@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ESC PWM cable",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/esc-pwm-cable"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:17 GMT",
+   "url": "http://www.readytoflyquads.com/esc-pwm-cable"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

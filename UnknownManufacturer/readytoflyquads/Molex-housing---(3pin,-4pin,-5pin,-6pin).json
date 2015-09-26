@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Molex housing   (3pin, 4pin, 5pin, 6pin)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/molex-rtflyer-hawk-houseing"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:54 GMT",
+   "url": "http://www.readytoflyquads.com/molex-rtflyer-hawk-houseing"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

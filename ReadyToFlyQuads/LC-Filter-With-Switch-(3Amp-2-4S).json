@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "LC-Filter With Switch (3Amp 2-4S)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-lc-filter-3amp-2-4s-switchable"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:23 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-lc-filter-3amp-2-4s-switchable"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

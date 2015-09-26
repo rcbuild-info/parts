@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MegaEZ 3.0 serial cable",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/megaez-3-serial-cable"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:42 GMT",
+   "url": "http://www.readytoflyquads.com/megaez-3-serial-cable"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

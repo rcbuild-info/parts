@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Quad Spot light",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/quad-spot-light"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:12 GMT",
+   "url": "http://www.readytoflyquads.com/quad-spot-light"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

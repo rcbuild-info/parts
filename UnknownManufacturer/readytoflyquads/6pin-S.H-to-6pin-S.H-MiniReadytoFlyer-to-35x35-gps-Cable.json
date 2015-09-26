@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "6pin S.H to 6pin S.H MiniReadytoFlyer to 35x35 gps Cable",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/6pin-s-h-to-6pin-s-h-minireadytoflyer-to-35x35-gps"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:31 GMT",
+   "url": "http://www.readytoflyquads.com/6pin-s-h-to-6pin-s-h-minireadytoflyer-to-35x35-gps"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "Motor 2004 - 2280Kv -Little Red Racer Series",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-2004-motor-2280kv-little-red-racer-series"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:18 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-2004-motor-2280kv-little-red-racer-series"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

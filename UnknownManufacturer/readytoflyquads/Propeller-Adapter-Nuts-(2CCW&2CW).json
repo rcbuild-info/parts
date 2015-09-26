@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Propeller Adapter Nuts (2CCW&2CW)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/propeller-adapter-nuts-2ccw-2cw"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:33 GMT",
+   "url": "http://www.readytoflyquads.com/propeller-adapter-nuts-2ccw-2cw"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

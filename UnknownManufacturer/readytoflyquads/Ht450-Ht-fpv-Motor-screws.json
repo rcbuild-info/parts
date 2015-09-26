@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Ht450/Ht-fpv Motor screws",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/ht450-ht-fpv-motor-screws"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:43 GMT",
+   "url": "http://www.readytoflyquads.com/ht450-ht-fpv-motor-screws"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

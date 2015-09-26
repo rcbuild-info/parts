@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Balance Plug Saver (3s)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/balance-plug-saver-3s"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:26 GMT",
+   "url": "http://www.readytoflyquads.com/balance-plug-saver-3s"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

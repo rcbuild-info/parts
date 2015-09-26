@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Heat Shrink Tubing (2.0/3.0/3.5/4.0/.5.0) (Black/Blue/Red)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/3-0mm-heat-shrink-tube-black"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:14 GMT",
+   "url": "http://www.readytoflyquads.com/3-0mm-heat-shrink-tube-black"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

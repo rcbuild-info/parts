@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "B-12A Ice Blue series BLHeli-(OneShot)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/readytofly-12-amp-blheli"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:53 GMT",
+   "url": "http://www.readytoflyquads.com/readytofly-12-amp-blheli"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

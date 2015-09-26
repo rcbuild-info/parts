@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "ESC-EZ  to MEGAEZ Board (150mm)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-esc-ez-to-mega-cable-150mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:33 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-esc-ez-to-mega-cable-150mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

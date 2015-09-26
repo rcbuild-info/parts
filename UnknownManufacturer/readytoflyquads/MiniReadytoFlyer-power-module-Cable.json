@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MiniReadytoFlyer power module Cable",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/minireadytoflyer-power-module-cable"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:29 GMT",
+   "url": "http://www.readytoflyquads.com/minireadytoflyer-power-module-cable"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

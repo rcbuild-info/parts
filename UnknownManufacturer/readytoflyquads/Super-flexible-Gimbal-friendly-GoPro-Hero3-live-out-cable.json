@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Super flexible Gimbal-friendly GoPro Hero3 live-out cable",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/super-flexible-gimbal-friendly-hero3-live-out-cable"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:24:52 GMT",
+   "url": "http://www.readytoflyquads.com/super-flexible-gimbal-friendly-hero3-live-out-cable"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

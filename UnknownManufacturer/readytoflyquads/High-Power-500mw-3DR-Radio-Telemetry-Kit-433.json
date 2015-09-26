@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "High Power 500mw 3DR Radio Telemetry Kit 433",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/3dr-radio-telemetry-kit-915mhz-532"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$45.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:28 GMT",
+   "url": "http://www.readytoflyquads.com/3dr-radio-telemetry-kit-915mhz-532"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

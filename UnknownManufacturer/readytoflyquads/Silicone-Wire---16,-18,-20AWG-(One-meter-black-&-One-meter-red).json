@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Silicone Wire - 16, 18, 20AWG (One meter black & One meter red)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/silicone-wire-16-18-20awg-one-meter-black-one-meter-red"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.39",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:05 GMT",
+   "url": "http://www.readytoflyquads.com/silicone-wire-16-18-20awg-one-meter-black-one-meter-red"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

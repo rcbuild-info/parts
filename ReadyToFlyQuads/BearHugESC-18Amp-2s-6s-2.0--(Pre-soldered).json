@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "BearHugESC 18Amp 2s-6s 2.0  (Pre-soldered)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-hug-bearhugesc-18amp-presoldered"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:55 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-hug-bearhugesc-18amp-presoldered"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

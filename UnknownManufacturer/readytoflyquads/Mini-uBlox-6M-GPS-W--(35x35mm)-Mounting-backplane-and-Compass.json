@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini uBlox 6M GPS W/ (35x35mm) Mounting backplane and Compass",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/mini-ublox-6m-gps-w-35x35mm-mounting-backplane-and-compass"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$21.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:25 GMT",
+   "url": "http://www.readytoflyquads.com/mini-ublox-6m-gps-w-35x35mm-mounting-backplane-and-compass"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Wire Harness XT60 to 6 Jsts",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/wire-harness-xt60-to-6-jsts"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:20 GMT",
+   "url": "http://www.readytoflyquads.com/wire-harness-xt60-to-6-jsts"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

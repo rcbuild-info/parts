@@ -13,9 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.readytoflyquads.com/hq-prop-8x45-green-carbon-composite-prop"
-  },
-  {
    "price": "$4.40",
    "quantity": 2,
    "stock_state": "in_stock",
@@ -69,6 +66,18 @@
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 05:02:22 GMT",
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=60"
+  },
+  {
+   "price": "$4.38",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:22 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-8x45-green-carbon-composite-prop"
+  },
+  {
+   "price": "$4.38",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:26 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-8x45-orange-carbon-composite-prop"
   }
  ],
  "version": 2,

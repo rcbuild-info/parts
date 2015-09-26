@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GPS (45X45) 6M/6H/M8N Battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/gps-45x45-6m-6h-m8n-battery"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:52 GMT",
+   "url": "http://www.readytoflyquads.com/gps-45x45-6m-6h-m8n-battery"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "Opera Quad Frame",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-opera-quad"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$28.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:03 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-opera-quad"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

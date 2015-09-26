@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Break Away Headers - Right Angle 3x40",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/break-away-headers-right-angle-3x40"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:48 GMT",
+   "url": "http://www.readytoflyquads.com/break-away-headers-right-angle-3x40"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

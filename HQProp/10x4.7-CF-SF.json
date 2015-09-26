@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "10x4.7 Slow Flyer Carbon Fiber Composite",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/hq-prop-10x4-7-sf-carbon-composite-prop"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.80",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:59 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-10x4-7-sf-carbon-composite-prop"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

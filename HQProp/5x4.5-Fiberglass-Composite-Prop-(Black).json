@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "5x4.5 Fiberglass Composite Prop (Black)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/hq-prop-5x4-5-fiberglass-black-composite-prop"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.38",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:24 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-5x4-5-fiberglass-black-composite-prop"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

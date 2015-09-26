@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "T3110-700KV RTF Motor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/t3110-700kv-rtf-motor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$26.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:46 GMT",
+   "url": "http://www.readytoflyquads.com/t3110-700kv-rtf-motor"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JST Extension Cable 10 CM",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/jst-extension-cable-10-cm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:13 GMT",
+   "url": "http://www.readytoflyquads.com/jst-extension-cable-10-cm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

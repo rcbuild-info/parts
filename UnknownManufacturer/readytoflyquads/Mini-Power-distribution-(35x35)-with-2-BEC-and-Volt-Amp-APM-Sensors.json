@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini Power distribution (35x35) with 2 BEC and Volt/Amp APM Sensors",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/mini-power-distribution-board-with-2-bec-apmsensor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:42 GMT",
+   "url": "http://www.readytoflyquads.com/mini-power-distribution-board-with-2-bec-apmsensor"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mega3EZ/PPM radio receiver cable (EXTRA long 355mm)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/mega3ez-ppm-radio-receiver-cable-extra-long-355mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:32 GMT",
+   "url": "http://www.readytoflyquads.com/mega3ez-ppm-radio-receiver-cable-extra-long-355mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

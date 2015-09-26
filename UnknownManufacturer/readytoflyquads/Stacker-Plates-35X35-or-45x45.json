@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Stacker Plates 35X35 or 45x45",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/stacker-plates-35x35-or-45x45"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:45 GMT",
+   "url": "http://www.readytoflyquads.com/stacker-plates-35x35-or-45x45"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

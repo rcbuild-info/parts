@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "3x2.5'' (3020) Mini Propeller (8 Props/4 Pair) (Orange)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-3x2-5-3020-mini-propeller-8-props-4-pair-orange"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.39",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:35 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-3x2-5-3020-mini-propeller-8-props-4-pair-orange"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

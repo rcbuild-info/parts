@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HT-FPV LOWER CENTER PLATE BLACK",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/ht-fpv-lower-center-plate-black"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$20.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:49 GMT",
+   "url": "http://www.readytoflyquads.com/ht-fpv-lower-center-plate-black"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

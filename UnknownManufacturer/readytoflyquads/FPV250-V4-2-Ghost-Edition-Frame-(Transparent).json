@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV250 V4-2 Ghost Edition Frame (Transparent)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/fpv250-v4-ghost-edition-frame-transparent"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$16.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:18 GMT",
+   "url": "http://www.readytoflyquads.com/fpv250-v4-ghost-edition-frame-transparent"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ReadyToFlyQuads",
  "name": "\"phantom\" Opera ESC 20Amp",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/rtf-phantom-opera-esc-20amp"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:24:59 GMT",
+   "url": "http://www.readytoflyquads.com/rtf-phantom-opera-esc-20amp"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

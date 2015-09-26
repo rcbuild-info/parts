@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Flip Mega 3.5",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/flip-mega-3-5"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$30.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:57 GMT",
+   "url": "http://www.readytoflyquads.com/flip-mega-3-5"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

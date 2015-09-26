@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HT-450 Motor - MT KV+ Series",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/ht-450-motor-mt-series-vk"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$27.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:48 GMT",
+   "url": "http://www.readytoflyquads.com/ht-450-motor-mt-series-vk"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

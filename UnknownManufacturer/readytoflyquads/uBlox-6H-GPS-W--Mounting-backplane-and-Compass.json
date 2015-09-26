@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "uBlox 6H GPS W/ Mounting backplane and Compass",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/ublox-6h-gps-w-mounting-backplane-and-compass"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$45.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:24:56 GMT",
+   "url": "http://www.readytoflyquads.com/ublox-6h-gps-w-mounting-backplane-and-compass"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

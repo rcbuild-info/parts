@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "B-12A Ice Blue series OPTO-NO_BEC BLHeli-(OneShot)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/readytofl-opto-no-bec-12-amp-blheli-oneshot"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:56 GMT",
+   "url": "http://www.readytoflyquads.com/readytofl-opto-no-bec-12-amp-blheli-oneshot"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

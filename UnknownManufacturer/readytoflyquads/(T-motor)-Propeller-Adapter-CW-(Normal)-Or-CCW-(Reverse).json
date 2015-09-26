@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "(T-motor) Propeller Adapter CW (Normal) Or CCW (Reverse)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/t-motor-propeller-adapter-ccw-159"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:25:42 GMT",
+   "url": "http://www.readytoflyquads.com/t-motor-propeller-adapter-ccw-159"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

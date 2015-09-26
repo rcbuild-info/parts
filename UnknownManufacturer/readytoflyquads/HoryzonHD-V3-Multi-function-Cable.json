@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HoryzonHD V3 Multi-function Cable",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/horyzonhd-v3-multi-function-cable"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:15 GMT",
+   "url": "http://www.readytoflyquads.com/horyzonhd-v3-multi-function-cable"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

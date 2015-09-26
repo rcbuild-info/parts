@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DAL (A.K.A Indestructible) 4x4.5 Bullnose (Orange) Props",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readytoflyquads.com/dal-a-k-a-indestructible-4x4-5-bullnose-orange-props"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.79",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:39 GMT",
+   "url": "http://www.readytoflyquads.com/dal-a-k-a-indestructible-4x4-5-bullnose-orange-props"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
