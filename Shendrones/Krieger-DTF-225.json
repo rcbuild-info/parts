@@ -1,15 +1,29 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Shendrones",
  "name": "Krieger DTF 225",
  "replacement": [],
  "subpart": [],
  "urls": {
-  "manufacturer": ["http://www.shendrones.com/krieger"],
-  "related": [],
-  "store": [
-   "http://shendrones.myshopify.com/products/krieger-dtf-200-pre-order"
-  ]
- }
+  "manufacturer": [
+   "http://www.shendrones.com/krieger"
+  ],
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://shendrones.myshopify.com/products/krieger-dtf-200-pre-order"
+  },
+  {
+   "price": "$90.00",
+   "stock_state": "backordered",
+   "timestamp": "Sat, 26 Sep 2015 19:32:06 GMT",
+   "url": "http://shendrones.myshopify.com/products/krieger-dtf-200-pre-order?variant=6088796929"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

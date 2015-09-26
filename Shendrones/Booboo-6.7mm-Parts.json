@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Shendrones",
  "name": "Booboo 6.7mm Parts",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://shendrones.myshopify.com/products/booboo-6-7mm-parts"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$26.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 20:32:55 GMT",
+   "url": "http://shendrones.myshopify.com/products/booboo-6-7mm-parts"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

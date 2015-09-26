@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Shendrones",
  "name": "Tweaker Replacement Top Plate",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://shendrones.myshopify.com/products/tweaker-replacement-top-plate"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left!",
+   "timestamp": "Sat, 26 Sep 2015 20:32:53 GMT",
+   "url": "http://shendrones.myshopify.com/products/tweaker-replacement-top-plate"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

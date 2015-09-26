@@ -1,0 +1,33 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "Shendrones",
+ "name": "Krieger Replacement Parts 6\" arm",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "_example": true,
+   "description": "",
+   "location": "",
+   "price": "",
+   "quantity": 0,
+   "stock_quantity": "",
+   "stock_state": "",
+   "stock_text": "",
+   "timestamp": "",
+   "url": ""
+  },
+  {
+   "price": "$10.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 20:18:44 GMT",
+   "url": "http://shendrones.myshopify.com/products/krieger-replacement-arm?variant=6274448833"
+  }
+ ],
+ "version": 2,
+ "weight": ""
+}

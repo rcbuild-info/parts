@@ -18,14 +18,17 @@
  },
  "variants": [
   {
-   "url": "http://shendrones.myshopify.com/products/booboo"
-  },
-  {
    "price": "USD$80.00",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 05:02:32 GMT",
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=314"
+  },
+  {
+   "price": "$42.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 20:32:56 GMT",
+   "url": "http://shendrones.myshopify.com/products/booboo"
   }
  ],
  "version": 2,
