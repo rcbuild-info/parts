@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyzone",
  "name": "TS832 600mw video transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=291"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$45.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:00:27 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=291"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

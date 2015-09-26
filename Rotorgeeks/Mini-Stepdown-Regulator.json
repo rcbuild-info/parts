@@ -1,5 +1,7 @@
 {
- "category": "voltagereg",
+ "categories": [
+  "voltagereg"
+ ],
  "equivalent": [],
  "manufacturer": "Rotorgeeks",
  "name": "Mini Stepdown Regulator",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=288"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$80.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:01:58 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=288"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

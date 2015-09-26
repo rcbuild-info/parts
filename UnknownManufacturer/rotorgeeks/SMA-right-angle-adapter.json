@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SMA right angle adapter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=133"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$2.75",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:01:55 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=133"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

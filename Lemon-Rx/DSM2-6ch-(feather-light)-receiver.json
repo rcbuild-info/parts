@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lemon Rx",
  "name": "DSM2 6ch (feather light) receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=69"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$8.25",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:01:52 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=69"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "2212 1000kv",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=131"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$28.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:00:39 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=131"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

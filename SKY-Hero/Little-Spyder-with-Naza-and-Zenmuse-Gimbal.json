@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SKY-Hero",
  "name": "Little Spyder with Naza and Zenmuse Gimbal",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=242"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$1,099.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:02:38 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=242"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

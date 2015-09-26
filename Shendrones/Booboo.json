@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Shendrones",
  "name": "Booboo",
@@ -12,10 +14,20 @@
   "manufacturer": [
    "http://www.shendrones.com/booboo"
   ],
-  "related": [],
-  "store": [
-   "http://shendrones.myshopify.com/products/booboo",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=314"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://shendrones.myshopify.com/products/booboo"
+  },
+  {
+   "price": "USD$80.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:02:32 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=314"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

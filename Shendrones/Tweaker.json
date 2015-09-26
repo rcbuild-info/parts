@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Shendrones",
  "name": "Tweaker",
@@ -12,10 +14,20 @@
   "manufacturer": [
    "http://www.shendrones.com/tweaker"
   ],
-  "related": [],
-  "store": [
-   "http://shendrones.myshopify.com/products/tweaker-pre-order",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=321"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://shendrones.myshopify.com/products/tweaker-pre-order"
+  },
+  {
+   "price": "USD$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:02:33 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=321"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

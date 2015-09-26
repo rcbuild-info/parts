@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Pat's Mini H Quad",
  "name": "Minion PDB",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=253"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$19.00",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sat, 26 Sep 2015 05:02:30 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=253"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

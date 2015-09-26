@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Rotorgeeks",
  "name": "30A BLHeli ESC V2 - Quadpack",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=159"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$60.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out Of Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:01:46 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=159"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Shendrones",
  "name": "Krieger DTF 200",
@@ -9,10 +11,20 @@
   "manufacturer": [
    "http://www.shendrones.com/krieger"
   ],
-  "related": [],
-  "store": [
-   "http://shendrones.myshopify.com/products/krieger-dtf-200-pre-order",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=326"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://shendrones.myshopify.com/products/krieger-dtf-200-pre-order"
+  },
+  {
+   "price": "USD$90.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:02:33 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=326"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

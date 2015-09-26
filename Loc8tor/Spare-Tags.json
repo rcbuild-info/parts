@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Loc8tor",
  "name": "Spare Tags",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=269"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$45.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:01:33 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=269"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

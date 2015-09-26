@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Rotorgeeks",
  "name": "RG20 ESC Naked",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=315"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$17.00",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sat, 26 Sep 2015 05:01:43 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=315"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

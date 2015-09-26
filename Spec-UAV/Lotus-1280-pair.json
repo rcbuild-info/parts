@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Spec UAV",
  "name": "Lotus 1280 pair",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=180"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$75.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:01:00 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=180"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -15,9 +15,6 @@
  },
  "variants": [
   {
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=227"
-  },
-  {
    "url": "http://www.multirotorsuperstore.com/motors/motors-by-size/22xx/cobra-2208-2000kv-brushless-motor.html"
   },
   {
@@ -36,6 +33,20 @@
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:39:36 GMT",
    "url": "http://www.getfpv.com/cobra-cm-2208-2000kv-motor.html"
+  },
+  {
+   "price": "USD$26.99",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sat, 26 Sep 2015 05:00:40 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=275"
+  },
+  {
+   "price": "USD$80.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:00:40 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=227"
   }
  ],
  "version": 2,

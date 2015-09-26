@@ -1,0 +1,34 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "Rotorgeeks",
+ "name": "hat",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "_example": true,
+   "description": "",
+   "location": "",
+   "price": "",
+   "quantity": 0,
+   "stock_quantity": "",
+   "stock_state": "",
+   "stock_text": "",
+   "timestamp": "",
+   "url": ""
+  },
+  {
+   "price": "USD$9.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:01:28 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=330"
+  }
+ ],
+ "version": 2,
+ "weight": ""
+}

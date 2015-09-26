@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lemon Rx",
  "name": "DSMX 10ch receiver w/failsafe + satellite",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=56"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$30.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:01:52 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=56"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

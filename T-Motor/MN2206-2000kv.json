@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN2206 2000kv",
@@ -7,14 +9,32 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2498",
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-Navigator-Series_8",
-   "http://flyduino.net/Brushless-Motor-Multicopter-T-Motor-Navigator-MN2206-2000KV",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=292",
-   "http://www.dronematters.com/power-system/brushless-motors/tiger-motor-mn2206-2000kv.html",
-   "https://www.multirotorparts.com/motors/tiger-motor/t-motor-mn2206-2000kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2498"
+  },
+  {
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-Navigator-Series_8"
+  },
+  {
+   "url": "http://flyduino.net/Brushless-Motor-Multicopter-T-Motor-Navigator-MN2206-2000KV"
+  },
+  {
+   "url": "http://www.dronematters.com/power-system/brushless-motors/tiger-motor-mn2206-2000kv.html"
+  },
+  {
+   "url": "https://www.multirotorparts.com/motors/tiger-motor/t-motor-mn2206-2000kv.html"
+  },
+  {
+   "price": "USD$25.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:00:29 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=292"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

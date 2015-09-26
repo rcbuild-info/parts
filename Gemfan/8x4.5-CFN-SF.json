@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "8x4.5 Slow Flyer Carbon Fiber Nylon",
@@ -7,9 +9,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=110"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:02:23 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=110"
+  },
+  {
+   "price": "USD$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:02:23 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=107"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

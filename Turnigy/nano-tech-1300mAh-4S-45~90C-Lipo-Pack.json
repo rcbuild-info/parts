@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 1300mAh 4S 45~90C Lipo Pack",
@@ -7,16 +9,38 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60066",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59124",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35542",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34829",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32727",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20752",
-   "http://www.hobbyking.com/hobbyking/store/__18208__Turnigy_nano_tech_1300mAh_4S_45_90C_Lipo_Pack.html",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=174"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60066"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59124"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35542"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34829"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32727"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20752"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__18208__Turnigy_nano_tech_1300mAh_4S_45_90C_Lipo_Pack.html"
+  },
+  {
+   "price": "USD$26.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out Of Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:02:05 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=174"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

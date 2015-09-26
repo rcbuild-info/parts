@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3-channel FPV Video Switcher",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=177"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$8.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out Of Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:01:05 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=177"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

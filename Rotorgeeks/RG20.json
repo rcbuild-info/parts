@@ -1,5 +1,7 @@
 {
- "category": "esc",
+ "categories": [
+  "esc"
+ ],
  "equivalent": [],
  "manufacturer": "Rotorgeeks",
  "name": "RG20",
@@ -7,9 +9,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=308"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$17.00",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sat, 26 Sep 2015 05:01:44 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=307"
+  },
+  {
+   "price": "USD$80.00",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sat, 26 Sep 2015 05:01:43 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=308"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

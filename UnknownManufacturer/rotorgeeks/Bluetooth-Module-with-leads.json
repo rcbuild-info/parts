@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Bluetooth Module with leads",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=165"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$11.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out Of Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:01:57 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=165"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

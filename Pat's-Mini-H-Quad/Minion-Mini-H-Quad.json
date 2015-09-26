@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Pat's Mini H Quad",
  "name": "Minion Mini H-Quad",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=90"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$125.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:02:32 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=90"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

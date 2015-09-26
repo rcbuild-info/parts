@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "6x3.5",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=325"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$3.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:01:16 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=325"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -13,9 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=301"
-  },
-  {
    "url": "http://www.multirotorsuperstore.com/batteries/tattu-4s-1800mah-45c-lipo-battery.html"
   },
   {
@@ -24,6 +21,13 @@
    "stock_text": "In stock",
    "timestamp": "Sat, 26 Sep 2015 02:42:39 GMT",
    "url": "http://www.multirotorsuperstore.com/tattu-4s-1800mah-45c-lipo-battery.html"
+  },
+  {
+   "price": "USD$36.09",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:02:03 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=301"
   }
  ],
  "version": 2,

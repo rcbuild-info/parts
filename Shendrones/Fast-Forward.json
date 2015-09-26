@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Shendrones",
  "name": "Fast Forward",
@@ -7,10 +9,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://shendrones.myshopify.com/products/fast-forward",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=313"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://shendrones.myshopify.com/products/fast-forward"
+  },
+  {
+   "price": "USD$80.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:02:31 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=313"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

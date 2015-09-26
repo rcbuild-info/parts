@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "TrueRC",
  "name": "5.8 Crosshair antenna",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=263"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$70.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:01:01 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=263"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "D4R-II Receiver",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=574",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=204"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=574"
+  },
+  {
+   "price": "USD$27.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 05:01:37 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=204"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
