@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X22 Replacement Prop Adapter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/parts/476-sunnysky-x22-replacement-prop-adapter-2212-2216-2204-2206.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:43:11 GMT",
+   "url": "http://multirotormania.com/parts/476-sunnysky-x22-replacement-prop-adapter-2212-2216-2204-2206.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

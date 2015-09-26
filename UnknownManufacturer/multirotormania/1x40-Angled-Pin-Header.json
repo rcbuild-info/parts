@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1x40 Angled Pin Header",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/connectors-and-pins/247-1x40-pin-header-90-degree.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:55 GMT",
+   "url": "http://multirotormania.com/connectors-and-pins/247-1x40-pin-header-90-degree.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

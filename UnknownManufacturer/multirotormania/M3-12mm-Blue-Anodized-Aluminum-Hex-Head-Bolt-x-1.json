@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 12mm Blue Anodized Aluminum Hex Head Bolt x 1",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/anodized-hardware/466-m3-12mm-blue-anodized-aluminum-hex-head-bolt-x-1.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:37:50 GMT",
+   "url": "http://multirotormania.com/anodized-hardware/466-m3-12mm-blue-anodized-aluminum-hex-head-bolt-x-1.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "BOS350 - 350mw 32 channel 5.8ghz Video Transmitter - RP-SMA",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/transmitters/1054-boscam-bos350-32-channel-58ghz-350mw-mini-video-transmitter-rp-sma.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$43.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:58 GMT",
+   "url": "http://multirotormania.com/transmitters/1054-boscam-bos350-32-channel-58ghz-350mw-mini-video-transmitter-rp-sma.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

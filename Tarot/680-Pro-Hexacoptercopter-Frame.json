@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "680 Pro Hexacoptercopter Frame",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/hexacopter/829-tarot-680-pro-hexacoptercopter-frame-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$137.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:50 GMT",
+   "url": "http://multirotormania.com/hexacopter/829-tarot-680-pro-hexacoptercopter-frame-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

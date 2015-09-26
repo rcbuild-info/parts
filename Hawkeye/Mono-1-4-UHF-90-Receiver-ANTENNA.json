@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hawkeye",
  "name": "Mono 1/4 UHF 90 Receiver ANTENNA",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/antennas/963-hawkeye-mono-14-uhf-90-receiver-antenna.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.50",
+   "timestamp": "Sat, 26 Sep 2015 22:36:35 GMT",
+   "url": "http://multirotormania.com/antennas/963-hawkeye-mono-14-uhf-90-receiver-antenna.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "4x20A 2-4S ESC",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/esc/1089-mrm-4x20a-2-4s-esc-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$42.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:26 GMT",
+   "url": "http://multirotormania.com/esc/1089-mrm-4x20a-2-4s-esc-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

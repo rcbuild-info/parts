@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "USB Linker for BLHeli ESCs w/SimonK Bootloader",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/esc/1122-dys-usb-linker-for-blheli-escs-wsimonk-bootloader.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:46 GMT",
+   "url": "http://multirotormania.com/esc/1122-dys-usb-linker-for-blheli-escs-wsimonk-bootloader.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

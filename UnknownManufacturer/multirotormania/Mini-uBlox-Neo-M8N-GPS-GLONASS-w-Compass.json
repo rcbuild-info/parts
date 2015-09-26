@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini uBlox Neo-M8N GPS GLONASS w/Compass",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/gps-modules/766-mini-ublox-neo-m8n-gps-glonass-wcompass.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$39.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:12 GMT",
+   "url": "http://multirotormania.com/gps-modules/766-mini-ublox-neo-m8n-gps-glonass-wcompass.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

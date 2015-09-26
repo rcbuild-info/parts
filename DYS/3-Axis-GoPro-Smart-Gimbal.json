@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "3 Axis GoPro Smart Gimbal",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/gimbals/1004-dys-3-axis-gopro-smart-gimbal.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$190.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:47 GMT",
+   "url": "http://multirotormania.com/gimbals/1004-dys-3-axis-gopro-smart-gimbal.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

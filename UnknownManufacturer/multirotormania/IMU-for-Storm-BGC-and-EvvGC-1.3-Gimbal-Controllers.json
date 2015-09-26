@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "IMU for Storm BGC and EvvGC 1.3 Gimbal Controllers",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/gimbals/367-imu-for-storm-bgc-and-evvgc-13-gimbal-controllers.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:50 GMT",
+   "url": "http://multirotormania.com/gimbals/367-imu-for-storm-bgc-and-evvgc-13-gimbal-controllers.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

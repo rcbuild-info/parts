@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "2 Piece GPS Stand",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/gps-mounts-and-cases/898-tarot-2-piece-gps-stand-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:49 GMT",
+   "url": "http://multirotormania.com/gps-mounts-and-cases/898-tarot-2-piece-gps-stand-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

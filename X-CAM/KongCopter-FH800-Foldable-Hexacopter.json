@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "X-CAM",
  "name": "KongCopter FH800 Foldable Hexacopter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/hexacopter/1063-x-cam-kongcopter-fh800-foldable-hexacopter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$210.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:10 GMT",
+   "url": "http://multirotormania.com/hexacopter/1063-x-cam-kongcopter-fh800-foldable-hexacopter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

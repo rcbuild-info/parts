@@ -1,5 +1,7 @@
 {
- "category": "esc",
+ "categories": [
+  "esc"
+ ],
  "equivalent": [
   "Favorite/LittleBee-20A"
  ],
@@ -11,9 +13,16 @@
   "manufacturer": [],
   "related": [
    "http://www.rcgroups.com/forums/showpost.php?p=32457321&postcount=5096"
-  ],
-  "store": [
-   "http://multirotormania.com/20-amp/1110-mrm-zeus-20-amp-esc.html"
   ]
- }
+ },
+ "variants": [
+  {
+   "price": "$16.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:35 GMT",
+   "url": "http://multirotormania.com/20-amp/1110-mrm-zeus-20-amp-esc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

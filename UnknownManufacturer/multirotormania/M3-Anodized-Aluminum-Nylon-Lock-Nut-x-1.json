@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 Anodized Aluminum Nylon Lock Nut x 1",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/anodized-hardware/471-m3-blue-anodized-aluminum-nylon-lock-nut-x-1.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://multirotormania.com/anodized-hardware/471-m3-blue-anodized-aluminum-nylon-lock-nut-x-1.html"
+  },
+  {
+   "price": "$0.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:37:52 GMT",
+   "url": "http://multirotormania.com/anodized-hardware/1139-m3-blue-anodized-aluminum-nylon-lock-nut-x-1.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

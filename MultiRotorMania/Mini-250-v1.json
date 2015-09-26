@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "Mini 250 v1 (ZMR250)",
@@ -7,10 +9,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/201-300mm-mini/94-100-carbon-fiber-250mm-mini-frame.html",
-   "http://multirotormania.com/frames/1078-mrm250-wpdb-100-carbon-fiber-mini-250mm-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$35.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:37 GMT",
+   "url": "http://multirotormania.com/201-300mm-mini/94-100-carbon-fiber-250mm-mini-frame.html"
+  },
+  {
+   "price": "$41.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:38 GMT",
+   "url": "http://multirotormania.com/frames/1078-mrm250-wpdb-100-carbon-fiber-mini-250mm-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

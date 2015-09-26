@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "Carbon Fiber Foldable Tricopter Frame with Custom Color Nylon Hardware!!",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/tricopter/320-hj-y3-carbon-fiber-foldable-tricopter-frame-with-custom-color-nylon-hardware.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$55.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:39 GMT",
+   "url": "http://multirotormania.com/tricopter/320-hj-y3-carbon-fiber-foldable-tricopter-frame-with-custom-color-nylon-hardware.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Alien, 450 and 550 (DJI Style) Replacement Arm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/parts/273-alien-450-and-550-dji-style-replacement-arm-black.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:30 GMT",
+   "url": "http://multirotormania.com/parts/273-alien-450-and-550-dji-style-replacement-arm-black.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

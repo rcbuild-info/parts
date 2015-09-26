@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "USBasp",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/programmers/427-usbasp.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:27 GMT",
+   "url": "http://multirotormania.com/programmers/427-usbasp.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

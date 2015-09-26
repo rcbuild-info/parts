@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3528 30mm LED Bar - Choose Your Color",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/led-lighting/973-3528-30mm-led-bar-choose-your-color.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:10 GMT",
+   "url": "http://multirotormania.com/led-lighting/973-3528-30mm-led-bar-choose-your-color.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

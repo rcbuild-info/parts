@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "20cm FPV Power/Video Cable - 4p 1.25mm to 3p 2.54mm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/accessories/1082-20cm-fpv-powervideo-cable-4p-125mm-to-3p-254mm-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:24 GMT",
+   "url": "http://multirotormania.com/accessories/1082-20cm-fpv-powervideo-cable-4p-125mm-to-3p-254mm-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

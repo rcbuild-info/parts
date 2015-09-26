@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "D12 Dampening CNC Aluminum Tube Mounts x 4",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/frame-accessories/913-d10mm-dampening-cnc-aluminum-tube-mounts-x-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:18 GMT",
+   "url": "http://multirotormania.com/frame-accessories/913-d10mm-dampening-cnc-aluminum-tube-mounts-x-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

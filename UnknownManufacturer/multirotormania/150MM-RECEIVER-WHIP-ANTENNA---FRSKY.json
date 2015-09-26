@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "150MM RECEIVER WHIP ANTENNA - FRSKY",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/accessories/891-150mm-receiver-whip-antenna-frsky.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.75",
+   "timestamp": "Sat, 26 Sep 2015 22:36:51 GMT",
+   "url": "http://multirotormania.com/accessories/891-150mm-receiver-whip-antenna-frsky.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

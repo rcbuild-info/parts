@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "50mm Acrylic GPS Case",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/accessories/1034-50mm-acrylic-gps-case.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:16 GMT",
+   "url": "http://multirotormania.com/accessories/1034-50mm-acrylic-gps-case.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

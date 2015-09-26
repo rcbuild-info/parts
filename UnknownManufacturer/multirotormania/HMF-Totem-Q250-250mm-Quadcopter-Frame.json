@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HMF Totem Q250 250mm Quadcopter Frame",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/201-300mm-mini/860-hmf-totem-q250-250mm-quadcopter-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:34 GMT",
+   "url": "http://multirotormania.com/201-300mm-mini/860-hmf-totem-q250-250mm-quadcopter-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

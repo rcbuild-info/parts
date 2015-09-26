@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "433MHz 500mW High Power Data Radio Telemetry set",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/telemetry/935-433mhz-500mw-high-power-data-radio-telemetry-set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:25 GMT",
+   "url": "http://multirotormania.com/telemetry/935-433mhz-500mw-high-power-data-radio-telemetry-set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

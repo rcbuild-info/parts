@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "XJT - JR/GRAUPNER Type 16CH DUPLEX RF Module w/telemetry",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/radio-gear/928-frsky-xjt-jrgraupner-type-16ch-duplex-rf-module-wtelemetry.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$38.00",
+   "timestamp": "Sat, 26 Sep 2015 22:36:41 GMT",
+   "url": "http://multirotormania.com/radio-gear/928-frsky-xjt-jrgraupner-type-16ch-duplex-rf-module-wtelemetry.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

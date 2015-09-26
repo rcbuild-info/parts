@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 Male/Male Rubber Vibration Isolation Bolt x1 (ONE)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/hardware/374-m3-malemale-rubber-vibration-isolation-bolt-x1-one.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:48 GMT",
+   "url": "http://multirotormania.com/hardware/374-m3-malemale-rubber-vibration-isolation-bolt-x1-one.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

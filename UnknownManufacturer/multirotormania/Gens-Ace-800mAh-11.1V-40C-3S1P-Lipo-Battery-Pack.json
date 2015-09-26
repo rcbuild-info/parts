@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Gens Ace 800mAh 11.1V 40C 3S1P Lipo Battery Pack",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/batteries/1125-gens-ace-800mah-111v-40c-3s1p-lipo-battery-pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$16.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:37:03 GMT",
+   "url": "http://multirotormania.com/batteries/1125-gens-ace-800mah-111v-40c-3s1p-lipo-battery-pack.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Female/Female Nylon Standoffs - 6mm M3 - 10 pieces",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/nylon-standoffs-and-fasteners/564-femalefemale-nylon-standoffs-6mm-m3-10-pieces-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:22 GMT",
+   "url": "http://multirotormania.com/nylon-standoffs-and-fasteners/564-femalefemale-nylon-standoffs-6mm-m3-10-pieces-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

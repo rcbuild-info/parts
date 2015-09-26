@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Great3D FrSky D4R-II/X4R Antenna Boom",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/3d-printed-parts/1042-great3d-frsky-d4r-iix4r-antenna-boom.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:30 GMT",
+   "url": "http://multirotormania.com/3d-printed-parts/1042-great3d-frsky-d4r-iix4r-antenna-boom.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

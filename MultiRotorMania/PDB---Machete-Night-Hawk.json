@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "PDB - Machete/Night Hawk",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/power-distribution/1121-mrm-pdb-machetenight-hawk.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:45 GMT",
+   "url": "http://multirotormania.com/power-distribution/1121-mrm-pdb-machetenight-hawk.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

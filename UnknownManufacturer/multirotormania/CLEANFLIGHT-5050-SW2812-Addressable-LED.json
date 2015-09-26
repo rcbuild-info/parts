@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "CLEANFLIGHT 5050 SW2812 Addressable LED",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/led-lighting/1018-cleanflight-5050-sw2812-addressable-led-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.80",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:11 GMT",
+   "url": "http://multirotormania.com/led-lighting/1018-cleanflight-5050-sw2812-addressable-led-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

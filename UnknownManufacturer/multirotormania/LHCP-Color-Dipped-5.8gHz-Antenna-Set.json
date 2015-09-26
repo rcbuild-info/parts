@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LHCP Color Dipped 5.8gHz Antenna Set",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/dipped-antennas/447-lhcp-color-dipped-58ghz-antenna-set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$17.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:37:31 GMT",
+   "url": "http://multirotormania.com/dipped-antennas/447-lhcp-color-dipped-58ghz-antenna-set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

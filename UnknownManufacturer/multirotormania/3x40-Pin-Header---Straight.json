@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3x40 Pin Header - Straight",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/connectors-and-pins/262-3x40-pin-header-straight.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:53 GMT",
+   "url": "http://multirotormania.com/connectors-and-pins/262-3x40-pin-header-straight.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

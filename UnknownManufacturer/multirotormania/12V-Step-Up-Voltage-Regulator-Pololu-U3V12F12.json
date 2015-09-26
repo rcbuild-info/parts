@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "12V Step-Up Voltage Regulator Pololu U3V12F12",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/becregulator/400-12v-step-up-voltage-regulator-pololu-u3v12f12.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:43 GMT",
+   "url": "http://multirotormania.com/becregulator/400-12v-step-up-voltage-regulator-pololu-u3v12f12.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

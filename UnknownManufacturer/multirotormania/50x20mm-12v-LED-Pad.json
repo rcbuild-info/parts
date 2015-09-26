@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "50x20mm 12v LED Pad",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/accessories/1093-50x20mm-12v-led-pad.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:09 GMT",
+   "url": "http://multirotormania.com/accessories/1093-50x20mm-12v-led-pad.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

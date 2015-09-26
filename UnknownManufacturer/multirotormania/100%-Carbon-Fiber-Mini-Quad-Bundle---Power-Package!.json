@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "100% Carbon Fiber Mini Quad Bundle - Power Package!",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/multirotor-packages/489-100-carbon-fiber-mini-quad-bundle.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$162.00",
+   "timestamp": "Sat, 26 Sep 2015 22:37:11 GMT",
+   "url": "http://multirotormania.com/multirotor-packages/489-100-carbon-fiber-mini-quad-bundle.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "osd",
+ "categories": [
+  "osd"
+ ],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "MinimOSD",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/osd/694-mrm-minimosd-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:22 GMT",
+   "url": "http://multirotormania.com/osd/694-mrm-minimosd-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

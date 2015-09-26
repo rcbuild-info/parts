@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "s MT1306-3100kv Brushless Motor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/t-motors/875-t-motors-mt1306-3100kv-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$42.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:55 GMT",
+   "url": "http://multirotormania.com/t-motors/875-t-motors-mt1306-3100kv-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

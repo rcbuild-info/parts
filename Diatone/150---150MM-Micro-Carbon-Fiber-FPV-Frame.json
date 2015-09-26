@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Diatone",
  "name": "150 - 150MM Micro Carbon Fiber FPV Frame",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/home/1123-diatone-150-150mm-micro-carbon-fiber-fpv-frame-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$22.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:14 GMT",
+   "url": "http://multirotormania.com/home/1123-diatone-150-150mm-micro-carbon-fiber-fpv-frame-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

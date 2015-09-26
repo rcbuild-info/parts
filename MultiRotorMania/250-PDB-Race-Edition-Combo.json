@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "250 PDB Race Edition Combo",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/multirotor-packages/1085-mrm250-pdb-race-edition-combo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$180.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:37:12 GMT",
+   "url": "http://multirotormania.com/multirotor-packages/1085-mrm250-pdb-race-edition-combo.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X2208 KV1500 II Brushless Motor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/sunnysky/719-sunnysky-x2208-kv1500-ii-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:43:00 GMT",
+   "url": "http://multirotormania.com/sunnysky/719-sunnysky-x2208-kv1500-ii-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

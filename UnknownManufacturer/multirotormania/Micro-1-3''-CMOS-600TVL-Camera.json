@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Micro 1/3'' CMOS 600TVL Camera",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/cameras/976-micro-13-cmos-600tvl-camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$22.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:10 GMT",
+   "url": "http://multirotormania.com/cameras/976-micro-13-cmos-600tvl-camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MOBIUS Gen2 Specialized AV Cable - Tx Plug w/ Power",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/accessories/1080-mobius-gen2-specialized-av-cable-tx-plug-w-power.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:27 GMT",
+   "url": "http://multirotormania.com/accessories/1080-mobius-gen2-specialized-av-cable-tx-plug-w-power.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

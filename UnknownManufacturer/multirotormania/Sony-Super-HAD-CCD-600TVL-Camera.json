@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sony Super HAD CCD 600TVL Camera",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/cameras/413-sony-super-had-ccd-600tvl-camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$32.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:09 GMT",
+   "url": "http://multirotormania.com/cameras/413-sony-super-had-ccd-600tvl-camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

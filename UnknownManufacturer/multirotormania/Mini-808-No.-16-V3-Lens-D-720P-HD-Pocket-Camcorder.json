@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini 808 No. 16 V3 Lens-D 720P HD Pocket Camcorder",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/fpv/1106-mini-808-no-16-v3-lens-d-720p-hd-pocket-camcorder.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$50.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:46 GMT",
+   "url": "http://multirotormania.com/fpv/1106-mini-808-no-16-v3-lens-d-720p-hd-pocket-camcorder.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

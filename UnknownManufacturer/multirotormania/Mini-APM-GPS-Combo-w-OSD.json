@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini-APM GPS Combo w/OSD",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/flight-control-systems/422-mini-apm-gps-combo-wosd.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$92.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:37:23 GMT",
+   "url": "http://multirotormania.com/flight-control-systems/422-mini-apm-gps-combo-wosd.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

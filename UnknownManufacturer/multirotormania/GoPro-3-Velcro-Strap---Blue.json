@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GoPro 3 Velcro Strap - Blue",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/accessories/915-gopro-3-velcro-strap-blue.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:28 GMT",
+   "url": "http://multirotormania.com/accessories/915-gopro-3-velcro-strap-blue.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

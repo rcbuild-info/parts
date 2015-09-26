@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV250 Mini FPV Racer",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/201-300mm-mini/683-fpv250-mini-fpv-racer.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:35 GMT",
+   "url": "http://multirotormania.com/201-300mm-mini/683-fpv250-mini-fpv-racer.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

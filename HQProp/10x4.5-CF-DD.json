@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "10x4.5 Direct Drive Carbon Fiber Composite",
@@ -7,11 +9,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/hq-prop/996-hqprop-10x45-carbon-mix-props-1-pair.html",
-   "http://www.dronematters.com/power-system/hqprop-1045-carbon-composite-propeller-black-2-cw.html",
-   "https://www.multirotorparts.com/propellers/10/hqprop-10-x-4-5-carbon-versterkte-propeller-set-van-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.dronematters.com/power-system/hqprop-1045-carbon-composite-propeller-black-2-cw.html"
+  },
+  {
+   "url": "https://www.multirotorparts.com/propellers/10/hqprop-10-x-4-5-carbon-versterkte-propeller-set-van-4.html"
+  },
+  {
+   "price": "$5.85",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:47 GMT",
+   "url": "http://multirotormania.com/hq-prop/996-hqprop-10x45-carbon-mix-props-1-pair.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "20A 2-4S ESC - Atmel",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/20-amp/386-mrm-20a-2-4s-esc-atmel-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:33 GMT",
+   "url": "http://multirotormania.com/20-amp/386-mrm-20a-2-4s-esc-atmel-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

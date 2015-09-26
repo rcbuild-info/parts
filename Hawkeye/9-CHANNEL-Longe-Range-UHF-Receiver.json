@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hawkeye",
  "name": "9 CHANNEL Longe Range UHF Receiver",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/receivers/965-hawkeye-9-channel-longe-range-uhf-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$37.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:36:36 GMT",
+   "url": "http://multirotormania.com/receivers/965-hawkeye-9-channel-longe-range-uhf-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

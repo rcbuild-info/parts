@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BLUE Braided Mesh",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/braided-mesh/638-blue-braided-mesh.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:21 GMT",
+   "url": "http://multirotormania.com/braided-mesh/638-blue-braided-mesh.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "OpenPilot ATOM Mini CC3D",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/32-bit-/931-openpilot-atom-mini-cc3d-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$28.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:57 GMT",
+   "url": "http://multirotormania.com/32-bit-/931-openpilot-atom-mini-cc3d-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

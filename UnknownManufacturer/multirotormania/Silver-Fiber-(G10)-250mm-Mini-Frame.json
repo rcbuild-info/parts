@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Silver Fiber (G10) 250mm Mini Frame",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/201-300mm-mini/407-silver-fiber-g10-250mm-mini-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$35.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:35 GMT",
+   "url": "http://multirotormania.com/201-300mm-mini/407-silver-fiber-g10-250mm-mini-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

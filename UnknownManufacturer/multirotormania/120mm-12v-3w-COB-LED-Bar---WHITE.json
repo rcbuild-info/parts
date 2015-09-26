@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "120mm 12v 3w COB LED Bar - WHITE",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/bling/674-120mm-12v-3w-cob-led-bar-white.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:10 GMT",
+   "url": "http://multirotormania.com/bling/674-120mm-12v-3w-cob-led-bar-white.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

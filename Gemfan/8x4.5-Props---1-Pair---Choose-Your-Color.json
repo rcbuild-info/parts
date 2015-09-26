@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "8x4.5 Props - 1 Pair - Choose Your Color",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/gemfan/1029-gemfan-8x45-props-1-pair-choose-your-color.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:51 GMT",
+   "url": "http://multirotormania.com/gemfan/1029-gemfan-8x45-props-1-pair-choose-your-color.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

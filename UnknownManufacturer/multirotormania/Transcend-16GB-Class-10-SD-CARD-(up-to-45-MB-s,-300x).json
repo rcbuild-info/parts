@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Transcend 16GB Class 10 SD CARD (up to 45 MB/s, 300x)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/fpv/971-transcend-16gb-class-10-sd-card-up-to-45-mbs-300x.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:58 GMT",
+   "url": "http://multirotormania.com/fpv/971-transcend-16gb-class-10-sd-card-up-to-45-mbs-300x.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

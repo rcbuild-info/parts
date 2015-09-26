@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "3x2 Props - x 8",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/dys/1115-dys-3x2-props-2-full-sets.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:19 GMT",
+   "url": "http://multirotormania.com/dys/1115-dys-3x2-props-2-full-sets.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

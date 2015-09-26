@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini 600tvl Sony Super HAD CCD Super FPV Camera",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/cameras/378-mini-600tvl-sony-super-had-ccd-super-fpv-camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$41.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:10 GMT",
+   "url": "http://multirotormania.com/cameras/378-mini-600tvl-sony-super-had-ccd-super-fpv-camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

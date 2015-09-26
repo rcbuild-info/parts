@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "D8R-XP- 8/8 CHANNEL RECEIVER with CPPM",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/receivers/972-frsky-d8r-xp-88-channel-receiver-with-cppm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$32.00",
+   "timestamp": "Sat, 26 Sep 2015 22:36:40 GMT",
+   "url": "http://multirotormania.com/receivers/972-frsky-d8r-xp-88-channel-receiver-with-cppm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

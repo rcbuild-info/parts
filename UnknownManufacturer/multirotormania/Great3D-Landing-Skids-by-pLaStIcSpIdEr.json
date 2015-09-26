@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Great3D Landing Skids by pLaStIcSpIdEr",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/3d-printed-parts/1119-great3d-landing-skids-by-plasticspider.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:37:25 GMT",
+   "url": "http://multirotormania.com/3d-printed-parts/1119-great3d-landing-skids-by-plasticspider.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

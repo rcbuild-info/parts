@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5-35v 2.5a Adjustable Step Up Regulator",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/becregulator/708-5-35v-25a-adjustable-step-up-regulator.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:44 GMT",
+   "url": "http://multirotormania.com/becregulator/708-5-35v-25a-adjustable-step-up-regulator.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

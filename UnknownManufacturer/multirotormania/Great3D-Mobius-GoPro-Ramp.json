@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Great3D Mobius/GoPro Ramp",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/3d-printed-parts/1041-great3d-mobiusgopro-ramp.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:30 GMT",
+   "url": "http://multirotormania.com/3d-printed-parts/1041-great3d-mobiusgopro-ramp.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

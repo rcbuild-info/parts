@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "100% Carbon Fiber Hexacopter Combo",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/multirotor-packages/292-100-carbon-fiber-hexacopter-combo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$240.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:37:05 GMT",
+   "url": "http://multirotormania.com/multirotor-packages/292-100-carbon-fiber-hexacopter-combo.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

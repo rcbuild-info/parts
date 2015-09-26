@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X3108S KV720 Brushless Motor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/sunnysky/717-sunnysky-x3108s-kv720-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$36.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:56 GMT",
+   "url": "http://multirotormania.com/sunnysky/717-sunnysky-x3108s-kv720-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

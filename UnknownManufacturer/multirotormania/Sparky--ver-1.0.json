@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sparky  ver 1.0",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/32-bit-/793-sparky-ver-10.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$37.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:54 GMT",
+   "url": "http://multirotormania.com/32-bit-/793-sparky-ver-10.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

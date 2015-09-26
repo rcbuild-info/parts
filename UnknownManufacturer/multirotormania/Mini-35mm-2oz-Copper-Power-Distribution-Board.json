@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini 35mm 2oz Copper Power Distribution Board",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/power-distribution/377-mini-35mm-2oz-copper-power-distribution-board.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:32 GMT",
+   "url": "http://multirotormania.com/power-distribution/377-mini-35mm-2oz-copper-power-distribution-board.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

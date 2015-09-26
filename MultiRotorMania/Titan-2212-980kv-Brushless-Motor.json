@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "Titan 2212-980kv Brushless Motor",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/mrm/570-mrm-titan-2212-980kv-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$20.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:43:07 GMT",
+   "url": "http://multirotormania.com/mrm/570-mrm-titan-2212-980kv-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Copper Shielding - 6\" x 2\" - Adhesive Backed",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/filtration/606-copper-shielding-6-x-2-adhesive-backed.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.25",
+   "timestamp": "Sat, 26 Sep 2015 22:39:23 GMT",
+   "url": "http://multirotormania.com/filtration/606-copper-shielding-6-x-2-adhesive-backed.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

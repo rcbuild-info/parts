@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "16mm Anodized Aluminum Tube Clamps - 4 Point",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/anodized-hardware/1065-16mm-anodized-aluminum-tube-clamps-2-point.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:37:58 GMT",
+   "url": "http://multirotormania.com/anodized-hardware/1065-16mm-anodized-aluminum-tube-clamps-2-point.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

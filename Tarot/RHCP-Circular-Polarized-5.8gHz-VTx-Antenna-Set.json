@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "RHCP Circular Polarized 5.8gHz VTx Antenna Set",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/antennas/900-tarot-rhcp-circular-polarized-58ghz-vtx-antenna-set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$16.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:21 GMT",
+   "url": "http://multirotormania.com/antennas/900-tarot-rhcp-circular-polarized-58ghz-vtx-antenna-set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

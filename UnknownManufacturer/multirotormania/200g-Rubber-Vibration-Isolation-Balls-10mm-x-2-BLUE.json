@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "200g Rubber Vibration Isolation Balls 10mm x 2 BLUE",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/parts/614-200g-rubber-vibration-isolation-balls-10mm-x-2-blue.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:34 GMT",
+   "url": "http://multirotormania.com/parts/614-200g-rubber-vibration-isolation-balls-10mm-x-2-blue.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

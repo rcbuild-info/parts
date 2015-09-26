@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F450 Quad Complete Bundle",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/multirotor-packages/303-f450-quad-complete-bundle.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$185.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:37:05 GMT",
+   "url": "http://multirotormania.com/multirotor-packages/303-f450-quad-complete-bundle.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

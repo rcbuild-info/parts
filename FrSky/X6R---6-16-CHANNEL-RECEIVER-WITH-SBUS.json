@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "X6R - 6/16 CHANNEL RECEIVER WITH SBUS",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/receivers/888-frsky-x6r-616-channel-receiver-with-sbus.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$32.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:36:55 GMT",
+   "url": "http://multirotormania.com/receivers/888-frsky-x6r-616-channel-receiver-with-sbus.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

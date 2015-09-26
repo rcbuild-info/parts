@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5x3 Props x4",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/gemfan/584-gemfan-5x3-props-x4-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.15",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:52 GMT",
+   "url": "http://multirotormania.com/gemfan/584-gemfan-5x3-props-x4-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

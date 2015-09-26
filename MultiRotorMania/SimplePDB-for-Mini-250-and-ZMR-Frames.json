@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "SimplePDB for Mini 250 and ZMR Frames",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/power-distribution/1099-mrm-simplepdb-for-mini-250-and-zmr-frames.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$21.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:32 GMT",
+   "url": "http://multirotormania.com/power-distribution/1099-mrm-simplepdb-for-mini-250-and-zmr-frames.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

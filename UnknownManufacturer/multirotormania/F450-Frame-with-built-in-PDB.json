@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F450 Frame with built in PDB",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/frames/302-f450-frame-with-built-in-pdb.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$21.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:11 GMT",
+   "url": "http://multirotormania.com/frames/302-f450-frame-with-built-in-pdb.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

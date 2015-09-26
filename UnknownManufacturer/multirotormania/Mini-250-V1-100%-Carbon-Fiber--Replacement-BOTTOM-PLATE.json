@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini 250 V1 100% Carbon Fiber  Replacement BOTTOM PLATE",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/parts/452-carbon-fiber-250mm-mini-h-replacement-bottom-plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:24 GMT",
+   "url": "http://multirotormania.com/parts/452-carbon-fiber-250mm-mini-h-replacement-bottom-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

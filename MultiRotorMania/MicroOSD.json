@@ -1,5 +1,7 @@
 {
- "category": "osd",
+ "categories": [
+  "osd"
+ ],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "MicroOSD",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/osd/775-mrm-microosd-micro-osd.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:45 GMT",
+   "url": "http://multirotormania.com/osd/775-mrm-microosd-micro-osd.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

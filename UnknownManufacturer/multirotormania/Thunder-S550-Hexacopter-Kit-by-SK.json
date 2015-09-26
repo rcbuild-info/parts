@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Thunder S550 Hexacopter Kit by SK",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/hexacopter/682-thunder-s550-hexacopter-kit-by-sk.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$68.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:49 GMT",
+   "url": "http://multirotormania.com/hexacopter/682-thunder-s550-hexacopter-kit-by-sk.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "blackbox",
+ "categories": [
+  "blackbox"
+ ],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "Flight Data Logger",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/32-bit-/1055-mrm-flight-data-logger.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:33 GMT",
+   "url": "http://multirotormania.com/32-bit-/1055-mrm-flight-data-logger.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DragonFly32 Compact",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/32-bit-/1061-dragonfly32-compact.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$23.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:01 GMT",
+   "url": "http://multirotormania.com/32-bit-/1061-dragonfly32-compact.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini 250 Spacer Kit w/LED Bar and Screws - 5 Colors!",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/3d-printed-parts/568-mini-250-spacer-kit-wled-bar-and-screws-5-colors.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:26 GMT",
+   "url": "http://multirotormania.com/3d-printed-parts/568-mini-250-spacer-kit-wled-bar-and-screws-5-colors.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

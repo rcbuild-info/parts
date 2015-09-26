@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "Mini SN20A 4S ESC - BLHeli Firmware",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/20-amp/1003-dys-mini-sn20a-4s-esc-blheli-firmware.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$13.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:36 GMT",
+   "url": "http://multirotormania.com/20-amp/1003-dys-mini-sn20a-4s-esc-blheli-firmware.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Navigator Series MN1804-2400kv",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/t-motors/821-t-motor-navigator-series-mn1804-2400kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$25.90",
+   "timestamp": "Sat, 26 Sep 2015 22:42:55 GMT",
+   "url": "http://multirotormania.com/t-motors/821-t-motor-navigator-series-mn1804-2400kv.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DragonFly32",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/32-bit-/239-dragonfly32-pro.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$33.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:03 GMT",
+   "url": "http://multirotormania.com/32-bit-/239-dragonfly32-pro.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

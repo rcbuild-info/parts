@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "Mini Titan V2 2204-2300 Brushless Motor",
@@ -7,9 +9,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/mrm/897-mrm-mini-titan-v2-2204-2300-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.00",
+   "timestamp": "Sat, 26 Sep 2015 22:43:09 GMT",
+   "url": "http://multirotormania.com/mrm/897-mrm-mini-titan-v2-2204-2300-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Great3D Antenna Tube Holders by pLaStIc sPiDeR",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/accessories/1048-great3d-antenna-tube-holders-by-plastic-spider.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:37:26 GMT",
+   "url": "http://multirotormania.com/accessories/1048-great3d-antenna-tube-holders-by-plastic-spider.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

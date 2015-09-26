@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini 250 100% Carbon Fiber LIGHT Arms x 2",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/parts/932-mini-250-100-carbon-fiber-light-arms-x-2.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:30 GMT",
+   "url": "http://multirotormania.com/parts/932-mini-250-100-carbon-fiber-light-arms-x-2.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

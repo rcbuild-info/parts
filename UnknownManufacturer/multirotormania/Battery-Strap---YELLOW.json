@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Battery Strap - YELLOW",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/battery-straps/482-battery-strap-yellow.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:03 GMT",
+   "url": "http://multirotormania.com/battery-straps/482-battery-strap-yellow.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

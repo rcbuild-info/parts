@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sunrise Slim 20A OPTO-ESC",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/20-amp/389-sunrise-slim-20a-opto-esc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:32 GMT",
+   "url": "http://multirotormania.com/20-amp/389-sunrise-slim-20a-opto-esc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

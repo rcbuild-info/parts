@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MOBIUS V3 Standard Lens Action Camera",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/fpv/1105-mobius-v3-standard-lens-action-camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$78.00",
+   "timestamp": "Sat, 26 Sep 2015 22:39:11 GMT",
+   "url": "http://multirotormania.com/fpv/1105-mobius-v3-standard-lens-action-camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

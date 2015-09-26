@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10mm G-10 Dampening Dual Battery Mount",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/frame-accessories/917-10mm-g-10-dampening-dual-battery-mount.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$13.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:28 GMT",
+   "url": "http://multirotormania.com/frame-accessories/917-10mm-g-10-dampening-dual-battery-mount.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

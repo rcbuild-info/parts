@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "S500 Quadcopter AV/AP/FPV Frame",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/quadcopter/406-s500-quadcopter-avapfpv-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$40.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:46 GMT",
+   "url": "http://multirotormania.com/quadcopter/406-s500-quadcopter-avapfpv-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2mm Gold Plated Bullets - 3 Pair (Male/Female)",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/connectors-and-pins/256-2mm-gold-plated-bullets-3-pair-malefemale.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.35",
+   "timestamp": "Sat, 26 Sep 2015 22:39:44 GMT",
+   "url": "http://multirotormania.com/connectors-and-pins/256-2mm-gold-plated-bullets-3-pair-malefemale.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

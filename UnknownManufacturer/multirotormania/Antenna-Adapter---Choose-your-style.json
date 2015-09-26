@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Antenna Adapter - Choose your style",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/cables-and-connectors/921-antenna-adapter-choose-your-style.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:36:49 GMT",
+   "url": "http://multirotormania.com/cables-and-connectors/921-antenna-adapter-choose-your-style.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

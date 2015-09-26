@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BLACK/YELLOW Braided Mesh",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/braided-mesh/764-blackyellow-braided-mesh.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:15 GMT",
+   "url": "http://multirotormania.com/braided-mesh/764-blackyellow-braided-mesh.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

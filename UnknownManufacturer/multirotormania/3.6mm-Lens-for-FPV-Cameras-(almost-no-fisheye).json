@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3.6mm Lens for FPV Cameras (almost no fisheye)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/cameras/258-36mm-lens-for-fpv-cameras-almost-no-fisheye.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:04 GMT",
+   "url": "http://multirotormania.com/cameras/258-36mm-lens-for-fpv-cameras-almost-no-fisheye.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

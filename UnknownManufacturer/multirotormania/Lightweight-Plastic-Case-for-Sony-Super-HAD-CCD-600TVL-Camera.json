@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Lightweight Plastic Case for Sony Super HAD CCD 600TVL Camera",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/cameras/372-lightweight-plastic-case-for-sony-super-had-ccd-600tvl-camera-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:04 GMT",
+   "url": "http://multirotormania.com/cameras/372-lightweight-plastic-case-for-sony-super-had-ccd-600tvl-camera-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

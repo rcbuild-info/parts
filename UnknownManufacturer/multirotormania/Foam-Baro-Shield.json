@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Foam Baro Shield",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/flight-controllers/1019-foam-baro-shield.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:51 GMT",
+   "url": "http://multirotormania.com/flight-controllers/1019-foam-baro-shield.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

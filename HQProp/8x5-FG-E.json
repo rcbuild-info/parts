@@ -13,9 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://multirotormania.com/hq-prop/1024-hqprop-8x5-thin-electric-props-1-pair.html"
-  },
-  {
    "price": "$5.20",
    "quantity": 2,
    "stock_state": "in_stock",
@@ -37,6 +34,12 @@
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 05:02:22 GMT",
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=63"
+  },
+  {
+   "price": "$5.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:20 GMT",
+   "url": "http://multirotormania.com/hq-prop/1024-hqprop-8x5-thin-electric-props-1-pair.html"
   }
  ],
  "version": 2,

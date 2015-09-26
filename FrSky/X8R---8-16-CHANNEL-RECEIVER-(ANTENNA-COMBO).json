@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "X8R - 8/16 CHANNEL RECEIVER (ANTENNA COMBO)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/receivers/895-frsky-x8r-816-channel-receiver-antenna-combo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$33.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:36:54 GMT",
+   "url": "http://multirotormania.com/receivers/895-frsky-x8r-816-channel-receiver-antenna-combo.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

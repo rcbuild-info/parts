@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "S550 Hexacopter Bundle with T-Motors",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/multirotor-packages/691-s550-hexacopter-bundle-with-t-motors.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$405.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:37:08 GMT",
+   "url": "http://multirotormania.com/multirotor-packages/691-s550-hexacopter-bundle-with-t-motors.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

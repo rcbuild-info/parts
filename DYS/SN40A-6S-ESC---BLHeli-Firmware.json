@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "SN40A 6S ESC - BLHeli Firmware",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/40-amp/1038-dys-sn30a-6s-esc-blheli-firmware.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:28 GMT",
+   "url": "http://multirotormania.com/40-amp/1038-dys-sn30a-6s-esc-blheli-firmware.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

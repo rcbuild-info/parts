@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "5.8GHz RHCP Skew Planar Wheel Antenna",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/antennas/1035-vas-58ghz-rhcp-skew-planar-wheel-antenna-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$27.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:45 GMT",
+   "url": "http://multirotormania.com/antennas/1035-vas-58ghz-rhcp-skew-planar-wheel-antenna-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

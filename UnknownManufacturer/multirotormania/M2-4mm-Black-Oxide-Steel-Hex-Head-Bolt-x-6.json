@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M2 4mm Black Oxide Steel Hex Head Bolt x 6",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/hardware/954-m2-4mm-black-oxide-steel-hex-head-bolt-x-6.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:49 GMT",
+   "url": "http://multirotormania.com/hardware/954-m2-4mm-black-oxide-steel-hex-head-bolt-x-6.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

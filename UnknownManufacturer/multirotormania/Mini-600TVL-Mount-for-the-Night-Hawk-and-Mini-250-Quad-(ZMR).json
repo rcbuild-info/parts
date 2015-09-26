@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini 600TVL Mount for the Night Hawk and Mini 250 Quad (ZMR)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/3d-printed-parts/1068-mini-600tvl-mount-for-the-mini-250-quad-zmr.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:32 GMT",
+   "url": "http://multirotormania.com/3d-printed-parts/1068-mini-600tvl-mount-for-the-mini-250-quad-zmr.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

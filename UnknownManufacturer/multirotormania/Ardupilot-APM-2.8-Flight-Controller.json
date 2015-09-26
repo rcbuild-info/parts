@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Ardupilot APM 2.8 Flight Controller",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/ardupilot/811-ardupilot-apm-28-flight-controller.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$50.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:56 GMT",
+   "url": "http://multirotormania.com/ardupilot/811-ardupilot-apm-28-flight-controller.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

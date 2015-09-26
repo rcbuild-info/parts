@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "40mm 12v 1.8w COB LED  - WHITE",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/led-lighting/990-40mm-12v-18w-cob-led-white.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:08 GMT",
+   "url": "http://multirotormania.com/led-lighting/990-40mm-12v-18w-cob-led-white.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

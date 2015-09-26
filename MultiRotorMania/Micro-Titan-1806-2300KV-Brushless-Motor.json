@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "Micro Titan 1806 2300KV Brushless Motor",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/mrm/699-mrm-micro-titan-1806-2300kv-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:43:10 GMT",
+   "url": "http://multirotormania.com/mrm/699-mrm-micro-titan-1806-2300kv-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

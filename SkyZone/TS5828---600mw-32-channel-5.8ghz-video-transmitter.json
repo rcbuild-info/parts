@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SkyZone",
  "name": "TS5828 - 600mw 32 channel 5.8ghz video transmitter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/transmitters/969-skyzone-ts5823-32-channel-58ghz-600mw-mini-video-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$34.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:02 GMT",
+   "url": "http://multirotormania.com/transmitters/969-skyzone-ts5823-32-channel-58ghz-600mw-mini-video-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

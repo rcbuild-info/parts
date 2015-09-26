@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "NEW! MRM 5mm 250 Mini 100% Carbon Fiber Replacement Arms x 2",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/frame-accessories/1114-new-5mm-mini-250-mini-100-carbon-fiber-replacement-arms-x-2.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:15 GMT",
+   "url": "http://multirotormania.com/frame-accessories/1114-new-5mm-mini-250-mini-100-carbon-fiber-replacement-arms-x-2.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

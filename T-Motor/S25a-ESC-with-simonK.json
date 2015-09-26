@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "S25a ESC with simonK",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/esc/822-t-motor-s25a-esc-with-simonk-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$28.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:28 GMT",
+   "url": "http://multirotormania.com/esc/822-t-motor-s25a-esc-with-simonk-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

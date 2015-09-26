@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "35mm M3 F/F Nylon Standoffs - Choose Your Color",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/colored-nylon-/307-35mm-m3-femalefemale-nylon-standoffs-x-10-choose-your-color.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:37:39 GMT",
+   "url": "http://multirotormania.com/colored-nylon-/307-35mm-m3-femalefemale-nylon-standoffs-x-10-choose-your-color.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

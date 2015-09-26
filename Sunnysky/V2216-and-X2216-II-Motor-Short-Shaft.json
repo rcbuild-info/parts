@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "V2216 and X2216-II Motor Short Shaft",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/parts/445-sunnysky-v2216-and-x2216-ii-motor-short-shaft-replacement.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:43:13 GMT",
+   "url": "http://multirotormania.com/parts/445-sunnysky-v2216-and-x2216-ii-motor-short-shaft-replacement.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

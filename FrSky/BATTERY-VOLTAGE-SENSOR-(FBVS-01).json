@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "BATTERY VOLTAGE SENSOR (FBVS-01)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/radio-gear/927-frsky-battery-voltage-sensor-fbvs-01.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:36:48 GMT",
+   "url": "http://multirotormania.com/radio-gear/927-frsky-battery-voltage-sensor-fbvs-01.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

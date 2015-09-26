@@ -1,0 +1,33 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "",
+ "name": "PX4 Mini v1.3 flight controller",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "_example": true,
+   "description": "",
+   "location": "",
+   "price": "",
+   "quantity": 0,
+   "stock_quantity": "",
+   "stock_state": "",
+   "stock_text": "",
+   "timestamp": "",
+   "url": ""
+  },
+  {
+   "price": "$75.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:55 GMT",
+   "url": "http://multirotormania.com/ardupilot/1137-px4-mini-v13-flight-controller.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
+}

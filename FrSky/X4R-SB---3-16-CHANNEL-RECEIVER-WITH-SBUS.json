@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "X4R-SB - 3/16 CHANNEL RECEIVER WITH SBUS",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/receivers/894-frsky-x4r-sb-316-channel-receiver-with-sbus.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$25.50",
+   "timestamp": "Sat, 26 Sep 2015 22:36:54 GMT",
+   "url": "http://multirotormania.com/receivers/894-frsky-x4r-sb-316-channel-receiver-with-sbus.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

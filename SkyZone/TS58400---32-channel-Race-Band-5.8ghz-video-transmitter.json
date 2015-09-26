@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SkyZone",
  "name": "TS58400 - 32 channel Race Band 5.8ghz video transmitter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/transmitters/1117-boscam-race-band-400mw-mini-58g-32ch-vtx-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$32.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:47 GMT",
+   "url": "http://multirotormania.com/transmitters/1117-boscam-race-band-400mw-mini-58g-32ch-vtx-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1x40 Straight Pin Header - Choose your color",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/connectors-and-pins/248-1x40-pin-header-straight.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:57 GMT",
+   "url": "http://multirotormania.com/connectors-and-pins/248-1x40-pin-header-straight.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Drone Nationals Limited Edition T-Shirt",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/swag/1076-drone-nationals-limited-edition-t-shirt.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:36:59 GMT",
+   "url": "http://multirotormania.com/swag/1076-drone-nationals-limited-edition-t-shirt.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

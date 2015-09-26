@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Eachine",
  "name": "CG022 Mini 2.4G RC Quadcopter RTF - BLUE",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/rtf/601-eachine-cg022-mini-24g-rc-quadcopter-rtf-blue.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$38.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:36:44 GMT",
+   "url": "http://multirotormania.com/rtf/601-eachine-cg022-mini-24g-rc-quadcopter-rtf-blue.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

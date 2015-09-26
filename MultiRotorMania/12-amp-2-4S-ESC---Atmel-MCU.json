@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "12 amp 2-4S ESC - Atmel MCU",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/12-amp/385-mrm-12a-2-4s-esc-atmel-mcu.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:30 GMT",
+   "url": "http://multirotormania.com/12-amp/385-mrm-12a-2-4s-esc-atmel-mcu.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

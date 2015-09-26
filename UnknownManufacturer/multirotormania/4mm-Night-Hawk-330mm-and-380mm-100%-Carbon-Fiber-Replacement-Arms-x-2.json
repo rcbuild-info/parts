@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4mm Night Hawk 330mm and 380mm 100% Carbon Fiber Replacement Arms x 2",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/parts/1084-4mm-night-hawk-330mm-and-380mm-100-carbon-fiber-replacement-arms-x-2.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$16.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:44 GMT",
+   "url": "http://multirotormania.com/parts/1084-4mm-night-hawk-330mm-and-380mm-100-carbon-fiber-replacement-arms-x-2.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

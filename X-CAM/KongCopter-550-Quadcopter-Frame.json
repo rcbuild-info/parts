@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "X-CAM",
  "name": "KongCopter 550 Quadcopter Frame",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/quadcopter/916-x-cam-kongcopter-550-quadcopter-frame-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$138.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:50 GMT",
+   "url": "http://multirotormania.com/quadcopter/916-x-cam-kongcopter-550-quadcopter-frame-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

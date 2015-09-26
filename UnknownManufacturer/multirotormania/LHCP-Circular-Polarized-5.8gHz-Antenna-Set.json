@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LHCP Circular Polarized 5.8gHz Antenna Set",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/antennas/371-lhcp-circular-polarized-58ghz-antenna-set-.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:21 GMT",
+   "url": "http://multirotormania.com/antennas/371-lhcp-circular-polarized-58ghz-antenna-set-.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

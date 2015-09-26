@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Eachine",
  "name": "Q200 Carbon Fiber Micro FPV Frame Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/200mm-and-under-micro/926-eachine-q200-carbon-fiber-micro-fpv-frame-kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$20.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:32 GMT",
+   "url": "http://multirotormania.com/200mm-and-under-micro/926-eachine-q200-carbon-fiber-micro-fpv-frame-kit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

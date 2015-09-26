@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X2216 KV880 II Brushless Motor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/sunnysky/417-sunnysky-x2216-kv880-ii-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$25.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:59 GMT",
+   "url": "http://multirotormania.com/sunnysky/417-sunnysky-x2216-kv880-ii-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10 Degree Tilt Motor Wedges w/Screws for Carbon Fiber Mini 250",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/3d-printed-parts/1020-10-degree-tilt-motor-wedges-wscrews-for-carbon-fiber-mini-250.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:25 GMT",
+   "url": "http://multirotormania.com/3d-printed-parts/1020-10-degree-tilt-motor-wedges-wscrews-for-carbon-fiber-mini-250.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

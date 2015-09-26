@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "Titan 2208-1100 Brushless Motor",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/mrm/960-mrm-titan-2208-1100-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:43:08 GMT",
+   "url": "http://multirotormania.com/mrm/960-mrm-titan-2208-1100-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Great3D Adjustable Prop Cutting Jig",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/3d-printed-parts/1104-great3d-adjustable-prop-cutting-jig.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:25 GMT",
+   "url": "http://multirotormania.com/3d-printed-parts/1104-great3d-adjustable-prop-cutting-jig.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

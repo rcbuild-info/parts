@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "MultiRotorMania",
  "name": "MACHETE 430mm Carbon FPV Frame",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/quadcopter/1008-mrm-machete-430mm-carbon-fpv-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:46 GMT",
+   "url": "http://multirotormania.com/quadcopter/1008-mrm-machete-430mm-carbon-fpv-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

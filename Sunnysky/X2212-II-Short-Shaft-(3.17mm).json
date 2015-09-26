@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X2212 II Short Shaft (3.17mm)",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/parts/446-sunnysky-x2212-ii-short-shaft-317mm-replacement.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.20",
+   "timestamp": "Sat, 26 Sep 2015 22:43:12 GMT",
+   "url": "http://multirotormania.com/parts/446-sunnysky-x2212-ii-short-shaft-317mm-replacement.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "6mm UV-YELLOW Braided Mesh",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/braided-mesh/644-6mm-uv-yellow-braided-mesh.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.50",
+   "timestamp": "Sat, 26 Sep 2015 22:38:20 GMT",
+   "url": "http://multirotormania.com/braided-mesh/644-6mm-uv-yellow-braided-mesh.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

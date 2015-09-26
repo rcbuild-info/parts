@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "5.8GHz BLACK CANNON Helical Antenna 12.5dbic (10 TURN)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/antennas/880-vas-58ghz-black-cannon-helical-antenna-125dbic-10-turn.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$42.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:39:12 GMT",
+   "url": "http://multirotormania.com/antennas/880-vas-58ghz-black-cannon-helical-antenna-125dbic-10-turn.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

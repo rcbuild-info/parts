@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "uBlox",
  "name": "NEO-6M v.2 GPS (No Compass)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/gps-modules/426-ublox-neo-6m-no-compass.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:40:15 GMT",
+   "url": "http://multirotormania.com/gps-modules/426-ublox-neo-6m-no-compass.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

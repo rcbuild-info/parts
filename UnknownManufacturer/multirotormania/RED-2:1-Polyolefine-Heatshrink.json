@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RED 2:1 Polyolefine Heatshrink",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/heat-shrink/616-red-21-polyolefine-heatshrink.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.10",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:38:24 GMT",
+   "url": "http://multirotormania.com/heat-shrink/616-red-21-polyolefine-heatshrink.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

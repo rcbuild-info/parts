@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RD330 100% Carbon Fiber FPV Hexacopter Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/hexacopter/1011-rd330-100-carbon-fiber-fpv-hexacopter-kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$72.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:42:44 GMT",
+   "url": "http://multirotormania.com/hexacopter/1011-rd330-100-carbon-fiber-fpv-hexacopter-kit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
