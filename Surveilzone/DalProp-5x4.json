@@ -13,22 +13,10 @@
  },
  "variants": [
   {
-   "description": "Black",
-   "price": "$1.98",
-   "quantity": 4,
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:33:13 GMT",
-   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-black.html"
+   "url": "http://www.readytoflyquads.com/dal-a-k-a-indestructible-5x4-orange-props"
   },
   {
-   "description": "Green",
-   "price": "$1.98",
-   "quantity": 4,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:33:12 GMT",
-   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-green.html"
+   "url": "http://www.dronematters.com/power-system/propellers/dal-rc-surveilzone-5040-black-1259.html"
   },
   {
    "description": "Orange",
@@ -36,8 +24,17 @@
    "quantity": 4,
    "stock_state": "out_of_stock",
    "stock_text": "Out of Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:33:12 GMT",
+   "timestamp": "Sat, 26 Sep 2015 03:44:59 GMT",
    "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-orange.html"
+  },
+  {
+   "description": "Green",
+   "price": "$1.98",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:45:00 GMT",
+   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-green.html"
   },
   {
    "description": "Red",
@@ -45,14 +42,17 @@
    "quantity": 4,
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:33:13 GMT",
+   "timestamp": "Sat, 26 Sep 2015 03:45:00 GMT",
    "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-red.html"
   },
   {
-   "url": "http://www.readytoflyquads.com/dal-a-k-a-indestructible-5x4-orange-props"
-  },
-  {
-   "url": "http://www.dronematters.com/power-system/propellers/dal-rc-surveilzone-5040-black-1259.html"
+   "description": "Black",
+   "price": "$1.98",
+   "quantity": 4,
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:45:00 GMT",
+   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-black.html"
   }
  ],
  "version": 2,

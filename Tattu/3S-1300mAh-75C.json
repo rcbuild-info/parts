@@ -16,13 +16,6 @@
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=297"
   },
   {
-   "price": "$24.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:33:11 GMT",
-   "url": "http://www.getfpv.com/tattu-1300mah-3s-75c-lipo-battery.html"
-  },
-  {
    "url": "http://www.multirotorsuperstore.com/batteries/tattu-3s-1300mah-75c-lipo-battery.html"
   },
   {
@@ -31,6 +24,13 @@
    "stock_text": "In stock",
    "timestamp": "Sat, 26 Sep 2015 02:41:13 GMT",
    "url": "http://www.multirotorsuperstore.com/tattu-3s-1300mah-75c-lipo-battery.html"
+  },
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:59 GMT",
+   "url": "http://www.getfpv.com/tattu-1300mah-3s-75c-lipo-battery.html"
   }
  ],
  "version": 2,

@@ -15,13 +15,6 @@
  },
  "variants": [
   {
-   "price": "$20.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:27:04 GMT",
-   "url": "http://www.getfpv.com/cobra-cm-2204-1960kv-motor.html"
-  },
-  {
    "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=108"
   },
   {
@@ -39,6 +32,13 @@
    "stock_text": "Out of stock",
    "timestamp": "Sat, 26 Sep 2015 02:46:33 GMT",
    "url": "http://www.multirotorsuperstore.com/cobra-2204-1960kv-brushless-motor.html"
+  },
+  {
+   "price": "$20.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:41:38 GMT",
+   "url": "http://www.getfpv.com/cobra-cm-2204-1960kv-motor.html"
   }
  ],
  "version": 2,

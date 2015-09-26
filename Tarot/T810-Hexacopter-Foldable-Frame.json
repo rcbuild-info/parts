@@ -11,13 +11,6 @@
  },
  "variants": [
   {
-   "price": "$329.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:24:38 GMT",
-   "url": "http://www.getfpv.com/tarot-t810-hexacopter-foldable-frame.html"
-  },
-  {
    "url": "http://www.multirotorsuperstore.com/frames/frames-by-size/tarot-t810-hexacopter-foldable-frame.html"
   },
   {
@@ -26,6 +19,13 @@
    "stock_text": "In stock",
    "timestamp": "Sat, 26 Sep 2015 02:51:34 GMT",
    "url": "http://www.multirotorsuperstore.com/tarot-t810-hexacopter-foldable-frame.html"
+  },
+  {
+   "price": "$329.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:43:24 GMT",
+   "url": "http://www.getfpv.com/tarot-t810-hexacopter-foldable-frame.html"
   }
  ],
  "version": 2,

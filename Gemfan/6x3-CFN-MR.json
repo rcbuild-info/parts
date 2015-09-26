@@ -17,11 +17,29 @@
   },
   {
    "description": "Black",
+   "price": "$4.39",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:36 GMT",
+   "url": "http://www.getfpv.com/gemfan-6x3-carbon-nylon-propeller-2-blade-set-of-4-black.html"
+  },
+  {
+   "description": "Black",
+   "price": "$20.95",
+   "quantity": 20,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:36 GMT",
+   "url": "http://www.getfpv.com/gemfan-6x3-carbon-nylon-propeller-2-blade-set-of-4-black.html"
+  },
+  {
+   "description": "Black",
    "price": "$39.90",
    "quantity": 40,
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:32:50 GMT",
+   "timestamp": "Sat, 26 Sep 2015 03:44:36 GMT",
    "url": "http://www.getfpv.com/gemfan-6x3-carbon-nylon-propeller-2-blade-set-of-4-black.html"
   }
  ],

@@ -13,13 +13,6 @@
  },
  "variants": [
   {
-   "price": "$44.90",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:32:30 GMT",
-   "url": "http://www.getfpv.com/tiger-motor-mt-2212-16-750kv.html"
-  },
-  {
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1491"
   },
   {
@@ -27,6 +20,13 @@
   },
   {
    "url": "http://flyduino.net/T-Motor-MT2212-750KV"
+  },
+  {
+   "price": "$44.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:44:01 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mt-2212-16-750kv.html"
   }
  ],
  "version": 2,

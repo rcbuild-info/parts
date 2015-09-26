@@ -13,13 +13,6 @@
  },
  "variants": [
   {
-   "price": "$41.90",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:32:18 GMT",
-   "url": "http://www.getfpv.com/tiger-motor-mt-1306-10-3100kv.html"
-  },
-  {
    "url": "http://flyduino.net/T-Motor-Brushless-Multikopter-Motor"
   },
   {
@@ -30,6 +23,13 @@
   },
   {
    "url": "http://www.dronematters.com/power-system/brushless-motors/tiger-motor-mt1306-3100kv.html"
+  },
+  {
+   "price": "$41.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:43:18 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mt-1306-10-3100kv.html"
   }
  ],
  "version": 2,

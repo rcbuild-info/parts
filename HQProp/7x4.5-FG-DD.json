@@ -31,24 +31,6 @@
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3954"
   },
   {
-   "description": "pack",
-   "price": "$4.25",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:26:51 GMT",
-   "url": "http://www.getfpv.com/hqprop-7x4-5-cw-propeller-2-blade-2-pack.html"
-  },
-  {
-   "description": "pack",
-   "price": "$4.25",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:26:51 GMT",
-   "url": "http://www.getfpv.com/hqprop-7x4-5-ccw-propeller-2-blade-2-pack.html"
-  },
-  {
    "url": "http://flyduino.net/HQProp-7x45-1778cm-Propeller-Set-Black-4-pcs-Glass-reinforced"
   },
   {
@@ -113,6 +95,22 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 02:45:00 GMT",
    "url": "http://www.multirotorsuperstore.com/hqprop-7045-glass-composite.html"
+  },
+  {
+   "price": "$4.25",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:39:05 GMT",
+   "url": "http://www.getfpv.com/hqprop-7x4-5-cw-propeller-2-blade-2-pack.html"
+  },
+  {
+   "price": "$4.25",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:39:05 GMT",
+   "url": "http://www.getfpv.com/hqprop-7x4-5-ccw-propeller-2-blade-2-pack.html"
   }
  ],
  "version": 2,

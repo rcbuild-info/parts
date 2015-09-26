@@ -13,64 +13,58 @@
  },
  "variants": [
   {
-   "description": "pack",
-   "price": "$3.78",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:28:18 GMT",
-   "url": "http://www.getfpv.com/hqprop-8x4-5o-ccw-propeller-slow-flyer-2-blade-2-pack.html"
-  },
-  {
-   "description": "pack",
-   "price": "$4.40",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:25:19 GMT",
-   "url": "http://www.getfpv.com/hqprop-8x4-5-cw-propeller-slow-flyer-2-blade-2-pack.html"
-  },
-  {
-   "description": "pack",
-   "price": "$4.40",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:25:19 GMT",
-   "url": "http://www.getfpv.com/hqprop-8x4-5-ccw-propeller-slow-flyer-2-blade-2-pack.html"
-  },
-  {
-   "description": "pack",
-   "price": "$3.78",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:28:17 GMT",
-   "url": "http://www.getfpv.com/hqprop-8x4-5g-ccw-propeller-slow-flyer-2-blade-2-pack.html"
-  },
-  {
-   "description": "pack",
-   "price": "$3.78",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:28:17 GMT",
-   "url": "http://www.getfpv.com/hqprop-8x4-5g-cw-propeller-slow-flyer-2-blade-2-pack.html"
-  },
-  {
-   "description": "pack",
-   "price": "$3.78",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:28:17 GMT",
-   "url": "http://www.getfpv.com/hqprop-8x4-5o-cw-propeller-slow-flyer-2-blade-2-pack.html"
-  },
-  {
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=60"
   },
   {
    "url": "http://www.readytoflyquads.com/hq-prop-8x45-green-carbon-composite-prop"
+  },
+  {
+   "price": "$4.40",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:38:04 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x4-5-cw-propeller-slow-flyer-2-blade-2-pack.html"
+  },
+  {
+   "price": "$4.40",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:38:05 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x4-5-ccw-propeller-slow-flyer-2-blade-2-pack.html"
+  },
+  {
+   "price": "$3.78",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:40:54 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x4-5g-ccw-propeller-slow-flyer-2-blade-2-pack.html"
+  },
+  {
+   "price": "$3.78",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:40:54 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x4-5g-cw-propeller-slow-flyer-2-blade-2-pack.html"
+  },
+  {
+   "price": "$3.78",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:40:55 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x4-5o-cw-propeller-slow-flyer-2-blade-2-pack.html"
+  },
+  {
+   "price": "$3.78",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:40:55 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x4-5o-ccw-propeller-slow-flyer-2-blade-2-pack.html"
   }
  ],
  "version": 2,

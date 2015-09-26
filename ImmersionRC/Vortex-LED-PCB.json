@@ -11,17 +11,17 @@
  },
  "variants": [
   {
-   "price": "$13.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:33:22 GMT",
-   "url": "http://www.getfpv.com/vortex-led-pcb.html"
-  },
-  {
    "url": "https://www.multirotorparts.com/frames/immersionrc/immersionrc-vortex-led-pcb.html"
   },
   {
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4506"
+  },
+  {
+   "price": "$13.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:45:09 GMT",
+   "url": "http://www.getfpv.com/vortex-led-pcb.html"
   }
  ],
  "version": 2,

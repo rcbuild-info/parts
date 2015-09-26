@@ -11,13 +11,6 @@
  },
  "variants": [
   {
-   "price": "$18.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:25:06 GMT",
-   "url": "http://www.getfpv.com/frsky-flvss-lipo-voltage-sensor-with-smartport.html"
-  },
-  {
    "url": "http://www.multirotorsuperstore.com/radio/frsky/accessories/frsky-flvss-lipo-voltage-sensor-with-smartport.html"
   },
   {
@@ -26,6 +19,13 @@
    "stock_text": "In stock",
    "timestamp": "Sat, 26 Sep 2015 02:44:18 GMT",
    "url": "http://www.multirotorsuperstore.com/frsky-flvss-lipo-voltage-sensor-with-smartport.html"
+  },
+  {
+   "price": "$18.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:37:36 GMT",
+   "url": "http://www.getfpv.com/frsky-flvss-lipo-voltage-sensor-with-smartport.html"
   }
  ],
  "version": 2,

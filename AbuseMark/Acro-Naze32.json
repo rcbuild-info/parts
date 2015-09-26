@@ -13,13 +13,6 @@
  },
  "variants": [
   {
-   "price": "$24.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:27:41 GMT",
-   "url": "http://www.getfpv.com/acro-naze32-flight-controller-straight-right-angle.html"
-  },
-  {
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3066"
   },
   {
@@ -30,6 +23,13 @@
   },
   {
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=70"
+  },
+  {
+   "price": "$24.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:39:31 GMT",
+   "url": "http://www.getfpv.com/acro-naze32-flight-controller-straight-right-angle.html"
   }
  ],
  "version": 2,

@@ -13,13 +13,6 @@
  },
  "variants": [
   {
-   "price": "$52.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:27:40 GMT",
-   "url": "http://www.getfpv.com/full-naze32-flight-controller-straight-right-angle.html"
-  },
-  {
    "url": "http://www.voodooquads.com/naze32-full-flight-controller-with-pressure-sensor-and-mag/"
   },
   {
@@ -34,6 +27,13 @@
    "stock_text": "In stock",
    "timestamp": "Sat, 26 Sep 2015 02:48:36 GMT",
    "url": "http://www.multirotorsuperstore.com/naze-32.html"
+  },
+  {
+   "price": "$52.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:39:30 GMT",
+   "url": "http://www.getfpv.com/full-naze32-flight-controller-straight-right-angle.html"
   }
  ],
  "version": 2,

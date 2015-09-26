@@ -46,24 +46,6 @@
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3565"
   },
   {
-   "description": "pack",
-   "price": "$3.09",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:28:37 GMT",
-   "url": "http://www.getfpv.com/hqprop-6x3-ccw-propeller-2-blade-2-pack.html"
-  },
-  {
-   "description": "pack",
-   "price": "$3.09",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 01:28:36 GMT",
-   "url": "http://www.getfpv.com/hqprop-6x3-cw-propeller-2-blade-2-pack.html"
-  },
-  {
    "url": "http://flyduino.net/HQProp-6x3-1524cm-Direct-mount-Propeller-Set-Orange-4-pcs-Glass-reinforced"
   },
   {
@@ -134,6 +116,22 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 02:45:08 GMT",
    "url": "http://www.multirotorsuperstore.com/hqprop-6030-glass-composite.html"
+  },
+  {
+   "price": "$3.09",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:38:10 GMT",
+   "url": "http://www.getfpv.com/hqprop-6x3-cw-propeller-2-blade-2-pack.html"
+  },
+  {
+   "price": "$3.09",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:38:10 GMT",
+   "url": "http://www.getfpv.com/hqprop-6x3-ccw-propeller-2-blade-2-pack.html"
   }
  ],
  "version": 2,
