@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "Pro Micro 16Mhz 5V Schwarz 1.6mm PCB",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Flyduino-Pro-Micro-16Mhz-5V-Schwarz-16mm-PCB_1",
-   "http://flyduino.net/Flyduino-Pro-Micro-16Mhz-5V-Schwarz-16mm-PCB"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Flyduino-Pro-Micro-16Mhz-5V-Schwarz-16mm-PCB"
+  },
+  {
+   "price": "12,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:26 GMT",
+   "url": "http://flyduino.net/Flyduino-Pro-Micro-16Mhz-5V-Schwarz-16mm-PCB_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

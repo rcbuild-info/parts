@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Ultra WDR Sony Effio-V 800TVL CCD FPV Camera 2.8mm Optic  DC5-15V 30x30mm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Ultra-WDR-Sony-Effio-V-800TVL-CCD-FPV-Camera-28mm-Optic-DC5-15V-30x30mm_1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "89,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:29 GMT",
+   "url": "http://flyduino.net/Ultra-WDR-Sony-Effio-V-800TVL-CCD-FPV-Camera-28mm-Optic-DC5-15V-30x30mm_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,04kg"
 }

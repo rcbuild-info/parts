@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FCP HL Centerplate Light version 1.2mm",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/FCP-HL-Centerplate-Light-version-12mm",
-   "http://flyduino.net/Multikopter-Rahmen_3"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Multikopter-Rahmen_3"
+  },
+  {
+   "price": "28,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:40 GMT",
+   "url": "http://flyduino.net/FCP-HL-Centerplate-Light-version-12mm"
+  }
+ ],
+ "version": 2,
+ "weight": "0,40kg"
 }

@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "7x4 Direct Drive Carbon Fiber Composite",
@@ -7,10 +9,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Multikopter-Propeller-CW-CCW_32",
-   "http://flyduino.net/HQProp-7x4-1778cm-Propeller-Set-Black-4-pcs-Carbon-reinforced"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_32"
+  },
+  {
+   "price": "6,80 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:30 GMT",
+   "url": "http://flyduino.net/HQProp-7x4-1778cm-Propeller-Set-Black-4-pcs-Carbon-reinforced"
+  }
+ ],
+ "version": 2,
+ "weight": "0,04kg"
 }

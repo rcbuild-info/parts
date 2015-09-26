@@ -1,5 +1,7 @@
 {
- "category": "esc",
+ "categories": [
+  "esc"
+ ],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "KISS 18A 3D",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/KISS-ESC-2-4S-18A-v11-3D-Version_1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "18,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:01 GMT",
+   "url": "http://flyduino.net/KISS-ESC-2-4S-18A-v11-3D-Version_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

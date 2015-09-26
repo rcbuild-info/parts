@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Shaft for T- Motor 2814 2 pcs",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Shaft-for-T-Motor-2814-2-pcs"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "3,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:09 GMT",
+   "url": "http://flyduino.net/Shaft-for-T-Motor-2814-2-pcs"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

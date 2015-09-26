@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3rd Axis Ext. Board for AlexMos Board",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Alex-Mos-Brushless-Gimbal-BLG_3",
-   "http://flyduino.net/Alex-Mos-Brushless-Gimbal-BLG_2"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Alex-Mos-Brushless-Gimbal-BLG_2"
+  },
+  {
+   "price": "14,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:58 GMT",
+   "url": "http://flyduino.net/Alex-Mos-Brushless-Gimbal-BLG_3"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

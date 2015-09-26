@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "32bit Basecam Link Board V1  Bluetooth  VTX",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Brushless-Gimbal-Basecam-Video-Downlink-BT"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "22,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:57 GMT",
+   "url": "http://flyduino.net/Brushless-Gimbal-Basecam-Video-Downlink-BT"
+  }
+ ],
+ "version": 2,
+ "weight": "0,02kg"
 }

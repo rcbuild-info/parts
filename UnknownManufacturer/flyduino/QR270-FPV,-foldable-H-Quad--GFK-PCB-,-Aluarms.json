@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "QR270 FPV, foldable H-Quad  GFK-PCB , Aluarms",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/QR270-FPV-foldable-H-Quad-GFK-PCB-Aluarms"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "99,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:35 GMT",
+   "url": "http://flyduino.net/QR270-FPV-foldable-H-Quad-GFK-PCB-Aluarms"
+  }
+ ],
+ "version": 2,
+ "weight": "0,27kg"
 }

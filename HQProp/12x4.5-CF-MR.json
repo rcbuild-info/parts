@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "12x4.5 Multirotor Carbon Fiber Composite",
@@ -7,13 +9,28 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/HQProp-12x45-1245-MR-Carbon-reinforced-AP-Propeller-Set-Black-2CW-2-CCW",
-   "http://flyduino.net/Multikopter-Propeller-CW-CCW_35",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3204",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3203",
-   "https://www.multirotorparts.com/propellers/hqprop-12-x-4-5-carbon-versterkte-multirotor-propeller-set-van-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_35"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3204"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3203"
+  },
+  {
+   "url": "https://www.multirotorparts.com/propellers/hqprop-12-x-4-5-carbon-versterkte-multirotor-propeller-set-van-4.html"
+  },
+  {
+   "price": "12,30 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:52 GMT",
+   "url": "http://flyduino.net/HQProp-12x45-1245-MR-Carbon-reinforced-AP-Propeller-Set-Black-2CW-2-CCW"
+  }
+ ],
+ "version": 2,
+ "weight": "0,05kg"
 }

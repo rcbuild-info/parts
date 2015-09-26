@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Quadrokopter Set 25cm X2216",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Quadrokopter-Set-25cm-X2216_1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "274,38 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:28 GMT",
+   "url": "http://flyduino.net/Quadrokopter-Set-25cm-X2216_1"
+  }
+ ],
+ "version": 2,
+ "weight": "1,00kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "Lipo belt 7x260 Black",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Flyduino-Lipo-belt-7x260-Black"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "0,80 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:54 GMT",
+   "url": "http://flyduino.net/Flyduino-Lipo-belt-7x260-Black"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FCP HL 16mm shells Motor side",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/FCP-HL-16mm-shells-Motor-side"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "1,65 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:41 GMT",
+   "url": "http://flyduino.net/FCP-HL-16mm-shells-Motor-side"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

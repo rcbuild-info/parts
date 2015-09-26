@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "X2212 1000KV Brushless Outrunner Motor CW Version",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_7"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "22,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:04 GMT",
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_7"
+  }
+ ],
+ "version": 2,
+ "weight": "0,06kg"
 }

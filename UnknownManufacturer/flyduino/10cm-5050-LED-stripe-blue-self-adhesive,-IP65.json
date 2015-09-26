@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10cm 5050 LED stripe blue self adhesive, IP65",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/10cm-5050-LED-stripe-blue-self-adhesive-IP65"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "1,79 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:15 GMT",
+   "url": "http://flyduino.net/10cm-5050-LED-stripe-blue-self-adhesive-IP65"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

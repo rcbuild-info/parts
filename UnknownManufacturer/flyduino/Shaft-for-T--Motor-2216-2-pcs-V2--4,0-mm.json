@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Shaft for T- Motor 2216 2 pcs V2  4,0 mm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Shaft-for-T-Motor-2216-2-pcs-V2-40-mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "3,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:10 GMT",
+   "url": "http://flyduino.net/Shaft-for-T-Motor-2216-2-pcs-V2-40-mm"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

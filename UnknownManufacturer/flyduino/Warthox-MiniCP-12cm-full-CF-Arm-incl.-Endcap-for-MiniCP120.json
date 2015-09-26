@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Warthox MiniCP 12cm full CF Arm incl. Endcap for MiniCP120",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Warthox-MiniCP-12cm-full-CF-Arm-incl-Endcap-for-MiniCP120"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "12,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:45 GMT",
+   "url": "http://flyduino.net/Warthox-MiniCP-12cm-full-CF-Arm-incl-Endcap-for-MiniCP120"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

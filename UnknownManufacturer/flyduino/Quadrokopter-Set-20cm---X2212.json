@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Quadrokopter Set 20cm - X2212",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Quadrokopter-Set-20cm-X2212_1",
-   "http://flyduino.net/Quadrokopter-Set-20cm-X2212"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Quadrokopter-Set-20cm-X2212"
+  },
+  {
+   "price": "258,68 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:56 GMT",
+   "url": "http://flyduino.net/Quadrokopter-Set-20cm-X2212_1"
+  }
+ ],
+ "version": 2,
+ "weight": "1,00kg"
 }

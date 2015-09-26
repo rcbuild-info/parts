@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5045 Gemfan 2 bladed Propeller Set Black 8 pcs 4 CW and 4 CCW",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/5045-Gemfan-2-bladed-Propeller-Set-Black-8-pcs-4-CW-and-4-CCW"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "6,50 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:01 GMT",
+   "url": "http://flyduino.net/5045-Gemfan-2-bladed-Propeller-Set-Black-8-pcs-4-CW-and-4-CCW"
+  }
+ ],
+ "version": 2,
+ "weight": "0,02kg"
 }

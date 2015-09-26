@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10\"x5 GF Electric Propeller Set Green 2CW 2CCW",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/10x5-GF-Electric-Propeller-Set-Green-2CW-2CCW"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "4,80 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:08 GMT",
+   "url": "http://flyduino.net/10x5-GF-Electric-Propeller-Set-Green-2CW-2CCW"
+  }
+ ],
+ "version": 2,
+ "weight": "0,06kg"
 }

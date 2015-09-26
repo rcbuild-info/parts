@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN4014 330KV",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/T-Motor-MN4014-330KV",
-   "http://flyduino.net/T-Motor-Navigator_3"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/T-Motor-Navigator_3"
+  },
+  {
+   "price": "78,90 \u20ac",
+   "stock_state": "low_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:39 GMT",
+   "url": "http://flyduino.net/T-Motor-MN4014-330KV"
+  }
+ ],
+ "version": 2,
+ "weight": "0,20kg"
 }

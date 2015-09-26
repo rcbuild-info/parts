@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "U8 Pro 100KV",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_29",
-   "http://flyduino.net/Brushless-Motor-Multicopter-T-Motor-U-Serie-U8-Pro-100KV"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Brushless-Motor-Multicopter-T-Motor-U-Serie-U8-Pro-100KV"
+  },
+  {
+   "price": "243,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:04 GMT",
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_29"
+  }
+ ],
+ "version": 2,
+ "weight": "0,17kg"
 }

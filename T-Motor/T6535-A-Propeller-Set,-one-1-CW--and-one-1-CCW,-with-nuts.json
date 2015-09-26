@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "T6535-A Propeller Set, one 1 CW  and one 1 CCW, with nuts",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/T-Motor-T6535-A-Propeller-Set-one-1-CW-and-one-1-CCW-with-nuts"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "5,80 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:34 GMT",
+   "url": "http://flyduino.net/T-Motor-T6535-A-Propeller-Set-one-1-CW-and-one-1-CCW-with-nuts"
+  }
+ ],
+ "version": 2,
+ "weight": "0,02kg"
 }

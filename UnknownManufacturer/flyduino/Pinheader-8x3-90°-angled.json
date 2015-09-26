@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Pinheader 8x3 90\u00b0 angled",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Pinheader-8x3-90-angled"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "1,59 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:08 GMT",
+   "url": "http://flyduino.net/Pinheader-8x3-90-angled"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

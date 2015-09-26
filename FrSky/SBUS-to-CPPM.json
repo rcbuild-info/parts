@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "SBUS to CPPM",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Frsky-SBUS-to-CPPM_1",
-   "http://flyduino.net/Frsky-SBUS-to-CPPM"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Frsky-SBUS-to-CPPM"
+  },
+  {
+   "price": "16,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:57 GMT",
+   "url": "http://flyduino.net/Frsky-SBUS-to-CPPM_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

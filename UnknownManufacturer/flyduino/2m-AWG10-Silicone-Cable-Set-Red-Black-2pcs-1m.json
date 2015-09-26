@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2m AWG10 Silicone Cable Set Red Black 2pcs 1m",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/2m-AWG10-Silicone-Cable-Set-Red-Black-2pcs-1m"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "8,99 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:05 GMT",
+   "url": "http://flyduino.net/2m-AWG10-Silicone-Cable-Set-Red-Black-2pcs-1m"
+  }
+ ],
+ "version": 2,
+ "weight": "0,14kg"
 }

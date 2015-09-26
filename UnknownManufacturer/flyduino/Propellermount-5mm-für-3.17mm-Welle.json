@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Propellermount 5mm f\u00fcr 3.17mm Welle",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Propellermount-5mm-fuer-317mm-Welle_1",
-   "http://flyduino.net/Propellermount-5mm-fuer-317mm-Welle"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Propellermount-5mm-fuer-317mm-Welle"
+  },
+  {
+   "price": "1,45 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:14 GMT",
+   "url": "http://flyduino.net/Propellermount-5mm-fuer-317mm-Welle_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

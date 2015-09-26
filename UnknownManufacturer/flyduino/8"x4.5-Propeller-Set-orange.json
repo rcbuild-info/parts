@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "8\"x4.5 Propeller Set orange",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/8x45-Propeller-Set-orange"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "4,20 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:01 GMT",
+   "url": "http://flyduino.net/8x45-Propeller-Set-orange"
+  }
+ ],
+ "version": 2,
+ "weight": "0,02kg"
 }

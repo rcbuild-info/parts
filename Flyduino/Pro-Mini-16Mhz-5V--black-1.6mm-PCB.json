@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "Pro Mini 16Mhz 5V  black 1.6mm PCB",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Flyduino-Pro-Mini-16Mhz-5V-black-16mm-PCB"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "9,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:26 GMT",
+   "url": "http://flyduino.net/Flyduino-Pro-Mini-16Mhz-5V-black-16mm-PCB"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

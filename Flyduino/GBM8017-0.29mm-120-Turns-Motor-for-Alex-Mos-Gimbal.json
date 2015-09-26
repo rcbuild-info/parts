@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "GBM8017 0.29mm 120 Turns Motor for Alex Mos Gimbal",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Flyduino-GBM8017-029mm-120-Turns-Motor-for-Alex-Mos-Gimbal"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "232,90 \u20ac",
+   "stock_state": "low_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:54 GMT",
+   "url": "http://flyduino.net/Flyduino-GBM8017-029mm-120-Turns-Motor-for-Alex-Mos-Gimbal"
+  }
+ ],
+ "version": 2,
+ "weight": "0,46kg"
 }

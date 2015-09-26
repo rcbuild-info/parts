@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "RX5822 5.8GHz 32Ch FPV Wirless AV Receiver - SMA",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Boscam-RX5822-58GHz-32Ch-FPV-Wirless-AV-Receiver-SMA"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "49,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:31 GMT",
+   "url": "http://flyduino.net/Boscam-RX5822-58GHz-32Ch-FPV-Wirless-AV-Receiver-SMA"
+  }
+ ],
+ "version": 2,
+ "weight": "0,07kg"
 }

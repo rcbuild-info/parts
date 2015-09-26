@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "GBM4114 0.17mm 120 Turns Motor for Alex Mos Gimbal 24N22P",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Flyduino-GBM4114-017mm-120-Turns-Motor-for-Alex-Mos-Gimbal-24N22P"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "46,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:55 GMT",
+   "url": "http://flyduino.net/Flyduino-GBM4114-017mm-120-Turns-Motor-for-Alex-Mos-Gimbal-24N22P"
+  }
+ ],
+ "version": 2,
+ "weight": "0,16kg"
 }

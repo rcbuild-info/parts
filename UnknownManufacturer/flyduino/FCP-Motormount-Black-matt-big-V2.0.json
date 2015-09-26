@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FCP Motormount Black matt big V2.0",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/FCP-Motormount-Black-matt-big-V20"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "2,55 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:39 GMT",
+   "url": "http://flyduino.net/FCP-Motormount-Black-matt-big-V20"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

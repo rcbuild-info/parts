@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Frame IMU for Alexmos 32 v5.4 incl. Cable",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Frame-IMU-for-Alexmos-32-v54-incl-Cable"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "18,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:27 GMT",
+   "url": "http://flyduino.net/Frame-IMU-for-Alexmos-32-v54-incl-Cable"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

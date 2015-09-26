@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1 pc female to female Servocable 6/8.7 cm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/1-pc-female-to-female-Servocable-6/87-cm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "0,60 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:11 GMT",
+   "url": "http://flyduino.net/1-pc-female-to-female-Servocable-6/87-cm"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

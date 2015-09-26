@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Warthox MiniCP120CF Frame Set incl. wound CF Arms and installation Material",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Warthox-MiniCP120CF-Frame-Set-incl-wound-CF-Arms-and-installation-Material"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "58,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:44 GMT",
+   "url": "http://flyduino.net/Warthox-MiniCP120CF-Frame-Set-incl-wound-CF-Arms-and-installation-Material"
+  }
+ ],
+ "version": 2,
+ "weight": "0,05kg"
 }

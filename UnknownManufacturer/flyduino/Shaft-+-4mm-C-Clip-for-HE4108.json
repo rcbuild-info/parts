@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Shaft + 4mm C-Clip for HE4108",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Shaft-4mm-C-Clip-for-HE4108"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "2,00 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:00 GMT",
+   "url": "http://flyduino.net/Shaft-4mm-C-Clip-for-HE4108"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

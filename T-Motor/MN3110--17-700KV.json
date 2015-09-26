@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN3110 -17 700KV",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-Navigator-Series",
-   "http://flyduino.net/Brushless-Motor-Multicopter-T-Motor-Navigator-MN3110-17-700KV"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Brushless-Motor-Multicopter-T-Motor-Navigator-MN3110-17-700KV"
+  },
+  {
+   "price": "49,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:44 GMT",
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-Navigator-Series"
+  }
+ ],
+ "version": 2,
+ "weight": "0,10kg"
 }

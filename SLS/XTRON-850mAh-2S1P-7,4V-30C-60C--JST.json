@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SLS",
  "name": "XTRON 850mAh 2S1P 7,4V 30C 60C -JST",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/SLS-XTRON-850mAh-2S1P-74V-30C-60C-JST_1",
-   "http://flyduino.net/SLS-XTRON-850mAh-2S1P-74V-30C-60C-JST"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/SLS-XTRON-850mAh-2S1P-74V-30C-60C-JST"
+  },
+  {
+   "price": "7,69 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:28 GMT",
+   "url": "http://flyduino.net/SLS-XTRON-850mAh-2S1P-74V-30C-60C-JST_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,05kg"
 }

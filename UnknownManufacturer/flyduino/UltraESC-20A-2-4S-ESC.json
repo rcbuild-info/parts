@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "UltraESC 20A 2-4S ESC",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/UltraESC-20A-2-4S-ESC_1",
-   "http://flyduino.net/UltraESC-20A-2-4S-ESC"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/UltraESC-20A-2-4S-ESC"
+  },
+  {
+   "price": "30,00 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:30 GMT",
+   "url": "http://flyduino.net/UltraESC-20A-2-4S-ESC_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

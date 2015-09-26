@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "8 pcs. female to female 1Pin Servocable 10cm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/8-pcs-female-to-female-1Pin-Servocable-10cm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "2,50 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:11 GMT",
+   "url": "http://flyduino.net/8-pcs-female-to-female-1Pin-Servocable-10cm"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

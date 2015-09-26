@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "X2208 v2 2000KV Brushless Outrunner Motor CW Version",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_34"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "21,50 \u20ac",
+   "stock_state": "low_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:05 GMT",
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_34"
+  }
+ ],
+ "version": 2,
+ "weight": "0,06kg"
 }

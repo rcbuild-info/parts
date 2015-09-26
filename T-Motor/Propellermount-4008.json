@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Propellermount 4008",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/T-Motor-Propellermount-4008_1",
-   "http://flyduino.net/T-Motor-Propellermount-4008"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/T-Motor-Propellermount-4008"
+  },
+  {
+   "price": "7,80 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:17 GMT",
+   "url": "http://flyduino.net/T-Motor-Propellermount-4008_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

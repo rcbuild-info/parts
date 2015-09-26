@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Warthox  Frame Set - 18cm CF arms",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Warthox-Frame-Set-18cm-CF-arms"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "78,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:39 GMT",
+   "url": "http://flyduino.net/Warthox-Frame-Set-18cm-CF-arms"
+  }
+ ],
+ "version": 2,
+ "weight": "0,14kg"
 }

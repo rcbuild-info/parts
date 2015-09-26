@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5.8G Cloverleaf Antenna SetType B - RP-SMA",
@@ -7,10 +7,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/58G-Cloverleaf-Antenna-SetType-B-RP-SMA_1",
-   "http://flyduino.net/58G-Cloverleaf-Antenna-SetType-B-RP-SMA"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "14,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:33 GMT",
+   "url": "http://flyduino.net/58G-Cloverleaf-Antenna-SetType-B-RP-SMA_1"
+  },
+  {
+   "price": "14,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:33 GMT",
+   "url": "http://flyduino.net/58G-Cloverleaf-Antenna-SetType-B-RP-SMA"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

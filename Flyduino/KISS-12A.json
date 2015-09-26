@@ -1,5 +1,7 @@
 {
- "category": "esc",
+ "categories": [
+  "esc"
+ ],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "KISS 12A",
@@ -9,11 +11,25 @@
   "manufacturer": [],
   "related": [
    "http://www.rcgroups.com/forums/showthread.php?t=2083052"
-  ],
-  "store": [
-   "http://flyduino.net/KISS-ESC-2-4S-12A-v11_1",
-   "http://flyduino.net/KISS-ESC-2-4S-12A-v11",
-   "http://flyduino.net/KISS-ESC-2-4S-12A-v12_1"
   ]
- }
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/KISS-ESC-2-4S-12A-v11"
+  },
+  {
+   "price": "14,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:01 GMT",
+   "url": "http://flyduino.net/KISS-ESC-2-4S-12A-v12_1"
+  },
+  {
+   "price": "13,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:02 GMT",
+   "url": "http://flyduino.net/KISS-ESC-2-4S-12A-v11_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

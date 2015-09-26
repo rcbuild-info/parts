@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2Meter AWG12 Silicone Cable Set Red Black 2pcs 100cm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/2Meter-AWG12-Silicone-Cable-Set-Red-Black-2pcs-100cm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "7,99 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:05 GMT",
+   "url": "http://flyduino.net/2Meter-AWG12-Silicone-Cable-Set-Red-Black-2pcs-100cm"
+  }
+ ],
+ "version": 2,
+ "weight": "0,09kg"
 }

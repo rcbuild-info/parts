@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "Slipring for GBM5208 and others",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Flyduino-Slipring-for-GBM5208-and-others"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "19,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:53 GMT",
+   "url": "http://flyduino.net/Flyduino-Slipring-for-GBM5208-and-others"
+  }
+ ],
+ "version": 2,
+ "weight": "0,10kg"
 }

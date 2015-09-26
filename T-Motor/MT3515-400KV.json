@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT3515 400KV",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/T-Motor-MT3515-400KV_1",
-   "http://flyduino.net/T-Motor-MT3515-400KV"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/T-Motor-MT3515-400KV"
+  },
+  {
+   "price": "69,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:48 GMT",
+   "url": "http://flyduino.net/T-Motor-MT3515-400KV_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,24kg"
 }

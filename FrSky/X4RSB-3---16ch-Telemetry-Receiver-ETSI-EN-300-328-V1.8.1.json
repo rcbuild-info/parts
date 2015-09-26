@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "X4RSB 3 - 16ch Telemetry Receiver ETSI EN 300 328 V1.8.1",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Frsky-X4RSB-3-16ch-Telemetry-Receiver-ETSI-EN-300-328-V181_1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "30,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:59 GMT",
+   "url": "http://flyduino.net/Frsky-X4RSB-3-16ch-Telemetry-Receiver-ETSI-EN-300-328-V181_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,04kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Tiger 1344 Carbon Fiber Propeller CW&CCW V2",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Tiger-1344-Carbon-Fiber-Propeller-CW-CCW-V2_1",
-   "http://flyduino.net/Tiger-1344-Carbon-Fiber-Propeller-CW-CCW-V2"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Tiger-1344-Carbon-Fiber-Propeller-CW-CCW-V2"
+  },
+  {
+   "price": "56,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:32 GMT",
+   "url": "http://flyduino.net/Tiger-1344-Carbon-Fiber-Propeller-CW-CCW-V2_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,19kg"
 }

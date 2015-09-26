@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT2814 770KV",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_5",
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-T-Motor_2"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-T-Motor_2"
+  },
+  {
+   "price": "49,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:39 GMT",
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_5"
+  }
+ ],
+ "version": 2,
+ "weight": "0,17kg"
 }

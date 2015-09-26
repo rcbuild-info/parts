@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "WarthoxCableProtector 12mm f\u00fcr 15x8mm Arms",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/WarthoxCableProtector-12mm-fuer-15x8mm-Arms"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "1,25 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:34 GMT",
+   "url": "http://flyduino.net/WarthoxCableProtector-12mm-fuer-15x8mm-Arms"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

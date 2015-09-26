@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Aluarm 120mm  15x8mm for MiniCP120",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Aluarm-120mm-15x8mm-for-MiniCP120"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "5,00 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:48 GMT",
+   "url": "http://flyduino.net/Aluarm-120mm-15x8mm-for-MiniCP120"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

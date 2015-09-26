@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SLS",
  "name": "XTRON 5000mAh 4S1P 14,8V 20C - 40C",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/SLS-XTRON-5000mAh-4S1P-148V-20C-40C",
-   "http://flyduino.net/SLS-XTRON-5000mAh-4S1P-148V-20C-40C-"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/SLS-XTRON-5000mAh-4S1P-148V-20C-40C-"
+  },
+  {
+   "price": "56,10 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:35 GMT",
+   "url": "http://flyduino.net/SLS-XTRON-5000mAh-4S1P-148V-20C-40C"
+  }
+ ],
+ "version": 2,
+ "weight": "0,50kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Super soft MicroHDMI to HDMI Cable 50cm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Super-soft-MicroHDMI-to-HDMI-Cable-50cm_1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "24,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:28 GMT",
+   "url": "http://flyduino.net/Super-soft-MicroHDMI-to-HDMI-Cable-50cm_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,03kg"
 }

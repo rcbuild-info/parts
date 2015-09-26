@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Tiger 7''x2.4 Carbon Fiber Propeller CW&CCW",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Tiger-7x24-Carbon-Fiber-Propeller-CW-CCW"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "27,90 \u20ac",
+   "stock_state": "low_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:12 GMT",
+   "url": "http://flyduino.net/Tiger-7x24-Carbon-Fiber-Propeller-CW-CCW"
+  }
+ ],
+ "version": 2,
+ "weight": "0,12kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "U5 400KV",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_19",
-   "http://flyduino.net/Brushless-Motor-Multicopter-T-Motor-U-Serie-U5-500KV"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Brushless-Motor-Multicopter-T-Motor-U-Serie-U5-500KV"
+  },
+  {
+   "price": "102,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:05 GMT",
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_19"
+  }
+ ],
+ "version": 2,
+ "weight": "0,17kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "M4 CW Propellermount MN1804 1806 PA031",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/T-Motor-M4-CW-Propellermount-MN1804-1806-PA031",
-   "http://flyduino.net/T-Motor-M4-CW-Propellermount-MN1804-1806-PA031_1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/T-Motor-M4-CW-Propellermount-MN1804-1806-PA031"
+  },
+  {
+   "price": "7,80 \u20ac",
+   "stock_state": "low_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:21 GMT",
+   "url": "http://flyduino.net/T-Motor-M4-CW-Propellermount-MN1804-1806-PA031_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

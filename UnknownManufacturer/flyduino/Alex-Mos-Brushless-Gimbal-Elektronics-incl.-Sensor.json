@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Alex Mos Brushless Gimbal Elektronics incl. Sensor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Alex-Mos-Brushless-Gimbal-BLG_1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "89,00 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:58 GMT",
+   "url": "http://flyduino.net/Alex-Mos-Brushless-Gimbal-BLG_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,02kg"
 }

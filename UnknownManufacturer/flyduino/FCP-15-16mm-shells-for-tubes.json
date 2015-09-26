@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FCP 15-16mm shells for tubes",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/FCP-15-16mm-shells-for-tubes"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "1,60 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:39 GMT",
+   "url": "http://flyduino.net/FCP-15-16mm-shells-for-tubes"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

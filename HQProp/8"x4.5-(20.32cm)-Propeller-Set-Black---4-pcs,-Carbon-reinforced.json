@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "8\"x4.5 (20.32cm) Propeller Set Black - 4 pcs, Carbon reinforced",
@@ -7,9 +7,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/HQProp-8x45-2032cm-Propeller-Set-Black-4-pcs-Carbon-reinforced"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "7,80 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:31 GMT",
+   "url": "http://flyduino.net/HQProp-8x45-2032cm-Propeller-Set-Black-4-pcs-Carbon-reinforced_1"
+  },
+  {
+   "price": "7,80 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:31 GMT",
+   "url": "http://flyduino.net/HQProp-8x45-2032cm-Propeller-Set-Black-4-pcs-Carbon-reinforced"
+  }
+ ],
+ "version": 2,
+ "weight": "0,04kg"
 }

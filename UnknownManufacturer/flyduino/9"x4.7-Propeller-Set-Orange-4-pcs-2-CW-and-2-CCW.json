@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "9\"x4.7 Propeller Set Orange 4 pcs 2 CW and 2 CCW",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/9x47-Propeller-Set-Orange-4-pcs-2-CW-and-2-CCW"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "4,35 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:32 GMT",
+   "url": "http://flyduino.net/9x47-Propeller-Set-Orange-4-pcs-2-CW-and-2-CCW"
+  }
+ ],
+ "version": 2,
+ "weight": "0,02kg"
 }

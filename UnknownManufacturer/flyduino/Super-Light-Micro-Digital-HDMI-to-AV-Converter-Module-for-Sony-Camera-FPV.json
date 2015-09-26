@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Super Light Micro Digital HDMI to AV Converter Module for Sony Camera FPV",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Super-Light-Micro-Digital-HDMI-to-AV-Converter-Module-for-Sony-Camera-FPV"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "55,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:29 GMT",
+   "url": "http://flyduino.net/Super-Light-Micro-Digital-HDMI-to-AV-Converter-Module-for-Sony-Camera-FPV"
+  }
+ ],
+ "version": 2,
+ "weight": "0,03kg"
 }

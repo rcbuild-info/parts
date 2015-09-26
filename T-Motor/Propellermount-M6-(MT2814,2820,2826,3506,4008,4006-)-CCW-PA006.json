@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Propellermount M6 (MT2814,2820,2826,3506,4008,4006 ) CCW PA006",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/T-Motor-Propellermount-M6-MT281428202826350640084006-CCW-PA006_1",
-   "http://flyduino.net/T-Motor-Propellermount-M6-MT281428202826350640084006-CCW-PA006"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/T-Motor-Propellermount-M6-MT281428202826350640084006-CCW-PA006"
+  },
+  {
+   "price": "8,89 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:16 GMT",
+   "url": "http://flyduino.net/T-Motor-Propellermount-M6-MT281428202826350640084006-CCW-PA006_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

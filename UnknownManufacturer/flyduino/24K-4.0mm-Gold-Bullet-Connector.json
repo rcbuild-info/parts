@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "24K 4.0mm Gold Bullet Connector",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/24K-40mm-Gold-Bullet-Connector"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "4,50 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:22 GMT",
+   "url": "http://flyduino.net/24K-40mm-Gold-Bullet-Connector"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN4010 475KV",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/T-Motor-MN4010-475KV",
-   "http://flyduino.net/T-Motor-Navigator_2"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/T-Motor-Navigator_2"
+  },
+  {
+   "price": "70,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:40 GMT",
+   "url": "http://flyduino.net/T-Motor-MN4010-475KV"
+  }
+ ],
+ "version": 2,
+ "weight": "0,20kg"
 }

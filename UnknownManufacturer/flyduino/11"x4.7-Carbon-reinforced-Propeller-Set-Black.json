@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "11\"x4.7 Carbon reinforced Propeller Set Black",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/11x47-Carbon-reinforced-Propeller-Set-Black"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "10,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:07 GMT",
+   "url": "http://flyduino.net/11x47-Carbon-reinforced-Propeller-Set-Black"
+  }
+ ],
+ "version": 2,
+ "weight": "0,04kg"
 }

@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN2204 1400kv",
@@ -7,11 +9,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-Navigator-Series_9",
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-T-Motor-Navigator_6",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2497"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-T-Motor-Navigator_6"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2497"
+  },
+  {
+   "price": "27,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:45 GMT",
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter-Navigator-Series_9"
+  }
+ ],
+ "version": 2,
+ "weight": "0,03kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "GBM5108 0.18mm 120 Turns Motor for Alex Mos Gimbal 24N22P",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Flyduino-GBM5108-018mm-120-Turns-Motor-for-Alex-Mos-Gimbal-24N22P"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "85,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:54 GMT",
+   "url": "http://flyduino.net/Flyduino-GBM5108-018mm-120-Turns-Motor-for-Alex-Mos-Gimbal-24N22P"
+  }
+ ],
+ "version": 2,
+ "weight": "0,16kg"
 }

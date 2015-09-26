@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Groundplane for GPS",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Groundplane-for-GPS_1",
-   "http://flyduino.net/Groundplane-for-GPS"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Groundplane-for-GPS"
+  },
+  {
+   "price": "14,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:58 GMT",
+   "url": "http://flyduino.net/Groundplane-for-GPS_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,02kg"
 }

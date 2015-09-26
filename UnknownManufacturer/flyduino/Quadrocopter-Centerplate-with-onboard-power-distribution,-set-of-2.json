@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Quadrocopter Centerplate with onboard power distribution, set of 2",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Quadrocopter-Centerplate-with-onboard-power-distribution-set-of-2"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "14,00 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:47 GMT",
+   "url": "http://flyduino.net/Quadrocopter-Centerplate-with-onboard-power-distribution-set-of-2"
+  }
+ ],
+ "version": 2,
+ "weight": "0,04kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SLS",
  "name": "XTRON 2200mAh 3S1P 11,1V 40C/80C",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/SLS-XTRON-2200mAh-3S1P-111V-40C/80C_1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "24,19 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:38 GMT",
+   "url": "http://flyduino.net/SLS-XTRON-2200mAh-3S1P-111V-40C/80C_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,21kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "15cm 5050 RGB LED stripe self adhesive, splashproof, IP65",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/15cm-5050-RGB-LED-stripe-self-adhesive-splashproof-IP65"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "2,09 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:13 GMT",
+   "url": "http://flyduino.net/15cm-5050-RGB-LED-stripe-self-adhesive-splashproof-IP65"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

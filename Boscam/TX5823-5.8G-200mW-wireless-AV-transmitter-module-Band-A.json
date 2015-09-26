@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "TX5823 5.8G 200mW wireless AV transmitter module Band A",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Boscam-TX5823-58G-200mW-wireless-AV-transmitter-module-Band-A"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "18,50 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:30 GMT",
+   "url": "http://flyduino.net/Boscam-TX5823-58G-200mW-wireless-AV-transmitter-module-Band-A"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

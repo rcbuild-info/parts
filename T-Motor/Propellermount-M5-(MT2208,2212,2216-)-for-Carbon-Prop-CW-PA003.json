@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Propellermount M5 (MT2208,2212,2216 ) for Carbon Prop CW PA003",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/T-Motor-Propellermount-M5-MT220822122216-for-Carbon-Prop-CW-PA003_1",
-   "http://flyduino.net/T-Motor-Propellermount-M5-MT220822122216-for-Carbon-Prop-CW-PA003"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/T-Motor-Propellermount-M5-MT220822122216-for-Carbon-Prop-CW-PA003"
+  },
+  {
+   "price": "9,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:16 GMT",
+   "url": "http://flyduino.net/T-Motor-Propellermount-M5-MT220822122216-for-Carbon-Prop-CW-PA003_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

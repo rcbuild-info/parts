@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2 pcs. Standoff 35mm Alu red M3",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/2-pcs-Standoff-35mm-Alu-red-M3"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "3,10 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:22 GMT",
+   "url": "http://flyduino.net/2-pcs-Standoff-35mm-Alu-red-M3"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

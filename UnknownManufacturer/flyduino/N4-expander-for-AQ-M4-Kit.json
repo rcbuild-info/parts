@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "N4 expander for AQ M4 Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/N4-expander-for-AQ-M4-Kit"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "39,00 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:03 GMT",
+   "url": "http://flyduino.net/N4-expander-for-AQ-M4-Kit"
+  }
+ ],
+ "version": 2,
+ "weight": "0,02kg"
 }

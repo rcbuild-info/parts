@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini Stromverteiler mit onboard 12V und 5V BEC",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Mini-Stromverteiler-mit-onboard-12V-und-5V-BEC_1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "7,50 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:35 GMT",
+   "url": "http://flyduino.net/Mini-Stromverteiler-mit-onboard-12V-und-5V-BEC_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

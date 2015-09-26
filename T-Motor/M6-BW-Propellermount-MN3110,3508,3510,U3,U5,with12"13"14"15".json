@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "M6 BW Propellermount MN3110,3508,3510,U3,U5,with12\"13\"14\"15\"",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/T-Motor-M6-BW-Propellermount-MN311035083510U3U5with12131415"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "15,60 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:19 GMT",
+   "url": "http://flyduino.net/T-Motor-M6-BW-Propellermount-MN311035083510U3U5with12131415"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Propellermount for X1806 MN1806 5mm CW",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Propellermount-for-X1806-MN1806-5mm-CW_1",
-   "http://flyduino.net/Propellermount-for-X1806-MN1806-5mm-CW"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Propellermount-for-X1806-MN1806-5mm-CW"
+  },
+  {
+   "price": "4,50 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:00 GMT",
+   "url": "http://flyduino.net/Propellermount-for-X1806-MN1806-5mm-CW_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

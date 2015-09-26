@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "G2208 0.18mm 80 Turns Motor for Alex Mos Gimbal",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Flyduino-G2208-018mm-80-Turns-Motor-for-Alex-Mos-Gimbal"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "25,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:56 GMT",
+   "url": "http://flyduino.net/Flyduino-G2208-018mm-80-Turns-Motor-for-Alex-Mos-Gimbal"
+  }
+ ],
+ "version": 2,
+ "weight": "0,04kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GoPro 3 LIVE OUT AV OUT FPV cabel (20cm)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/GoPro-3-LIVE-OUT-AV-OUT-FPV-cabel-20cm_1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "4,99 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:50 GMT",
+   "url": "http://flyduino.net/GoPro-3-LIVE-OUT-AV-OUT-FPV-cabel-20cm_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,02kg"
 }

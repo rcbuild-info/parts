@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "32-bit Brushless Gimbal Controller (Basecam SimpleBGC AlexMos) Frame Imu onboard",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Alex-Mos-Brushless-Gimbal-BLG-32bit-Basecam_1?lang=eng",
-   "http://flyduino.net/Alex-Mos-Brushless-Gimbal-BLG-32bit-Basecam_1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Alex-Mos-Brushless-Gimbal-BLG-32bit-Basecam_1?lang=eng"
+  },
+  {
+   "price": "159,00 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:58 GMT",
+   "url": "http://flyduino.net/Alex-Mos-Brushless-Gimbal-BLG-32bit-Basecam_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,02kg"
 }

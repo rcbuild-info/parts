@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GoPro Backbone Ribcage Mod Kit",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/GoPro-Backbone-Ribcage-Mod-Kit_1",
-   "http://flyduino.net/GoPro-Backbone-Ribcage-Mod-Kit"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/GoPro-Backbone-Ribcage-Mod-Kit"
+  },
+  {
+   "price": "169,00 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:50 GMT",
+   "url": "http://flyduino.net/GoPro-Backbone-Ribcage-Mod-Kit_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,07kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10\"x4.5 GF reinforced Propeller Set orange",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/10x45-GF-reinforced-Propeller-Set-orange",
-   "http://flyduino.net/10x45-GF-reinforced-Propeller-Set-orange?lang=eng"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/10x45-GF-reinforced-Propeller-Set-orange?lang=eng"
+  },
+  {
+   "price": "4,60 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:09 GMT",
+   "url": "http://flyduino.net/10x45-GF-reinforced-Propeller-Set-orange"
+  }
+ ],
+ "version": 2,
+ "weight": "0,03kg"
 }

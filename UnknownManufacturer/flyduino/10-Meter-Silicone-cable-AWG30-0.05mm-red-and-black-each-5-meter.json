@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10 Meter Silicone cable AWG30 0.05mm red and black each 5 meter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/10-Meter-Silicone-cable-AWG30-005mm-red-and-black-each-5-meter"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "6,99 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:05 GMT",
+   "url": "http://flyduino.net/10-Meter-Silicone-cable-AWG30-005mm-red-and-black-each-5-meter"
+  }
+ ],
+ "version": 2,
+ "weight": "0,02kg"
 }

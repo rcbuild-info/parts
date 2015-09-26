@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "HE4108 580KV Brushless Outrunner Motor",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_26",
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_25"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_25"
+  },
+  {
+   "price": "49,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:07 GMT",
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_26"
+  }
+ ],
+ "version": 2,
+ "weight": "0,06kg"
 }

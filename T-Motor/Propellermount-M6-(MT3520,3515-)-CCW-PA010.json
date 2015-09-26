@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Propellermount M6 (MT3520,3515 ) CCW PA010",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/T-Motor-Propellermount-M6-MT35203515-CCW-PA010_1",
-   "http://flyduino.net/T-Motor-Propellermount-M6-MT35203515-CCW-PA010"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/T-Motor-Propellermount-M6-MT35203515-CCW-PA010"
+  },
+  {
+   "price": "8,89 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:15 GMT",
+   "url": "http://flyduino.net/T-Motor-Propellermount-M6-MT35203515-CCW-PA010_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

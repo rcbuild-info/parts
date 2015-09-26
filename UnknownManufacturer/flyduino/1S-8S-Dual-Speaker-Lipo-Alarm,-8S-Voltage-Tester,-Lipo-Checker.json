@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1S-8S Dual Speaker Lipo Alarm, 8S Voltage Tester, Lipo Checker",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/1S-8S-Dual-Speaker-Lipo-Alarm-8S-Voltage-Tester-Lipo-Checker_1",
-   "http://flyduino.net/1S-8S-Dual-Speaker-Lipo-Alarm-8S-Voltage-Tester-Lipo-Checker"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/1S-8S-Dual-Speaker-Lipo-Alarm-8S-Voltage-Tester-Lipo-Checker"
+  },
+  {
+   "price": "4,99 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:54 GMT",
+   "url": "http://flyduino.net/1S-8S-Dual-Speaker-Lipo-Alarm-8S-Voltage-Tester-Lipo-Checker_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

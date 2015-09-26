@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SLS",
  "name": "XTRON 1000mAh 4S1P 14,8V 30C - 60C",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/SLS-XTRON-1000mAh-4S1P-148V-30C-60C_1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "16,49 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:50 GMT",
+   "url": "http://flyduino.net/SLS-XTRON-1000mAh-4S1P-148V-30C-60C_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,12kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Tiger 2995 Carbon Fiber Propeller CW&CCW",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Tiger-2995-Carbon-Fiber-Propeller-CW-CCW_1",
-   "http://flyduino.net/Tiger-2995-Carbon-Fiber-Propeller-CW-CCW"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Tiger-2995-Carbon-Fiber-Propeller-CW-CCW"
+  },
+  {
+   "price": "329,00 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:13 GMT",
+   "url": "http://flyduino.net/Tiger-2995-Carbon-Fiber-Propeller-CW-CCW_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,27kg"
 }

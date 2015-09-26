@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "13X6.5 T-Motor Beech Wood Prop",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/13X65-T-Motor-Beech-Wood-Prop"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "29,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:36 GMT",
+   "url": "http://flyduino.net/13X65-T-Motor-Beech-Wood-Prop"
+  }
+ ],
+ "version": 2,
+ "weight": "0,14kg"
 }

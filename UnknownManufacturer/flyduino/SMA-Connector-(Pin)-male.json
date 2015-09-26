@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SMA Connector (Pin) male",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/SMA-Connector-Pin-male"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "1,80 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:29 GMT",
+   "url": "http://flyduino.net/SMA-Connector-Pin-male"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

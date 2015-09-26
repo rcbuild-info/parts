@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "GB4106 Motor for Alex Mos Gimbal",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/T-Motor-GB4106-Motor-for-Alex-Mos-Gimbal"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "45,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:30 GMT",
+   "url": "http://flyduino.net/T-Motor-GB4106-Motor-for-Alex-Mos-Gimbal"
+  }
+ ],
+ "version": 2,
+ "weight": "0,10kg"
 }

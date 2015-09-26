@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "9x5 Multirotor Carbon Fiber Composite",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/HQProp-9x5-Carbon-reinforced-AP-Propeller-Set-Black-2CW-2-CCW"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "8,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:37 GMT",
+   "url": "http://flyduino.net/HQProp-9x5-Carbon-reinforced-AP-Propeller-Set-Black-2CW-2-CCW"
+  }
+ ],
+ "version": 2,
+ "weight": "0,05kg"
 }

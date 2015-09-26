@@ -13,9 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://flyduino.net/T-Motor-MT2208-1100KV_1"
-  },
-  {
    "url": "http://flyduino.net/T-Motor-MT2208-1100KV"
   },
   {
@@ -27,8 +24,14 @@
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:36:25 GMT",
    "url": "http://www.getfpv.com/tiger-motor-mt-2208-18-1100kv.html"
+  },
+  {
+   "price": "35,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:50 GMT",
+   "url": "http://flyduino.net/T-Motor-MT2208-1100KV_1"
   }
  ],
  "version": 2,
- "weight": ""
+ "weight": "0,07kg"
 }

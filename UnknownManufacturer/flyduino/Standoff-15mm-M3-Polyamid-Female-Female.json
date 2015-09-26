@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Standoff 15mm M3 Polyamid Female-Female",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Standoff-15mm-M3-Polyamid-Female-Female"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "0,38 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:17 GMT",
+   "url": "http://flyduino.net/Standoff-15mm-M3-Polyamid-Female-Female"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

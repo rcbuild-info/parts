@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3K 16mm CF Boom,25cm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/3K-16mm-CF-Boom25cm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "7,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:43 GMT",
+   "url": "http://flyduino.net/3K-16mm-CF-Boom25cm"
+  }
+ ],
+ "version": 2,
+ "weight": "0,02kg"
 }

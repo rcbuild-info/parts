@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "GBM4008H 0.21mm 150 Turns Motor for Alex Mos Gimbal",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Flyduino-GBM4008H-021mm-150-Turns-Motor-for-Alex-Mos-Gimbal"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "48,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:55 GMT",
+   "url": "http://flyduino.net/Flyduino-GBM4008H-021mm-150-Turns-Motor-for-Alex-Mos-Gimbal"
+  }
+ ],
+ "version": 2,
+ "weight": "0,11kg"
 }

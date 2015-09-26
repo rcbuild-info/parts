@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4 pcs. Standoff 35mm Alu  M3- black Female-Female",
@@ -7,10 +7,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/4-pcs-Standoff-35mm-Alu-M3-black-Female-Female_1",
-   "http://flyduino.net/4-pcs-Standoff-35mm-Alu-M3-black-Female-Female"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "4,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:19 GMT",
+   "url": "http://flyduino.net/4-pcs-Standoff-35mm-Alu-M3-black-Female-Female_1"
+  },
+  {
+   "price": "4,80 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:19 GMT",
+   "url": "http://flyduino.net/4-pcs-Standoff-35mm-Alu-M3-black-Female-Female"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

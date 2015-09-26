@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Antigravity MN2214 V2.0 x4",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Multikopter-Brushless-Motor-Phantom-Upgrade-Kit"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "185,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:46 GMT",
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Phantom-Upgrade-Kit"
+  }
+ ],
+ "version": 2,
+ "weight": "0,17kg"
 }

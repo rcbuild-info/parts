@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1550T Carbon Fiber Propeller CW&CCW for Navigator Motor",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/1550T-Carbon-Fiber-Propeller-CW-CCW-for-Navigator-Motor_1",
-   "http://flyduino.net/1550T-Carbon-Fiber-Propeller-CW-CCW-for-Navigator-Motor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/1550T-Carbon-Fiber-Propeller-CW-CCW-for-Navigator-Motor"
+  },
+  {
+   "price": "29,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:31 GMT",
+   "url": "http://flyduino.net/1550T-Carbon-Fiber-Propeller-CW-CCW-for-Navigator-Motor_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,06kg"
 }

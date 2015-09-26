@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MPU6050 Break Out onboard 3.3V reg",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/MPU6050-Break-Out-onboard-33V-reg_1",
-   "http://flyduino.net/MPU6050-Break-Out-onboard-33V-reg"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/MPU6050-Break-Out-onboard-33V-reg"
+  },
+  {
+   "price": "13,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:26 GMT",
+   "url": "http://flyduino.net/MPU6050-Break-Out-onboard-33V-reg_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SH1.0 4 pole I2C plug 25cm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/SH10-4-pole-I2C-plug-25cm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "3,40 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:48 GMT",
+   "url": "http://flyduino.net/SH10-4-pole-I2C-plug-25cm"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

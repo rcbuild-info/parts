@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3K 18mm CF Boom, 42cm  MATT",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/3K-18mm-CF-Boom-42cm-MATT"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "15,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:43 GMT",
+   "url": "http://flyduino.net/3K-18mm-CF-Boom-42cm-MATT"
+  }
+ ],
+ "version": 2,
+ "weight": "0,03kg"
 }

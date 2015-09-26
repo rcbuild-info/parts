@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT2216 900KV",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_3"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "44,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:48 GMT",
+   "url": "http://flyduino.net/Multikopter-Brushless-Motor-Multicopter_3"
+  }
+ ],
+ "version": 2,
+ "weight": "0,12kg"
 }

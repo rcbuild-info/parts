@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Taranis X9D PLUS Mode 2 ETSI EN 300 328 V1.8.1 (EU-Version)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Frsky-Taranis-X9D-PLUS-Mode-2-ETSI-EN-300-328-V181-EU-Version"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "239,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:23 GMT",
+   "url": "http://flyduino.net/Frsky-Taranis-X9D-PLUS-Mode-2-ETSI-EN-300-328-V181-EU-Version"
+  }
+ ],
+ "version": 2,
+ "weight": "1,16kg"
 }

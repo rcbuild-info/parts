@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Suppo",
  "name": "A2212-13 1000KV Brushless Outrunner",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Suppo-A2212-13-1000KV-Brushless-Outrunner",
-   "http://flyduino.net/Multikopter-Motor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/Multikopter-Motor"
+  },
+  {
+   "price": "14,95 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:00 GMT",
+   "url": "http://flyduino.net/Suppo-A2212-13-1000KV-Brushless-Outrunner"
+  }
+ ],
+ "version": 2,
+ "weight": "0,06kg"
 }

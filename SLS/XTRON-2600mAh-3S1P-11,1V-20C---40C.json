@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SLS",
  "name": "XTRON 2600mAh 3S1P 11,1V 20C - 40C",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/SLS-XTRON-2600mAh-3S1P-111V-20C-40C",
-   "http://flyduino.net/SLS-XTRON-2600mAh-3S1P-111V-20C-40C-"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/SLS-XTRON-2600mAh-3S1P-111V-20C-40C-"
+  },
+  {
+   "price": "23,09 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:37 GMT",
+   "url": "http://flyduino.net/SLS-XTRON-2600mAh-3S1P-111V-20C-40C"
+  }
+ ],
+ "version": 2,
+ "weight": "0,22kg"
 }

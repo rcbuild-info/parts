@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Receiver Antenna  150mm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Frsky-Receiver-Antenna-150mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "1,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:58 GMT",
+   "url": "http://flyduino.net/Frsky-Receiver-Antenna-150mm"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

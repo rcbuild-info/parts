@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "4\"x4.5 (10.16cm) Propeller Set Black - 4 pcs, Glass reinforced",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/HQProp-4x45-1016cm-Propeller-Set-Black-4-pcs-Glass-reinforced"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "4,20 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:16 GMT",
+   "url": "http://flyduino.net/HQProp-4x45-1016cm-Propeller-Set-Black-4-pcs-Glass-reinforced"
+  }
+ ],
+ "version": 2,
+ "weight": "0,02kg"
 }

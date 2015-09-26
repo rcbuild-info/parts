@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Air Gear 200 Motor CCW",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/T-Motor-Air-Gear-200-Motor-CCW"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "18,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:47 GMT",
+   "url": "http://flyduino.net/T-Motor-Air-Gear-200-Motor-CCW"
+  }
+ ],
+ "version": 2,
+ "weight": "0,03kg"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "FLVSS Lipo Sensor with Smart Port",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Frsky-FLVSS-Lipo-Sensor-with-Smart-Port"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "19,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:57 GMT",
+   "url": "http://flyduino.net/Frsky-FLVSS-Lipo-Sensor-with-Smart-Port"
+  }
+ ],
+ "version": 2,
+ "weight": "0,01kg"
 }

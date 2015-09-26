@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "copper adapter 4*2 for 6-7 inch CF",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/copper-adapter-42-for-6-7-inch-CF"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "1,25 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:21 GMT",
+   "url": "http://flyduino.net/copper-adapter-42-for-6-7-inch-CF"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

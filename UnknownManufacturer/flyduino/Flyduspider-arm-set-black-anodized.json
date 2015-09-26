@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Flyduspider arm set black anodized",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Flyduspider-arm-set-black-anodized"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "36,00 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:59 GMT",
+   "url": "http://flyduino.net/Flyduspider-arm-set-black-anodized"
+  }
+ ],
+ "version": 2,
+ "weight": "0,22kg"
 }

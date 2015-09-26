@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Shaft for T- Motor 1806 (2mm) 2 pcs SH025",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Shaft-for-T-Motor-1806-2mm-2-pcs-SH025"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "3,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:18:12 GMT",
+   "url": "http://flyduino.net/Shaft-for-T-Motor-1806-2mm-2-pcs-SH025"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

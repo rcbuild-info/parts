@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flyduino",
  "name": "MW32",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/Multikopter-FC-Multiwii-BaseFlight"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "47,90 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:26 GMT",
+   "url": "http://flyduino.net/Multikopter-FC-Multiwii-BaseFlight"
+  }
+ ],
+ "version": 2,
+ "weight": "0,00kg"
 }

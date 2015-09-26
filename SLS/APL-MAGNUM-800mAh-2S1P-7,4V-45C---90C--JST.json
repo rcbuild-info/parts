@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SLS",
  "name": "APL MAGNUM 800mAh 2S1P 7,4V 45C - 90C -JST",
@@ -7,10 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/SLS-APL-MAGNUM-800mAh-2S1P-74V-45C-90C-JST_1",
-   "http://flyduino.net/SLS-APL-MAGNUM-800mAh-2S1P-74V-45C-90C-JST"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/SLS-APL-MAGNUM-800mAh-2S1P-74V-45C-90C-JST"
+  },
+  {
+   "price": "8,50 \u20ac",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:17:52 GMT",
+   "url": "http://flyduino.net/SLS-APL-MAGNUM-800mAh-2S1P-74V-45C-90C-JST_1"
+  }
+ ],
+ "version": 2,
+ "weight": "0,05kg"
 }
