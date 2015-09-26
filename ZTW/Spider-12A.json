@@ -1,5 +1,7 @@
 {
- "category": "esc",
+ "categories": [
+  "esc"
+ ],
  "equivalent": [],
  "manufacturer": "ZTW",
  "name": "Spider 12A Opto",
@@ -7,15 +9,38 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/12-amp/1095-ztw-spider-12amp-opto-esc.html",
-   "http://www.banggood.com/ZTW-Spider-Series-12A-OPTO-ESC-With-SimonK-Oneshot-Program-p-982597.html",
-   "http://www.banggood.com/ZTW-Spider-Series-12A-OPTO-ESC-With-SimonK-Program-p-946402.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81211",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81210",
-   "http://www.hobbyking.com/hobbyking/store/__81200__ZTW_Spider_Series_12A_OPTO_Multi_Rotor_ESC_2_4S_SimonK_Firmware_.html",
-   "http://www.multirotorsuperstore.com/esc/esc-by-firmware/ztw-spider-12a-opto-esc-simonk-rapidesc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://multirotormania.com/12-amp/1095-ztw-spider-12amp-opto-esc.html"
+  },
+  {
+   "url": "http://www.banggood.com/ZTW-Spider-Series-12A-OPTO-ESC-With-SimonK-Oneshot-Program-p-982597.html"
+  },
+  {
+   "url": "http://www.banggood.com/ZTW-Spider-Series-12A-OPTO-ESC-With-SimonK-Program-p-946402.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81211"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81210"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__81200__ZTW_Spider_Series_12A_OPTO_Multi_Rotor_ESC_2_4S_SimonK_Firmware_.html"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/esc/esc-by-firmware/ztw-spider-12a-opto-esc-simonk-rapidesc.html"
+  },
+  {
+   "price": "$12.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:11 GMT",
+   "url": "http://www.multirotorsuperstore.com/ztw-spider-12a-opto-esc-simonk-rapidesc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

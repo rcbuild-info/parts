@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ASP 3 Axis Brushless Gimbal Nex-5",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/gimbals/brushless-gimbals/black-asp-3-axis-nex-gh5-brushless-gimbal.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/gimbals/brushless-gimbals/black-asp-3-axis-nex-gh5-brushless-gimbal.html"
+  },
+  {
+   "price": "$219.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:46 GMT",
+   "url": "http://www.multirotorsuperstore.com/black-asp-3-axis-nex-gh5-brushless-gimbal.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

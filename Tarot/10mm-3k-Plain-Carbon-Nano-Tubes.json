@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "10mm 3k Plain Carbon Nano Tubes",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frame-parts/tarot-10mm-3k-plain-carbon-nano-tubes.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frame-parts/tarot-10mm-3k-plain-carbon-nano-tubes.html"
+  },
+  {
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:14 GMT",
+   "url": "http://www.multirotorsuperstore.com/tarot-10mm-3k-plain-carbon-nano-tubes.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

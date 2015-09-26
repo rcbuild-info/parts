@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sparky2 Flight Controller",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/controllers/sparky2-flight-controller.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/controllers/sparky2-flight-controller.html"
+  },
+  {
+   "price": "$89.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:42 GMT",
+   "url": "http://www.multirotorsuperstore.com/sparky2-flight-controller.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EC5 Connector (1 pair)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/batteries/ec5-connector-1-pair.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/batteries/ec5-connector-1-pair.html"
+  },
+  {
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:42 GMT",
+   "url": "http://www.multirotorsuperstore.com/ec5-connector-1-pair.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sony Super HAD CCD 600TVL IR Block",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/sony-super-had-ccd-600tvl-ir-block.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/sony-super-had-ccd-600tvl-ir-block.html"
+  },
+  {
+   "price": "$39.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:28 GMT",
+   "url": "http://www.multirotorsuperstore.com/sony-super-had-ccd-600tvl-ir-block.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Naze Protective Case",
@@ -7,9 +7,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/controllers/flight-controller-accessories/naze-accessories/naze-protective-case.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/controllers/flight-controller-accessories/naze-accessories/naze-protective-case.html"
+  },
+  {
+   "description": "Naze Protective Case - Black",
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:49:20 GMT",
+   "url": "http://www.multirotorsuperstore.com/naze-protective-case.html"
+  },
+  {
+   "description": "Naze Protective Case - Clear",
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:47:59 GMT",
+   "url": "http://www.multirotorsuperstore.com/naze-protective-case.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

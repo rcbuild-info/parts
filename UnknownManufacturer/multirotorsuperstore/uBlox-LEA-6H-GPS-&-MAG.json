@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "uBlox LEA-6H GPS & MAG",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/ublox-lea-6h-gps-mag.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/ublox-lea-6h-gps-mag.html"
+  },
+  {
+   "price": "$54.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:37 GMT",
+   "url": "http://www.multirotorsuperstore.com/ublox-lea-6h-gps-mag.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JST Connector",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/miscellaneous/jst-connector.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/miscellaneous/jst-connector.html"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:45 GMT",
+   "url": "http://www.multirotorsuperstore.com/jst-connector.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

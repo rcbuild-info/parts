@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M6 Nylock Lock Nuts",
@@ -7,9 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/motors/m6-nylock-lock-nuts.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/m6-nylock-lock-nuts.html"
+  },
+  {
+   "description": "M6 Locknut - Green",
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:48 GMT",
+   "url": "http://www.multirotorsuperstore.com/m6-nylock-lock-nuts.html"
+  },
+  {
+   "description": "M6 Locknut - Blue",
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:48 GMT",
+   "url": "http://www.multirotorsuperstore.com/m6-nylock-lock-nuts.html"
+  },
+  {
+   "description": "M6 Locknut - Red",
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:47:20 GMT",
+   "url": "http://www.multirotorsuperstore.com/m6-nylock-lock-nuts.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

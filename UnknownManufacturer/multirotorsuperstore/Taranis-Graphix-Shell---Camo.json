@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Taranis Graphix Shell - Camo",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/radio/frsky/accessories/taranis-graphix-shell-camo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/radio/frsky/accessories/taranis-graphix-shell-camo.html"
+  },
+  {
+   "price": "$99.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:45:24 GMT",
+   "url": "http://www.multirotorsuperstore.com/taranis-graphix-shell-camo.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

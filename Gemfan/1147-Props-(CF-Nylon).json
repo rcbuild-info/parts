@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "1147 Props (CF/Nylon)",
@@ -7,9 +7,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/props/gemfan-1147-props-cf-nylon.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/props/gemfan-1147-props-cf-nylon.html"
+  },
+  {
+   "description": "GemFan 1147 Props (CF/Nylon) - CW",
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:30 GMT",
+   "url": "http://www.multirotorsuperstore.com/gemfan-1147-props-cf-nylon.html"
+  },
+  {
+   "description": "GemFan 1147 Props (CF/Nylon) - CCW",
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:30:44 GMT",
+   "url": "http://www.multirotorsuperstore.com/gemfan-1147-props-cf-nylon.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LayerLens for GoPro 3 & 4",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/layerlens-for-gopro-3-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/layerlens-for-gopro-3-4.html"
+  },
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:29 GMT",
+   "url": "http://www.multirotorsuperstore.com/layerlens-for-gopro-3-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

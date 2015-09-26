@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "uBlox CN-06 GPS Module",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/ublox-cn-06-gps-module.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/ublox-cn-06-gps-module.html"
+  },
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:07 GMT",
+   "url": "http://www.multirotorsuperstore.com/ublox-cn-06-gps-module.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

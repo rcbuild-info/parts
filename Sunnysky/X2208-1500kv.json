@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X2208 1500kv",
@@ -7,9 +9,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/motors/motors-by-size/22xx/sunnysky-x2208-1500kv-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/motors-by-size/22xx/sunnysky-x2208-1500kv-brushless-motor.html"
+  },
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:46:37 GMT",
+   "url": "http://www.multirotorsuperstore.com/sunnysky-x2208-1500kv-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

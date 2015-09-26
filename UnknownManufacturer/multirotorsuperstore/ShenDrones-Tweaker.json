@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ShenDrones Tweaker",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frames-by-mfg/tweaker.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frames-by-mfg/tweaker.html"
+  },
+  {
+   "price": "$44.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:41 GMT",
+   "url": "http://www.multirotorsuperstore.com/tweaker.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

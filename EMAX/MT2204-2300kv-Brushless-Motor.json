@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "MT2204 2300kv Brushless Motor",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/motors/motors-by-size/22xx/emax-mt2204-2300kv-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/motors-by-size/22xx/emax-mt2204-2300kv-brushless-motor.html"
+  },
+  {
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:46:20 GMT",
+   "url": "http://www.multirotorsuperstore.com/emax-mt2204-2300kv-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

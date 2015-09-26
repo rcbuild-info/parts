@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Airbot",
  "name": "Titan 1806 2300kv Brushless Motor",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/motors/airbot-titan-1806-2300kv-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/airbot-titan-1806-2300kv-brushless-motor.html"
+  },
+  {
+   "price": "$18.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:47:13 GMT",
+   "url": "http://www.multirotorsuperstore.com/airbot-titan-1806-2300kv-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

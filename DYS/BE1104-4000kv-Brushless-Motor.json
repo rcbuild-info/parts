@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "BE1104-4000kv Brushless Motor",
@@ -7,10 +7,23 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/dys/1102-dys-be1104-4000kv-brushless-motor.html",
-   "http://www.multirotorsuperstore.com/motors/motors-by-mfg/dys/dys-be1104-4000kv-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://multirotormania.com/dys/1102-dys-be1104-4000kv-brushless-motor.html"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/motors-by-mfg/dys/dys-be1104-4000kv-brushless-motor.html"
+  },
+  {
+   "price": "$11.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:46:30 GMT",
+   "url": "http://www.multirotorsuperstore.com/dys-be1104-4000kv-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

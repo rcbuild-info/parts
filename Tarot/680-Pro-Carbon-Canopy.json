@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "680 Pro Carbon Canopy",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frames-by-mfg/tarot-frames/tarot-680pro-carbon-canopy.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frames-by-mfg/tarot-frames/tarot-680pro-carbon-canopy.html"
+  },
+  {
+   "price": "$19.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:13 GMT",
+   "url": "http://www.multirotorsuperstore.com/tarot-680pro-carbon-canopy.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "5x3 Direct Drive Carbon Fiber Composite",
@@ -7,17 +9,51 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://flyduino.net/HQProp-5030-2-bladed-CF-reinforced-Propeller-Set-Black-4-pcs-2-CW-and-2-CCW",
-   "http://flyduino.net/Multikopter-Propeller-CW-CCW_17",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2277",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2276",
-   "http://flyduino.net/HQProp-5x3-127cm-Propeller-Set-Black-4-pcs-Carbon-reinforced",
-   "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=80",
-   "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=81",
-   "http://www.readytoflyquads.com/hq-prop-5x3-carbon-composite-prop",
-   "http://www.multirotorsuperstore.com/props/props-by-size/5-inch/hqprop-5030-props.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://flyduino.net/HQProp-5030-2-bladed-CF-reinforced-Propeller-Set-Black-4-pcs-2-CW-and-2-CCW"
+  },
+  {
+   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_17"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2277"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2276"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-5x3-127cm-Propeller-Set-Black-4-pcs-Carbon-reinforced"
+  },
+  {
+   "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=80"
+  },
+  {
+   "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=81"
+  },
+  {
+   "url": "http://www.readytoflyquads.com/hq-prop-5x3-carbon-composite-prop"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/props/props-by-size/5-inch/hqprop-5030-props.html"
+  },
+  {
+   "description": "HQProp 5030 Props - CW",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:04 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-5030-props.html"
+  },
+  {
+   "description": "HQProp 5030 Props - CCW",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:45:04 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-5030-props.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

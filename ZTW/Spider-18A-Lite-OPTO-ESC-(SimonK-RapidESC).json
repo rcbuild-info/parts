@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ZTW",
  "name": "Spider 18A Lite OPTO ESC (SimonK RapidESC)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/esc/esc-by-firmware/ztw-spider-18a-lite-opto-esc-simonk-rapidesc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/esc/esc-by-firmware/ztw-spider-18a-lite-opto-esc-simonk-rapidesc.html"
+  },
+  {
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:12 GMT",
+   "url": "http://www.multirotorsuperstore.com/ztw-spider-18a-lite-opto-esc-simonk-rapidesc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

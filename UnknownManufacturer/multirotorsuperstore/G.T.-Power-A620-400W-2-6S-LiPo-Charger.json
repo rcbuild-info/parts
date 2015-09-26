@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "G.T. Power A620 400W 2-6S LiPo Charger",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/batteries/g-t-power-a620-400w-2-6s-lipo-charger.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/batteries/g-t-power-a620-400w-2-6s-lipo-charger.html"
+  },
+  {
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:42:50 GMT",
+   "url": "http://www.multirotorsuperstore.com/g-t-power-a620-400w-2-6s-lipo-charger.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

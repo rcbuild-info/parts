@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "G.T. Power Watt Meter and Power Analyzer 130A",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/batteries/g-t-power-watt-meter-and-power-analyzer-130a.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/batteries/g-t-power-watt-meter-and-power-analyzer-130a.html"
+  },
+  {
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:42:36 GMT",
+   "url": "http://www.multirotorsuperstore.com/g-t-power-watt-meter-and-power-analyzer-130a.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

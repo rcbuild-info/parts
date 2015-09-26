@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "2.3/4 GHz 13dBic Pepperbox (IBCrazy)",
@@ -7,9 +7,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/2-4-ghz/2-4-ghz-antennas/vas-2-4ghz-lhcp-13dbic-pepperbox-ibcrazy.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/2-4-ghz/2-4-ghz-antennas/vas-2-4ghz-lhcp-13dbic-pepperbox-ibcrazy.html"
+  },
+  {
+   "price": "$109.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:15 GMT",
+   "url": "http://www.multirotorsuperstore.com/vas-2-4ghz-13dbic-pepperbox-ibcrazy.html"
+  },
+  {
+   "price": "$109.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:36 GMT",
+   "url": "http://www.multirotorsuperstore.com/vas-2-4ghz-lhcp-13dbic-pepperbox-ibcrazy.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "6x4.5 Bullnose Carbon Fiber Composite",
@@ -7,13 +9,39 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4108",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4107",
-   "http://www.readytoflyquads.com/hq-prop-6x4-4-bull-carbon-composite-prop",
-   "http://www.multirotorsuperstore.com/props/props-by-size/6-inch/hqprop-6045-bullnose-props.html",
-   "http://www.dronematters.com/power-system/hqprop-6045-glass-composite-propellers-2-ccw-1281.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4108"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4107"
+  },
+  {
+   "url": "http://www.readytoflyquads.com/hq-prop-6x4-4-bull-carbon-composite-prop"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/props/props-by-size/6-inch/hqprop-6045-bullnose-props.html"
+  },
+  {
+   "url": "http://www.dronematters.com/power-system/hqprop-6045-glass-composite-propellers-2-ccw-1281.html"
+  },
+  {
+   "description": "HQProp 6045 Bullnose (CF/Nylon) - CW",
+   "price": "$3.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:27 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-bullnose-props.html"
+  },
+  {
+   "description": "HQProp 6045 Bullnose (CF/Nylon) - CCW",
+   "price": "$3.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:45:04 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-bullnose-props.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Assorted Screws - M2 M2.5 M3",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/assorted-screws-m2-m2-5-m3.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/assorted-screws-m2-m2-5-m3.html"
+  },
+  {
+   "price": "$12.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:49 GMT",
+   "url": "http://www.multirotorsuperstore.com/assorted-screws-m2-m2-5-m3.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

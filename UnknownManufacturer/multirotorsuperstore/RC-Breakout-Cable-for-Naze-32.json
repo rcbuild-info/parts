@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RC Breakout Cable for Naze 32",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/abusemark/rc-breakout-cable-for-naze-32.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/abusemark/rc-breakout-cable-for-naze-32.html"
+  },
+  {
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:00 GMT",
+   "url": "http://www.multirotorsuperstore.com/rc-breakout-cable-for-naze-32.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

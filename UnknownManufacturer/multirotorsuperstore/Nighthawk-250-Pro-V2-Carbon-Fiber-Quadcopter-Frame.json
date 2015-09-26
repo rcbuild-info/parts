@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Nighthawk 250 Pro V2 Carbon Fiber Quadcopter Frame",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frames-by-mfg/nighthawk-250-pro-v2-carbon-fiber-quadcopter-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frames-by-mfg/nighthawk-250-pro-v2-carbon-fiber-quadcopter-frame.html"
+  },
+  {
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:41 GMT",
+   "url": "http://www.multirotorsuperstore.com/nighthawk-250-pro-v2-carbon-fiber-quadcopter-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

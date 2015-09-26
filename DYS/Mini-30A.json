@@ -1,5 +1,7 @@
 {
- "category": "esc",
+ "categories": [
+  "esc"
+ ],
  "equivalent": [
   "RCTimer/Mini-ESC30A"
  ],
@@ -11,11 +13,33 @@
   "manufacturer": [],
   "related": [
    "http://www.rcgroups.com/forums/showthread.php?t=2377027"
-  ],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4123",
-   "http://www.getfpv.com/dys-blheli-30a-esc-500hz-2-6s-opto.html",
-   "http://www.multirotorsuperstore.com/esc/esc-by-firmware/sn30a-opto-esc.html"
   ]
- }
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4123"
+  },
+  {
+   "url": "http://www.getfpv.com/dys-blheli-30a-esc-500hz-2-6s-opto.html"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/esc/esc-by-firmware/sn30a-opto-esc.html"
+  },
+  {
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:47:05 GMT",
+   "url": "http://www.multirotorsuperstore.com/bl30a-opto-esc-blheli-oneshot-rdy.html"
+  },
+  {
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:12 GMT",
+   "url": "http://www.multirotorsuperstore.com/sn30a-opto-esc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

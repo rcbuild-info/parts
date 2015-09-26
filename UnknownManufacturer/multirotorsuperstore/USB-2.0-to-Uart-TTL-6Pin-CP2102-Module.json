@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "USB 2.0 to Uart TTL 6Pin CP2102 Module",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/usb-2-0-to-uart-ttl-6pin-cp2102-module.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/usb-2-0-to-uart-ttl-6pin-cp2102-module.html"
+  },
+  {
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:40:53 GMT",
+   "url": "http://www.multirotorsuperstore.com/usb-2-0-to-uart-ttl-6pin-cp2102-module.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

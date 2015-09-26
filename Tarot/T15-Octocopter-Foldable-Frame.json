@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "T15 Octocopter Foldable Frame",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frames-by-size/tarot-t15-foldable-octocopter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frames-by-size/tarot-t15-foldable-octocopter.html"
+  },
+  {
+   "price": "$649.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:33 GMT",
+   "url": "http://www.multirotorsuperstore.com/tarot-t15-foldable-octocopter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

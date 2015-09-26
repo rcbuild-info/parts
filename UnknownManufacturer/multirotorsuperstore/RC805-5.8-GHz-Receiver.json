@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RC805 5.8 GHz Receiver",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/rc805-5-8-ghz-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/rc805-5-8-ghz-receiver.html"
+  },
+  {
+   "price": "$34.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:35 GMT",
+   "url": "http://www.multirotorsuperstore.com/rc805-5-8-ghz-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

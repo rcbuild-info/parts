@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "4028 Props (Carbon Fiber)",
@@ -7,9 +7,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/props/props-by-size/4-inch/gemfan-4028-carbon-fiber.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/props/props-by-size/4-inch/gemfan-4028-carbon-fiber.html"
+  },
+  {
+   "description": "GemFan 4028 Props (Carbon Fiber) - CW",
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:23 GMT",
+   "url": "http://www.multirotorsuperstore.com/gemfan-4028-carbon-fiber.html"
+  },
+  {
+   "description": "GemFan 4028 Props (Carbon Fiber) - CCW",
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:45:06 GMT",
+   "url": "http://www.multirotorsuperstore.com/gemfan-4028-carbon-fiber.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

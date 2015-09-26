@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MT60 3.5mm Motor Connector Set",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/motors/motor-accessories/mt60-3-5mm-motor-connector-set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/motor-accessories/mt60-3-5mm-motor-connector-set.html"
+  },
+  {
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:46 GMT",
+   "url": "http://www.multirotorsuperstore.com/mt60-3-5mm-motor-connector-set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

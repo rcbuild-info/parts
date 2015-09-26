@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "680 PRO Carbon Boom (275MM)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frame-parts/tarot-680-pro-carbon-boom-275mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frame-parts/tarot-680-pro-carbon-boom-275mm.html"
+  },
+  {
+   "price": "$7.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:17 GMT",
+   "url": "http://www.multirotorsuperstore.com/tarot-680-pro-carbon-boom-275mm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

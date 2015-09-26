@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "5.8 GHz Uno Video Receiver - Race Edition",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/immersionrc-5-8-ghz-uno-video-receiver-race-edition.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/immersionrc-5-8-ghz-uno-video-receiver-race-edition.html"
+  },
+  {
+   "price": "$62.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:43 GMT",
+   "url": "http://www.multirotorsuperstore.com/immersionrc-5-8-ghz-uno-video-receiver-race-edition.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

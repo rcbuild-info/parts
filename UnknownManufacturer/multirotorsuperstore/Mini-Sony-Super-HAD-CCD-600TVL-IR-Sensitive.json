@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini Sony Super HAD CCD 600TVL IR Sensitive",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/mini-sony-super-had-ccd-600tvl-ir-sensitive.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/mini-sony-super-had-ccd-600tvl-ir-sensitive.html"
+  },
+  {
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:40 GMT",
+   "url": "http://www.multirotorsuperstore.com/mini-sony-super-had-ccd-600tvl-ir-sensitive.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Argonaut",
  "name": "V2 370mm Premiere FPV Hexacopter Frame",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frames-by-mfg/argonaut-frames/argonaut-v2-370mm-premiere-fpv-hexacopter-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frames-by-mfg/argonaut-frames/argonaut-v2-370mm-premiere-fpv-hexacopter-frame.html"
+  },
+  {
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:43 GMT",
+   "url": "http://www.multirotorsuperstore.com/argonaut-v2-370mm-premiere-fpv-hexacopter-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

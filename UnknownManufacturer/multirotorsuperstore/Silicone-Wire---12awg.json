@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Silicone Wire - 12awg",
@@ -7,9 +7,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/silicone-wire-12awg.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/silicone-wire-12awg.html"
+  },
+  {
+   "description": "Silicone Wire - 12awg - RED",
+   "price": "$2.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:53 GMT",
+   "url": "http://www.multirotorsuperstore.com/silicone-wire-12awg.html"
+  },
+  {
+   "description": "Silicone Wire - 12awg - BLACK",
+   "price": "$2.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:43:06 GMT",
+   "url": "http://www.multirotorsuperstore.com/silicone-wire-12awg.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

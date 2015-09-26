@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "Loveseat",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frame-parts/tbs-loveseat.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frame-parts/tbs-loveseat.html"
+  },
+  {
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:49:04 GMT",
+   "url": "http://www.multirotorsuperstore.com/tbs-loveseat.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

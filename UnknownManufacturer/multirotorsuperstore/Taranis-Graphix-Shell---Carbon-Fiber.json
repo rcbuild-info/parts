@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Taranis Graphix Shell - Carbon Fiber",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/radio/taranis-graphix-shell-carbon-fiber.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/radio/taranis-graphix-shell-carbon-fiber.html"
+  },
+  {
+   "price": "$99.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:25 GMT",
+   "url": "http://www.multirotorsuperstore.com/taranis-graphix-shell-carbon-fiber.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

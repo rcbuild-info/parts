@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5045 Props (CF/Nylon)",
@@ -7,9 +7,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/props/props-by-size/5-inch/gemfan-5045-props-carbon-fiber-nylon.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/props/props-by-size/5-inch/gemfan-5045-props-carbon-fiber-nylon.html"
+  },
+  {
+   "description": "GemFan 5045 Props (CF/Nylon) - CW",
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:57 GMT",
+   "url": "http://www.multirotorsuperstore.com/gemfan-5045-props-carbon-fiber-nylon.html"
+  },
+  {
+   "description": "GemFan 5045 Props (CF/Nylon) -CCW",
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:30:27 GMT",
+   "url": "http://www.multirotorsuperstore.com/gemfan-5045-props-carbon-fiber-nylon.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

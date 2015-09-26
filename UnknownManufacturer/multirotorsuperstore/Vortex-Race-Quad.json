@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Vortex Race Quad",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/vortex-race-quad.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/vortex-race-quad.html"
+  },
+  {
+   "price": "$449.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:49:06 GMT",
+   "url": "http://www.multirotorsuperstore.com/vortex-race-quad.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

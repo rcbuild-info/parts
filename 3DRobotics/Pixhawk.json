@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "Pixhawk",
@@ -7,10 +7,23 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2539",
-   "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/3dr-pixhawk.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2539"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/3dr-pixhawk.html"
+  },
+  {
+   "price": "$199.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:36 GMT",
+   "url": "http://www.multirotorsuperstore.com/3dr-pixhawk.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

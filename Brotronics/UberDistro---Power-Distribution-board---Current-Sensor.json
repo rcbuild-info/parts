@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Brotronics",
  "name": "UberDistro - Power Distribution board / Current Sensor",
@@ -7,9 +7,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/brotronics-uberdistro.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/brotronics-uberdistro.html"
+  },
+  {
+   "description": "Brotronics UberDistro 90a",
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:40:38 GMT",
+   "url": "http://www.multirotorsuperstore.com/brotronics-uberdistro.html"
+  },
+  {
+   "description": "Brotronics UberDistro 180a",
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:39 GMT",
+   "url": "http://www.multirotorsuperstore.com/brotronics-uberdistro.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

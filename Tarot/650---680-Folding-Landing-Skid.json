@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "650 / 680 Folding Landing Skid",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frame-parts/tarot-650-680-folding-landing-skid.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frame-parts/tarot-650-680-folding-landing-skid.html"
+  },
+  {
+   "price": "$27.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:17 GMT",
+   "url": "http://www.multirotorsuperstore.com/tarot-650-680-folding-landing-skid.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

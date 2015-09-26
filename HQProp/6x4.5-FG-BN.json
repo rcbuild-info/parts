@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "6x4.5 Bullnose Fiberglass Composite",
@@ -7,22 +9,94 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4057",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4106",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4103",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4056",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4105",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4104",
-   "http://flyduino.net/HQProp-6x45-1524cm-Bullnose-Propeller-Set-Black-4-pcs-Glass-reinforced",
-   "http://flyduino.net/HQProp-6x45-1524cm-Bullnose-Propeller-Set-Black-4-pcs-Glass-reinforced_1",
-   "http://flyduino.net/HQProp-6x45-1524cm-Bullnose-Propeller-Set-Green-4-pcs-Glass-reinforced",
-   "http://flyduino.net/HQProp-6x45-1524cm-Bullnose-Propeller-Set-Orange-4-pcs-Glass-reinforced",
-   "http://multirotormania.com/hq-prop/846-hqprop-6x45-bullnose-props-1-pair-choose-your-color.html",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=286",
-   "http://www.multirotorsuperstore.com/props/props-by-size/6-inch/hqprop-6045-bullnose-glass-composite.html",
-   "http://www.dronematters.com/hqprop-6045-glass-composite-propellers-2-ccw-1276.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4057"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4106"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4103"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4056"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4105"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4104"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-6x45-1524cm-Bullnose-Propeller-Set-Black-4-pcs-Glass-reinforced"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-6x45-1524cm-Bullnose-Propeller-Set-Black-4-pcs-Glass-reinforced_1"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-6x45-1524cm-Bullnose-Propeller-Set-Green-4-pcs-Glass-reinforced"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-6x45-1524cm-Bullnose-Propeller-Set-Orange-4-pcs-Glass-reinforced"
+  },
+  {
+   "url": "http://multirotormania.com/hq-prop/846-hqprop-6x45-bullnose-props-1-pair-choose-your-color.html"
+  },
+  {
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=286"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/props/props-by-size/6-inch/hqprop-6045-bullnose-glass-composite.html"
+  },
+  {
+   "url": "http://www.dronematters.com/hqprop-6045-glass-composite-propellers-2-ccw-1276.html"
+  },
+  {
+   "description": "HQProp 6045 Bullnose - Orange CCW",
+   "price": "$3.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:24 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-bullnose-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 Bullnose - Orange CW",
+   "price": "$3.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:24 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-bullnose-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 Bullnose - Green CCW",
+   "price": "$3.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:24 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-bullnose-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 Bullnose - Green CW",
+   "price": "$3.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:24 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-bullnose-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 Bullnose - Black CCW",
+   "price": "$3.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:24 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-bullnose-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 Bullnose - Black CW",
+   "price": "$3.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:45:03 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-bullnose-glass-composite.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

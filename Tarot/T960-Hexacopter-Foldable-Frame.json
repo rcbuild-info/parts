@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "T960 Hexacopter Foldable Frame",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frames-by-size/tarot-t960-1000mm-hexacopter-foldable-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frames-by-size/tarot-t960-1000mm-hexacopter-foldable-frame.html"
+  },
+  {
+   "price": "$429.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:28 GMT",
+   "url": "http://www.multirotorsuperstore.com/tarot-t960-1000mm-hexacopter-foldable-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Towelie Lil Bro",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frames-by-size/towelie-lil-bro.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frames-by-size/towelie-lil-bro.html"
+  },
+  {
+   "price": "$79.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "timestamp": "Sat, 26 Sep 2015 02:50:31 GMT",
+   "url": "http://www.multirotorsuperstore.com/towelie-lil-bro.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

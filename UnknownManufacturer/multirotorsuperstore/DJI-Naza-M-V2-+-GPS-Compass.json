@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI Naza M V2 + GPS/Compass",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/dji/dji-naza-m-v2-gps-compass.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/dji/dji-naza-m-v2-gps-compass.html"
+  },
+  {
+   "price": "$299.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:00 GMT",
+   "url": "http://www.multirotorsuperstore.com/dji-naza-m-v2-gps-compass.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

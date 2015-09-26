@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3.5mm Golden Plated Spring Connector (10 pairs)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/miscellaneous/3-5mm-golden-plated-spring-connector-10-pairs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/miscellaneous/3-5mm-golden-plated-spring-connector-10-pairs.html"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:45 GMT",
+   "url": "http://www.multirotorsuperstore.com/3-5mm-golden-plated-spring-connector-10-pairs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

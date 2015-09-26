@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "QAV250 Mini FPV Quadcopter - G10",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frames-by-size/qav250-g10-mini-fpv-quadcopter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frames-by-size/qav250-g10-mini-fpv-quadcopter.html"
+  },
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:47 GMT",
+   "url": "http://www.multirotorsuperstore.com/qav250-g10-mini-fpv-quadcopter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

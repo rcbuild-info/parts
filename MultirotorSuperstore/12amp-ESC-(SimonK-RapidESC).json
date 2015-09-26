@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "MultirotorSuperstore",
  "name": "12amp ESC (SimonK RapidESC)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/esc/esc-by-firmware/simonk-rapidesc/ms-12amp-esc-simonk-rapidesc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/esc/esc-by-firmware/simonk-rapidesc/ms-12amp-esc-simonk-rapidesc.html"
+  },
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:08 GMT",
+   "url": "http://www.multirotorsuperstore.com/ms-12amp-esc-simonk-rapidesc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

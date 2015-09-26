@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Dominators V2",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/fatshark-dominators-v2.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/fatshark-dominators-v2.html"
+  },
+  {
+   "price": "$324.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:38 GMT",
+   "url": "http://www.multirotorsuperstore.com/fatshark-dominators-v2.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

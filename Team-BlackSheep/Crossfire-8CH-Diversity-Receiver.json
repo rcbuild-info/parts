@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Team BlackSheep",
  "name": "Crossfire 8CH Diversity Receiver",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/tbs-crossfire-8ch-diversity-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/tbs-crossfire-8ch-diversity-receiver.html"
+  },
+  {
+   "price": "$123.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:03 GMT",
+   "url": "http://www.multirotorsuperstore.com/tbs-crossfire-8ch-diversity-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

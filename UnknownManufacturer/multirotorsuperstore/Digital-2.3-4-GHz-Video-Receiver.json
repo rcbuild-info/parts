@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Digital 2.3/4 GHz Video Receiver",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/digital-2-3-4-ghz-video-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/digital-2-3-4-ghz-video-receiver.html"
+  },
+  {
+   "price": "$39.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:43:18 GMT",
+   "url": "http://www.multirotorsuperstore.com/digital-2-3-4-ghz-video-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Flight Controller Soldering",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/flight-controller-soldering.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/flight-controller-soldering.html"
+  },
+  {
+   "price": "$10.00",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:43:06 GMT",
+   "url": "http://www.multirotorsuperstore.com/flight-controller-soldering.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

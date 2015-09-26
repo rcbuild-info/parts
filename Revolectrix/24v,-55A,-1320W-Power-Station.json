@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Revolectrix",
  "name": "24v, 55A, 1320W Power Station",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/batteries/revolectrix-24v-55a-1320w-power-station.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/batteries/revolectrix-24v-55a-1320w-power-station.html"
+  },
+  {
+   "price": "$219.95",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:42:46 GMT",
+   "url": "http://www.multirotorsuperstore.com/revolectrix-24v-55a-1320w-power-station.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

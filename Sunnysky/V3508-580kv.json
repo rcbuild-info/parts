@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "V3508 580kv",
@@ -7,9 +9,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/motors/sunnysky-v3508-580kv-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/sunnysky-v3508-580kv-brushless-motor.html"
+  },
+  {
+   "price": "$39.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:46:31 GMT",
+   "url": "http://www.multirotorsuperstore.com/sunnysky-v3508-580kv-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Vector Flight Controller + OSD",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/vector-flight-controller-osd.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/vector-flight-controller-osd.html"
+  },
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:47:56 GMT",
+   "url": "http://www.multirotorsuperstore.com/vector-flight-controller-osd.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

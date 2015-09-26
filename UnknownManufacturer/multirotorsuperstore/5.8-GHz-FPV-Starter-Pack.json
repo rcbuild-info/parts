@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5.8 GHz FPV Starter Pack",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/5-8-ghz/5-8-ghz-fpv-starter-pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/5-8-ghz/5-8-ghz-fpv-starter-pack.html"
+  },
+  {
+   "timestamp": "Sat, 26 Sep 2015 02:43:28 GMT",
+   "url": "http://www.multirotorsuperstore.com/5-8-ghz-fpv-starter-pack.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

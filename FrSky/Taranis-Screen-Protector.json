@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Taranis Screen Protector",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/radio/frsky/accessories/frsky-taranis-screen-protector.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/radio/frsky/accessories/frsky-taranis-screen-protector.html"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:45:41 GMT",
+   "url": "http://www.multirotorsuperstore.com/frsky-taranis-screen-protector.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

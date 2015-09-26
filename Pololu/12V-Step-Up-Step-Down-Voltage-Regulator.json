@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Pololu",
  "name": "12V Step-Up/Step-Down Voltage Regulator",
@@ -7,10 +7,23 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://lizard-rc.se/index.php?id_product=38&controller=product&id_lang=1",
-   "http://www.multirotorsuperstore.com/accessories/pololu-12v-step-up-step-down-voltage-regulator.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://lizard-rc.se/index.php?id_product=38&controller=product&id_lang=1"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/pololu-12v-step-up-step-down-voltage-regulator.html"
+  },
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:38 GMT",
+   "url": "http://www.multirotorsuperstore.com/pololu-12v-step-up-step-down-voltage-regulator.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

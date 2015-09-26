@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "433 MHz UHF Coil Loaded Dipole Antenna (IBCrazy)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/vas-433-mhz-uhf-coil-loaded-dipole-antenna-ibcrazy.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/vas-433-mhz-uhf-coil-loaded-dipole-antenna-ibcrazy.html"
+  },
+  {
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:43:57 GMT",
+   "url": "http://www.multirotorsuperstore.com/vas-433-mhz-uhf-coil-loaded-dipole-antenna-ibcrazy.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

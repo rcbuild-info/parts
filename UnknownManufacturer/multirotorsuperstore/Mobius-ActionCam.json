@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mobius ActionCam",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/mobius-actioncam.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/mobius-actioncam.html"
+  },
+  {
+   "price": "$79.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:39 GMT",
+   "url": "http://www.multirotorsuperstore.com/mobius-actioncam.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

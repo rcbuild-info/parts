@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ZMR 250 Starter Pack",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/zmr-250-starter-pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/zmr-250-starter-pack.html"
+  },
+  {
+   "timestamp": "Sat, 26 Sep 2015 02:49:05 GMT",
+   "url": "http://www.multirotorsuperstore.com/zmr-250-starter-pack.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

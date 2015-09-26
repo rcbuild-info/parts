@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RC832 5.8 GHz 32 Channel Receiver",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/5-8-ghz/rc832-5-8-ghz-32-channel-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/5-8-ghz/rc832-5-8-ghz-32-channel-receiver.html"
+  },
+  {
+   "price": "$39.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:23 GMT",
+   "url": "http://www.multirotorsuperstore.com/rc832-5-8-ghz-32-channel-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

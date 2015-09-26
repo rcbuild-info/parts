@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "CM-2206 2100kv",
@@ -7,12 +9,29 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.nl/motors/cobra/cobra-2206-2100kv-racing-edition.html",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=304",
-   "http://www.multirotorsuperstore.com/motors/motors-by-size/22xx/cobra-2206-2100kv-brushless-motor.html",
-   "http://www.dronematters.com/power-system/brushless-motors/cobra-2206-20-2100kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.nl/motors/cobra/cobra-2206-2100kv-racing-edition.html"
+  },
+  {
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=304"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/motors-by-size/22xx/cobra-2206-2100kv-brushless-motor.html"
+  },
+  {
+   "url": "http://www.dronematters.com/power-system/brushless-motors/cobra-2206-20-2100kv.html"
+  },
+  {
+   "price": "$25.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "timestamp": "Sat, 26 Sep 2015 02:47:19 GMT",
+   "url": "http://www.multirotorsuperstore.com/cobra-2206-2100kv-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

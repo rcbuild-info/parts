@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "1555 Props (Carbon Fiber)",
@@ -7,9 +7,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/props/gemfan-1555-props-carbon-fiber.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/props/gemfan-1555-props-carbon-fiber.html"
+  },
+  {
+   "description": "GemFan 1555 Props (Carbon Fiber) - CW",
+   "price": "$18.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:47 GMT",
+   "url": "http://www.multirotorsuperstore.com/gemfan-1555-props-carbon-fiber.html"
+  },
+  {
+   "description": "GemFan 1555 Props (Carbon Fiber) - CCW",
+   "price": "$18.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:30:28 GMT",
+   "url": "http://www.multirotorsuperstore.com/gemfan-1555-props-carbon-fiber.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

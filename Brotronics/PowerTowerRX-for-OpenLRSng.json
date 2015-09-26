@@ -1,5 +1,7 @@
 {
- "category": "receiver",
+ "categories": [
+  "receiver"
+ ],
  "equivalent": [],
  "manufacturer": "Brotronics",
  "name": "PowerTowerRX for OpenLRSng",
@@ -7,9 +9,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/brotronics-powertowerrx-for-openlrsng.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/brotronics-powertowerrx-for-openlrsng.html"
+  },
+  {
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:03 GMT",
+   "url": "http://www.multirotorsuperstore.com/brotronics-powertowerrx-for-openlrsng.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

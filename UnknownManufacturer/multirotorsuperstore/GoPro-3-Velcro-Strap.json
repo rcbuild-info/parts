@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GoPro 3 Velcro Strap",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/gopro-3-velcro-strap.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/gopro-3-velcro-strap.html"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:44 GMT",
+   "url": "http://www.multirotorsuperstore.com/gopro-3-velcro-strap.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

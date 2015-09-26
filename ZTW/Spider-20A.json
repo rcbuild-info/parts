@@ -1,5 +1,7 @@
 {
- "category": "esc",
+ "categories": [
+  "esc"
+ ],
  "equivalent": [],
  "manufacturer": "ZTW",
  "name": "Spider 20A OPTO",
@@ -7,15 +9,38 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/20-amp/433-ztw-spider-20-amp-opto-esc.html",
-   "http://www.banggood.com/ZTW-Spider-Series-20A-OPTO-Brushless-Speed-Control-ESC-p-85717.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81215",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81214",
-   "http://www.hobbyking.com/hobbyking/store/__81201__ZTW_Spider_Series_20A_OPTO_Multi_Rotor_ESC_2_6S_SimonK_Firmware_.html",
-   "http://www.banggood.com/ZTW-Spider-Series-20A-OPTO-Small-ESC-With-SimonK-Program-p-982595.html",
-   "http://www.multirotorsuperstore.com/esc/esc-by-firmware/ztw-spider-20a-opto-esc-simonk-rapidesc.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://multirotormania.com/20-amp/433-ztw-spider-20-amp-opto-esc.html"
+  },
+  {
+   "url": "http://www.banggood.com/ZTW-Spider-Series-20A-OPTO-Brushless-Speed-Control-ESC-p-85717.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81215"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81214"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__81201__ZTW_Spider_Series_20A_OPTO_Multi_Rotor_ESC_2_6S_SimonK_Firmware_.html"
+  },
+  {
+   "url": "http://www.banggood.com/ZTW-Spider-Series-20A-OPTO-Small-ESC-With-SimonK-Program-p-982595.html"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/esc/esc-by-firmware/ztw-spider-20a-opto-esc-simonk-rapidesc.html"
+  },
+  {
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:43 GMT",
+   "url": "http://www.multirotorsuperstore.com/ztw-spider-20a-opto-esc-simonk-rapidesc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

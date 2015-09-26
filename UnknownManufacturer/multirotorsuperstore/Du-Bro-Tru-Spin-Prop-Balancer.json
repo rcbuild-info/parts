@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Du-Bro Tru-Spin Prop Balancer",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/props/du-brp-tru-spin-prop-balancer.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/props/du-brp-tru-spin-prop-balancer.html"
+  },
+  {
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:58 GMT",
+   "url": "http://www.multirotorsuperstore.com/du-brp-tru-spin-prop-balancer.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

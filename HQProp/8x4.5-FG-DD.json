@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "8x4.5 Direct Drive Fiberglass Composite",
@@ -7,10 +9,44 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://multirotormania.com/hq-prop/841-hqprop-5x3-1-pair.html",
-   "http://www.multirotorsuperstore.com/props/props-by-size/8-inch/hqprop-8045-glass-composite.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://multirotormania.com/hq-prop/841-hqprop-5x3-1-pair.html"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/props/props-by-size/8-inch/hqprop-8045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 8045 - Orange CCW",
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:00 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-8045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 8045 - Orange CW",
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:00 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-8045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 8045 - Green CW",
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:00 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-8045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 8045 - Green CCW",
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:45:10 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-8045-glass-composite.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

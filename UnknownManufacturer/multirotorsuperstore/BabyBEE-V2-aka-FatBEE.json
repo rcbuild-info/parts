@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BabyBEE V2 aka FatBEE",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frames-by-size/babybee-v2-aka-fatbee.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frames-by-size/babybee-v2-aka-fatbee.html"
+  },
+  {
+   "price": "$74.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:40 GMT",
+   "url": "http://www.multirotorsuperstore.com/babybee-v2-aka-fatbee.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "2D-G3 v2 Brushless Gimbal with Controller",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/gimbals/brushless-gimbals/tarot-2d-g3-v2-brushless-gimbal-with-controller.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/gimbals/brushless-gimbals/tarot-2d-g3-v2-brushless-gimbal-with-controller.html"
+  },
+  {
+   "price": "$139.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:14 GMT",
+   "url": "http://www.multirotorsuperstore.com/tarot-2d-g3-v2-brushless-gimbal-with-controller.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

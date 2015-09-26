@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DTF UHF",
  "name": "1-watt Receiver",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/dtf-uhf-1-watt-receiver.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/dtf-uhf-1-watt-receiver.html"
+  },
+  {
+   "price": "$74.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:43:30 GMT",
+   "url": "http://www.multirotorsuperstore.com/dtf-uhf-1-watt-receiver.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

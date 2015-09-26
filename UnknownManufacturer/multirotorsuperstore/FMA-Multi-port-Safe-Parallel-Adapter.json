@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FMA Multi-port Safe Parallel Adapter",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/batteries/fma-multi-port-safe-parallel-adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/batteries/fma-multi-port-safe-parallel-adapter.html"
+  },
+  {
+   "price": "$64.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:42:51 GMT",
+   "url": "http://www.multirotorsuperstore.com/fma-multi-port-safe-parallel-adapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

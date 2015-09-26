@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "USB Linker",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/esc/dys-usb-linker.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/esc/dys-usb-linker.html"
+  },
+  {
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:29 GMT",
+   "url": "http://www.multirotorsuperstore.com/dys-usb-linker.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

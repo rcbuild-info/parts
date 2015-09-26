@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Battery Charge Marker (10pcs)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/batteries/battery-charge-marker-10pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/batteries/battery-charge-marker-10pcs.html"
+  },
+  {
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:42:50 GMT",
+   "url": "http://www.multirotorsuperstore.com/battery-charge-marker-10pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MXP230 Elite V2 Replacement arm",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frame-parts/mxp230-elite-v2-replacement-arm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frame-parts/mxp230-elite-v2-replacement-arm.html"
+  },
+  {
+   "price": "$15.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "timestamp": "Sat, 26 Sep 2015 02:49:15 GMT",
+   "url": "http://www.multirotorsuperstore.com/mxp230-elite-v2-replacement-arm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

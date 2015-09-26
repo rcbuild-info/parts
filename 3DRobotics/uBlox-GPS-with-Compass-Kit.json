@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "uBlox GPS with Compass Kit",
@@ -7,10 +7,23 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2540",
-   "http://www.multirotorsuperstore.com/accessories/3dr-ublox-gps-with-compass-kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2540"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/3dr-ublox-gps-with-compass-kit.html"
+  },
+  {
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:38 GMT",
+   "url": "http://www.multirotorsuperstore.com/3dr-ublox-gps-with-compass-kit.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

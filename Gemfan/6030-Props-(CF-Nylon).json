@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "6030 Props (CF/Nylon)",
@@ -7,9 +7,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/props/props-by-size/6-inch/gemfan-6030-props-carbon-fiber-nylon.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/props/props-by-size/6-inch/gemfan-6030-props-carbon-fiber-nylon.html"
+  },
+  {
+   "description": "GemFan 6030 Props (CF/Nylon) - CW",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:04 GMT",
+   "url": "http://www.multirotorsuperstore.com/gemfan-6030-props-carbon-fiber-nylon.html"
+  },
+  {
+   "description": "GemFan 6030 Props (CF/Nylon) - CCW",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:29:26 GMT",
+   "url": "http://www.multirotorsuperstore.com/gemfan-6030-props-carbon-fiber-nylon.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

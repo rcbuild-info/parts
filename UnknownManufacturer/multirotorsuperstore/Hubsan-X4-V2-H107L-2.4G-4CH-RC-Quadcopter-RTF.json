@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hubsan X4 V2 H107L 2.4G 4CH RC Quadcopter RTF",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/ready-to-fly/hubsan-x4-v2-h107l-2-4g-4ch-rc-quadcopter-rtf.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/ready-to-fly/hubsan-x4-v2-h107l-2-4g-4ch-rc-quadcopter-rtf.html"
+  },
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:49:19 GMT",
+   "url": "http://www.multirotorsuperstore.com/hubsan-x4-v2-h107l-2-4g-4ch-rc-quadcopter-rtf.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

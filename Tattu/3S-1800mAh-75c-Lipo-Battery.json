@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tattu",
  "name": "3S 1800mAh 75c Lipo Battery",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/batteries/tattu-3s-1800mah-75c.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/batteries/tattu-3s-1800mah-75c.html"
+  },
+  {
+   "price": "$34.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:42:54 GMT",
+   "url": "http://www.multirotorsuperstore.com/tattu-3s-1800mah-75c.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

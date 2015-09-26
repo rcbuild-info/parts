@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hovership",
  "name": "Mini 3-LED Bar",
@@ -7,9 +7,55 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/hovership-mini-3-led-bar.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/hovership-mini-3-led-bar.html"
+  },
+  {
+   "description": "Mini 3-LED Bar - Yellow",
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:08 GMT",
+   "url": "http://www.multirotorsuperstore.com/hovership-mini-3-led-bar.html"
+  },
+  {
+   "description": "Mini 3-LED Bar - Red",
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:08 GMT",
+   "url": "http://www.multirotorsuperstore.com/hovership-mini-3-led-bar.html"
+  },
+  {
+   "description": "Mini 3-LED Bar - Green",
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:08 GMT",
+   "url": "http://www.multirotorsuperstore.com/hovership-mini-3-led-bar.html"
+  },
+  {
+   "description": "Mini 3-LED Bar - Purple",
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:08 GMT",
+   "url": "http://www.multirotorsuperstore.com/hovership-mini-3-led-bar.html"
+  },
+  {
+   "description": "Mini 3-LED Bar - Blue",
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:08 GMT",
+   "url": "http://www.multirotorsuperstore.com/hovership-mini-3-led-bar.html"
+  },
+  {
+   "description": "Mini 3-LED Bar - White",
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:42 GMT",
+   "url": "http://www.multirotorsuperstore.com/hovership-mini-3-led-bar.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

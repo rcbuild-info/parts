@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Tattu",
  "name": "3S 1300mAh 45c Lipo Battery",
@@ -7,9 +9,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/batteries/tattu-3s-1300mah-45c-lipo-battery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/batteries/tattu-3s-1300mah-45c-lipo-battery.html"
+  },
+  {
+   "price": "$17.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:13 GMT",
+   "url": "http://www.multirotorsuperstore.com/tattu-3s-1300mah-45c-lipo-battery.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

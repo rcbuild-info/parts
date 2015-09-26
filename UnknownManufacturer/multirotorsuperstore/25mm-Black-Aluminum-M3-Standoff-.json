@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "25mm Black Aluminum M3 Standoff ",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/standoff-spacers/aluminum-standoffs/black-aluminum-m3-standoff-25mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/standoff-spacers/aluminum-standoffs/black-aluminum-m3-standoff-25mm.html"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:40:48 GMT",
+   "url": "http://www.multirotorsuperstore.com/black-aluminum-m3-standoff-25mm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

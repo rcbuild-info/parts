@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "V2814 700kv",
@@ -7,9 +9,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/motors/sunnysky-v2814-700kv-brushless-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/sunnysky-v2814-700kv-brushless-motor.html"
+  },
+  {
+   "price": "$37.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:46:34 GMT",
+   "url": "http://www.multirotorsuperstore.com/sunnysky-v2814-700kv-brushless-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

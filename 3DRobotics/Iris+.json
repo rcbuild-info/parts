@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "Iris+",
@@ -7,10 +7,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/3dr-iris",
-   "http://www.multirotorsuperstore.com/frames/frames-by-size/3dr-iris.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.liftrc.com/3dr-iris"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frames-by-size/3dr-iris.html"
+  },
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:50:13 GMT",
+   "url": "http://www.multirotorsuperstore.com/3dr-iris.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

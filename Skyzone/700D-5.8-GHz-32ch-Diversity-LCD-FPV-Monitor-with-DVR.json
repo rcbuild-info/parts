@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyzone",
  "name": "700D 5.8 GHz 32ch Diversity LCD FPV Monitor with DVR",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/skyzone-700d-5-8-ghz-32ch-diversity-lcd-fpv-monitor-with-dvr.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/skyzone-700d-5-8-ghz-32ch-diversity-lcd-fpv-monitor-with-dvr.html"
+  },
+  {
+   "price": "$169.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:38 GMT",
+   "url": "http://www.multirotorsuperstore.com/skyzone-700d-5-8-ghz-32ch-diversity-lcd-fpv-monitor-with-dvr.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Dominator v3 - PREORDER",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/fatshark-dominator-v3-preorder.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/fatshark-dominator-v3-preorder.html"
+  },
+  {
+   "price": "$349.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:34 GMT",
+   "url": "http://www.multirotorsuperstore.com/fatshark-dominator-v3-preorder.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

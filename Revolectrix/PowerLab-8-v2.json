@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Revolectrix",
  "name": "PowerLab 8 v2",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/batteries/revolectrix-powerlab-8-v2.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/batteries/revolectrix-powerlab-8-v2.html"
+  },
+  {
+   "price": "$239.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:42:51 GMT",
+   "url": "http://www.multirotorsuperstore.com/revolectrix-powerlab-8-v2.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

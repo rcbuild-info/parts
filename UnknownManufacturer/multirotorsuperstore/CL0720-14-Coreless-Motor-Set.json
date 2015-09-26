@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "CL0720-14 Coreless Motor Set",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/motors/motors-by-size/cl0720-14-coreless-motor-set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/motors-by-size/cl0720-14-coreless-motor-set.html"
+  },
+  {
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:46:35 GMT",
+   "url": "http://www.multirotorsuperstore.com/cl0720-14-coreless-motor-set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

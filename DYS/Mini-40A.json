@@ -1,5 +1,7 @@
 {
- "category": "esc",
+ "categories": [
+  "esc"
+ ],
  "equivalent": [
   "RCTimer/Mini-ESC40A"
  ],
@@ -11,10 +13,30 @@
   "manufacturer": [],
   "related": [
    "http://www.rcgroups.com/forums/showthread.php?t=2377027"
-  ],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4124",
-   "http://www.multirotorsuperstore.com/esc/esc-by-firmware/bl40a-opto-esc-blheli-oneshot-rdy.html"
   ]
- }
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4124"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/esc/esc-by-firmware/bl40a-opto-esc-blheli-oneshot-rdy.html"
+  },
+  {
+   "price": "$16.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:47:04 GMT",
+   "url": "http://www.multirotorsuperstore.com/bl40a-opto-esc-blheli-oneshot-rdy.html"
+  },
+  {
+   "price": "$16.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:08 GMT",
+   "url": "http://www.multirotorsuperstore.com/sn40a-opto-esc.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

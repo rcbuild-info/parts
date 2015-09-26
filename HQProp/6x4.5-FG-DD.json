@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "6x4.5 Direct Drive Fiberglass Composite",
@@ -7,30 +9,118 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/hqprop-6x4-5-ccw-propeller-2-blade-2-pack.html",
-   "http://www.getfpv.com/hqprop-6x4-5-cw-propeller-2-blade-2-pack.html",
-   "http://flyduino.net/Multikopter-Propeller-CW-CCW_52",
-   "http://flyduino.net/HQProp-6045G-6x45-Green-Set-2-CW-und-2-CCW",
-   "http://flyduino.net/Multikopter-Propeller-CW-CCW_27",
-   "http://flyduino.net/Multikopter-Propeller-CW-CCW_15",
-   "http://flyduino.net/HQProp-6045O-6x45-Propellers-OrangeSet-2-CW-und-2-CCW",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3554",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3555",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3186",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3182",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3183",
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3185",
-   "http://flyduino.net/HQProp-6x45-1524cm-Propeller-Set-Black-4-pcs-Glass-reinforced",
-   "http://flyduino.net/HQProp-6x45-1524cm-Propeller-Set-Green-4-pcs-Glass-reinforced",
-   "http://flyduino.net/HQProp-6x45-1524cm-Propeller-Set-Orange-4-pcs-Glass-reinforced",
-   "http://multirotormania.com/hq-prop/847-hqprop-6x45-props-1-pair-choose-your-color.html",
-   "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=92",
-   "http://www.readytoflyquads.com/hq-prop-6x4x5-black-carbon-composite-prop",
-   "http://www.multirotorsuperstore.com/props/props-by-mfg/hqprop/hqprop-6045-glass-composite.html",
-   "http://www.dronematters.com/power-system/hqprop-6045-glass-composite-propellers-2-ccw.html",
-   "https://www.multirotorparts.com/propellers/hqprop-6-x-4-5-glasvezel-versterkte-propeller-set-van-4-groen.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.getfpv.com/hqprop-6x4-5-ccw-propeller-2-blade-2-pack.html"
+  },
+  {
+   "url": "http://www.getfpv.com/hqprop-6x4-5-cw-propeller-2-blade-2-pack.html"
+  },
+  {
+   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_52"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-6045G-6x45-Green-Set-2-CW-und-2-CCW"
+  },
+  {
+   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_27"
+  },
+  {
+   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_15"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-6045O-6x45-Propellers-OrangeSet-2-CW-und-2-CCW"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3554"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3555"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3186"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3182"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3183"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3185"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-6x45-1524cm-Propeller-Set-Black-4-pcs-Glass-reinforced"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-6x45-1524cm-Propeller-Set-Green-4-pcs-Glass-reinforced"
+  },
+  {
+   "url": "http://flyduino.net/HQProp-6x45-1524cm-Propeller-Set-Orange-4-pcs-Glass-reinforced"
+  },
+  {
+   "url": "http://multirotormania.com/hq-prop/847-hqprop-6x45-props-1-pair-choose-your-color.html"
+  },
+  {
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=92"
+  },
+  {
+   "url": "http://www.readytoflyquads.com/hq-prop-6x4x5-black-carbon-composite-prop"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/props/props-by-mfg/hqprop/hqprop-6045-glass-composite.html"
+  },
+  {
+   "url": "http://www.dronematters.com/power-system/hqprop-6045-glass-composite-propellers-2-ccw.html"
+  },
+  {
+   "url": "https://www.multirotorparts.com/propellers/hqprop-6-x-4-5-glasvezel-versterkte-propeller-set-van-4-groen.html"
+  },
+  {
+   "description": "HQProp 6045 - Black CW",
+   "price": "$3.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:58 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 - Black CCW",
+   "price": "$3.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:58 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 - Green CCW",
+   "price": "$3.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:58 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 - Green CW",
+   "price": "$3.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:58 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 - Orange CCW",
+   "price": "$3.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:58 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 - Orange CW",
+   "price": "$3.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:45:11 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-6045-glass-composite.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Blacktop 5.8 GHz Cloverleaf / Skew Planar Wheel Antenna (90 degree)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/5-8-ghz/5-8-ghz-antennas/blacktop-5-8-ghz-cloverleaf-skew-planar-wheel-antenna-90-degree.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/5-8-ghz/5-8-ghz-antennas/blacktop-5-8-ghz-cloverleaf-skew-planar-wheel-antenna-90-degree.html"
+  },
+  {
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:34 GMT",
+   "url": "http://www.multirotorsuperstore.com/blacktop-5-8-ghz-cloverleaf-skew-planar-wheel-antenna-90-degree.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

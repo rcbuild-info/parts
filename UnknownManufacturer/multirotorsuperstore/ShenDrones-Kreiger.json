@@ -1,0 +1,41 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "",
+ "name": "ShenDrones Kreiger",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "_example": true,
+   "description": "",
+   "location": "",
+   "price": "",
+   "quantity": 0,
+   "stock_quantity": "",
+   "stock_state": "",
+   "stock_text": "",
+   "timestamp": "",
+   "url": ""
+  },
+  {
+   "description": "ShenDrones Krieger DTF200",
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:18 GMT",
+   "url": "http://www.multirotorsuperstore.com/shendrones-kreiger.html"
+  },
+  {
+   "description": "ShenDrones Krieger DTF225",
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:37 GMT",
+   "url": "http://www.multirotorsuperstore.com/shendrones-kreiger.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
+}

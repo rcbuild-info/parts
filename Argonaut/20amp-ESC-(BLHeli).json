@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Argonaut",
  "name": "20amp ESC (BLHeli)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/esc/esc-by-firmware/argonaut-20amp-esc-blheli.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/esc/esc-by-firmware/argonaut-20amp-esc-blheli.html"
+  },
+  {
+   "price": "$12.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:46:56 GMT",
+   "url": "http://www.multirotorsuperstore.com/argonaut-20amp-esc-blheli.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

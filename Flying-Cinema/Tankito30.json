@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flying Cinema",
  "name": "Tankito30",
@@ -7,9 +7,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frames-by-mfg/flying-cinema-tankito30.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frames-by-mfg/flying-cinema-tankito30.html"
+  },
+  {
+   "description": "Flying Cinema Tankito30 - G10",
+   "price": "$154.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:27 GMT",
+   "url": "http://www.multirotorsuperstore.com/flying-cinema-tankito30.html"
+  },
+  {
+   "description": "Flying Cinema Tankito30 - Carbon Fiber",
+   "price": "$194.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:45 GMT",
+   "url": "http://www.multirotorsuperstore.com/flying-cinema-tankito30.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

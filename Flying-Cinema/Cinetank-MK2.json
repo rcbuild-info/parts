@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flying Cinema",
  "name": "Cinetank MK2",
@@ -7,9 +7,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frames-by-mfg/flying-cinema-cinetank-mk2.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frames-by-mfg/flying-cinema-cinetank-mk2.html"
+  },
+  {
+   "description": "CineTank MK2",
+   "price": "$174.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:26 GMT",
+   "url": "http://www.multirotorsuperstore.com/flying-cinema-cinetank-mk2.html"
+  },
+  {
+   "description": "CineTank MK2 - L",
+   "price": "$190.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:51:36 GMT",
+   "url": "http://www.multirotorsuperstore.com/flying-cinema-cinetank-mk2.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

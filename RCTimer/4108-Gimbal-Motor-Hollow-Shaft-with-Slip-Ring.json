@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCTimer",
  "name": "4108 Gimbal Motor Hollow Shaft with Slip Ring",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/motors/gimbal-motors/rctimer-4108-gimbal-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/gimbal-motors/rctimer-4108-gimbal-motor.html"
+  },
+  {
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:46:44 GMT",
+   "url": "http://www.multirotorsuperstore.com/rctimer-4108-gimbal-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

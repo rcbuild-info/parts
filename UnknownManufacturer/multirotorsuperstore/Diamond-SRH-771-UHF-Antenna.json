@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Diamond SRH-771 UHF Antenna",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/diamond-srh-771-uhf-antenna.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/diamond-srh-771-uhf-antenna.html"
+  },
+  {
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:43:58 GMT",
+   "url": "http://www.multirotorsuperstore.com/diamond-srh-771-uhf-antenna.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

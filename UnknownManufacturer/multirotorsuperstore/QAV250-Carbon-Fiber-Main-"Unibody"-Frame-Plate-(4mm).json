@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "QAV250 Carbon Fiber Main \"Unibody\" Frame Plate (4mm)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/frames/frame-parts/qav250-carbon-fiber-main-unibody-frame-plate-4mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/frames/frame-parts/qav250-carbon-fiber-main-unibody-frame-plate-4mm.html"
+  },
+  {
+   "price": "$64.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:50:51 GMT",
+   "url": "http://www.multirotorsuperstore.com/qav250-carbon-fiber-main-unibody-frame-plate-4mm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

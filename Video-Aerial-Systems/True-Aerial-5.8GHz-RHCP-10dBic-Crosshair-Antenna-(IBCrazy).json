@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "True Aerial 5.8GHz RHCP 10dBic Crosshair Antenna (IBCrazy)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/5-8-ghz/5-8-ghz-antennas/vas-true-aerial-5-8ghz-rhcp-10dbic-crosshair-antenna-ibcrazy.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/5-8-ghz/5-8-ghz-antennas/vas-true-aerial-5-8ghz-rhcp-10dbic-crosshair-antenna-ibcrazy.html"
+  },
+  {
+   "price": "$64.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:40 GMT",
+   "url": "http://www.multirotorsuperstore.com/vas-true-aerial-5-8ghz-rhcp-10dbic-crosshair-antenna-ibcrazy.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

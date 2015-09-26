@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3x40 Straight Pin Header Set",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/3x40-straight-pin-header-set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/3x40-straight-pin-header-set.html"
+  },
+  {
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:48 GMT",
+   "url": "http://www.multirotorsuperstore.com/3x40-straight-pin-header-set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Flex 5.8 GHz Cloverleaf Antenna (TX)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/5-8-ghz/5-8-ghz-antennas/flex-5-8-ghz-cloverleaf-antenna.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/5-8-ghz/5-8-ghz-antennas/flex-5-8-ghz-cloverleaf-antenna.html"
+  },
+  {
+   "price": "$18.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:43:37 GMT",
+   "url": "http://www.multirotorsuperstore.com/flex-5-8-ghz-cloverleaf-antenna.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

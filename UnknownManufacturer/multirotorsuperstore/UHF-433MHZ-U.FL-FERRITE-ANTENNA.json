@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "UHF 433MHZ U.FL FERRITE ANTENNA",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/uhf-433mhz-u-fl-ferrite-antenna.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/uhf-433mhz-u-fl-ferrite-antenna.html"
+  },
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:04 GMT",
+   "url": "http://www.multirotorsuperstore.com/uhf-433mhz-u-fl-ferrite-antenna.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

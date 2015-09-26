@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Lipo Battery Voltage Alarm",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/batteries/lipo-battery-voltage-alarm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/batteries/lipo-battery-voltage-alarm.html"
+  },
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:43:00 GMT",
+   "url": "http://www.multirotorsuperstore.com/lipo-battery-voltage-alarm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

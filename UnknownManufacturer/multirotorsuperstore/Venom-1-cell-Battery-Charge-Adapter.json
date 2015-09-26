@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Venom 1-cell Battery Charge Adapter",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/batteries/venom-1-cell-battery-charge-adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/batteries/venom-1-cell-battery-charge-adapter.html"
+  },
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:42:35 GMT",
+   "url": "http://www.multirotorsuperstore.com/venom-1-cell-battery-charge-adapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

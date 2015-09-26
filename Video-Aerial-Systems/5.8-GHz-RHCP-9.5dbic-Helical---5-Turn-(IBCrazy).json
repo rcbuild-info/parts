@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Video Aerial Systems",
  "name": "5.8 GHz RHCP 9.5dbic Helical - 5 Turn (IBCrazy)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/5-8-ghz/5-8-ghz-antennas/vas-5-8ghz-9-5dbic-helical-ibcrazy.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/5-8-ghz/5-8-ghz-antennas/vas-5-8ghz-9-5dbic-helical-ibcrazy.html"
+  },
+  {
+   "price": "$34.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:41 GMT",
+   "url": "http://www.multirotorsuperstore.com/vas-5-8ghz-9-5dbic-helical-ibcrazy.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

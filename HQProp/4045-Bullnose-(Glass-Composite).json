@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "4045 Bullnose (Glass Composite)",
@@ -7,9 +7,55 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/props/props-by-size/4-inch/hqprop-4045-bullnose-glass-composite.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/props/props-by-size/4-inch/hqprop-4045-bullnose-glass-composite.html"
+  },
+  {
+   "description": "HQProp 4045 Bullnose - Orange CW",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:25 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-4045-bullnose-glass-composite.html"
+  },
+  {
+   "description": "HQProp 4045 Bullnose - Orange CCW",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:25 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-4045-bullnose-glass-composite.html"
+  },
+  {
+   "description": "HQProp 4045 Bullnose - Green CW",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:25 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-4045-bullnose-glass-composite.html"
+  },
+  {
+   "description": "HQProp 4045 Bullnose - Green CCW",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:25 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-4045-bullnose-glass-composite.html"
+  },
+  {
+   "description": "HQProp 4045 Bullnose - Black CW",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:25 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-4045-bullnose-glass-composite.html"
+  },
+  {
+   "description": "HQProp 4045 Bullnose - Black CCW",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:45:09 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-4045-bullnose-glass-composite.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

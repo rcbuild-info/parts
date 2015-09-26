@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FX799T 5.8 GHz 40 Channel 200mW Race Transmitter",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/fpv/5-8-ghz/fx799t-5-8-ghz-40-channel-200mw-race-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/fpv/5-8-ghz/fx799t-5-8-ghz-40-channel-200mw-race-transmitter.html"
+  },
+  {
+   "price": "$34.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:43:52 GMT",
+   "url": "http://www.multirotorsuperstore.com/fx799t-5-8-ghz-40-channel-200mw-race-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

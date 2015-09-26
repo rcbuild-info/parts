@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M5 Nylock Lock Nuts",
@@ -7,9 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/motors/m5-nylock-lock-nuts.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/m5-nylock-lock-nuts.html"
+  },
+  {
+   "description": "M5 Locknut - Green",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:41 GMT",
+   "url": "http://www.multirotorsuperstore.com/m5-nylock-lock-nuts.html"
+  },
+  {
+   "description": "M5 Locknut - Blue",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:41 GMT",
+   "url": "http://www.multirotorsuperstore.com/m5-nylock-lock-nuts.html"
+  },
+  {
+   "description": "M5 Locknut - Red",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:47:11 GMT",
+   "url": "http://www.multirotorsuperstore.com/m5-nylock-lock-nuts.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

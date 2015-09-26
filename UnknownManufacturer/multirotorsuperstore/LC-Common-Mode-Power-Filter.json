@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LC Common Mode Power Filter",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/accessories/lc-common-mode-power-filter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/accessories/lc-common-mode-power-filter.html"
+  },
+  {
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:41:43 GMT",
+   "url": "http://www.multirotorsuperstore.com/lc-common-mode-power-filter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

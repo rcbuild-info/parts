@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DTF UHF",
  "name": "1-watt Deluxe TX",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/dtf-uhf-1-watt-deluxe-tx.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/radio/uhf-long-range-systems/dtf-uhf-1-watt-deluxe-tx.html"
+  },
+  {
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:43:24 GMT",
+   "url": "http://www.multirotorsuperstore.com/dtf-uhf-1-watt-deluxe-tx.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

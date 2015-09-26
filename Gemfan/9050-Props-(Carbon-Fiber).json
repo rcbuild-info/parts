@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "9050 Props (Carbon Fiber)",
@@ -7,9 +7,27 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/props/gemfan-9050-props-carbon-fiber.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/props/gemfan-9050-props-carbon-fiber.html"
+  },
+  {
+   "description": "GemFan 9050 Props (Carbon Fiber) - CW",
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:39:05 GMT",
+   "url": "http://www.multirotorsuperstore.com/gemfan-9050-props-carbon-fiber.html"
+  },
+  {
+   "description": "GemFan 9050 Props (Carbon Fiber) - CCW",
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:44:59 GMT",
+   "url": "http://www.multirotorsuperstore.com/gemfan-9050-props-carbon-fiber.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

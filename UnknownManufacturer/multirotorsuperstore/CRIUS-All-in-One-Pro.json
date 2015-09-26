@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "CRIUS All-in-One Pro",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/crius-all-in-one-pro.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/crius-all-in-one-pro.html"
+  },
+  {
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:07 GMT",
+   "url": "http://www.multirotorsuperstore.com/crius-all-in-one-pro.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
