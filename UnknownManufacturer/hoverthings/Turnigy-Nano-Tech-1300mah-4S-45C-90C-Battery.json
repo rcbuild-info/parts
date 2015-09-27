@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Turnigy Nano-Tech 1300mah 4S 45C-90C Battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/turnigy-4s-45c-1300mah"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:29 GMT",
+   "url": "http://www.hoverthings.com/turnigy-4s-45c-1300mah"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

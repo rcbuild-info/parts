@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Ultra Low Profile GoPro Hero 3 Live Video Cable (Flip 360, etc)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/goprocable"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:28 GMT",
+   "url": "http://www.hoverthings.com/goprocable"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

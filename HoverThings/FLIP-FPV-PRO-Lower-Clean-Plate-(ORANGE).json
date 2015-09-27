@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP FPV PRO Lower Clean Plate (ORANGE)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/flipfpvprocleanlowerorange"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:45 GMT",
+   "url": "http://www.hoverthings.com/flipfpvprocleanlowerorange"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

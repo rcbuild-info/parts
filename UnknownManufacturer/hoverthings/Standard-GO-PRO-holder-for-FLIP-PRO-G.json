@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Standard GO-PRO holder for FLIP PRO-G",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/pro-g-360-gopro-mount"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:30 GMT",
+   "url": "http://www.hoverthings.com/pro-g-360-gopro-mount"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

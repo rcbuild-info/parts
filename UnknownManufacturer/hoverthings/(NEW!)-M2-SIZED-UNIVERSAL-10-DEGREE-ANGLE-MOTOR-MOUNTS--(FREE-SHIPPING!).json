@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "(NEW!) M2 SIZED UNIVERSAL 10 DEGREE ANGLE MOTOR MOUNTS  (FREE SHIPPING!)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/m2-10-degree-motor-mounts"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:21 GMT",
+   "url": "http://www.hoverthings.com/m2-10-degree-motor-mounts"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Landing Gear Plates (DIGITAL CAMO)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/450geardc"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:30 GMT",
+   "url": "http://www.hoverthings.com/450geardc"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mounting Hardware (8 Long Spacers with Screws Kit)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/spcr0875qty8"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:56 GMT",
+   "url": "http://www.hoverthings.com/spcr0875qty8"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

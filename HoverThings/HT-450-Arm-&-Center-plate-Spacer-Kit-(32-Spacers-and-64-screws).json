@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "HT-450 Arm & Center plate Spacer Kit (32 Spacers and 64 screws)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/ht450hw"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:30 GMT",
+   "url": "http://www.hoverthings.com/ht450hw"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -11,9 +11,9 @@
  },
  "variants": [
   {
-   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-360-parts/flip-360-arm-orange.html"
-  },
-  {
+   "price": "$6.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:40 GMT",
    "url": "http://www.hoverthings.com/360-arm-orange"
   },
   {
@@ -21,6 +21,9 @@
    "stock_state": "in_stock",
    "timestamp": "Sun, 27 Sep 2015 00:14:30 GMT",
    "url": "https://www.multirotorparts.com/flip-360-arm-orange.html"
+  },
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-360-parts/flip-360-arm-orange.html"
   }
  ],
  "version": 2,

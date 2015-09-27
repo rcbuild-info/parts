@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "HT-450 Frame Carbon Plate set (Please Read Description)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/ht450carbonparts"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:30 GMT",
+   "url": "http://www.hoverthings.com/ht450carbonparts"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

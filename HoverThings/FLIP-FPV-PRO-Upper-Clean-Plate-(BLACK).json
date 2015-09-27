@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP FPV PRO Upper Clean Plate (BLACK)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/flipfpvupperblack"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:45 GMT",
+   "url": "http://www.hoverthings.com/flipfpvupperblack"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

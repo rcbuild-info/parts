@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP 250 / 260 CCD Camera Mount Plate",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/flip-250-260-camera-mount"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:37 GMT",
+   "url": "http://www.hoverthings.com/flip-250-260-camera-mount"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

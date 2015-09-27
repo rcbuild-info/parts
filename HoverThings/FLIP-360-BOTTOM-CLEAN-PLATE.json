@@ -11,9 +11,9 @@
  },
  "variants": [
   {
-   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-360-parts/flip-360-bottom-clean-plate.html"
-  },
-  {
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:41 GMT",
    "url": "http://www.hoverthings.com/360-bottom-clean"
   },
   {
@@ -21,6 +21,9 @@
    "stock_state": "out_of_stock",
    "timestamp": "Sun, 27 Sep 2015 00:14:32 GMT",
    "url": "https://www.multirotorparts.com/flip-360-bottom-clean-plate.html"
+  },
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-360-parts/flip-360-bottom-clean-plate.html"
   }
  ],
  "version": 2,

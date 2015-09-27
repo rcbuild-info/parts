@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "16 FLIP ARM  (OR DIST BOARD) STANDOFFS (SHORT/ 1/4\")",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/flip-arm-standoffs"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:50 GMT",
+   "url": "http://www.hoverthings.com/flip-arm-standoffs"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

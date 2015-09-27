@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "5x4 - Black CARBON (CCW)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/hqprop-5x4-black-carbon"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.50",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:58 GMT",
+   "url": "http://www.hoverthings.com/hqprop-5x4-black-carbon"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

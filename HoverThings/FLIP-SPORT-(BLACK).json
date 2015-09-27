@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP SPORT (BLACK)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/the-flip-black"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$65.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:33 GMT",
+   "url": "http://www.hoverthings.com/the-flip-black"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1/16\" Hex Driver for all HoverThings frames",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/hexdriver1-16"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:15:00 GMT",
+   "url": "http://www.hoverthings.com/hexdriver1-16"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

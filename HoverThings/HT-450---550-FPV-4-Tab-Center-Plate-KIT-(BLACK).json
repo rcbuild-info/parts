@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "HT-450 / 550 FPV 4 Tab Center Plate KIT (BLACK)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/ht-450-550-tab4-black-kit"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$25.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:51 GMT",
+   "url": "http://www.hoverthings.com/ht-450-550-tab4-black-kit"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

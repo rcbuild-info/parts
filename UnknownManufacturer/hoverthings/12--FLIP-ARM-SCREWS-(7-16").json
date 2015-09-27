@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "12  FLIP ARM SCREWS (7/16\")",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/flip-fpv-716-screws"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:46 GMT",
+   "url": "http://www.hoverthings.com/flip-fpv-716-screws"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

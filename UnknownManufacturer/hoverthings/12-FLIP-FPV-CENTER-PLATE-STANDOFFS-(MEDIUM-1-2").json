@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "12 FLIP FPV CENTER PLATE STANDOFFS (MEDIUM 1/2\")",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/flip-fpv-12-standoff"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:51 GMT",
+   "url": "http://www.hoverthings.com/flip-fpv-12-standoff"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

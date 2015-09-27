@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP FPV Hardware Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/flipfpv-hardware"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:42 GMT",
+   "url": "http://www.hoverthings.com/flipfpv-hardware"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

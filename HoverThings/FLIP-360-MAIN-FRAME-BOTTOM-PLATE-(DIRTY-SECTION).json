@@ -11,9 +11,9 @@
  },
  "variants": [
   {
-   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-360-parts/flip-360-main-frame-bottom-plate-dirty-section.html"
-  },
-  {
+   "price": "$12.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:39 GMT",
    "url": "http://www.hoverthings.com/360-bottom"
   },
   {
@@ -21,6 +21,9 @@
    "stock_state": "out_of_stock",
    "timestamp": "Sun, 27 Sep 2015 00:14:38 GMT",
    "url": "https://www.multirotorparts.com/flip-360-main-frame-bottom-plate-dirty-section.html"
+  },
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-360-parts/flip-360-main-frame-bottom-plate-dirty-section.html"
   }
  ],
  "version": 2,

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "60 FLIP FPV BUTTON HEAD SCREWS (LENGTH 3/16\")",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/flip-fpv-screws"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:44 GMT",
+   "url": "http://www.hoverthings.com/flip-fpv-screws"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

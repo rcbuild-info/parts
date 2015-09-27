@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10 FLIP FPV EXTENDED TOP PLATE STANDOFFS (EXTRA LONG 1.5\")",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/flip-fpv-extra-long-standoff"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:51 GMT",
+   "url": "http://www.hoverthings.com/flip-fpv-extra-long-standoff"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

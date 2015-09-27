@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP FPV Frame (BLACK)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/flipfpvblack-181"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$105.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:33 GMT",
+   "url": "http://www.hoverthings.com/flipfpvblack-181"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

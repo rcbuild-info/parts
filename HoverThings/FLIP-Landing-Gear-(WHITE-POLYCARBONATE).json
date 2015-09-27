@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP Landing Gear (WHITE POLYCARBONATE)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hoverthings.com/flip-flip-fpv-landing-gear-white"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:14:44 GMT",
+   "url": "http://www.hoverthings.com/flip-flip-fpv-landing-gear-white"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
