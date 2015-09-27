@@ -13,10 +13,11 @@
  },
  "variants": [
   {
-   "url": "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/abusemark/acro-naze-32.html"
-  },
-  {
-   "url": "http://www.voodooquads.com/naze32-acro-flight-controller-no-pressure-sensor-or-mag/"
+   "price": "USD$25.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 00:49:55 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=70"
   },
   {
    "price": "$24.99",
@@ -26,6 +27,9 @@
    "url": "http://www.getfpv.com/acro-naze32-flight-controller-straight-right-angle.html"
   },
   {
+   "url": "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/abusemark/acro-naze-32.html"
+  },
+  {
    "price": "$19.99",
    "stock_state": "in_stock",
    "stock_text": "92 Units in Stock",
@@ -33,11 +37,10 @@
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3066"
   },
   {
-   "price": "USD$25.00",
+   "price": "$28.95",
    "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sun, 27 Sep 2015 00:49:55 GMT",
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=70"
+   "timestamp": "Sun, 27 Sep 2015 18:37:17 GMT",
+   "url": "http://www.voodooquads.com/naze32-acro-flight-controller-no-pressure-sensor-or-mag/"
   }
  ],
  "version": 2,

@@ -13,7 +13,18 @@
  },
  "variants": [
   {
-   "url": "http://www.voodooquads.com/naze32-full-flight-controller-with-pressure-sensor-and-mag/"
+   "price": "USD$54.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 00:49:35 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=83"
+  },
+  {
+   "price": "$52.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:39:30 GMT",
+   "url": "http://www.getfpv.com/full-naze32-flight-controller-straight-right-angle.html"
   },
   {
    "url": "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/naze-32.html"
@@ -26,18 +37,10 @@
    "url": "http://www.multirotorsuperstore.com/naze-32.html"
   },
   {
-   "price": "$52.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:39:30 GMT",
-   "url": "http://www.getfpv.com/full-naze32-flight-controller-straight-right-angle.html"
-  },
-  {
-   "price": "USD$54.00",
+   "price": "$38.95",
    "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sun, 27 Sep 2015 00:49:35 GMT",
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=83"
+   "timestamp": "Sun, 27 Sep 2015 18:37:17 GMT",
+   "url": "http://www.voodooquads.com/naze32-full-flight-controller-with-pressure-sensor-and-mag/"
   }
  ],
  "version": 2,

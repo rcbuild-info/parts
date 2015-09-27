@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "VooDoo Quads",
  "name": "Ultimate 700tvl 5v-17v Super High Resolution FPV Camera (for VDQ210)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.voodooquads.com/ultimate-700tvl-5v-17v-super-high-resolution-fpv-camera-for-vdq210/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$34.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:37:18 GMT",
+   "url": "http://www.voodooquads.com/ultimate-700tvl-5v-17v-super-high-resolution-fpv-camera-for-vdq210/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

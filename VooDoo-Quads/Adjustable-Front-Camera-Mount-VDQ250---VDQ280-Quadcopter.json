@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "VooDoo Quads",
  "name": "Adjustable Front Camera Mount VDQ250 / VDQ280 Quadcopter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.voodooquads.com/adjustable-front-camera-mount-vdq250-vdq280-quadcopter/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$23.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:37:16 GMT",
+   "url": "http://www.voodooquads.com/adjustable-front-camera-mount-vdq250-vdq280-quadcopter/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

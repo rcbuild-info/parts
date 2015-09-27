@@ -15,17 +15,11 @@
  },
  "variants": [
   {
-   "url": "http://www.voodooquads.com/mini-naze32-acro-flight-controller-no-pressure-sensor-or-mag/"
-  },
-  {
-   "url": "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/acro-naze-32-mini.html"
-  },
-  {
-   "price": "$24.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of stock",
-   "timestamp": "Sat, 26 Sep 2015 02:48:38 GMT",
-   "url": "http://www.multirotorsuperstore.com/acro-naze-32-mini.html"
+   "price": "USD$27.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 00:49:36 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=161"
   },
   {
    "price": "$24.99",
@@ -35,11 +29,20 @@
    "url": "http://www.getfpv.com/afromini-amaze-rev3-mini-naze32.html"
   },
   {
-   "price": "USD$27.49",
+   "price": "$24.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:38 GMT",
+   "url": "http://www.multirotorsuperstore.com/acro-naze-32-mini.html"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/controllers/controllers-by-mfg/acro-naze-32-mini.html"
+  },
+  {
+   "price": "$32.95",
    "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sun, 27 Sep 2015 00:49:36 GMT",
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=161"
+   "timestamp": "Sun, 27 Sep 2015 18:37:18 GMT",
+   "url": "http://www.voodooquads.com/mini-naze32-acro-flight-controller-no-pressure-sensor-or-mag/"
   }
  ],
  "version": 2,
