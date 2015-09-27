@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Decoder 2 SBUS to PWM Decoder",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/frsky-decoder-2-sbus-to-pwm-decoder"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$11.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
+   "timestamp": "Sun, 27 Sep 2015 02:00:41 GMT",
+   "url": "https://www.liftrc.com/frsky-decoder-2-sbus-to-pwm-decoder"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

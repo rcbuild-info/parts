@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "5\"x3\" Reverse Carbon Mix Propeller - Black (5030)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/hqprop-5-x3-cw-carbon-mix-propeller-pair-black-5030"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$4.59",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:11:08 GMT",
+   "url": "https://www.liftrc.com/hqprop-5-x3-cw-carbon-mix-propeller-pair-black-5030"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

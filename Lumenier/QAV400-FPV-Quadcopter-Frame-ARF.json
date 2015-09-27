@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/lumenier-qav400-fpv-quadcopter-frame-arf"
-  },
-  {
    "price": "$499.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:37:42 GMT",
    "url": "http://www.getfpv.com/qav400-fpv-quadcopter-frame-arf.html"
+  },
+  {
+   "price": "US$499.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:34:48 GMT",
+   "url": "https://www.liftrc.com/lumenier-qav400-fpv-quadcopter-frame-arf"
   }
  ],
  "version": 2,

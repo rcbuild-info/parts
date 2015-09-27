@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Pololu",
  "name": "5V 1A Step-Down Voltage Regular D24V10F5",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/pololu-5v-1a-step-down-voltage-regular-d24v10f5"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$8.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:06:54 GMT",
+   "url": "https://www.liftrc.com/pololu-5v-1a-step-down-voltage-regular-d24v10f5"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

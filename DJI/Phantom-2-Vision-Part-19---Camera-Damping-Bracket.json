@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Phantom 2 Vision Part 19 - Camera Damping Bracket",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/dji-phantom-2-vision-part-19-camera-damping-bracket"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$9.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:31:27 GMT",
+   "url": "https://www.liftrc.com/dji-phantom-2-vision-part-19-camera-damping-bracket"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

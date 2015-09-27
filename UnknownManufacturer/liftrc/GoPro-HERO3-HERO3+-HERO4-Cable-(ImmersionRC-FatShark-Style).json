@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GoPro HERO3/HERO3+/HERO4 Cable (ImmersionRC/FatShark Style)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/gopro-hero3-hero3-hero4-cable-immersionrc-fatshark-style"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$8.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:18:27 GMT",
+   "url": "https://www.liftrc.com/gopro-hero3-hero3-hero4-cable-immersionrc-fatshark-style"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

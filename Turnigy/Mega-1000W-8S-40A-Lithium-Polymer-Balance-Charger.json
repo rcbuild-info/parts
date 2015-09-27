@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Mega 1000W 8S 40A Lithium Polymer Balance Charger",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/turnigy-mega-1000w-8s-40a-lithium-polymer-balance-charger"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$130.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:59:59 GMT",
+   "url": "https://www.liftrc.com/turnigy-mega-1000w-8s-40a-lithium-polymer-balance-charger"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

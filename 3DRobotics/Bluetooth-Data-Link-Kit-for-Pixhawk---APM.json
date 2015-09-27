@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "Bluetooth Data Link Kit for Pixhawk / APM",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/3dr-bluetooth-data-link-kit-for-pixhawk-apm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$25.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:23:19 GMT",
+   "url": "https://www.liftrc.com/3dr-bluetooth-data-link-kit-for-pixhawk-apm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

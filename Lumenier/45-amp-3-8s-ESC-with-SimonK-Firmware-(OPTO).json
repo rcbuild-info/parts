@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/lumenier-45-amp-3-8s-esc-with-simonk-firmware-opto"
-  },
-  {
    "price": "$49.99",
    "stock_state": "out_of_stock",
    "stock_text": "Expected on 9/24/2015",
    "timestamp": "Sat, 26 Sep 2015 03:37:56 GMT",
    "url": "http://www.getfpv.com/lumenier-45-amp-3-8s-esc-with-simonk-firmware-opto.html"
+  },
+  {
+   "price": "US$49.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:59:06 GMT",
+   "url": "https://www.liftrc.com/lumenier-45-amp-3-8s-esc-with-simonk-firmware-opto"
   }
  ],
  "version": 2,

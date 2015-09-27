@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "6x4.5R\" Reverse Propeller  - Black (6045)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/hqprop-6x4-5r-cw-propeller-pair-black-6045"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$3.48",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:07:59 GMT",
+   "url": "https://www.liftrc.com/hqprop-6x4-5r-cw-propeller-pair-black-6045"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

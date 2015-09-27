@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": " Carbon Fiber Prop (2pcs) - 10 x 3.3",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1789",
-   "https://www.liftrc.com/t-motor-carbon-fiber-prop-2pcs-10-x-3-3"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1789"
+  },
+  {
+   "price": "US$40.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
+   "timestamp": "Sun, 27 Sep 2015 02:13:48 GMT",
+   "url": "https://www.liftrc.com/t-motor-carbon-fiber-prop-2pcs-10-x-3-3"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

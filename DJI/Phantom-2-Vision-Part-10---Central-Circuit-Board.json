@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Phantom 2 Vision Part 10 - Central Circuit Board",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/dji-phantom-2-vision-part-10-central-circuit-board"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$59.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:31:51 GMT",
+   "url": "https://www.liftrc.com/dji-phantom-2-vision-part-10-central-circuit-board"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

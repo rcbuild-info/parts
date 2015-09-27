@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Futaba",
  "name": "R7008SB 8ch. + S.BUS Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/futaba-r7008sb-8ch-s-bus-receiver"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$149.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:09:26 GMT",
+   "url": "https://www.liftrc.com/futaba-r7008sb-8ch-s-bus-receiver"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

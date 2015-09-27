@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "CM-650 Mini - 650TVL Camera 25x25mm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/lumenier-cm-650-mini-650tvl-camera-25x25mm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$69.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:37:33 GMT",
+   "url": "https://www.liftrc.com/lumenier-cm-650-mini-650tvl-camera-25x25mm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

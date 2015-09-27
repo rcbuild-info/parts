@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Rotor X Atom Top Plate",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/rotor-x-atom-top-plate"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:40:30 GMT",
+   "url": "https://www.liftrc.com/rotor-x-atom-top-plate"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Ftdi Usb to Serial Basic Breakout 3.3/5V",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/ftdi-usb-to-serial-basic-breakout-3-3-5v"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$18.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
+   "timestamp": "Sun, 27 Sep 2015 02:04:08 GMT",
+   "url": "https://www.liftrc.com/ftdi-usb-to-serial-basic-breakout-3-3-5v"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

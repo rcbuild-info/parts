@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flytrex",
  "name": "Core 2 Cable for Blade 350 QX",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/flytrex-core-2-cable-for-blade-350-qx"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$8.99",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
+   "timestamp": "Sun, 27 Sep 2015 02:41:00 GMT",
+   "url": "https://www.liftrc.com/flytrex-core-2-cable-for-blade-350-qx"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

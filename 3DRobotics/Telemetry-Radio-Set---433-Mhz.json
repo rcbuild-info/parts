@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "Telemetry Radio Set - 433 Mhz",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/3dr-telemetry-radio-set-433-mhz"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$99.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:23:32 GMT",
+   "url": "https://www.liftrc.com/3dr-telemetry-radio-set-433-mhz"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "Motor, 800kv, Brushless for 3DR X8, X8+, and X8-M",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/sunnysky-motor-800kv-brushless-for-3dr-x8-x8-and-x8-m"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$24.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:05:29 GMT",
+   "url": "https://www.liftrc.com/sunnysky-motor-800kv-brushless-for-3dr-x8-x8-and-x8-m"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

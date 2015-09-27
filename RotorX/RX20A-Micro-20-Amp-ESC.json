@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RotorX",
  "name": "RX20A Micro 20 Amp ESC",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/rx20a-rotorx-micro-20-amp-esc"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$13.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:59:23 GMT",
+   "url": "https://www.liftrc.com/rx20a-rotorx-micro-20-amp-esc"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

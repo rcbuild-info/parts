@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Soldering Iron 30watt 12v / 3s XT60 plug",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/soldering-iron-30watt-12v-3s-xt60-plug"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:15:34 GMT",
+   "url": "https://www.liftrc.com/soldering-iron-30watt-12v-3s-xt60-plug"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

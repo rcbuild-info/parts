@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Ronin Handheld Gimbal - Used",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/dji-ronin-used"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$2,399.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:53:29 GMT",
+   "url": "https://www.liftrc.com/dji-ronin-used"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

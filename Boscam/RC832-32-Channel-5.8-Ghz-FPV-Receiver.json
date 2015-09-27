@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "RC832 32 Channel 5.8 Ghz FPV Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/boscam-rc832-32-channel-5-8-ghz-fpv-receiver"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$56.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:52:32 GMT",
+   "url": "https://www.liftrc.com/boscam-rc832-32-channel-5-8-ghz-fpv-receiver"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

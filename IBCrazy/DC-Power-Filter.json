@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "DC Power Filter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/ibcrazy-dc-power-filter"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$9.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 01:53:12 GMT",
+   "url": "https://www.liftrc.com/ibcrazy-dc-power-filter"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

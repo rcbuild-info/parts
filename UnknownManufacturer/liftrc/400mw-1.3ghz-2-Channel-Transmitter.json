@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "400mw 1.3ghz 2 Channel Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/400mw-1-3ghz-2-channel-transmitter"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$44.95",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:15:44 GMT",
+   "url": "https://www.liftrc.com/400mw-1-3ghz-2-channel-transmitter"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

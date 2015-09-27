@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "E300 Prop (White) 9.4x4.3 - Self tightening",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/dji-e300-prop-pair-white-9-4x4-3-self-tightening"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$15.00",
+   "quantity": 2,
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:12:04 GMT",
+   "url": "https://www.liftrc.com/dji-e300-prop-pair-white-9-4x4-3-self-tightening"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

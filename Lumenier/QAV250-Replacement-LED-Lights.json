@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "QAV250 Replacement LED Lights",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/lumenier-qav250-replacement-led-lights"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$11.99",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
+   "timestamp": "Sun, 27 Sep 2015 02:29:00 GMT",
+   "url": "https://www.liftrc.com/lumenier-qav250-replacement-led-lights"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "X8-M Professional Mapping UAV",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/3dr-x8-m-professional-mapping-uav"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$5,400.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:34:02 GMT",
+   "url": "https://www.liftrc.com/3dr-x8-m-professional-mapping-uav"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

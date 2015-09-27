@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Phantom 2 Part 5 - Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/dji-phantom-2-part-5-receiver"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$49.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:00:07 GMT",
+   "url": "https://www.liftrc.com/dji-phantom-2-part-5-receiver"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

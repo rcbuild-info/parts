@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "(Normal) Triple blade 5x4x3B",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/tripleblade-5x4x3b"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$3.32",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:10:13 GMT",
+   "url": "https://www.liftrc.com/tripleblade-5x4x3b"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

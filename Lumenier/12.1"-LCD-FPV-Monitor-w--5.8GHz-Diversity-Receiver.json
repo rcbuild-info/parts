@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "12.1\" LCD FPV Monitor w/ 5.8GHz Diversity Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/lumenier-12-1-lcd-fpv-monitor-w-5-8ghz-diversity-receiver"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$240.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:52:58 GMT",
+   "url": "https://www.liftrc.com/lumenier-12-1-lcd-fpv-monitor-w-5-8ghz-diversity-receiver"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

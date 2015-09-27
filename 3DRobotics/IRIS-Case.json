@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "IRIS Case",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/3dr-iris-case"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$280.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
+   "timestamp": "Sun, 27 Sep 2015 02:28:28 GMT",
+   "url": "https://www.liftrc.com/3dr-iris-case"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

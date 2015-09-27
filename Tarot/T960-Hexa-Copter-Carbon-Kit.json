@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "T960 Hexa-Copter Carbon Kit",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/tarot-t960-hexa-copter-carbon-kit"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$342.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:32:11 GMT",
+   "url": "https://www.liftrc.com/tarot-t960-hexa-copter-carbon-kit"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

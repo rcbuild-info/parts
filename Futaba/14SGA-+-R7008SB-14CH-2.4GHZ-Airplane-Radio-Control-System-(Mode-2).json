@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Futaba",
  "name": "14SGA + R7008SB 14CH 2.4GHZ Airplane Radio Control System (Mode 2)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/futaba-14sga-r7008sb-14ch-2-4ghz-airplane-radio-control-system-mode-2"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$599.99",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:09:32 GMT",
+   "url": "https://www.liftrc.com/futaba-14sga-r7008sb-14ch-2-4ghz-airplane-radio-control-system-mode-2"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

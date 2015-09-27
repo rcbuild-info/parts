@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 950mah 3S 25~50C Lipo Pack",
@@ -7,16 +9,36 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60028",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59086",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35543",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32781",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29022",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24221",
-   "http://www.hobbyking.com/hobbyking/store/__20389__Turnigy_nano_tech_950mah_3S_25_50C_Lipo_Pack.html",
-   "https://www.liftrc.com/turnigy-nano-tech-950mah-3s-25-50c-lipo-pack"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__20389__Turnigy_nano_tech_950mah_3S_25_50C_Lipo_Pack.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24221"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29022"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32781"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35543"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59086"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60028"
+  },
+  {
+   "price": "US$9.60",
+   "timestamp": "Sun, 27 Sep 2015 02:04:31 GMT",
+   "url": "https://www.liftrc.com/turnigy-nano-tech-950mah-3s-25-50c-lipo-pack"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

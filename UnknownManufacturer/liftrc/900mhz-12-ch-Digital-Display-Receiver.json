@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "900mhz 12 ch Digital Display Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/900mhz-12-ch-digital-display-receiver-522"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$34.95",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:15:58 GMT",
+   "url": "https://www.liftrc.com/900mhz-12-ch-digital-display-receiver-522"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Zippy Flightmax 1000mAh 3S1P 25C",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/zippy-flightmax-1000mah-3s1p-25c"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$6.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
+   "timestamp": "Sun, 27 Sep 2015 01:57:06 GMT",
+   "url": "https://www.liftrc.com/zippy-flightmax-1000mah-3s1p-25c"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "IBCrazy",
  "name": "5.8GHz 12.5dbic Helical Black Cannon",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/ibcrazy-5-8ghz-12-5dbic-helical-black-cannon"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$49.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:19:27 GMT",
+   "url": "https://www.liftrc.com/ibcrazy-5-8ghz-12-5dbic-helical-black-cannon"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

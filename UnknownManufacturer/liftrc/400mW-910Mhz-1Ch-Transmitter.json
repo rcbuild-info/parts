@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "400mW 910Mhz 1Ch Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/400mw-910mhz-1ch-transmitter"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$44.95",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:18:07 GMT",
+   "url": "https://www.liftrc.com/400mw-910mhz-1ch-transmitter"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

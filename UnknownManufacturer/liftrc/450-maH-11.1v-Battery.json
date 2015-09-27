@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "450 maH 11.1v Battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/450-mah-11-1v-battery"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$8.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:05:10 GMT",
+   "url": "https://www.liftrc.com/450-mah-11-1v-battery"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

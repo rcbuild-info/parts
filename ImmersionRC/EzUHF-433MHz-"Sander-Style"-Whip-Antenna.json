@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "EzUHF 433MHz \"Sander Style\" Whip Antenna",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/immersionrc-ezuhf-433mhz-sander-style-whip-antenna"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$2.25",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:01:49 GMT",
+   "url": "https://www.liftrc.com/immersionrc-ezuhf-433mhz-sander-style-whip-antenna"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

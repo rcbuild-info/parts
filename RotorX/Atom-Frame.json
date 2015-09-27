@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "RotorX",
  "name": "Atom",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/atom-rotorx-frame"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$24.99",
+   "stock_state": "backordered",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 02:32:06 GMT",
+   "url": "https://www.liftrc.com/atom-rotorx-frame"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

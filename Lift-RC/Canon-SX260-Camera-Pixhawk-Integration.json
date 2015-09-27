@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lift RC",
  "name": "Canon SX260 Camera Pixhawk Integration",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/lrc-canon-sx260-camera-pixhawk-integration"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$150.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:37:26 GMT",
+   "url": "https://www.liftrc.com/lrc-canon-sx260-camera-pixhawk-integration"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

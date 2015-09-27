@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "90 Degree Male to Female SMA Connector",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/90-degree-male-to-female-sma-connector"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$4.49",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:36:44 GMT",
+   "url": "https://www.liftrc.com/90-degree-male-to-female-sma-connector"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

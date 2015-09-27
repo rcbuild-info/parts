@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "(Reverse) Triple blades 6x4.5x3 Green",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/hqprop-triple-blades-6x4-5x3-green-reverse"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:14:55 GMT",
+   "url": "https://www.liftrc.com/hqprop-triple-blades-6x4-5x3-green-reverse"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

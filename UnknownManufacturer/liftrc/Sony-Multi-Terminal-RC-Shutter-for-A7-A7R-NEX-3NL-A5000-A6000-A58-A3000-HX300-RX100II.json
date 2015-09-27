@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sony Multi-Terminal RC Shutter for A7 A7R NEX-3NL A5000 A6000 A58 A3000 HX300 RX100II",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/sony-multi-terminal-rc-shutter-for-a7-a7r-nex-3nl-a5000-a6000-a58-a3000-hx300-rx100ii"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$45.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:53:55 GMT",
+   "url": "https://www.liftrc.com/sony-multi-terminal-rc-shutter-for-a7-a7r-nex-3nl-a5000-a6000-a58-a3000-hx300-rx100ii"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

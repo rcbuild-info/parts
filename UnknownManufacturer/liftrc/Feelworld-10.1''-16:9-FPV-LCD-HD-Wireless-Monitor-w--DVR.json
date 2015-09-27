@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Feelworld 10.1'' 16:9 FPV LCD HD Wireless Monitor w/ DVR",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/feelworld-10-1-16-9-fpv-lcd-hd-wireless-monitor-w-dvr"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$319.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
+   "timestamp": "Sun, 27 Sep 2015 01:52:46 GMT",
+   "url": "https://www.liftrc.com/feelworld-10-1-16-9-fpv-lcd-hd-wireless-monitor-w-dvr"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

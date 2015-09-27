@@ -11,14 +11,17 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/lumenier-fpv-backpack-kit"
-  },
-  {
    "price": "$19.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:38:49 GMT",
    "url": "http://www.getfpv.com/fpv-backpack.html"
+  },
+  {
+   "price": "US$19.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:38:51 GMT",
+   "url": "https://www.liftrc.com/lumenier-fpv-backpack-kit"
   }
  ],
  "version": 2,

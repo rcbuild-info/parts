@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "QAV250 Cover Plate for GoPro (CF)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/qav250-cover-plate-for-gopro-cf"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$18.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 01:50:53 GMT",
+   "url": "https://www.liftrc.com/qav250-cover-plate-for-gopro-cf"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

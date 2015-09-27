@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "FAS-40 Sport Ampere Sensor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/frsky-fas-40-sport-ampere-sensor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$20.35",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:00:27 GMT",
+   "url": "https://www.liftrc.com/frsky-fas-40-sport-ampere-sensor"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

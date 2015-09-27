@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "E-flight 1s 3.7v 150mAh 25c Battery",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/e-flight-1s-3-7v-150mah-25c-battery"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$3.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:05:04 GMT",
+   "url": "https://www.liftrc.com/e-flight-1s-3-7v-150mah-25c-battery"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

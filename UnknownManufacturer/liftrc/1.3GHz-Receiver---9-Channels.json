@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1.3GHz Receiver - 9 Channels",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/1-3ghz-receiver-9-channels"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$40.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:20:18 GMT",
+   "url": "https://www.liftrc.com/1-3ghz-receiver-9-channels"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

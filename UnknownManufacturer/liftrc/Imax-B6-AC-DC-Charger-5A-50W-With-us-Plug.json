@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Imax B6 AC-DC Charger 5A 50W With us Plug",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/imax-b6-ac-dc-charger-5a-50w-with-us-plug"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$23.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 01:57:21 GMT",
+   "url": "https://www.liftrc.com/imax-b6-ac-dc-charger-5a-50w-with-us-plug"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

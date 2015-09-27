@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "ESC-30A OPTO Brushless Speed Controller",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/dji-esc-30a-opto-brushless-speed-controller"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$20.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:59:11 GMT",
+   "url": "https://www.liftrc.com/dji-esc-30a-opto-brushless-speed-controller"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

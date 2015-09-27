@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tattu",
  "name": "5300mAh 11.1V 35C 3S1P",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/tattu-5300mah-11-1v-35c-3s1p"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$71.09",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:57:18 GMT",
+   "url": "https://www.liftrc.com/tattu-5300mah-11-1v-35c-3s1p"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/lumenier-qav250-g10-vibration-damping-camera-plate"
-  },
-  {
    "price": "$17.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:40:39 GMT",
    "url": "http://www.getfpv.com/qav250-g10-vibration-damping-camera-plate.html"
+  },
+  {
+   "price": "US$17.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:24:22 GMT",
+   "url": "https://www.liftrc.com/lumenier-qav250-g10-vibration-damping-camera-plate"
   }
  ],
  "version": 2,

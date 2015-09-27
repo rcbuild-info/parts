@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1500mw 910mhz 1ch transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/1500mw-910mhz-1ch-transmitter-522"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$84.50",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:15:52 GMT",
+   "url": "https://www.liftrc.com/1500mw-910mhz-1ch-transmitter-522"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

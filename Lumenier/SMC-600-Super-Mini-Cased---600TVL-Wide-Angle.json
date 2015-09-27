@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "SMC-600 Super Mini Cased - 600TVL Wide Angle",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/lumenier-smc-600-super-mini-cased-600tvl-wide-angle"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$29.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:16:30 GMT",
+   "url": "https://www.liftrc.com/lumenier-smc-600-super-mini-cased-600tvl-wide-angle"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

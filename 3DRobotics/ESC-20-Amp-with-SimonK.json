@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "ESC 20 Amp with SimonK",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/3dr-esc-20-amp-with-simonk"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$25.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 01:59:39 GMT",
+   "url": "https://www.liftrc.com/3dr-esc-20-amp-with-simonk"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

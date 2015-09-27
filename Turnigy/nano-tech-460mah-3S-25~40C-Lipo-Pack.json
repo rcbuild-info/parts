@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 460mah 3S 25~40C Lipo Pack",
@@ -7,15 +9,35 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59081",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32547",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32280",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25209",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20415",
-   "http://www.hobbyking.com/hobbyking/store/__11897__Turnigy_nano_tech_460mah_3S_25_40C_Lipo_Pack.html",
-   "https://www.liftrc.com/turnigy-nano-tech-460mah-3s-25-40c-lipo-pack"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__11897__Turnigy_nano_tech_460mah_3S_25_40C_Lipo_Pack.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20415"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25209"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32280"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32547"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59081"
+  },
+  {
+   "price": "US$6.45",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:04:41 GMT",
+   "url": "https://www.liftrc.com/turnigy-nano-tech-460mah-3s-25-40c-lipo-pack"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "iMAX B6AC 80W Dual Power Battery Charger w/ Power Supply",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/b6ac-80w-dual-power-battery-charger-w-power-supply"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$50.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 01:59:54 GMT",
+   "url": "https://www.liftrc.com/b6ac-80w-dual-power-battery-charger-w-power-supply"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

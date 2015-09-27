@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Lipoly Low Voltage Alarm (2s~4s)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/lipoly-low-voltage-alarm"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$2.26",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:04:21 GMT",
+   "url": "https://www.liftrc.com/lipoly-low-voltage-alarm"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

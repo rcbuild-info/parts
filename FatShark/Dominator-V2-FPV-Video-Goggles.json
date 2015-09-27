@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Dominator V2 FPV Video Goggles",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/fat-shark-dominator-v2-fpv-video-goggles"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$374.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 01:52:41 GMT",
+   "url": "https://www.liftrc.com/fat-shark-dominator-v2-fpv-video-goggles"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

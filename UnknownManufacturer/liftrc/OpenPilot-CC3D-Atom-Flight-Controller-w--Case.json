@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "OpenPilot CC3D Atom Flight Controller w/ Case",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/openpilot-cc3d-atom-flight-controller-w-case"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$74.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:27:04 GMT",
+   "url": "https://www.liftrc.com/openpilot-cc3d-atom-flight-controller-w-case"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

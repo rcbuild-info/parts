@@ -11,14 +11,17 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/lumenier-cs-600-super-600tvl-d-wdr-camera"
-  },
-  {
    "price": "$56.99",
    "stock_state": "backordered",
    "stock_text": "Back Ordered - Ships When Available",
    "timestamp": "Sat, 26 Sep 2015 03:37:14 GMT",
    "url": "http://www.getfpv.com/lumenier-cs-600-super-600tvl-d-wdr.html"
+  },
+  {
+   "price": "US$56.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:35:38 GMT",
+   "url": "https://www.liftrc.com/lumenier-cs-600-super-600tvl-d-wdr-camera"
   }
  ],
  "version": 2,

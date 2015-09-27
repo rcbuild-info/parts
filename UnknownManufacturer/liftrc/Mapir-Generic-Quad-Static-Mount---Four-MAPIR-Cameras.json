@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mapir Generic Quad Static Mount - Four MAPIR Cameras",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/mapir-generic-quad-static-mount"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$120.00",
+   "stock_state": "backordered",
+   "stock_text": "Backorder",
+   "timestamp": "Sun, 27 Sep 2015 01:54:17 GMT",
+   "url": "https://www.liftrc.com/mapir-generic-quad-static-mount"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

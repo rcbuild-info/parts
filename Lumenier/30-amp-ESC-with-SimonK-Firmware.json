@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/lumenier-30-amp-esc-with-simonk-firmware"
-  },
-  {
    "price": "$24.49",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:36:38 GMT",
    "url": "http://www.getfpv.com/lumenier-30-amp-esc-with-simonk-firmware.html"
+  },
+  {
+   "price": "US$29.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:59:01 GMT",
+   "url": "https://www.liftrc.com/lumenier-30-amp-esc-with-simonk-firmware"
   }
  ],
  "version": 2,

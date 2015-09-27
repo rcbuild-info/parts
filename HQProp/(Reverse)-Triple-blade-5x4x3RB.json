@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "(Reverse) Triple blade 5x4x3RB",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/tripleblade-5x4x3rb"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$3.32",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:17:45 GMT",
+   "url": "https://www.liftrc.com/tripleblade-5x4x3rb"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

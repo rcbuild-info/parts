@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Decoder 1 SBUS to CPPM Decoder",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/frsky-decoder-1-sbus-to-cppm-decoder"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$11.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:01:33 GMT",
+   "url": "https://www.liftrc.com/frsky-decoder-1-sbus-to-cppm-decoder"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

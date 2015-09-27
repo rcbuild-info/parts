@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "/ Sky RC 2-4S Battery Charger for Iris and X8",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/3dr-sky-rc-2-4s-battery-charger-for-iris-and-x8"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$49.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:00:02 GMT",
+   "url": "https://www.liftrc.com/3dr-sky-rc-2-4s-battery-charger-for-iris-and-x8"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

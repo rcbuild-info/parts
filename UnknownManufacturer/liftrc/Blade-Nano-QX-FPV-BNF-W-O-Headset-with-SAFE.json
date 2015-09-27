@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Blade Nano QX FPV BNF W/O Headset with SAFE",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/blade-nano-qx-fpv-bnf-w-o-headset-with-safe"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$149.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:34:11 GMT",
+   "url": "https://www.liftrc.com/blade-nano-qx-fpv-bnf-w-o-headset-with-safe"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "5.8G 3 Clover-4 Clover leaf antenna right angle, with cover",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/3dr-5-8g-3-clover-4-clover-leaf-antenna-right-angle-with-cover"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$17.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:36:07 GMT",
+   "url": "https://www.liftrc.com/3dr-5-8g-3-clover-4-clover-leaf-antenna-right-angle-with-cover"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

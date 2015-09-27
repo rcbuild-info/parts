@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Ultra Light Plastic Lumenier Camera Case",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/ultra-light-plastic-lumenier-camera-case"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$5.99",
+   "timestamp": "Sun, 27 Sep 2015 02:10:05 GMT",
+   "url": "https://www.liftrc.com/ultra-light-plastic-lumenier-camera-case"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

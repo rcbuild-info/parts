@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5\"x3\" Normal Propeller - Black (5030)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/gemfan-5x3-normal-propeller-black-5030"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$0.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:14:13 GMT",
+   "url": "https://www.liftrc.com/gemfan-5x3-normal-propeller-black-5030"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -11,14 +11,17 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/frsky-d8r-xp-receiver"
-  },
-  {
    "price": "USD$35.00",
    "stock_state": "out_of_stock",
    "stock_text": "Out Of Stock",
    "timestamp": "Sun, 27 Sep 2015 00:49:22 GMT",
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=203"
+  },
+  {
+   "price": "US$34.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:00:22 GMT",
+   "url": "https://www.liftrc.com/frsky-d8r-xp-receiver"
   }
  ],
  "version": 2,

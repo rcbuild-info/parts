@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "TS352 8 Channel 5.8 Ghz FPV Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/boscam-ts352-8-channel-5-8-ghz-fpv-transmitter"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$87.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 01:52:26 GMT",
+   "url": "https://www.liftrc.com/boscam-ts352-8-channel-5-8-ghz-fpv-transmitter"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

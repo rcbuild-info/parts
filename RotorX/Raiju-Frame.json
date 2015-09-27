@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "RotorX",
  "name": "Raiju",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/raiju-rotorx-frame"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$24.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:32:01 GMT",
+   "url": "https://www.liftrc.com/raiju-rotorx-frame"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "FCS 150A Ampere Sensor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/frsky-fcs-150a-ampere-sensor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$37.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:03:13 GMT",
+   "url": "https://www.liftrc.com/frsky-fcs-150a-ampere-sensor"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

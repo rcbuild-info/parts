@@ -11,14 +11,17 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/lumenier-fx2208-9-2000kv"
-  },
-  {
    "price": "$39.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:39:52 GMT",
    "url": "http://www.getfpv.com/fx2208-9-2000kv.html"
+  },
+  {
+   "price": "US$39.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:06:01 GMT",
+   "url": "https://www.liftrc.com/lumenier-fx2208-9-2000kv"
   }
  ],
  "version": 2,

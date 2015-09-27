@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Spironet 5.8 Ghz RHCP Patch Antenna",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/immersionrc-spironet-5-8-ghz-rhcp-patch-antenna"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$68.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:35:57 GMT",
+   "url": "https://www.liftrc.com/immersionrc-spironet-5-8-ghz-rhcp-patch-antenna"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

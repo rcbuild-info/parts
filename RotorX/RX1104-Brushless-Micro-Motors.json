@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RotorX",
  "name": "RX1104 Brushless Micro Motors",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/rx1104-rotorx-brushless-micro-motors"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$12.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:06:27 GMT",
+   "url": "https://www.liftrc.com/rx1104-rotorx-brushless-micro-motors"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

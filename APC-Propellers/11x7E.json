@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "APC Propellers",
  "name": "11x7E",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/apc-propeller-11x7e"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$5.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:12:01 GMT",
+   "url": "https://www.liftrc.com/apc-propeller-11x7e"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

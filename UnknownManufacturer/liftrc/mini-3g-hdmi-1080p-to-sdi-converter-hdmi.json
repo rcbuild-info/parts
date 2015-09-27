@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "mini 3g hdmi 1080p to sdi converter hdmi",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/mini-3g-hdmi-1080p-to-sdi-converter-hdmi"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$31.91",
+   "timestamp": "Sun, 27 Sep 2015 02:03:27 GMT",
+   "url": "https://www.liftrc.com/mini-3g-hdmi-1080p-to-sdi-converter-hdmi"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

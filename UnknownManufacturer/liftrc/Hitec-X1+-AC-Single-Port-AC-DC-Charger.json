@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hitec X1+ AC Single Port AC/DC Charger",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/x1-ac-single-port-ac-dc-charger"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$93.95",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 01:59:49 GMT",
+   "url": "https://www.liftrc.com/x1-ac-single-port-ac-dc-charger"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

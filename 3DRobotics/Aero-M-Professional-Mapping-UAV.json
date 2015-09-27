@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "Aero-M Professional Mapping UAV",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/3dr-aero-m-professional-mapping-uav"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$5,400.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:35:18 GMT",
+   "url": "https://www.liftrc.com/3dr-aero-m-professional-mapping-uav"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

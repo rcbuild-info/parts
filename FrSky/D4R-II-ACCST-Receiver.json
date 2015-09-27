@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "D4R-II ACCST Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/frsky-d4r-ii-accst-receiver"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$25.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:00:13 GMT",
+   "url": "https://www.liftrc.com/frsky-d4r-ii-accst-receiver"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

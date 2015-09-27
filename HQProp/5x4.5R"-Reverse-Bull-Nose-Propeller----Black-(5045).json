@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "5x4.5R\" Reverse Bull Nose Propeller  - Black (5045)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/hqprop-5x4-5r-cw-bull-nose-propeller-pair-black-5045"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$2.79",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:07:38 GMT",
+   "url": "https://www.liftrc.com/hqprop-5x4-5r-cw-bull-nose-propeller-pair-black-5045"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

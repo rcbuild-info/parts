@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Feelworld 7\" 16:9 FPV LCD HD Monitor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/feelworld-7-16-9-fpv-lcd-hd-monitor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$99.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 01:52:18 GMT",
+   "url": "https://www.liftrc.com/feelworld-7-16-9-fpv-lcd-hd-monitor"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

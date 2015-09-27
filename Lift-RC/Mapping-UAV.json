@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lift RC",
  "name": "Mapping UAV",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/3dr-iris-mapir-turnkey-mapping-uav"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$1,499.00",
+   "stock_state": "backordered",
+   "stock_text": "1-2 Week Build Time",
+   "timestamp": "Sun, 27 Sep 2015 01:53:50 GMT",
+   "url": "https://www.liftrc.com/3dr-iris-mapir-turnkey-mapping-uav"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

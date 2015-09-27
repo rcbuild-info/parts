@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": " Dominator HD FPV Goggles",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.getfpv.com/fatshark-dominator-hd-fpv-goggles.html",
-   "https://www.liftrc.com/fat-shark-dominator-hd-fpv-goggles"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.getfpv.com/fatshark-dominator-hd-fpv-goggles.html"
+  },
+  {
+   "price": "US$560.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:55:55 GMT",
+   "url": "https://www.liftrc.com/fat-shark-dominator-hd-fpv-goggles"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

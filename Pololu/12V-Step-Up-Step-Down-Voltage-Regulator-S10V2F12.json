@@ -11,9 +11,6 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/pololu-12v-step-up-step-down-voltage-regulator-s10v2f12"
-  },
-  {
    "url": "http://www.dronematters.com/others/pololu-12v-step-up-step-down-voltage-regulator.html"
   },
   {
@@ -21,6 +18,13 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 23:35:25 GMT",
    "url": "http://www.dronematters.com/pololu-12v-step-up-step-down-voltage-regulator.html"
+  },
+  {
+   "price": "US$6.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
+   "timestamp": "Sun, 27 Sep 2015 02:03:47 GMT",
+   "url": "https://www.liftrc.com/pololu-12v-step-up-step-down-voltage-regulator-s10v2f12"
   }
  ],
  "version": 2,

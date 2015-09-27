@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1.3GHz 400mW Transmitter (US Version)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/1-3ghz-400mw-transmitter-us-version"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$49.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:20:27 GMT",
+   "url": "https://www.liftrc.com/1-3ghz-400mw-transmitter-us-version"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

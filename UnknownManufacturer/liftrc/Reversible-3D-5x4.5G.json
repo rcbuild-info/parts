@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Reversible 3D-5x4.5G",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/reversible-3d-5x45g"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$3.08",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:17:32 GMT",
+   "url": "https://www.liftrc.com/reversible-3d-5x45g"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

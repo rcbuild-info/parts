@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4-Channel Video Audio Switcher Mixer",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/4-channel-video-audio-switcher-mixer"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$105.00",
+   "timestamp": "Sun, 27 Sep 2015 02:16:19 GMT",
+   "url": "https://www.liftrc.com/4-channel-video-audio-switcher-mixer"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/3dr-diy-quad-kit"
-  },
-  {
    "price": "$549.99",
    "stock_state": "low_stock",
    "stock_text": "1 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 21:51:40 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3676"
+  },
+  {
+   "price": "US$550.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:27:43 GMT",
+   "url": "https://www.liftrc.com/3dr-diy-quad-kit"
   }
  ],
  "version": 2,

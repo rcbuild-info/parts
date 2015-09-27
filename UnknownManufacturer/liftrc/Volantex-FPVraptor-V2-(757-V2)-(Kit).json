@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Volantex FPVraptor V2 (757-V2) (Kit)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/volantex-fpvraptor-v2-757-v2-kit"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$139.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:58:52 GMT",
+   "url": "https://www.liftrc.com/volantex-fpvraptor-v2-757-v2-kit"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

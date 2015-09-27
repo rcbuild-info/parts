@@ -11,16 +11,20 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/3dr-iris"
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:50:13 GMT",
+   "url": "http://www.multirotorsuperstore.com/3dr-iris.html"
   },
   {
    "url": "http://www.multirotorsuperstore.com/frames/frames-by-size/3dr-iris.html"
   },
   {
-   "stock_state": "in_stock",
-   "stock_text": "In stock",
-   "timestamp": "Sat, 26 Sep 2015 02:50:13 GMT",
-   "url": "http://www.multirotorsuperstore.com/3dr-iris.html"
+   "price": "US$599.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:33:11 GMT",
+   "url": "https://www.liftrc.com/3dr-iris"
   }
  ],
  "version": 2,

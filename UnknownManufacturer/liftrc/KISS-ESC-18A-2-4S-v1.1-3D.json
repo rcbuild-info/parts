@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "KISS ESC 18A 2-4S v1.1 3D",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/kiss-esc-18a-2-4s-v1-1-3d"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$32.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:59:19 GMT",
+   "url": "https://www.liftrc.com/kiss-esc-18a-2-4s-v1-1-3d"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

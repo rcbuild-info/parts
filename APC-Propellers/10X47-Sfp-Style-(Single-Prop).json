@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "APC Propellers",
  "name": "10X47 Sfp Style (Single Prop)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/apc-propeller-10x47-sfp-style-single-prop"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$2.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:13:51 GMT",
+   "url": "https://www.liftrc.com/apc-propeller-10x47-sfp-style-single-prop"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

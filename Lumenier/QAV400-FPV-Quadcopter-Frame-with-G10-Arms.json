@@ -15,14 +15,18 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/lumenier-qav400-fpv-quadcopter-frame-with-g10-arms"
-  },
-  {
    "price": "$153.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:42:59 GMT",
    "url": "http://www.getfpv.com/qav400-frame-g10.html"
+  },
+  {
+   "price": "US$153.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:30:18 GMT",
+   "url": "https://www.liftrc.com/lumenier-qav400-fpv-quadcopter-frame-with-g10-arms"
   }
  ],
  "version": 2,

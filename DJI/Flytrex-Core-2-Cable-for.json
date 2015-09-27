@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Flytrex Core 2 Cable for",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/flytrex-core-2-cable-for-dji"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$8.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:41:04 GMT",
+   "url": "https://www.liftrc.com/flytrex-core-2-cable-for-dji"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "FPV 5.8G 200mW AV Wireless Transmitter TS351",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Boscam-FPV-5_8G-200mW-AV-Wireless-Transmitter-TS351-p-73198.html",
-   "https://www.liftrc.com/boscam-fpv-5-8g-200mw-av-wireless-transmitter-ts351"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.banggood.com/Boscam-FPV-5_8G-200mW-AV-Wireless-Transmitter-TS351-p-73198.html"
+  },
+  {
+   "price": "US$28.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:53:02 GMT",
+   "url": "https://www.liftrc.com/boscam-fpv-5-8g-200mw-av-wireless-transmitter-ts351"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

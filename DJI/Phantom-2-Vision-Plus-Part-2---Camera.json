@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Phantom 2 Vision Plus Part 2 - Camera",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/dji-phantom-2-vision-plus-part-2-camera"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$650.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:31:43 GMT",
+   "url": "https://www.liftrc.com/dji-phantom-2-vision-plus-part-2-camera"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

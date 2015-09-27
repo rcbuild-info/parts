@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "Cm-4520/14 400KV",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/cobra-cm-4520-14-400kv"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$94.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:08:19 GMT",
+   "url": "https://www.liftrc.com/cobra-cm-4520-14-400kv"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RotorX",
  "name": "RX3020 propellers 6 Pack - Black",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/rx3020-rotorx-propellers-6-pack-black"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$3.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:14:38 GMT",
+   "url": "https://www.liftrc.com/rx3020-rotorx-propellers-6-pack-black"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

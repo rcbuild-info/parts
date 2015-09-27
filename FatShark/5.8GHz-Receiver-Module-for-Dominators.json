@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/fat-shark-5-8ghz-receiver-module-for-dominators"
-  },
-  {
    "price": "$43.99",
    "stock_state": "out_of_stock",
    "stock_text": "Out of Stock",
    "timestamp": "Sat, 26 Sep 2015 03:36:21 GMT",
    "url": "http://www.getfpv.com/fatshark-5-8ghz-receiver-module.html"
+  },
+  {
+   "price": "US$43.99",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:18:56 GMT",
+   "url": "https://www.liftrc.com/fat-shark-5-8ghz-receiver-module-for-dominators"
   }
  ],
  "version": 2,

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RotorX",
  "name": "RX3020 propellers 6 pack - Orange",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/rx3020-rotorx-propellers-6-pack"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:16:49 GMT",
+   "url": "https://www.liftrc.com/rx3020-rotorx-propellers-6-pack"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

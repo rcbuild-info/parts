@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lumenier",
  "name": "3 CH RC Video Switch",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/lumenier-3-ch-rc-video-switch"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$20.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:37:15 GMT",
+   "url": "https://www.liftrc.com/lumenier-3-ch-rc-video-switch"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

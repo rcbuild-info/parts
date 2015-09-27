@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "800mW 910MHz 1Ch Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/800mw-910mhz-1ch-transmitter"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$64.50",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 01:55:50 GMT",
+   "url": "https://www.liftrc.com/800mw-910mhz-1ch-transmitter"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

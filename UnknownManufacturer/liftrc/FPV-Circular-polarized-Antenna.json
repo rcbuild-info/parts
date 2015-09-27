@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV Circular polarized Antenna",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/fpv-circular-polarized-antenna"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$5.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:53:24 GMT",
+   "url": "https://www.liftrc.com/fpv-circular-polarized-antenna"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -11,14 +11,18 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/3dr-ppm-encoder"
-  },
-  {
    "price": "$24.90",
    "stock_state": "backordered",
    "stock_text": "0 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 21:47:01 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2544"
+  },
+  {
+   "price": "US$24.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:32:59 GMT",
+   "url": "https://www.liftrc.com/3dr-ppm-encoder"
   }
  ],
  "version": 2,

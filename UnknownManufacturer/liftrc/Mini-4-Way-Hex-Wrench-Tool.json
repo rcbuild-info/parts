@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini 4-Way Hex Wrench Tool",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/mini-4-way-hex-wrench-tool"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$2.09",
+   "timestamp": "Sun, 27 Sep 2015 02:20:08 GMT",
+   "url": "https://www.liftrc.com/mini-4-way-hex-wrench-tool"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

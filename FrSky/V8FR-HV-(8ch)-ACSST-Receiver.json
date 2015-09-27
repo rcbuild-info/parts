@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "V8FR-HV (8ch) ACSST Receiver",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/frsky-v8fr-hv-8ch-acsst-receiver"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$20.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 01:57:53 GMT",
+   "url": "https://www.liftrc.com/frsky-v8fr-hv-8ch-acsst-receiver"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

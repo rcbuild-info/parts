@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "Antenna 433MHz RP-SMA 2dBi",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/3dr-antenna-433mhz-rp-sma-2dbi"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$7.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:36:26 GMT",
+   "url": "https://www.liftrc.com/3dr-antenna-433mhz-rp-sma-2dbi"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "3DRobotics",
  "name": "IRIS + Long leg kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/3dr-iris-long-leg-kit"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$24.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:29:05 GMT",
+   "url": "https://www.liftrc.com/3dr-iris-long-leg-kit"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

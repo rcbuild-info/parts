@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "be1806-13 Brush less Motor for Multi rotor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/dys-be1806-13-brushless-motor-for-multirotor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$9.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:41:59 GMT",
+   "url": "https://www.liftrc.com/dys-be1806-13-brushless-motor-for-multirotor"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

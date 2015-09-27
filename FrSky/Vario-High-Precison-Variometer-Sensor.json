@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Vario-High Precison Variometer Sensor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/frsky-vario-high-precison-variometer-sensor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$26.89",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
+   "timestamp": "Sun, 27 Sep 2015 02:01:04 GMT",
+   "url": "https://www.liftrc.com/frsky-vario-high-precison-variometer-sensor"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

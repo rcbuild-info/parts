@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Panasonic 2.5mm RC Shutter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/panasonic-2-5mm-rc-shutter"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$40.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 01:54:06 GMT",
+   "url": "https://www.liftrc.com/panasonic-2-5mm-rc-shutter"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

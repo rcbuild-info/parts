@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "5x4R\" Reverse Propeller - Black (5040)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/hqprop-5x4r-cw-propeller-pair-black-5040"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$2.48",
+   "quantity": 2,
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:10:24 GMT",
+   "url": "https://www.liftrc.com/hqprop-5x4r-cw-propeller-pair-black-5040"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

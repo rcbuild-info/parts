@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lift RC",
  "name": "Point and Shoot Mapping Camera Mount - Entry level",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/lrc-point-and-shoot-mapping-camera-mount-entry-level"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$30.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:23:43 GMT",
+   "url": "https://www.liftrc.com/lrc-point-and-shoot-mapping-camera-mount-entry-level"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

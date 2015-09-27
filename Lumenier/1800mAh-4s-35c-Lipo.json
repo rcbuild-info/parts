@@ -15,14 +15,18 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/lumenier-1800mah-4s-35c-lipo-battery"
-  },
-  {
    "price": "$25.99",
    "stock_state": "out_of_stock",
    "stock_text": "Out of Stock",
    "timestamp": "Sat, 26 Sep 2015 03:40:35 GMT",
    "url": "http://www.getfpv.com/lumenier-1800mah-4s-35c-lipo-battery-xt60.html"
+  },
+  {
+   "price": "US$25.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:02:46 GMT",
+   "url": "https://www.liftrc.com/lumenier-1800mah-4s-35c-lipo-battery"
   }
  ],
  "version": 2,

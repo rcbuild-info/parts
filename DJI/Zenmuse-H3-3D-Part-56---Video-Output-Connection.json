@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "Zenmuse H3-3D Part 56 - Video Output Connection",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/dji-zenmuse-h3-3d-part-56-video-output-connection"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$4.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:32:32 GMT",
+   "url": "https://www.liftrc.com/dji-zenmuse-h3-3d-part-56-video-output-connection"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

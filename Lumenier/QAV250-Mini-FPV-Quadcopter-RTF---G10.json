@@ -11,13 +11,17 @@
  },
  "variants": [
   {
-   "url": "https://www.liftrc.com/lumenier-qav250-mini-fpv-quadcopter-rtf-g10"
-  },
-  {
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:42:11 GMT",
    "url": "http://www.getfpv.com/qav250-mini-fpv-quadcopter-rtf.html"
+  },
+  {
+   "price": "US$519.00",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Sun, 27 Sep 2015 02:33:05 GMT",
+   "url": "https://www.liftrc.com/lumenier-qav250-mini-fpv-quadcopter-rtf-g10"
   }
  ],
  "version": 2,

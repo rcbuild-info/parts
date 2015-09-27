@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DJI",
  "name": "E300 Prop (White) 9.4x4.3 - No nut",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/dji-e300-prop-pair-white-9-4x4-3-no-nut"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$15.00",
+   "quantity": 2,
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
+   "timestamp": "Sun, 27 Sep 2015 02:12:45 GMT",
+   "url": "https://www.liftrc.com/dji-e300-prop-pair-white-9-4x4-3-no-nut"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FatShark",
  "name": "Battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/fat-shark-battery"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$20.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:19:13 GMT",
+   "url": "https://www.liftrc.com/fat-shark-battery"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

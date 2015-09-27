@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lift RC",
  "name": "Race 6\" Racing Quad ARF Kit",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/lrc-race-6inch-arf"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$349.99",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order to ship around 2015-09-28",
+   "timestamp": "Sun, 27 Sep 2015 02:34:38 GMT",
+   "url": "https://www.liftrc.com/lrc-race-6inch-arf"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Rhino 610mAh 3S 11.1v 20C Lipoly Pack",
@@ -7,9 +7,15 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/rhino-610mah-3s-11-1v-20c-lipoly-pack"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$4.29",
+   "timestamp": "Sun, 27 Sep 2015 02:04:53 GMT",
+   "url": "https://www.liftrc.com/rhino-610mah-3s-11-1v-20c-lipoly-pack"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

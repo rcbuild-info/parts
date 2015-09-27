@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Vario-Normal Precision Variometer Sensor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.liftrc.com/frsky-vario-normal-precision-variometer-sensor"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$17.45",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Sun, 27 Sep 2015 02:01:00 GMT",
+   "url": "https://www.liftrc.com/frsky-vario-normal-precision-variometer-sensor"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
