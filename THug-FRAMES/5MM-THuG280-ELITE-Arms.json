@@ -1,5 +1,7 @@
 {
- "category": "arm",
+ "categories": [
+  "arm"
+ ],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "5MM THuG280 ELITE Arms",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/5mm-thug280-elite-arms/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a38.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:02 GMT",
+   "url": "http://miniquadfpv.com/product/5mm-thug280-elite-arms/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

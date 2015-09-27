@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "THuG280 ELITE",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/thug-280-elite/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a395.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:09 GMT",
+   "url": "http://miniquadfpv.com/product/thug-280-elite/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

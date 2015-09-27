@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "THuG230 top plate 2mm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/thug230-top-plate-2mm/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a322.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:09 GMT",
+   "url": "http://miniquadfpv.com/product/thug230-top-plate-2mm/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

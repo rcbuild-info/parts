@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "THuG T Shirt",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/thug-t-shirt/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a319.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:07 GMT",
+   "url": "http://miniquadfpv.com/product/thug-t-shirt/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

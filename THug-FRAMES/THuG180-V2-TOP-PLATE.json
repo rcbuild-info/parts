@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "THuG180 V2 TOP PLATE",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/thug180-v2-top-plate/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a315.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:12 GMT",
+   "url": "http://miniquadfpv.com/product/thug180-v2-top-plate/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

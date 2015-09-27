@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "180 V3 unibody plate",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/180-v3-unibody-plate/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a333.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:03 GMT",
+   "url": "http://miniquadfpv.com/product/180-v3-unibody-plate/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

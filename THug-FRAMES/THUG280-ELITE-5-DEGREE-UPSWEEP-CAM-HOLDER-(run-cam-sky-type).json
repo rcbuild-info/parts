@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "THUG280 ELITE 5 DEGREE UPSWEEP CAM HOLDER (run cam sky type)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/thug280-elite-5-degree-upsweep-board-cam-holder-run-cam-sky-type/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a38.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:09 GMT",
+   "url": "http://miniquadfpv.com/product/thug280-elite-5-degree-upsweep-board-cam-holder-run-cam-sky-type/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

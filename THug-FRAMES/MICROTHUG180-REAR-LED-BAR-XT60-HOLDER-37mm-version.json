@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "MICROTHUG180 REAR LED BAR XT60 HOLDER 37mm version",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/microthug180-rear-led-bar-xt60-holder-37mm-version/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a39.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:01 GMT",
+   "url": "http://miniquadfpv.com/product/microthug180-rear-led-bar-xt60-holder-37mm-version/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

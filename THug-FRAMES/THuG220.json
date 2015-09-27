@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "THuG220  (180 Micro Chassis) *NEW*",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/thug220-180-micro-chassis/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a368.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:11 GMT",
+   "url": "http://miniquadfpv.com/product/thug220-180-micro-chassis/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

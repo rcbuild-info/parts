@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "THuG180 \u2013 RCtimer-micro cam 20 degree holder",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/thug180-rctimer-micro-cam-20-degree-holder/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a37.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:05 GMT",
+   "url": "http://miniquadfpv.com/product/thug180-rctimer-micro-cam-20-degree-holder/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "THuG180  V3 \u2013 4s special Edition",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/thug180-v4s-special-edition/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a355.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:06 GMT",
+   "url": "http://miniquadfpv.com/product/thug180-v4s-special-edition/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

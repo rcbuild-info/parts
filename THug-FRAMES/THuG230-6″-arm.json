@@ -1,5 +1,7 @@
 {
- "category": "arm",
+ "categories": [
+  "arm"
+ ],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "THuG230 6\u2033 arm",
@@ -7,9 +9,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/thug230-6-arm/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a318.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:11 GMT",
+   "url": "http://miniquadfpv.com/product/thug230-5-arm/"
+  },
+  {
+   "price": "\u00a319.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:10 GMT",
+   "url": "http://miniquadfpv.com/product/thug230-6-arm/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

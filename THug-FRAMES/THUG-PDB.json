@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "THUG-PDB",
@@ -7,11 +7,28 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/thug-pdb/",
-   "http://miniquadfpv.com/product/thug-pdb-black/",
-   "http://miniquadfpv.com/product/thug-pdb-white/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a34.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:06 GMT",
+   "url": "http://miniquadfpv.com/product/thug-pdb-black/"
+  },
+  {
+   "price": "\u00a34.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:06 GMT",
+   "url": "http://miniquadfpv.com/product/thug-pdb-white/"
+  },
+  {
+   "price": "\u00a34.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:07 GMT",
+   "url": "http://miniquadfpv.com/product/thug-pdb/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

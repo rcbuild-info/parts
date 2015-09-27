@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "30.5\u00d730.5 part stacker",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/30-5x30-5-part-stacker/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a31.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:02 GMT",
+   "url": "http://miniquadfpv.com/product/30-5x30-5-part-stacker/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

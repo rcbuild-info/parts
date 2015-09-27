@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "THuG FPVCAM PLATE (FITS ALL THUGS)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/thug-fpvcam-plate-fits-all-thugs/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a35.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:07 GMT",
+   "url": "http://miniquadfpv.com/product/thug-fpvcam-plate-fits-all-thugs/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

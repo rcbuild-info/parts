@@ -1,5 +1,7 @@
 {
- "category": "arm",
+ "categories": [
+  "arm"
+ ],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "EMAX NIGHTHAWK 250 THuGARMS 5mm",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/emax-nighthawk-250-thugarms-5mm/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a38.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:01 GMT",
+   "url": "http://miniquadfpv.com/product/emax-nighthawk-250-thugarms-5mm/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

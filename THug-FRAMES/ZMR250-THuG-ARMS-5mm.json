@@ -1,5 +1,7 @@
 {
- "category": "arm",
+ "categories": [
+  "arm"
+ ],
  "equivalent": [],
  "manufacturer": "THug FRAMES",
  "name": "ZMR250 THuG ARMS 5mm",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://miniquadfpv.com/product/zmr250-thug-arms-5mm/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a38.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 20:12:04 GMT",
+   "url": "http://miniquadfpv.com/product/zmr250-thug-arms-5mm/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
