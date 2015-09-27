@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "16 x 5  CF PROPS \u2013 CW &CCW",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/16-x-5-cf-props-cw-ccw/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$28.80",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:24:11 GMT",
+   "url": "http://www.uavobjects.com/product/16-x-5-cf-props-cw-ccw/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

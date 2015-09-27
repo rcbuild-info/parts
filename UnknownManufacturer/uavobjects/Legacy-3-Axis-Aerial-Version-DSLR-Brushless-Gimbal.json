@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Legacy 3-Axis Aerial Version DSLR Brushless Gimbal",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/legacy-3-axis-aerial-version-dslr-brushless-gimbal/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$380.00",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:26:29 GMT",
+   "url": "http://www.uavobjects.com/product/legacy-3-axis-aerial-version-dslr-brushless-gimbal/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

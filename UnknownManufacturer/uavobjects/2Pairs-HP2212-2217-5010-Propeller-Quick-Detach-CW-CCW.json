@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2Pairs HP2212/2217/5010 Propeller Quick Detach CW CCW",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/2pairs-hp221222175010-propeller-quick-detach-cw-ccw/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "stock_text": "8 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:24:34 GMT",
+   "url": "http://www.uavobjects.com/product/2pairs-hp221222175010-propeller-quick-detach-cw-ccw/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

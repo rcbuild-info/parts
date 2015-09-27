@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ASP 3-Axis Nex-GH5 Gimbal With AlexMOS 3axis controller",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/asp-3-axis-nex-gh5-gimbal-alexmos-3axis-controller/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$280.00",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:25:10 GMT",
+   "url": "http://www.uavobjects.com/product/asp-3-axis-nex-gh5-gimbal-alexmos-3axis-controller/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

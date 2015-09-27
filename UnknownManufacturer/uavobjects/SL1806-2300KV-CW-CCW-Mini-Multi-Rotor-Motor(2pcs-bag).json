@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SL1806/2300KV CW CCW Mini Multi-Rotor Motor(2pcs/bag)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/sl18062300kv-cw-ccw-mini-multi-rotor-motor2pcsbag/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.20",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:24:33 GMT",
+   "url": "http://www.uavobjects.com/product/sl18062300kv-cw-ccw-mini-multi-rotor-motor2pcsbag/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Elgae",
  "name": "TS5833 Thunderbolt 2000mW 5.8GHz FPV Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/elgae-ts5833-thunderbolt-2000mw-5-8ghz-fpv-transmitter/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$95.20",
+   "stock_state": "in_stock",
+   "stock_text": "16 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:28:59 GMT",
+   "url": "http://www.uavobjects.com/product/elgae-ts5833-thunderbolt-2000mw-5-8ghz-fpv-transmitter/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

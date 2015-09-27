@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "IMAGO Cobra Full HD 1080p FPV Video Camera with DVR",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/imago-cobra-full-hd-1080p-fpv-video-camera-dvr/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$76.80",
+   "stock_state": "in_stock",
+   "stock_text": "3 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:24:51 GMT",
+   "url": "http://www.uavobjects.com/product/imago-cobra-full-hd-1080p-fpv-video-camera-dvr/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

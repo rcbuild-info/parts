@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "433Mhz -ArduFlyer-GPS  System",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/433mhz-arduflyer-gps-system/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$120.80",
+   "stock_state": "in_stock",
+   "stock_text": "15 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:27:46 GMT",
+   "url": "http://www.uavobjects.com/product/433mhz-arduflyer-gps-system/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HP2212 V2 Edition Motor Prop Adaptor (4 Holes)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/hp2212-v2-edition-motor-prop-adaptor-4-hole/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.60",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:24:56 GMT",
+   "url": "http://www.uavobjects.com/product/hp2212-v2-edition-motor-prop-adaptor-4-hole/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

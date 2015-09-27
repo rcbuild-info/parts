@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCTimer",
  "name": "u-blox LEA-6H GPS & MAG",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/rctimer-u-blox-lea-6h-gps-mag/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$41.60",
+   "stock_state": "in_stock",
+   "stock_text": "4 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:31:33 GMT",
+   "url": "http://www.uavobjects.com/product/rctimer-u-blox-lea-6h-gps-mag/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

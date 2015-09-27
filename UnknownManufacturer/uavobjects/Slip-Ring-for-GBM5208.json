@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Slip Ring for GBM5208",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/slip-ring-gbm5208/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.40",
+   "stock_state": "in_stock",
+   "stock_text": "8 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:28:53 GMT",
+   "url": "http://www.uavobjects.com/product/slip-ring-gbm5208/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "433MHz LRS Adjustable TX/RX Set 100mW-2000mW",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/433mhz-lrs-adjustable-txrx-set-100mw-2000mw/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$67.20",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:31:30 GMT",
+   "url": "http://www.uavobjects.com/product/433mhz-lrs-adjustable-txrx-set-100mw-2000mw/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

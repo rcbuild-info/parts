@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "8 X 4.5 EPP PROPS \u2013 CW &CCW",
@@ -7,9 +7,38 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/8-x-4-5-epp-props-cw-ccw-3/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.80",
+   "stock_state": "in_stock",
+   "stock_text": "8 in stock",
+   "timestamp": "Sun, 27 Sep 2015 03:31:33 GMT",
+   "url": "http://www.uavobjects.com/product/8-x-4-5-epp-props-cw-ccw-2/"
+  },
+  {
+   "price": "$2.80",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:30:53 GMT",
+   "url": "http://www.uavobjects.com/product/8-x-4-5-epp-props-cw-ccw-3/"
+  },
+  {
+   "price": "$2.80",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:30:53 GMT",
+   "url": "http://www.uavobjects.com/product/8-x-4-5-epp-props-cw-ccw-4/"
+  },
+  {
+   "price": "$2.80",
+   "stock_state": "in_stock",
+   "stock_text": "13 in stock",
+   "timestamp": "Sun, 27 Sep 2015 03:31:34 GMT",
+   "url": "http://www.uavobjects.com/product/8-x-4-5-epp-props-cw-ccw/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

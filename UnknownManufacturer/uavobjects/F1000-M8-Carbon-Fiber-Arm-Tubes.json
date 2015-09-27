@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F1000-M8 Carbon Fiber Arm Tubes",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/f1000-m8-carbon-fiber-arm-tubes/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$40.80",
+   "stock_state": "in_stock",
+   "stock_text": "5 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:29:51 GMT",
+   "url": "http://www.uavobjects.com/product/f1000-m8-carbon-fiber-arm-tubes/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

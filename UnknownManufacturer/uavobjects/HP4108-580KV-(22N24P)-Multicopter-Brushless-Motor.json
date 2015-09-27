@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HP4108-580KV (22N24P) Multicopter Brushless Motor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/hp4108-580kv-22n24p-multicopter-brushless-motor/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$36.80",
+   "stock_state": "in_stock",
+   "stock_text": "10 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:29:04 GMT",
+   "url": "http://www.uavobjects.com/product/hp4108-580kv-22n24p-multicopter-brushless-motor/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HP2820(3548)-1200KV Outrunner Brushless Motor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/hp28203548-1200kv-outrunner-brushless-motor-copy/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$21.60",
+   "stock_state": "in_stock",
+   "stock_text": "12 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:29:02 GMT",
+   "url": "http://www.uavobjects.com/product/hp28203548-1200kv-outrunner-brushless-motor-copy/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ASP 2D to 3D Upgrade Kit",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/asp-2d-3d-upgrade-kit/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$36.00",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:26:03 GMT",
+   "url": "http://www.uavobjects.com/product/asp-2d-3d-upgrade-kit/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

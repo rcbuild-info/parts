@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HIGH PERFORMANCE CAMERA GIMBAL",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/high-performance-camera-gimbal/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$560.00",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:30:54 GMT",
+   "url": "http://www.uavobjects.com/product/high-performance-camera-gimbal/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

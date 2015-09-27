@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F800-M6 without Aluminum Case",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/f800-m6-without-aluminum-carry-box/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$840.00",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:30:16 GMT",
+   "url": "http://www.uavobjects.com/product/f800-m6-without-aluminum-carry-box/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

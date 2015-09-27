@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Carbon fiber Vertical Trooper / Sky-Hero legs 2 pcs",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/carbon-fiber-vertical-trooper-sky-hero-legs-2-pcs/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.40",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:28:22 GMT",
+   "url": "http://www.uavobjects.com/product/carbon-fiber-vertical-trooper-sky-hero-legs-2-pcs/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Simon K Flashed 30 Amp ESC with BEC",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/simon-k-flashed-30-amp-esc-with-bec/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.40",
+   "stock_state": "in_stock",
+   "stock_text": "32 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:28:21 GMT",
+   "url": "http://www.uavobjects.com/product/simon-k-flashed-30-amp-esc-with-bec/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

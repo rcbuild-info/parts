@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Carbon Fiber 9.4\u00d74.3\u2033 Self-locking Prop CW/CCW Propeller (4pairs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/carbon-fiber-9-4x4-3-self-locking-prop-cwccw-propeller-4pairs/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.60",
+   "stock_state": "in_stock",
+   "stock_text": "6 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:31:24 GMT",
+   "url": "http://www.uavobjects.com/product/carbon-fiber-9-4x4-3-self-locking-prop-cwccw-propeller-4pairs/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

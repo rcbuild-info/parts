@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Elgae",
  "name": "TS352 5.8G 500mW 8 Channel AV Transmitter FPV",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/elgae-ts352-5-8g-500mw-8-channel-av-transmitter-fpv/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$69.60",
+   "stock_state": "in_stock",
+   "stock_text": "20 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:28:59 GMT",
+   "url": "http://www.uavobjects.com/product/elgae-ts352-5-8g-500mw-8-channel-av-transmitter-fpv/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

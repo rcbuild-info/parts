@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCTimer",
  "name": "X5/400KV & T40A 4 pack Combo",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/rctimer-x5400kv-t40a-4-pack-combo/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$240.00",
+   "stock_state": "in_stock",
+   "stock_text": "4 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:25:19 GMT",
+   "url": "http://www.uavobjects.com/product/rctimer-x5400kv-t40a-4-pack-combo/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

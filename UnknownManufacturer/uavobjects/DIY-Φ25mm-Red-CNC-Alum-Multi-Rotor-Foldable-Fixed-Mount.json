@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DIY \u03a625mm Red CNC Alum Multi-Rotor Foldable Fixed Mount",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/diy-%cf%8625mm-red-cnc-alum-multi-rotor-foldable-fixed-mount/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$47.20",
+   "stock_state": "in_stock",
+   "stock_text": "16 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:25:26 GMT",
+   "url": "http://www.uavobjects.com/product/diy-%cf%8625mm-red-cnc-alum-multi-rotor-foldable-fixed-mount/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

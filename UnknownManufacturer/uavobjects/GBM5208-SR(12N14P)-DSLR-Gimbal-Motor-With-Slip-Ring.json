@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GBM5208-SR(12N14P) DSLR Gimbal Motor With Slip Ring",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/gbm5208-sr12n14p-dslr-gimbal-motor-slip-ring/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$48.80",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:29:00 GMT",
+   "url": "http://www.uavobjects.com/product/gbm5208-sr12n14p-dslr-gimbal-motor-slip-ring/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

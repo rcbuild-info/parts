@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "20cm LiPo Battery Tie Down Strap  (5 in set)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/20cm-lipo-battery-tie-down-strap-5-in-set/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "stock_text": "4 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:27:45 GMT",
+   "url": "http://www.uavobjects.com/product/20cm-lipo-battery-tie-down-strap-5-in-set/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

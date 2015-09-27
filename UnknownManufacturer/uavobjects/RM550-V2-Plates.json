@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RM550 V2 Plates",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/rm550-v2-plates/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.00",
+   "stock_state": "in_stock",
+   "stock_text": "9 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:31:34 GMT",
+   "url": "http://www.uavobjects.com/product/rm550-v2-plates/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

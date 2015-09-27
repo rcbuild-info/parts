@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Black Upgrade Kits For F800/S800 Retractable Landing Gear",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/black-upgrade-kits-for-f800s800-retractable-landing-gear/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$280.00",
+   "stock_state": "in_stock",
+   "stock_text": "7 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:28:35 GMT",
+   "url": "http://www.uavobjects.com/product/black-upgrade-kits-for-f800s800-retractable-landing-gear/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

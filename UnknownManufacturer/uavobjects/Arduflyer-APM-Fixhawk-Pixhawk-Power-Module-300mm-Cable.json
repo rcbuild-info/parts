@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Arduflyer/APM/Fixhawk/Pixhawk Power Module 300mm Cable",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/arduflyerapmfixhawkpixhawk-power-module-300mm-cable/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.60",
+   "stock_state": "in_stock",
+   "stock_text": "3 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:24:34 GMT",
+   "url": "http://www.uavobjects.com/product/arduflyerapmfixhawkpixhawk-power-module-300mm-cable/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

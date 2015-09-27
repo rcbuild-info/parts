@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F800 EVO Arm (X) \u201cR\u201d",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/f800-evo-arm-x-r/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$16.80",
+   "stock_state": "in_stock",
+   "stock_text": "7 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:31:00 GMT",
+   "url": "http://www.uavobjects.com/product/f800-evo-arm-x-r/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

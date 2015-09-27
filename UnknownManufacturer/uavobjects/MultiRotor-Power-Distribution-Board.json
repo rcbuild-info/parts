@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MultiRotor Power Distribution Board",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/multirotor-power-battery-to-8-connection-board/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.40",
+   "stock_state": "in_stock",
+   "stock_text": "4 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:27:12 GMT",
+   "url": "http://www.uavobjects.com/product/multirotor-power-battery-to-8-connection-board/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

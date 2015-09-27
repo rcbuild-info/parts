@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HP4114 Pro Multi-Rotor Motor 400KV",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/hp4114-pro-multi-rotor-motor-400kv/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$48.00",
+   "stock_state": "in_stock",
+   "stock_text": "9 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:25:19 GMT",
+   "url": "http://www.uavobjects.com/product/hp4114-pro-multi-rotor-motor-400kv/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

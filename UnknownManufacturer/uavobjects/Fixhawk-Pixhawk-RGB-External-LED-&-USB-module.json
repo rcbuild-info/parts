@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Fixhawk/Pixhawk RGB External LED & USB module",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/fixhawkpixhawk-rgb-external-led-usb-module/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.80",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:24:27 GMT",
+   "url": "http://www.uavobjects.com/product/fixhawkpixhawk-rgb-external-led-usb-module/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

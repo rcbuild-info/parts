@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F800 ESC SK GREEN",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/f800-esc-sk-green/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$21.60",
+   "stock_state": "in_stock",
+   "stock_text": "4 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:30:49 GMT",
+   "url": "http://www.uavobjects.com/product/f800-esc-sk-green/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

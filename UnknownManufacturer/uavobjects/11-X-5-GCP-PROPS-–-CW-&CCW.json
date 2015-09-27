@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "11 X 5 GCP PROPS \u2013 CW &CCW",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/11-x-5-gcp-props-cw-ccw/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "stock_text": "9 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:30:50 GMT",
+   "url": "http://www.uavobjects.com/product/11-x-5-gcp-props-cw-ccw/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

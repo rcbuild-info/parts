@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini Quad 1806 2300KV Kit W/ 12A ESC, 5\u2033 Prop",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/mini-quad-1806-2300kv-kit-w-12a-esc-5-prop/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$76.80",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:25:38 GMT",
+   "url": "http://www.uavobjects.com/product/mini-quad-1806-2300kv-kit-w-12a-esc-5-prop/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

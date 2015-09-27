@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HP Motor Prop Adaptor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/hp-motor-prop-adaptor/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.40",
+   "stock_state": "in_stock",
+   "stock_text": "20 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:25:11 GMT",
+   "url": "http://www.uavobjects.com/product/hp-motor-prop-adaptor/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

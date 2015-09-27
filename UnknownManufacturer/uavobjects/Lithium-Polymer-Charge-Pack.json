@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Lithium Polymer Charge Pack",
@@ -7,9 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/lithium-polymer-charge-pack/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.60",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sun, 27 Sep 2015 03:31:34 GMT",
+   "url": "http://www.uavobjects.com/product/lithium-polymer-charge-pack-2/"
+  },
+  {
+   "price": "$7.99",
+   "stock_state": "in_stock",
+   "stock_text": "8 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:27:53 GMT",
+   "url": "http://www.uavobjects.com/product/lithium-polymer-charge-pack/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

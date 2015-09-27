@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "CO-16 OLED",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/co-16-oled/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.40",
+   "stock_state": "in_stock",
+   "stock_text": "8 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:30:58 GMT",
+   "url": "http://www.uavobjects.com/product/co-16-oled/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "25mm Tube AntiVibe Motor Mount Red",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/25mm-tube-antivibe-motor-mount-red/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$28.00",
+   "stock_state": "in_stock",
+   "stock_text": "14 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:24:53 GMT",
+   "url": "http://www.uavobjects.com/product/25mm-tube-antivibe-motor-mount-red/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

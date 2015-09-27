@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Y6 Tri-Trooper 600mm Carbon Fiber Frame \u2013 Integrated PCB Version",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/y6-tri-trooper-600mm-carbon-fiber-frame-integrated-pcb-version/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$144.00",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:25:20 GMT",
+   "url": "http://www.uavobjects.com/product/y6-tri-trooper-600mm-carbon-fiber-frame-integrated-pcb-version/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

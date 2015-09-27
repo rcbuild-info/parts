@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "True 640\u00d7480 8ch 2.4/5.8Ghz Dual Rx w/ HeadTrack Video Goggles",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/boscam-true-640x480-8ch-2-45-8ghz-dual-rx-w-headtrack-video-goggles/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$312.00",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:25:51 GMT",
+   "url": "http://www.uavobjects.com/product/boscam-true-640x480-8ch-2-45-8ghz-dual-rx-w-headtrack-video-goggles/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

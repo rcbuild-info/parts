@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ARDUFLYER 2.5  CABLE",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/arduflyer-2-5-cable/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "stock_text": "6 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:24:08 GMT",
+   "url": "http://www.uavobjects.com/product/arduflyer-2-5-cable/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

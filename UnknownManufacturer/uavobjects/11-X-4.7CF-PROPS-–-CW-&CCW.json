@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "11 X 4.7CF PROPS \u2013 CW &CCW",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/11-x-4-7cf-props-cw-ccw/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "stock_text": "8 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:27:24 GMT",
+   "url": "http://www.uavobjects.com/product/11-x-4-7cf-props-cw-ccw/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

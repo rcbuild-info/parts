@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10\u00d74.5\u2033 EPP1045 GREEN CW &CCW",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/10x4-5-epp1045-green-cw-ccw/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$16.00",
+   "stock_state": "in_stock",
+   "stock_text": "13 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:30:54 GMT",
+   "url": "http://www.uavobjects.com/product/10x4-5-epp1045-green-cw-ccw/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

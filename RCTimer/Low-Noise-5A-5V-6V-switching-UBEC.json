@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCTimer",
  "name": "Low Noise 5A 5V/6V switching UBEC",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/rctimer-low-noise-5a-5v6v-switching-ubec/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.40",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:26:27 GMT",
+   "url": "http://www.uavobjects.com/product/rctimer-low-noise-5a-5v6v-switching-ubec/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

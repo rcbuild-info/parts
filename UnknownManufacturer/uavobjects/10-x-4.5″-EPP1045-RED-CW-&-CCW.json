@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10 x 4.5\u2033 EPP1045 RED CW & CCW",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/10-x-4-5-epp1045-red-cw-ccw/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.20",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:28:06 GMT",
+   "url": "http://www.uavobjects.com/product/10-x-4-5-epp1045-red-cw-ccw/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

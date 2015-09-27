@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Y6 Tri-Trooper 900 Carbon Fiber Frame \u2013 Integrated PCB Version",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/y6-tri-trooper-900-carbon-fiber-frame-integrated-pcb-version/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$152.00",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:24:50 GMT",
+   "url": "http://www.uavobjects.com/product/y6-tri-trooper-900-carbon-fiber-frame-integrated-pcb-version/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

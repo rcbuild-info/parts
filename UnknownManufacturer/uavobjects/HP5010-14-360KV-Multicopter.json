@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HP5010-14 360KV Multicopter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/hp5010-14-360kv-multicopter/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$22.00",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:25:46 GMT",
+   "url": "http://www.uavobjects.com/product/hp5010-14-360kv-multicopter/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

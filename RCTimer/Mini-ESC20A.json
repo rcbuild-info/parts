@@ -1,5 +1,7 @@
 {
- "category": "esc",
+ "categories": [
+  "esc"
+ ],
  "equivalent": [],
  "manufacturer": "RCTimer",
  "name": "Mini ESC20A",
@@ -9,9 +11,17 @@
   "manufacturer": [],
   "related": [
    "http://www.rcgroups.com/forums/showthread.php?t=2377027"
-  ],
-  "store": [
-   "http://www.uavobjects.com/product/rctimer-mini-esc20a-opto-simonk-firmware/"
   ]
- }
+ },
+ "variants": [
+  {
+   "price": "$8.80",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:03:01 GMT",
+   "url": "http://www.uavobjects.com/product/rctimer-mini-esc20a-opto-simonk-firmware/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

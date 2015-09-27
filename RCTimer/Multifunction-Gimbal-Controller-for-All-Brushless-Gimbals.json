@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCTimer",
  "name": "Multifunction Gimbal Controller for All Brushless Gimbals",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/rctimer-multifunction-gimbal-controller-brushless-gimbals/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.40",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:25:55 GMT",
+   "url": "http://www.uavobjects.com/product/rctimer-multifunction-gimbal-controller-brushless-gimbals/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

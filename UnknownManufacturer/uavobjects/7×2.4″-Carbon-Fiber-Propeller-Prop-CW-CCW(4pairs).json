@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "7\u00d72.4\u2033 Carbon Fiber Propeller Prop CW/CCW(4pairs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/7x2-4-carbon-fiber-propeller-prop-cwccw4pairs/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.00",
+   "stock_state": "in_stock",
+   "stock_text": "6 in stock",
+   "timestamp": "Sun, 27 Sep 2015 03:24:24 GMT",
+   "url": "http://www.uavobjects.com/product/7x2-4-carbon-fiber-propeller-prop-cwccw4pairs/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

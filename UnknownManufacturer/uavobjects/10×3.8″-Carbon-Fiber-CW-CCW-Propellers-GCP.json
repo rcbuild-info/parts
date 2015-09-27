@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10\u00d73.8\u2033 Carbon Fiber CW CCW Propellers GCP",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/10x3-8-carbon-fiber-cw-ccw-propellers-gcp/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.40",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:27:23 GMT",
+   "url": "http://www.uavobjects.com/product/10x3-8-carbon-fiber-cw-ccw-propellers-gcp/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

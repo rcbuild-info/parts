@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "14AWG Silicon Wire Black (1Meter)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/14awg-silicon-wire-black-1meter/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.38",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:25:11 GMT",
+   "url": "http://www.uavobjects.com/product/14awg-silicon-wire-black-1meter/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

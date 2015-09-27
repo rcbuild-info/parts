@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCTimer",
  "name": "ArduFlyer V2.5.2 Flight Controller (Side Pin Version)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/rctimer-arduflyer-v2-5-2-flight-controller-side-pin-version/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.80",
+   "stock_state": "in_stock",
+   "stock_text": "4 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:25:12 GMT",
+   "url": "http://www.uavobjects.com/product/rctimer-arduflyer-v2-5-2-flight-controller-side-pin-version/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

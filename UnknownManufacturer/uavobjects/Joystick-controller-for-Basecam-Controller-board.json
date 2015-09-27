@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Joystick controller for Basecam Controller board",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/joystick-controller-basecam-controller-board/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.40",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:24:46 GMT",
+   "url": "http://www.uavobjects.com/product/joystick-controller-basecam-controller-board/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

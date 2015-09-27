@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GoPro IMP 2Axis Brushless Gimbal All Multi-Rotor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/gopro-imp-2axis-brushless-gimbal-multi-rotor/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$120.00",
+   "stock_state": "in_stock",
+   "stock_text": "4 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:28:40 GMT",
+   "url": "http://www.uavobjects.com/product/gopro-imp-2axis-brushless-gimbal-multi-rotor/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

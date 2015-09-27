@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RM550 V2 Black",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/rm550-v2-blac/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$32.80",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:30:58 GMT",
+   "url": "http://www.uavobjects.com/product/rm550-v2-blac/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

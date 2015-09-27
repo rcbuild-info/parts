@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Elgae",
  "name": "5.8Ghz 200mw FPV Wireless AV Tx & Rx Set STR351305",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/elgae-5-8ghz-200mw-fpv-wireless-av-tx-rx-set-str351305/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$42.40",
+   "stock_state": "in_stock",
+   "stock_text": "6 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:28:59 GMT",
+   "url": "http://www.uavobjects.com/product/elgae-5-8ghz-200mw-fpv-wireless-av-tx-rx-set-str351305/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "CNC Universal 25mm Tube Retractible Landing Gear",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/cnc-universal-25mm-tube-retractible-landing-gear/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$360.00",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:31:33 GMT",
+   "url": "http://www.uavobjects.com/product/cnc-universal-25mm-tube-retractible-landing-gear/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

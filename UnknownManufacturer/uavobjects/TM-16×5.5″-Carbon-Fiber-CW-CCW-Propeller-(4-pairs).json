@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "TM 16\u00d75.5\u2033 Carbon Fiber CW CCW Propeller (4 pairs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/tm-16x5-5-carbon-fiber-cw-ccw-propeller-4-pairs/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$50.40",
+   "stock_state": "in_stock",
+   "stock_text": "4 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:24:28 GMT",
+   "url": "http://www.uavobjects.com/product/tm-16x5-5-carbon-fiber-cw-ccw-propeller-4-pairs/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

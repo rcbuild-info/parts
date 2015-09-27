@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Trooper Q700 Power combo",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/trooper-q700-power-combo/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$224.00",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:31:30 GMT",
+   "url": "http://www.uavobjects.com/product/trooper-q700-power-combo/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RCTIMER ASP 2-Axis Nex-GH5 Series Brushless Gimbal BLUE",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/rctimer-asp-2-axis-nex-gh5-series-brushless-gimbal-blue/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$172.00",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 03:27:11 GMT",
+   "url": "http://www.uavobjects.com/product/rctimer-asp-2-axis-nex-gh5-series-brushless-gimbal-blue/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

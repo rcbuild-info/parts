@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "915 MHZ RADIO TELEMETRY ( AIRBORNE ) UNIT",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/915-mhz-radio-telemetry-airborne-unit/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.20",
+   "stock_state": "in_stock",
+   "stock_text": "10 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:27:55 GMT",
+   "url": "http://www.uavobjects.com/product/915-mhz-radio-telemetry-airborne-unit/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

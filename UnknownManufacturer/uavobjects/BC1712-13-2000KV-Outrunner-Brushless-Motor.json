@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BC1712-13 2000KV Outrunner Brushless Motor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/bc1712-13-2000kv-outrunner-brushless-motor/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.80",
+   "stock_state": "in_stock",
+   "stock_text": "11 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:30:55 GMT",
+   "url": "http://www.uavobjects.com/product/bc1712-13-2000kv-outrunner-brushless-motor/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

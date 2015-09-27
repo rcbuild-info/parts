@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "(4Pairs) 9450 9*4.5 Self-locking Enhanced Propeller Prop DJI",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/4pairs-9450-94-5-self-locking-enhanced-propeller-prop-dji/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "stock_text": "7 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:24:34 GMT",
+   "url": "http://www.uavobjects.com/product/4pairs-9450-94-5-self-locking-enhanced-propeller-prop-dji/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

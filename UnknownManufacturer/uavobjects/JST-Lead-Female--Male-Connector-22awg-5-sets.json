@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JST Lead Female- Male Connector 22awg 5 sets",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.uavobjects.com/product/jst-leadw-female-male-connector-22awg-5-sets/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.60",
+   "stock_state": "in_stock",
+   "stock_text": "9 in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 03:31:28 GMT",
+   "url": "http://www.uavobjects.com/product/jst-leadw-female-male-connector-22awg-5-sets/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
