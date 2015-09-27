@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "20AWG / 0,5 mm2 blue cable",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/accessoires/montagedraad-20awg-0-5-mm2-zwart.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/accessoires/montagedraad-20awg-0-5-mm2-zwart.html"
+  },
+  {
+   "price": "\u20ac0.60",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:25:17 GMT",
+   "url": "https://www.multirotorparts.com/montagedraad-20awg-0-5-mm2-zwart.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

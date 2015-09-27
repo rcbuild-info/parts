@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "Mini H Center Plate",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/blackout-parts/mini-h-quad-parts/blackout-mini-h-center-plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/blackout-parts/mini-h-quad-parts/blackout-mini-h-center-plate.html"
+  },
+  {
+   "price": "\u20ac25.60",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:14:08 GMT",
+   "url": "https://www.multirotorparts.com/blackout-mini-h-center-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

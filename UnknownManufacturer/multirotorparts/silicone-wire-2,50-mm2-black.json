@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "silicone wire 2,50 mm2 black",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/accessoires/cable/siliconen-montagedraad-2-50-mm2-zwart.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/accessoires/cable/siliconen-montagedraad-2-50-mm2-zwart.html"
+  },
+  {
+   "price": "\u20ac1.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:24:52 GMT",
+   "url": "https://www.multirotorparts.com/siliconen-montagedraad-2-50-mm2-zwart.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

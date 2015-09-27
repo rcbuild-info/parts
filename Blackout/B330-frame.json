@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "B330 frame",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/blackout/blackout-b330-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/blackout/blackout-b330-frame.html"
+  },
+  {
+   "price": "\u20ac209.50",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:11:33 GMT",
+   "url": "https://www.multirotorparts.com/blackout-b330-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

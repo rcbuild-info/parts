@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP 260 screws (stainless steel)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-260-parts/flip-260-screws-rvs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-260-parts/flip-260-screws-rvs.html"
+  },
+  {
+   "price": "\u20ac6.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:14:19 GMT",
+   "url": "https://www.multirotorparts.com/flip-260-screws-rvs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

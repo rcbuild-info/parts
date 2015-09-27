@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Favourite USB programming tool",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/accessoires/favourite-usb-programming-tool.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/accessoires/favourite-usb-programming-tool.html"
+  },
+  {
+   "price": "\u20ac9.15",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:32:12 GMT",
+   "url": "https://www.multirotorparts.com/favourite-usb-programming-tool.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

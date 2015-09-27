@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "gimbal addon kit for the B330/B360 frame",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/blackout-parts/blackout-330-and-360-parts/blackout-gimbal-addon-kit-for-the-b330-b360-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/blackout-parts/blackout-330-and-360-parts/blackout-gimbal-addon-kit-for-the-b330-b360-frame.html"
+  },
+  {
+   "price": "\u20ac25.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:15:16 GMT",
+   "url": "https://www.multirotorparts.com/blackout-gimbal-addon-kit-for-the-b330-b360-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

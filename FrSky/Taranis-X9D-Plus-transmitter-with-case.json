@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Taranis X9D Plus transmitter with case",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/electronics/rc-zenders-en-ontvangers/frsky-taranis-x9d-plus-met-case.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/electronics/rc-zenders-en-ontvangers/frsky-taranis-x9d-plus-met-case.html"
+  },
+  {
+   "price": "\u20ac224.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:32:37 GMT",
+   "url": "https://www.multirotorparts.com/frsky-taranis-x9d-plus-met-case.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

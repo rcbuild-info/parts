@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Vortex Power Distribution board",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/immersionrc/immersionrc-vortex-power-distribution-board.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/immersionrc/immersionrc-vortex-power-distribution-board.html"
+  },
+  {
+   "price": "\u20ac42.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:12:06 GMT",
+   "url": "https://www.multirotorparts.com/immersionrc-vortex-power-distribution-board.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

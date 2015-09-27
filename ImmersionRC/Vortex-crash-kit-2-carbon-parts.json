@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Vortex crash kit 2 carbon parts",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/immersionrc/immersionrc-vortex-crash-kit-2-carbon-onderdelen.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/immersionrc/immersionrc-vortex-crash-kit-2-carbon-onderdelen.html"
+  },
+  {
+   "price": "\u20ac53.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:12:11 GMT",
+   "url": "https://www.multirotorparts.com/immersionrc-vortex-crash-kit-2-carbon-onderdelen.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

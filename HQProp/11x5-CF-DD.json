@@ -1,5 +1,7 @@
 {
- "category": "prop",
+ "categories": [
+  "prop"
+ ],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "11x5 Direct Drive Carbon Fiber Composite",
@@ -7,9 +9,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/propellers/hqprop/hqprop-11-x-5-carbon-versterkte-propeller-set-van-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/propellers/hqprop/hqprop-11-x-5-carbon-versterkte-propeller-set-van-4.html"
+  },
+  {
+   "price": "\u20ac11.95",
+   "quantity": 4,
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:29:14 GMT",
+   "url": "https://www.multirotorparts.com/hqprop-11-x-5-carbon-versterkte-propeller-set-van-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP 260 FPV FRAME with stainless steel screws",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/hoverthings/flip-260-fpv-frame.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/hoverthings/flip-260-fpv-frame.html"
+  },
+  {
+   "price": "\u20ac72.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:12:31 GMT",
+   "url": "https://www.multirotorparts.com/flip-260-fpv-frame.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

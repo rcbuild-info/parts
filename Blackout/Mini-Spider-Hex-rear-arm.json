@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "Mini Spider Hex rear arm",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/blackout-parts/mini-spider-hex/blackout-mini-spider-hex-rear-arm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/blackout-parts/mini-spider-hex/blackout-mini-spider-hex-rear-arm.html"
+  },
+  {
+   "price": "\u20ac12.45",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:13:43 GMT",
+   "url": "https://www.multirotorparts.com/blackout-mini-spider-hex-rear-arm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

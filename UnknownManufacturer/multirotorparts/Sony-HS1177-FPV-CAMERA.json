@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sony HS1177 FPV CAMERA",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/electronics/video-tx-and-rx/sony-hs1177-fpv-camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/electronics/video-tx-and-rx/sony-hs1177-fpv-camera.html"
+  },
+  {
+   "price": "\u20ac36.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:33:03 GMT",
+   "url": "https://www.multirotorparts.com/sony-hs1177-fpv-camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "9\" x 4,7 carbon reinforced propeller black",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/propellers/gemfan-propellers/9-x-4-7-carbon-versterkte-propeller-set-van-2-zwart.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/propellers/gemfan-propellers/9-x-4-7-carbon-versterkte-propeller-set-van-2-zwart.html"
+  },
+  {
+   "price": "\u20ac3.95",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:26:18 GMT",
+   "url": "https://www.multirotorparts.com/9-x-4-7-carbon-versterkte-propeller-set-van-2-zwart.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

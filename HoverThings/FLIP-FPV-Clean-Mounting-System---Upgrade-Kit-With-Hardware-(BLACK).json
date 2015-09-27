@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP FPV Clean Mounting System - Upgrade Kit With Hardware (BLACK)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-fpv-parts/flip-fpv-clean-mounting-system-upgrade-kit-with-hardware-black.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-fpv-parts/flip-fpv-clean-mounting-system-upgrade-kit-with-hardware-black.html"
+  },
+  {
+   "price": "\u20ac46.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:14:51 GMT",
+   "url": "https://www.multirotorparts.com/flip-fpv-clean-mounting-system-upgrade-kit-with-hardware-black.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

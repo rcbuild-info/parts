@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Favourite Littlebee 20A (BLHeli)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/electronics/esc/favourite-littlebee-20a-blheli.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/electronics/esc/favourite-littlebee-20a-blheli.html"
+  },
+  {
+   "price": "\u20ac14.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:32:14 GMT",
+   "url": "https://www.multirotorparts.com/favourite-littlebee-20a-blheli.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

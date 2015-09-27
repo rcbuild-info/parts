@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "2204 2300kv multirotor edition with integrated adapter",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/motors/new-cobra-2204-2300kv-multirotor-editie-met-vaste-adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/motors/new-cobra-2204-2300kv-multirotor-editie-met-vaste-adapter.html"
+  },
+  {
+   "price": "\u20ac19.95",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:17:32 GMT",
+   "url": "https://www.multirotorparts.com/new-cobra-2204-2300kv-multirotor-editie-met-vaste-adapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

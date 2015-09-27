@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MRP LIPO BATTERY STRAP SMALL",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/accessoires/velcro-bandjes/mrp-lipo-battery-strap-small.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/accessoires/velcro-bandjes/mrp-lipo-battery-strap-small.html"
+  },
+  {
+   "price": "\u20ac1.60",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:24:59 GMT",
+   "url": "https://www.multirotorparts.com/mrp-lipo-battery-strap-small.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "2206 2100kv racing edition",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/motors/cobra-2206-2100kv-racing-edition.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/motors/cobra-2206-2100kv-racing-edition.html"
+  },
+  {
+   "price": "\u20ac22.85",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:17:35 GMT",
+   "url": "https://www.multirotorparts.com/cobra-2206-2100kv-racing-edition.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

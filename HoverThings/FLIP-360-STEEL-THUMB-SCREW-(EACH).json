@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP 360 STEEL THUMB SCREW (EACH)",
@@ -7,10 +7,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-360-parts/flip-360-steel-thumb-screw-each.html",
-   "http://www.hoverthings.com/steel-thumb-screw"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-360-parts/flip-360-steel-thumb-screw-each.html"
+  },
+  {
+   "url": "http://www.hoverthings.com/steel-thumb-screw"
+  },
+  {
+   "price": "\u20ac3.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:13:51 GMT",
+   "url": "https://www.multirotorparts.com/flip-360-steel-thumb-screw-each.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

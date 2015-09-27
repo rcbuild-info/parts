@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "Mini H Quad & Mini Spider Hex (Front) - Replacement Arm",
@@ -7,9 +7,25 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/blackout-parts/mini-spider-hex/blackout-mini-spider-hex-rear-arm-196.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/blackout-parts/mini-spider-hex/blackout-mini-spider-hex-rear-arm-196.html"
+  },
+  {
+   "price": "\u20ac8.75",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:13:24 GMT",
+   "url": "https://www.multirotorparts.com/blackout-mini-spider-hex-rear-arm.html"
+  },
+  {
+   "price": "\u20ac8.75",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:13:41 GMT",
+   "url": "https://www.multirotorparts.com/blackout-mini-spider-hex-rear-arm-197.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

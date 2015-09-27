@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP 360 MAIN FRAME BOTTOM PLATE (DIRTY SECTION)",
@@ -7,10 +7,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-360-parts/flip-360-main-frame-bottom-plate-dirty-section.html",
-   "http://www.hoverthings.com/360-bottom"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-360-parts/flip-360-main-frame-bottom-plate-dirty-section.html"
+  },
+  {
+   "url": "http://www.hoverthings.com/360-bottom"
+  },
+  {
+   "price": "\u20ac12.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:14:38 GMT",
+   "url": "https://www.multirotorparts.com/flip-360-main-frame-bottom-plate-dirty-section.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

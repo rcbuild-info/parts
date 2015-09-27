@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "Super Mini-H quad (6\")",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/blackout/blackout-super-mini-h-quad-6.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/blackout/blackout-super-mini-h-quad-6.html"
+  },
+  {
+   "price": "\u20ac144.95",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:11:39 GMT",
+   "url": "https://www.multirotorparts.com/blackout-super-mini-h-quad-6.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

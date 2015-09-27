@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "600mW 5.8GHz A/V RaceBand Transmitter",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/electronics/video-tx-and-rx/600mw-5-8ghz-a-v-raceband-transmitter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/electronics/video-tx-and-rx/600mw-5-8ghz-a-v-raceband-transmitter.html"
+  },
+  {
+   "price": "\u20ac79.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:32:56 GMT",
+   "url": "https://www.multirotorparts.com/600mw-5-8ghz-a-v-raceband-transmitter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

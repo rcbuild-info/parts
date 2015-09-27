@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP 360 BOTTOM CLEAN PLATE",
@@ -7,10 +7,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-360-parts/flip-360-bottom-clean-plate.html",
-   "http://www.hoverthings.com/360-bottom-clean"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-360-parts/flip-360-bottom-clean-plate.html"
+  },
+  {
+   "url": "http://www.hoverthings.com/360-bottom-clean"
+  },
+  {
+   "price": "\u20ac12.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:14:32 GMT",
+   "url": "https://www.multirotorparts.com/flip-360-bottom-clean-plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

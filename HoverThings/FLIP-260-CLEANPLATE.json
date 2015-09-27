@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP 260 CLEANPLATE",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-260-parts/flip-260-cleanplate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-260-parts/flip-260-cleanplate.html"
+  },
+  {
+   "price": "\u20ac4.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:14:24 GMT",
+   "url": "https://www.multirotorparts.com/flip-260-cleanplate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

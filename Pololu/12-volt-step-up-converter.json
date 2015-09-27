@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Pololu",
  "name": "12 volt step up converter",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/accessoires/voltage-regulators/pololu-12-volt-step-up-converter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/accessoires/voltage-regulators/pololu-12-volt-step-up-converter.html"
+  },
+  {
+   "price": "\u20ac4.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:31:53 GMT",
+   "url": "https://www.multirotorparts.com/pololu-12-volt-step-up-converter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ImmersionRC",
  "name": "Vortex Fusion Flight Controller / OSD",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/immersionrc/immersionrc-vortex-fusion-flight-controller-osd.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/immersionrc/immersionrc-vortex-fusion-flight-controller-osd.html"
+  },
+  {
+   "price": "\u20ac64.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:11:52 GMT",
+   "url": "https://www.multirotorparts.com/immersionrc-vortex-fusion-flight-controller-osd.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

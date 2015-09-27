@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP 260 anodized screws (purple)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-260-parts/flip-260-anodized-screws-purple.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-260-parts/flip-260-anodized-screws-purple.html"
+  },
+  {
+   "price": "\u20ac12.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:13:56 GMT",
+   "url": "https://www.multirotorparts.com/flip-260-anodized-screws-purple.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

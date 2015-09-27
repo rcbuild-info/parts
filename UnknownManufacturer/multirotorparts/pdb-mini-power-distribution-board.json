@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "pdb mini power distribution board",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/accessoires/pdb-mini-power-distribution-board.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/accessoires/pdb-mini-power-distribution-board.html"
+  },
+  {
+   "price": "\u20ac3.45",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:09:17 GMT",
+   "url": "https://www.multirotorparts.com/pdb-mini-power-distribution-board.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

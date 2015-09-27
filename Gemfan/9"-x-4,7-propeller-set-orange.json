@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "9\" x 4,7 propeller set orange",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/propellers/9/9-x-4-7-propeller-set-van-2-oranje.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/propellers/9/9-x-4-7-propeller-set-van-2-oranje.html"
+  },
+  {
+   "price": "\u20ac2.30",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:31:17 GMT",
+   "url": "https://www.multirotorparts.com/9-x-4-7-propeller-set-van-2-oranje.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

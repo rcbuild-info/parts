@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Pololu",
  "name": "5 volt step down converter (1 Amp version)",
@@ -7,9 +7,31 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/accessoires/voltage-regulators/pololu-5-volt-step-down-converter-224.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/accessoires/voltage-regulators/pololu-5-volt-step-down-converter-224.html"
+  },
+  {
+   "price": "\u20ac9.15",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:17:15 GMT",
+   "url": "https://www.multirotorparts.com/pololu-5-volt-step-down-converter-226.html"
+  },
+  {
+   "price": "\u20ac9.15",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:18:42 GMT",
+   "url": "https://www.multirotorparts.com/pololu-5-volt-step-down-converter-224.html"
+  },
+  {
+   "price": "\u20ac9.15",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:31:55 GMT",
+   "url": "https://www.multirotorparts.com/pololu-5-volt-step-down-converter-225.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

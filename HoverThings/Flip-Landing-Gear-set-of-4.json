@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "Flip Landing Gear set of 4",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-fpv-parts/flip-landing-gear-set-van-4.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-fpv-parts/flip-landing-gear-set-van-4.html"
+  },
+  {
+   "price": "\u20ac12.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:13:48 GMT",
+   "url": "https://www.multirotorparts.com/flip-landing-gear-set-van-4.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

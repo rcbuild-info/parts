@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "2208 1200kv multirotor edition with integrated adapter",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/motors/cobra/new-cobra-2208-1200kv-multirotor-editie-met-vaste-adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/motors/cobra/new-cobra-2208-1200kv-multirotor-editie-met-vaste-adapter.html"
+  },
+  {
+   "price": "\u20ac24.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:30:18 GMT",
+   "url": "https://www.multirotorparts.com/new-cobra-2208-1200kv-multirotor-editie-met-vaste-adapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

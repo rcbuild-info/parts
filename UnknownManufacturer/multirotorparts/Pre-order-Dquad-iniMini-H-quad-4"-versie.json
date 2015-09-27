@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Pre-order Dquad iniMini-H quad 4\" versie",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/dquad/dquad-inimini-h-quad-4-versie.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/dquad/dquad-inimini-h-quad-4-versie.html"
+  },
+  {
+   "price": "\u20ac119.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:11:27 GMT",
+   "url": "https://www.multirotorparts.com/dquad-inimini-h-quad-4-versie.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

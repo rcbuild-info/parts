@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "6\" x 3.5 glassfiber reinforced propellers orange",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/propellers/6-propellers/hqprop-6-x-3-5-glasvezel-versterkte-propeller-set-van-4-oranje.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/propellers/6-propellers/hqprop-6-x-3-5-glasvezel-versterkte-propeller-set-van-4-oranje.html"
+  },
+  {
+   "price": "\u20ac4.32",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:27:17 GMT",
+   "url": "https://www.multirotorparts.com/hqprop-6-x-3-5-glasvezel-versterkte-propeller-set-van-4-oranje.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

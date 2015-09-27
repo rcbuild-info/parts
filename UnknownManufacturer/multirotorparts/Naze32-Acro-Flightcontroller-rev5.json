@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Naze32 Acro Flightcontroller rev5",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/electronics/flightcontrollers/naze32-acro-flightcontroller-rev5.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/electronics/flightcontrollers/naze32-acro-flightcontroller-rev5.html"
+  },
+  {
+   "price": "\u20ac24.95",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:32:25 GMT",
+   "url": "https://www.multirotorparts.com/naze32-acro-flightcontroller-rev5.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

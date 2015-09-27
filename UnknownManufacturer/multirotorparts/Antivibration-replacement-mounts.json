@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Antivibration replacement mounts",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-fpv-parts/antivibration-replacement-mounts.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/hoverthings-parts/flip-fpv-parts/antivibration-replacement-mounts.html"
+  },
+  {
+   "price": "\u20ac12.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:14:48 GMT",
+   "url": "https://www.multirotorparts.com/antivibration-replacement-mounts.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

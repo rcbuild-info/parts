@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HoverThings",
  "name": "FLIP 260 FPV FRAME with aluminum screws",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/hoverthings/flip-260-fpv-frame-met-aluminium-schroeven.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/hoverthings/flip-260-fpv-frame-met-aluminium-schroeven.html"
+  },
+  {
+   "price": "\u20ac76.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:11:47 GMT",
+   "url": "https://www.multirotorparts.com/flip-260-fpv-frame-met-aluminium-schroeven.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

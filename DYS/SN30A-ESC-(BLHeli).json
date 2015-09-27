@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "SN30A ESC (BLHeli)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/electronics/esc/dys-sn30a-esc-blheli.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/electronics/esc/dys-sn30a-esc-blheli.html"
+  },
+  {
+   "price": "\u20ac14.65",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:32:00 GMT",
+   "url": "https://www.multirotorparts.com/dys-sn30a-esc-blheli.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

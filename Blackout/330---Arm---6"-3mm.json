@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Blackout",
  "name": "330 - Arm - 6\" 3mm",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/frames/spare-parts/blackout-parts/blackout-330-and-360-parts/blackout-330-arm-6-3mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/frames/spare-parts/blackout-parts/blackout-330-and-360-parts/blackout-330-arm-6-3mm.html"
+  },
+  {
+   "price": "\u20ac13.65",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:16:16 GMT",
+   "url": "https://www.multirotorparts.com/blackout-330-arm-6-3mm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

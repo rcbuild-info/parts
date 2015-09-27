@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Rotor assembly Cobra 2204 motor",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/motors/cobra/rotor-huis-cobra-2204-motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/motors/cobra/rotor-huis-cobra-2204-motor.html"
+  },
+  {
+   "price": "\u20ac9.50",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:17:39 GMT",
+   "url": "https://www.multirotorparts.com/rotor-huis-cobra-2204-motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

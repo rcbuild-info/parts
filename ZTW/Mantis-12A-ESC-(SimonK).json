@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ZTW",
  "name": "Mantis 12A ESC (SimonK)",
@@ -7,9 +7,19 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "https://www.multirotorparts.com/electronics/esc/simonk-12a-esc-blueseries.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "https://www.multirotorparts.com/electronics/esc/simonk-12a-esc-blueseries.html"
+  },
+  {
+   "price": "\u20ac10.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:32:09 GMT",
+   "url": "https://www.multirotorparts.com/simonk-12a-esc-blueseries.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
