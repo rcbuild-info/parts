@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "infiniteFPV",
  "name": "CBQ190 FPV Quadcopter",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://infinitefpv.com/product/cbq190-fpv-quadcopter-frame/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a357.50",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
+   "timestamp": "Sun, 27 Sep 2015 18:24:43 GMT",
+   "url": "http://infinitefpv.com/product/cbq190-fpv-quadcopter-frame/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

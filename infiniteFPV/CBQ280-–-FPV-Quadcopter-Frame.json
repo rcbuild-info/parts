@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "infiniteFPV",
  "name": "CBQ280 \u2013 FPV Quadcopter Frame",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://infinitefpv.com/product/cbq280-fpv-quadcopter-frame/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "\u00a391.67",
+   "stock_state": "in_stock",
+   "stock_text": "Only 3 left in stock (can be backordered)",
+   "timestamp": "Sun, 27 Sep 2015 18:24:46 GMT",
+   "url": "http://infinitefpv.com/product/cbq280-fpv-quadcopter-frame/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
