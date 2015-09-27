@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5.8ghz RHCP CP Antenna (SMA)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=940"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$20.00",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 06:41:22 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=940"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

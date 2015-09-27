@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hex M4 Nylon Insert Lock Nut (G304)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=802"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$1.50",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 06:34:08 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=802"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

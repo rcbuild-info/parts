@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "SN16A OPTO ESC (BL13.2)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=929"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$12.50",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:47:02 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=929"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

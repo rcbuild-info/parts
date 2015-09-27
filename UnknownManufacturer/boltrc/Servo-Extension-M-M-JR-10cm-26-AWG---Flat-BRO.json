@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Servo Extension M-M JR 10cm 26 AWG - Flat BRO",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=941"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$2.25",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:40:08 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=941"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

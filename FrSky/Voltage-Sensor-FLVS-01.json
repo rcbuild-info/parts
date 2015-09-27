@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Voltage Sensor FLVS-01",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=348"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$11.00",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 04:54:36 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=348"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

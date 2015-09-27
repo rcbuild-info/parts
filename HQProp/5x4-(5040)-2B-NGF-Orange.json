@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "5x4 (5040) 2B NGF Orange",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=584"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$5.40",
+   "quantity": 4,
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sun, 27 Sep 2015 06:38:42 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=584"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

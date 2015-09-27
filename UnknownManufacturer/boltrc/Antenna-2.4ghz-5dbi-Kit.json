@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Antenna 2.4ghz 5dbi Kit",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=567"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$11.50",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 06:44:13 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=567"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

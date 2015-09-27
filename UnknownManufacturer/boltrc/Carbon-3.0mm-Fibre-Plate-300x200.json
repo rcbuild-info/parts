@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Carbon 3.0mm Fibre Plate 300x200",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=859"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$55.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:37:15 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=859"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

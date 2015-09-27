@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FEETECH",
  "name": "FT512BL 59g / 20kg / 0.11s / Digital",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=753"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$68.70",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:46:18 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=753"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

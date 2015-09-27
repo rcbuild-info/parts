@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Temperature Sensor (Analog)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=380"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$5.00",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 04:56:09 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=380"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

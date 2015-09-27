@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FEETECH",
  "name": "U Shaped Servo Bracket (FK-UB-001)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=776"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$2.75",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:48:11 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=776"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

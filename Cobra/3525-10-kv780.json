@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "3525-10 kv780",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=706"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$62.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:52:22 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=706"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

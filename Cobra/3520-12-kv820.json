@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "3520-12 kv820",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=701"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$57.99",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 04:50:41 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=701"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

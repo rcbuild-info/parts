@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "10x6F CW Nylon Composite",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=294"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$2.75",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 04:32:05 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=294"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

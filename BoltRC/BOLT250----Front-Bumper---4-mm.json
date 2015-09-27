@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "BoltRC",
  "name": "BOLT250 -  Front Bumper - 4 mm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=948"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$2.50",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:39:34 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=948"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "8x6E CW Nylon Composite",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=127"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$0.70",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sun, 27 Sep 2015 04:30:59 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=127"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

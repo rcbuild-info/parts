@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Taranis X9D - 2000mah Battery",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=369"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$17.50",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 06:45:28 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=369"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

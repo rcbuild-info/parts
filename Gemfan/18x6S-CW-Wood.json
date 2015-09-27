@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "18x6S CW Wood",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=305"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$6.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:28:59 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=305"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

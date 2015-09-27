@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "22x7 CW Wood Slow Fly",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=336"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$30.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:27:21 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=336"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

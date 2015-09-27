@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Taranis X9D - Power Switch",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=370"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$6.75",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:45:19 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=370"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

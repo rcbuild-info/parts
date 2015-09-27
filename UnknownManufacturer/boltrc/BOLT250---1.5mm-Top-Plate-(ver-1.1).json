@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BOLT250 - 1.5mm Top Plate (ver 1.1)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=911"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$10.00",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 06:42:46 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=911"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

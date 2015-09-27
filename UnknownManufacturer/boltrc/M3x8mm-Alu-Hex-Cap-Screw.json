@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3x8mm Alu Hex Cap Screw",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=957"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$2.55",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:42:44 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=957"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

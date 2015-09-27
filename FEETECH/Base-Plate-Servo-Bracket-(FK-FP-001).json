@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FEETECH",
  "name": "Base Plate Servo Bracket (FK-FP-001)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=777"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$1.75",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:32:56 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=777"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

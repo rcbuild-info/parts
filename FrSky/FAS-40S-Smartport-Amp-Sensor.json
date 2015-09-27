@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "FAS-40S Smartport Amp Sensor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=568"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$25.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:45:15 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=568"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

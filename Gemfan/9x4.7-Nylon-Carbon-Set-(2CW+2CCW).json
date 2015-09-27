@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "9x4.7 Nylon Carbon Set (2CW+2CCW)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=97"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$4.20",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:30:32 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=97"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

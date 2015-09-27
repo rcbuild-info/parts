@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "KDE7215XF-135",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=975"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$540.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:39:01 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=975"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

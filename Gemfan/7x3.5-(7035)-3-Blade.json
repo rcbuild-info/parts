@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "7x3.5 (7035) 3 Blade",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=75"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$3.60",
+   "quantity": 4,
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 04:36:21 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=75"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

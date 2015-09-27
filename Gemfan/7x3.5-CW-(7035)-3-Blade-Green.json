@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "7x3.5 CW (7035) 3 Blade Green",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=73"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$0.95",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 04:38:24 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=73"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

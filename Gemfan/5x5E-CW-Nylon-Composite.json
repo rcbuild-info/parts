@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5x5E CW Nylon Composite",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=123"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$0.60",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sun, 27 Sep 2015 04:36:09 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=123"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

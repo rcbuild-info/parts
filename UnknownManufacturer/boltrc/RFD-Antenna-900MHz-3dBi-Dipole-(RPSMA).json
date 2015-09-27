@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RFD Antenna 900MHz 3dBi Dipole (RPSMA)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=504"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$6.25",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:53:00 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=504"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

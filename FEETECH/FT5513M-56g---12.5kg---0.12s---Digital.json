@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FEETECH",
  "name": "FT5513M 56g / 12.5kg / 0.12s / Digital",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=749"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$30.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:46:16 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=749"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

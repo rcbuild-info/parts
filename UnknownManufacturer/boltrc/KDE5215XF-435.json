@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "KDE5215XF-435",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=979"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$280.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:37:07 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=979"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

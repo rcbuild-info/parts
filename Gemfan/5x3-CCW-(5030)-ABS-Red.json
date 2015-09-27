@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5x3 CCW (5030) ABS Red",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=522"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$0.44",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:37:54 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=522"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

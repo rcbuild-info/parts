@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Carbon 2.0mm Fibre Plate 300x200",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=857"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$44.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:37:33 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=857"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

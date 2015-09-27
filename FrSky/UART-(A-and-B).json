@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": " UART (A and B)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2885",
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=543"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$34.50",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sun, 27 Sep 2015 06:44:29 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=543"
+  },
+  {
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2885"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

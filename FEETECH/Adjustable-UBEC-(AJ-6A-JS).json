@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FEETECH",
  "name": "Adjustable UBEC (AJ-6A-JS)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=781"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$7.50",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sun, 27 Sep 2015 06:33:08 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=781"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

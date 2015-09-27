@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hex Socket Cap Screw (G304)  M3 x 6mm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=785"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$1.80",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 06:45:59 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=785"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

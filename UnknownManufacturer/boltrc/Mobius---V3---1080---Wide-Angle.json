@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mobius - V3 - 1080 - Wide Angle",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=942"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$90.00",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 06:41:30 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=942"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

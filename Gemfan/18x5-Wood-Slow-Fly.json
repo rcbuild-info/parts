@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "18x5 Wood Slow Fly",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=344"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$72.00",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:28:00 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=344"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

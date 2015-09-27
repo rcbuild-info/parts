@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "ESC USB Linker",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=949"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$10.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:46:52 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=949"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

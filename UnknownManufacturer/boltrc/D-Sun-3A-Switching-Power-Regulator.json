@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "D-Sun 3A Switching Power Regulator",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=848"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$2.50",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 06:41:15 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=848"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

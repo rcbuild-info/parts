@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "5x4.5R (5045R) 2B NGF Green",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=822"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$4.20",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:35:35 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=822"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

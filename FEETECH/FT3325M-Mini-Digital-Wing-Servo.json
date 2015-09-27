@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FEETECH",
  "name": "FT3325M Mini Digital Wing Servo",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=757"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$19.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:46:12 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=757"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

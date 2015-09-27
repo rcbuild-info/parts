@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "11x7E CW Nylon Composite APC",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=65"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$3.50",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:32:52 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=65"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

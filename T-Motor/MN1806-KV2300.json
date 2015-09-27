@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN1806 KV2300",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=589"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$28.95",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 06:47:50 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=589"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

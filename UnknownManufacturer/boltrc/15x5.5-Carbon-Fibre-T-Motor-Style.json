@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "15x5.5 Carbon Fibre T-Motor Style",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=563"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$30.95",
+   "quantity": 4,
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 04:34:19 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=563"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

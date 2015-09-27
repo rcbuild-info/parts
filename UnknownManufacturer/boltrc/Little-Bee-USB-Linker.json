@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Little Bee USB Linker",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=1002"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$12.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:48:20 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=1002"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

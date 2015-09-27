@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "EP DD8060 (8x6) 2 Blade CW Orange",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=185"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$0.40",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 04:26:57 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=185"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

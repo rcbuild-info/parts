@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Surveilzone",
  "name": "HS1136 (PZ0420) Sony Super HAD II",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=844"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$33.95",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sun, 27 Sep 2015 06:47:55 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=844"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

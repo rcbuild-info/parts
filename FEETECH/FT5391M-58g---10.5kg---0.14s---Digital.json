@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FEETECH",
  "name": "FT5391M 58g / 10.5kg / 0.14s / Digital",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=748"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$14.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:46:10 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=748"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

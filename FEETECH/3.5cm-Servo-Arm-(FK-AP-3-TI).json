@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FEETECH",
  "name": "3.5cm Servo Arm (FK-AP-3-TI)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=767"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$2.45",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:46:57 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=767"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

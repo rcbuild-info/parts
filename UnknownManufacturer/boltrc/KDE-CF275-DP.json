@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "KDE-CF275-DP",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=984"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$410.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:43:13 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=984"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

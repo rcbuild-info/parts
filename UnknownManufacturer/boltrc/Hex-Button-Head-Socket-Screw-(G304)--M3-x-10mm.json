@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hex Button Head Socket Screw (G304)  M3 x 10mm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=790"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$1.80",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 06:34:47 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=790"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

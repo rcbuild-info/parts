@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "3x2 CCW ABS Green",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=191"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$0.22",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:34:48 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=191"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

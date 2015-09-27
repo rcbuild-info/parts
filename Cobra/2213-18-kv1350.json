@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "2213-18 kv1350",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=646"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$28.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:48:58 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=646"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

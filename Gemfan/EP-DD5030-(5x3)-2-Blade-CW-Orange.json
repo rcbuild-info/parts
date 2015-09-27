@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "EP DD5030 (5x3) 2 Blade CW Orange",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=182"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$0.35",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:27:18 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=182"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

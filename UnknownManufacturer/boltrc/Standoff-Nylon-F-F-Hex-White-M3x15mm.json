@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Standoff Nylon F-F Hex White M3x15mm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=866"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$1.25",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:42:32 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=866"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "KDE7208XF-110",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=976"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$470.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:36:04 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=976"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

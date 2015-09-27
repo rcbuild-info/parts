@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "2814-16 kv1050",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=676"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$37.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:50:53 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=676"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "TFR6 - 7 Channel FASST Compatible",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=539"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$28.50",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sun, 27 Sep 2015 06:43:49 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=539"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

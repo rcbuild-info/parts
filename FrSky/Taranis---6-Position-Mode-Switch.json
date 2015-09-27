@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "Taranis - 6 Position Mode Switch",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=573"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$7.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:44:50 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=573"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

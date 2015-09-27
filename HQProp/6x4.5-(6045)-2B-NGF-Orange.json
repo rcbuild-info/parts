@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HQProp",
  "name": "6x4.5 (6045) 2B NGF Orange",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=609"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$7.00",
+   "quantity": 4,
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sun, 27 Sep 2015 06:40:37 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=609"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

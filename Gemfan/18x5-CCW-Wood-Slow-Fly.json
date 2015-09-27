@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "18x5 CCW Wood Slow Fly",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=343"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$18.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:28:30 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=343"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

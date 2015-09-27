@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Cobra",
  "name": "4120-16 kv610",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=712"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$69.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:52:26 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=712"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

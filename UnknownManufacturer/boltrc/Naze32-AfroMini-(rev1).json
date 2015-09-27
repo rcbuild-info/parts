@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Naze32 AfroMini (rev1)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=943"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$29.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:48:24 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=943"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

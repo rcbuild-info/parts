@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "VR Brain UBLOX 8 GPS and MAG",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=743"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$149.00",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 06:36:02 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=743"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

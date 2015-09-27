@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "10x8S CW Wood",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=315"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$2.00",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 04:32:09 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=315"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

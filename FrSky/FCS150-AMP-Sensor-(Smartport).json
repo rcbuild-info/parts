@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "FCS150 AMP Sensor (Smartport)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=601"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$45.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:55:04 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=601"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

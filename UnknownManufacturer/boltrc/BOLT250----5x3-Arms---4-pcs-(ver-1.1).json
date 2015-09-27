@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BOLT250 -  5x3 Arms - 4 pcs (ver 1.1)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=923"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$22.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:41:53 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=923"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

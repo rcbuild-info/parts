@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "S.BUS to CPPM Decoder",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=554"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$14.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:44:11 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=554"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "13x4.5 CCW Wood Slow Fly",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=108"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "A$6.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 04:35:38 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=108"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
