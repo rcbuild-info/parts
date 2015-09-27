@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Lost Plane Finder Alarm RC Helicopter Tracer",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Wholesale-Lost-Plane-Finder-Alarm-RC-Helicopter-Tracer-p-66590.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.40",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:50 GMT",
+   "url": "http://www.banggood.com/Wholesale-Lost-Plane-Finder-Alarm-RC-Helicopter-Tracer-p-66590.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5cm 26PIN Lens Extension Cable for 1080P HD Mobius ActionCam",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/5cm-26PIN-Lens-Extension-Cable-for-1080P-HD-Mobius-ActionCam-Pocket-Camera-p-91833.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$6.40",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:35 GMT",
+   "url": "http://www.banggood.com/5cm-26PIN-Lens-Extension-Cable-for-1080P-HD-Mobius-ActionCam-Pocket-Camera-p-91833.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

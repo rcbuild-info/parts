@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SkyZone",
  "name": "FPV T600 5.8Ghz 600mW Transmitter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Skyzone-FPV-T600-5-8Ghz-600mW-Transmitter-p-992373.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$47.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:19 GMT",
+   "url": "http://www.banggood.com/Skyzone-FPV-T600-5-8Ghz-600mW-Transmitter-p-992373.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

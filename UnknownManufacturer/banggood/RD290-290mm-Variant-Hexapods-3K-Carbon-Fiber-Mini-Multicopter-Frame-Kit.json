@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RD290 290mm Variant Hexapods 3K Carbon Fiber Mini Multicopter Frame Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/RD290-Carbon-Fiber-6-Axis-FPV-Mini-Multicopter-Quadcopter-Frame-Kit-p-973620.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$53.59",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:03 GMT",
+   "url": "http://www.banggood.com/RD290-Carbon-Fiber-6-Axis-FPV-Mini-Multicopter-Quadcopter-Frame-Kit-p-973620.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

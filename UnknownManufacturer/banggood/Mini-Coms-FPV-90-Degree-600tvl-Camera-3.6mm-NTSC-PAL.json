@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini Coms FPV 90 Degree 600tvl Camera 3.6mm NTSC PAL",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Mini-Coms-FPV-90-Degree-600tvl-Camera-3_6mm-NTSC-PAL-p-986149.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:00 GMT",
+   "url": "http://www.banggood.com/Mini-Coms-FPV-90-Degree-600tvl-Camera-3_6mm-NTSC-PAL-p-986149.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

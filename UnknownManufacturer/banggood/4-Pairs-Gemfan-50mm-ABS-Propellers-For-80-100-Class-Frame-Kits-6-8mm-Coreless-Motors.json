@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4 Pairs Gemfan 50mm ABS Propellers For 80-100 Class Frame Kits 6-8mm Coreless Motors",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/4-Pairs-Gemfan-50mm-ABS-Propellers-For-80-100-Class-Frame-Kits-6-8mm-Coreless-Motors-p-991023.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.74",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:15 GMT",
+   "url": "http://www.banggood.com/4-Pairs-Gemfan-50mm-ABS-Propellers-For-80-100-Class-Frame-Kits-6-8mm-Coreless-Motors-p-991023.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

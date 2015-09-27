@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "G-2D FPV Plastic Gimbal Parts Motor Fixing Mount G-2D-Z-06(P)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Walkera-G-2D-FPV-Plastic-Gimbal-Parts-Motor-Fixing-Mount-G-2D-Z-06P-p-933913.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "EU Warehouse",
+   "price": "$5.59",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:37 GMT",
+   "url": "http://www.banggood.com/Walkera-G-2D-FPV-Plastic-Gimbal-Parts-Motor-Fixing-Mount-G-2D-Z-06P-p-933913.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

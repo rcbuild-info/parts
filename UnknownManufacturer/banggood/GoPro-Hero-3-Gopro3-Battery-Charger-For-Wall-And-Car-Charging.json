@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GoPro Hero 3 Gopro3 Battery Charger For Wall And Car Charging",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/GoPro-Hero-3-Gopro3-Battery-Charger-For-Wall-And-Car-Charging-p-81888.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$9.30",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:17 GMT",
+   "url": "http://www.banggood.com/GoPro-Hero-3-Gopro3-Battery-Charger-For-Wall-And-Car-Charging-p-81888.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

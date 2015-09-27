@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Eachine",
  "name": "FPV 5.8G 600mW 32CH Wireless Transmitter Receiver TS832 RC832",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Httpwww_ebay_comitmWireless-32CH-5-8G-600mW-A-V-Transmitting-Receiving-p-975775.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:30 GMT",
+   "url": "http://www.banggood.com/Httpwww_ebay_comitmWireless-32CH-5-8G-600mW-A-V-Transmitting-Receiving-p-975775.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

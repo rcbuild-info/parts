@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "UBLOX NEO-M8N HMC5883L Compass GPS Module For Pixhawk PX4 APM",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Original-UBLOX-NEO-M8N-HMC5883L-Compass-GPS-Module-For-Pixhawk-PX4-APM-p-984347.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$35.80",
+   "stock_state": "in_stock",
+   "stock_text": "Only 2 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:36 GMT",
+   "url": "http://www.banggood.com/Original-UBLOX-NEO-M8N-HMC5883L-Compass-GPS-Module-For-Pixhawk-PX4-APM-p-984347.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ATG Glass Fiber DIY Landing Skid Gear Kit For FPV-Black TH104",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Wholesale-ATG-Glass-Fiber-DIY-Landing-Skid-Gear-Kit-For-FPV-Black-TH104-p-66596.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$12.49",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:17 GMT",
+   "url": "http://www.banggood.com/Wholesale-ATG-Glass-Fiber-DIY-Landing-Skid-Gear-Kit-For-FPV-Black-TH104-p-66596.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Data transmission Cable For APM2.6/2.8 PIX PX4",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Data-transmission-Cable-For-APM2_6-2_8-PIX-PX4-p-995101.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.10",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:03 GMT",
+   "url": "http://www.banggood.com/Data-transmission-Cable-For-APM2_6-2_8-PIX-PX4-p-995101.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

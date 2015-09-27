@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LED Light Waterproof 50cm 4 Color Lamp Strap For 4/6 Axis Aircraft",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/LED-Light-Waterproof-50cm-4-Color-Lamp-Strap-For-46-Axis-Aircraft-p-959146.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.14",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:39 GMT",
+   "url": "http://www.banggood.com/LED-Light-Waterproof-50cm-4-Color-Lamp-Strap-For-46-Axis-Aircraft-p-959146.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

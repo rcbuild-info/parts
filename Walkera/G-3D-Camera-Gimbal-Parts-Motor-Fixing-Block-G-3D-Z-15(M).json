@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "G-3D Camera Gimbal Parts Motor Fixing Block G-3D-Z-15(M)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Walkera-G-3D-Camera-Gimbal-Parts-Motor-Fixing-Block-G-3D-Z-15M-p-944046.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$13.50",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:54:58 GMT",
+   "url": "http://www.banggood.com/Walkera-G-3D-Camera-Gimbal-Parts-Motor-Fixing-Block-G-3D-Z-15M-p-944046.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

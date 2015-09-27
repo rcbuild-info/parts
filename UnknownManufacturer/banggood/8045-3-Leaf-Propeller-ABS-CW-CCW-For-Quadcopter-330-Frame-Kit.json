@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "8045 3-Leaf Propeller ABS CW/CCW For Quadcopter 330 Frame Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/8045-3-Leaf-Propeller-ABS-CWCCW-For-Quadcopter-330-Frame-Kit-p-954478.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:08 GMT",
+   "url": "http://www.banggood.com/8045-3-Leaf-Propeller-ABS-CWCCW-For-Quadcopter-330-Frame-Kit-p-954478.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

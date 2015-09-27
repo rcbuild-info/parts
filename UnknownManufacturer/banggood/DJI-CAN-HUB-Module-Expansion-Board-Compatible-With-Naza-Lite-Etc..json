@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI CAN HUB Module Expansion Board Compatible With Naza Lite Etc.",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DJI-CAN-HUB-Module-Expansion-Board-Compatible-With-Naza-Lite-Etc_-p-964865.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$55.09",
+   "stock_state": "in_stock",
+   "stock_text": "Only 2 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:14 GMT",
+   "url": "http://www.banggood.com/DJI-CAN-HUB-Module-Expansion-Board-Compatible-With-Naza-Lite-Etc_-p-964865.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

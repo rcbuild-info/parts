@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "TE93A 520TVL 90/120 Degree 1/3Cmos FPV Camera 5.8G 32CH Transmission With 3 Leaves Antenna",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/520TVL-90120-Degree-13-Cmos-Camera-5_8G-w32CH-Transmission-With-3-Leaves-Antenna-p-988290.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$39.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 15 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:13 GMT",
+   "url": "http://www.banggood.com/520TVL-90120-Degree-13-Cmos-Camera-5_8G-w32CH-Transmission-With-3-Leaves-Antenna-p-988290.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

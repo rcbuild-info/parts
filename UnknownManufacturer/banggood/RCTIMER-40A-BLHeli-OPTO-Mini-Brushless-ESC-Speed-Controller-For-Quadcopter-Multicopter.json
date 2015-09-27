@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RCTIMER 40A BLHeli OPTO Mini Brushless ESC Speed Controller For Quadcopter Multicopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/RCTIMER-40A-BLHeli-OPTO-Mini-Brushless-ESC-Speed-Controller-For-Quadcopter-Multicopter-p-982509.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 2 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:23 GMT",
+   "url": "http://www.banggood.com/RCTIMER-40A-BLHeli-OPTO-Mini-Brushless-ESC-Speed-Controller-For-Quadcopter-Multicopter-p-982509.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

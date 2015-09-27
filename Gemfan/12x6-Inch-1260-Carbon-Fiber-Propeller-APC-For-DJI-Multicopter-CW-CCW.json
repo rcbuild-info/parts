@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "12x6 Inch 1260 Carbon Fiber Propeller APC For DJI Multicopter CW/CCW",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gemfan-12x6-Inch-1260-Carbon-Fiber-Propeller-APC-For-DJI-Multicopter-CWCCW-p-978230.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$9.52",
+   "stock_state": "in_stock",
+   "stock_text": "Only 8 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:14 GMT",
+   "url": "http://www.banggood.com/Gemfan-12x6-Inch-1260-Carbon-Fiber-Propeller-APC-For-DJI-Multicopter-CWCCW-p-978230.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

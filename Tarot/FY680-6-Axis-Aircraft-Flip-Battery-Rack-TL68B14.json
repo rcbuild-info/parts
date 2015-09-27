@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "FY680 6 Axis Aircraft Flip Battery Rack TL68B14",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-FY680-6-Axis-Aircraft-Flip-Battery-Rack-TL68B14-p-91550.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$7.32",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:52 GMT",
+   "url": "http://www.banggood.com/Tarot-FY680-6-Axis-Aircraft-Flip-Battery-Rack-TL68B14-p-91550.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "G-2D Camera Gimbal for iLook iLook+ / Gopro 3 Plastic Version",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Walkera-G-2D-Camera-Gimbal-for-iLook-iLook-Gopro-3-Plastic-Version-p-920780.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$69.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:27 GMT",
+   "url": "http://www.banggood.com/Walkera-G-2D-Camera-Gimbal-for-iLook-iLook-Gopro-3-Plastic-Version-p-920780.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

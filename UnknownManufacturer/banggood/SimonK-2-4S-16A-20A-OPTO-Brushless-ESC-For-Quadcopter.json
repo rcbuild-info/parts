@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SimonK 2-4S 16A 20A OPTO Brushless ESC For Quadcopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/SimonK-2-4S-16A-20A-OPTO-Brushless-ESC-For-Quadcopter-p-990557.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$6.89",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:32 GMT",
+   "url": "http://www.banggood.com/SimonK-2-4S-16A-20A-OPTO-Brushless-ESC-For-Quadcopter-p-990557.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

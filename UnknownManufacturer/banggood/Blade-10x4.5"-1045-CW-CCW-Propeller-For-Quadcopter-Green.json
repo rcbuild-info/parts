@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Blade 10x4.5\" 1045 CW CCW Propeller For Quadcopter Green",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Wholesale-Blade-10x4_5-inch-1045-CW-CCW-Propeller-For-Quadcopter-Green-p-66281.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.33",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:43 GMT",
+   "url": "http://www.banggood.com/Wholesale-Blade-10x4_5-inch-1045-CW-CCW-Propeller-For-Quadcopter-Green-p-66281.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

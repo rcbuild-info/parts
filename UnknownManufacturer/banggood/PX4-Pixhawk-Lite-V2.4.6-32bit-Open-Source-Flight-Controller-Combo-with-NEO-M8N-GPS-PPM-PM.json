@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "PX4 Pixhawk Lite V2.4.6 32bit Open Source Flight Controller Combo with NEO-M8N GPS PPM PM",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/PX4-Pixhawk-Lite-V2_4_6-32bit-Open-Source-Flight-Controller-Combo-with-NEO-M8N-GPS-PPM-PM-p-993850.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$127.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:16 GMT",
+   "url": "http://www.banggood.com/PX4-Pixhawk-Lite-V2_4_6-32bit-Open-Source-Flight-Controller-Combo-with-NEO-M8N-GPS-PPM-PM-p-993850.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

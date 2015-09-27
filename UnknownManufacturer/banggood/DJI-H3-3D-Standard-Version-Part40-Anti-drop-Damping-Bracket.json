@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI H3-3D Standard Version Part40 Anti-drop Damping Bracket",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DJI-H3-3D-Standard-Version-Part40-Anti-drop-Damping-Bracket-p-936808.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "Arriving soon, expected dispatch in 3 days",
+   "timestamp": "Sun, 27 Sep 2015 21:02:38 GMT",
+   "url": "http://www.banggood.com/DJI-H3-3D-Standard-Version-Part40-Anti-drop-Damping-Bracket-p-936808.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

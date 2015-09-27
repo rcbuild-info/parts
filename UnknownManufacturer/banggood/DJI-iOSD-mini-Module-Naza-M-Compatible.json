@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI iOSD mini Module Naza-M Compatible",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DJI-iOSD-mini-Module-Naza-M-Compatible-p-908007.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$52.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:55:07 GMT",
+   "url": "http://www.banggood.com/DJI-iOSD-mini-Module-Naza-M-Compatible-p-908007.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

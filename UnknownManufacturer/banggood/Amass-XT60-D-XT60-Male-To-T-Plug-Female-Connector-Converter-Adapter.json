@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Amass XT60-D XT60 Male To T Plug Female Connector Converter Adapter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Amass-XT60-D-XT60-Male-To-T-Plug-Female-Connector-Converter-Adapter-p-979217.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.22",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:23 GMT",
+   "url": "http://www.banggood.com/Amass-XT60-D-XT60-Male-To-T-Plug-Female-Connector-Converter-Adapter-p-979217.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JIYI P2 Pro RC Flight Controller With 8th U-Blox GPS",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/JIYI-P2-Pro-RC-Flight-Controller-With-U-Blox-GPS-p-957591.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$189.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 66 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:41 GMT",
+   "url": "http://www.banggood.com/JIYI-P2-Pro-RC-Flight-Controller-With-U-Blox-GPS-p-957591.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

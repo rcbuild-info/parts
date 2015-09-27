@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Aomway",
  "name": "FPV 5.8G 600mW 32CH AV Transmitter TX Receiver Rx For RC Transmitter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Aomway-FPV-5_8G-600mW-32CH-AV-Transmitter-TX-Receiver-Rx-For-RC-Transmitter-p-978748.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$73.42",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:56:29 GMT",
+   "url": "http://www.banggood.com/Aomway-FPV-5_8G-600mW-32CH-AV-Transmitter-TX-Receiver-Rx-For-RC-Transmitter-p-978748.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "UL21000X2 7055 Carbon Fiber Propeller For 200 250 300 Mini Quadcopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/UL21000X2-7055-Carbon-Fiber-Propeller-For-200-250-300-Mini-Quadcopter-p-944751.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$7.43",
+   "stock_state": "in_stock",
+   "stock_text": "Only 1 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:55 GMT",
+   "url": "http://www.banggood.com/UL21000X2-7055-Carbon-Fiber-Propeller-For-200-250-300-Mini-Quadcopter-p-944751.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

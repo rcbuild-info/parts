@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Wire Cable Set For MiniAPM Mini APM V3.1 Flight Controller",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Wire-Cable-Set-For-MiniAPM-V3_1-Flight-Controller-p-941829.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:12 GMT",
+   "url": "http://www.banggood.com/Wire-Cable-Set-For-MiniAPM-V3_1-Flight-Controller-p-941829.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "250 280 Multicolor FPV Racer PC Material Canopy For TL250C TL280C TL250H TL280H",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-250-280-Multicolor-FPV-Racer-PC-Material-Canopy-For-TL250C-TL280C-TL250H-TL280H-p-999009.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$6.19",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:44 GMT",
+   "url": "http://www.banggood.com/Tarot-250-280-Multicolor-FPV-Racer-PC-Material-Canopy-For-TL250C-TL280C-TL250H-TL280H-p-999009.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

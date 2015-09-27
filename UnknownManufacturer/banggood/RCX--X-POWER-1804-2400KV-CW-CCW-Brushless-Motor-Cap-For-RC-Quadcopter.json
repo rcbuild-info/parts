@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RCX -X-POWER 1804 2400KV CW/CCW Brushless Motor Cap For RC Quadcopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/RCX-X-POWER-1804-2400KV-CWCCW-Brushless-Motor-Cap-For-RC-Quadcopter-p-973290.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.49",
+   "stock_state": "in_stock",
+   "stock_text": "Only 60 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:56 GMT",
+   "url": "http://www.banggood.com/RCX-X-POWER-1804-2400KV-CWCCW-Brushless-Motor-Cap-For-RC-Quadcopter-p-973290.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

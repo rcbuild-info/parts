@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "6045 Propellers CW/CCW For ZMR250 QAV250 240 Mini Quadcopter",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gemfan-6045-Propellers-CWCCW-For-QAV-250-240-Mini-Quadcopter-p-945555.html",
-   "http://www.banggood.com/2-Pairs-Gemfan-6045-Propellers-CWCCW-For-ZMR250-QAV250-240-Mini-Quadcopter-p-979229.html",
-   "http://www.banggood.com/2-Pairs-Gemfan-6045-Propellers-CWCCW-For-ZMR250-QAV250-240-Mini-Quadcopter-p-979226.html",
-   "http://www.banggood.com/2-Pairs-Gemfan-6045-Propellers-CWCCW-For-ZMR250-QAV250-240-Mini-Quadcopter-p-979225.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.52",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:15 GMT",
+   "url": "http://www.banggood.com/2-Pairs-Gemfan-6045-Propellers-CWCCW-For-ZMR250-QAV250-240-Mini-Quadcopter-p-979225.html"
+  },
+  {
+   "location": "CN Warehouse",
+   "price": "$2.52",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:48 GMT",
+   "url": "http://www.banggood.com/2-Pairs-Gemfan-6045-Propellers-CWCCW-For-ZMR250-QAV250-240-Mini-Quadcopter-p-979226.html"
+  },
+  {
+   "location": "CN Warehouse",
+   "price": "$2.52",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:47 GMT",
+   "url": "http://www.banggood.com/2-Pairs-Gemfan-6045-Propellers-CWCCW-For-ZMR250-QAV250-240-Mini-Quadcopter-p-979229.html"
+  },
+  {
+   "location": "CN Warehouse",
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:55 GMT",
+   "url": "http://www.banggood.com/Gemfan-6045-Propellers-CWCCW-For-QAV-250-240-Mini-Quadcopter-p-945555.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

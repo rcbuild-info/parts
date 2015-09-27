@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "D2830 2830 750KV 850KV 1000KV 1300KV Brushless Motor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DYS-D2830-2830-750KV-850KV-1000KV-1300KV-Brushless-Motor-p-986143.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$11.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:38 GMT",
+   "url": "http://www.banggood.com/DYS-D2830-2830-750KV-850KV-1000KV-1300KV-Brushless-Motor-p-986143.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

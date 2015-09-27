@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "NAZE32 CC3D Integrate PCB Power Distribution Board For QAV250 ZMR250 250mm Frame",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/NAZE32-Integrate-PCB-Board-Power-Distribution-Board-For-QAV250-ZMR250-Quadcopter-p-989404.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$9.39",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:37 GMT",
+   "url": "http://www.banggood.com/NAZE32-Integrate-PCB-Board-Power-Distribution-Board-For-QAV250-ZMR250-Quadcopter-p-989404.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

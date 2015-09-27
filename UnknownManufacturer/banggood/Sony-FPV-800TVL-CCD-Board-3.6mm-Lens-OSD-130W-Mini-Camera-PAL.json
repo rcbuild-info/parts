@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sony FPV 800TVL CCD Board 3.6mm Lens OSD 130W Mini Camera PAL",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Sony-FPV-800TVL-CCD-Board-3_6mm-Lens-OSD-130W-Mini-Camera-p-940050.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$35.14",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:55:54 GMT",
+   "url": "http://www.banggood.com/Sony-FPV-800TVL-CCD-Board-3_6mm-Lens-OSD-130W-Mini-Camera-p-940050.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

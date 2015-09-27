@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "ESC USB Linker Programmer for SN16A SN20A SN30A SN40A BL16A BL20A BL30A BL40A",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DYS-ESC-USB-Linker-Programmer-for-SN16A-SN20A-SN30A-SN40A-BL16A-BL20A-BL30A-BL40A-ESC-p-982270.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:23 GMT",
+   "url": "http://www.banggood.com/DYS-ESC-USB-Linker-Programmer-for-SN16A-SN20A-SN30A-SN40A-BL16A-BL20A-BL30A-BL40A-ESC-p-982270.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

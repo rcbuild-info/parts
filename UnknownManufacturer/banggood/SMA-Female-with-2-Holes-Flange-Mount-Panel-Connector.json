@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SMA Female with 2 Holes Flange Mount Panel Connector",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/SMA-Female-with-2-Holes-Flange-Mount-Panel-Connector-p-923129.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.89",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:02:37 GMT",
+   "url": "http://www.banggood.com/SMA-Female-with-2-Holes-Flange-Mount-Panel-Connector-p-923129.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

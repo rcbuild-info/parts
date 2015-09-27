@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "T-2D Brushless Camera Mount Gimbal Rack TL68A08 For GoPro",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-GoPro-Brushless-Camera-Mount-Gimbal-Rack-Assembly-TL68A08-p-90429.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$69.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:08 GMT",
+   "url": "http://www.banggood.com/Tarot-GoPro-Brushless-Camera-Mount-Gimbal-Rack-Assembly-TL68A08-p-90429.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X4110S 400KV Outrunner Brushless Motor For RC Multi-rotor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Sunnysky-X4110S-400KV-Outrunner-Brushless-Motor-For-RC-Multi-rotor-p-956929.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$46.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:59:00 GMT",
+   "url": "http://www.banggood.com/Sunnysky-X4110S-400KV-Outrunner-Brushless-Motor-For-RC-Multi-rotor-p-956929.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

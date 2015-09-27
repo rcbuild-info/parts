@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Ublox NEO-M8N BN-800 GPS Module Support GPS GLONASS BeiDou For Pixhawk APM",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/UBLOXNEO-M8NBN-880-Flight-Control-GPSModuleDual-Module-p-974361.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$17.82",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:57:37 GMT",
+   "url": "http://www.banggood.com/UBLOXNEO-M8NBN-880-Flight-Control-GPSModuleDual-Module-p-974361.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

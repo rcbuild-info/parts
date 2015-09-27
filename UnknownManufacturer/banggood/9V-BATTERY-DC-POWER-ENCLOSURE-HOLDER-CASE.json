@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "9V BATTERY DC POWER ENCLOSURE HOLDER CASE",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/9V-BATTERY-DC-POWER-ENCLOSURE-HOLDER-CASE-p-88251.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.43",
+   "stock_state": "in_stock",
+   "stock_text": "Expected restock on 29th September 2015",
+   "timestamp": "Sun, 27 Sep 2015 20:58:00 GMT",
+   "url": "http://www.banggood.com/9V-BATTERY-DC-POWER-ENCLOSURE-HOLDER-CASE-p-88251.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

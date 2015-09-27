@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JMT 20cm 40 Way Flat Arduino Jumper Cable For Home Appliance",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/JMT-20cm-40-Way-Flat-Arduino-Jumper-Cable-For-Home-Appliance-p-69680.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.98",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:14 GMT",
+   "url": "http://www.banggood.com/JMT-20cm-40-Way-Flat-Arduino-Jumper-Cable-For-Home-Appliance-p-69680.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Aomway",
  "name": "RX004 DVR 5.8G 32CH Video Receiver With Built In Video Recorder",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Aomway-RX004-DVR-5_8G-32CH-Video-Receiver-With-Built-In-Video-Recorder-p-953562.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$60.14",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:56:13 GMT",
+   "url": "http://www.banggood.com/Aomway-RX004-DVR-5_8G-32CH-Video-Receiver-With-Built-In-Video-Recorder-p-953562.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

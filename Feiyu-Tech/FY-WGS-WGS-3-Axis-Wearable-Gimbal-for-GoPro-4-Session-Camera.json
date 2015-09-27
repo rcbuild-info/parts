@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Feiyu Tech",
  "name": "FY-WGS WGS 3 Axis Wearable Gimbal for GoPro 4 Session Camera",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Feiyu-Tech-FY-WGS-WGS-3-Axis-Wearable-Gimbal-for-GoPro-4-Session-Camera-p-995589.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$259.99",
+   "stock_state": "backordered",
+   "stock_text": "Coming soon",
+   "timestamp": "Sun, 27 Sep 2015 20:56:23 GMT",
+   "url": "http://www.banggood.com/Feiyu-Tech-FY-WGS-WGS-3-Axis-Wearable-Gimbal-for-GoPro-4-Session-Camera-p-995589.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

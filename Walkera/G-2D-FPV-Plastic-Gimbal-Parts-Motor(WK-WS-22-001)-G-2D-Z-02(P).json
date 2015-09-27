@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "G-2D FPV Plastic Gimbal Parts Motor(WK-WS-22-001) G-2D-Z-02(P)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Walkera-G-2D-FPV-Plastic-Gimbal-Parts-MotorWK-WS-22-001-G-2D-Z-02P-p-933919.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$18.74",
+   "stock_state": "in_stock",
+   "stock_text": "Expected restock on 1st October 2015",
+   "timestamp": "Sun, 27 Sep 2015 20:54:56 GMT",
+   "url": "http://www.banggood.com/Walkera-G-2D-FPV-Plastic-Gimbal-Parts-MotorWK-WS-22-001-G-2D-Z-02P-p-933919.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

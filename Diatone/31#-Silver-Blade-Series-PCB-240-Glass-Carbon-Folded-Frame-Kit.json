@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Diatone",
  "name": "31# Silver Blade Series PCB 240 Glass Carbon Folded Frame Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Diatone-31-Silver-Blade-Series-PCB-240-Glass-Carbon-Folded-Frame-Kit-p-958015.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$26.80",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:06 GMT",
+   "url": "http://www.banggood.com/Diatone-31-Silver-Blade-Series-PCB-240-Glass-Carbon-Folded-Frame-Kit-p-958015.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

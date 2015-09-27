@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FCMODEL 5045 5X4.5 3-Blade Electric Propellers CW/CCW For QAV250 ZMR250 Frame kits",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FCMODEL-5045-5X4_5-3-Blade-Electric-Propellers-CWCCW-For-QAV250-ZMR250-Frame-kits-p-981246.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.93",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:15 GMT",
+   "url": "http://www.banggood.com/FCMODEL-5045-5X4_5-3-Blade-Electric-Propellers-CWCCW-For-QAV250-ZMR250-Frame-kits-p-981246.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

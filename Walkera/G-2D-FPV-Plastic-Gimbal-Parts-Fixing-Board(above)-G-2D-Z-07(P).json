@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "G-2D FPV Plastic Gimbal Parts Fixing Board(above) G-2D-Z-07(P)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Walkera-G-2D-FPV-Plastic-Gimbal-Parts-Fixing-Boardabove-G-2D-Z-07P-p-933912.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:44 GMT",
+   "url": "http://www.banggood.com/Walkera-G-2D-FPV-Plastic-Gimbal-Parts-Fixing-Boardabove-G-2D-Z-07P-p-933912.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

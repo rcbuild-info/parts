@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SkyZone",
  "name": "TS5823 5.8G 200mW 32CH AV Transmitter Module",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Skyzone-TS5823-5_8G-200mW-32CH-AV-Transmitter-Module-p-922418.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$20.59",
+   "stock_state": "in_stock",
+   "stock_text": "Only 92 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:48 GMT",
+   "url": "http://www.banggood.com/Skyzone-TS5823-5_8G-200mW-32CH-AV-Transmitter-Module-p-922418.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

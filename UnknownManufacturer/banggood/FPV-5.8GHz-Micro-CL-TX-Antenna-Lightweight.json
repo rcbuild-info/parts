@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 5.8GHz Micro CL TX Antenna Lightweight",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FPV-5_8GHz-Micro-CL-TX-Anternna-0_8g-Lightweight-p-973291.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "Expected restock on 29th September 2015",
+   "timestamp": "Sun, 27 Sep 2015 20:55:25 GMT",
+   "url": "http://www.banggood.com/FPV-5_8GHz-Micro-CL-TX-Anternna-0_8g-Lightweight-p-973291.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

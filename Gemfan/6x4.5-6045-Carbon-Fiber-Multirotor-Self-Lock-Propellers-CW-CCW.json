@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "6x4.5 6045 Carbon Fiber Multirotor Self-Lock Propellers CW/CCW",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gemfan-6x4_5-6045-Carbon-Fiber-Multirotor-Self-Lock-Propellers-CWCCW-p-974630.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.89",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:32 GMT",
+   "url": "http://www.banggood.com/Gemfan-6x4_5-6045-Carbon-Fiber-Multirotor-Self-Lock-Propellers-CWCCW-p-974630.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

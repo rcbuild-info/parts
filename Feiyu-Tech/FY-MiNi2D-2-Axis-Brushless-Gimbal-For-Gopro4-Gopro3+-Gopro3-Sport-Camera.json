@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Feiyu Tech",
  "name": "FY MiNi2D 2-Axis Brushless Gimbal For Gopro4 Gopro3+ Gopro3 Sport Camera",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FY-MiNi2D-2-Axis-Brushless-Gimbal-For-Gopro4-Gopro3-Gopro3-Sport-Camera-p-978462.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$99.72",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:17 GMT",
+   "url": "http://www.banggood.com/FY-MiNi2D-2-Axis-Brushless-Gimbal-For-Gopro4-Gopro3-Gopro3-Sport-Camera-p-978462.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "SN30A Mini 30A SimonK ESC OPTO 2-6s 20-500Hz for QAV160 180 250 300 330",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DYS-SN30A-Mini-30A-SimonK-ESC-OPTO-2-6s-20-500Hz-for-Multicopters-p-974635.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$13.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:14 GMT",
+   "url": "http://www.banggood.com/DYS-SN30A-Mini-30A-SimonK-ESC-OPTO-2-6s-20-500Hz-for-Multicopters-p-974635.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

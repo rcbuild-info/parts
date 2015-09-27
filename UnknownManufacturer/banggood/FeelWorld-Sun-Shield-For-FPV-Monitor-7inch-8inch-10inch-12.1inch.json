@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FeelWorld Sun Shield For FPV Monitor 7inch 8inch 10inch 12.1inch",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FeelWorld-Sun-Shield-For-FPV-Monitor-7inch-8inch-10inch-12_1inch-p-939130.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$7.27",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:29 GMT",
+   "url": "http://www.banggood.com/FeelWorld-Sun-Shield-For-FPV-Monitor-7inch-8inch-10inch-12_1inch-p-939130.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

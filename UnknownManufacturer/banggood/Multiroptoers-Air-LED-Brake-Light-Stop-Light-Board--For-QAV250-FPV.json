@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Multiroptoers Air LED Brake Light Stop Light Board  For QAV250 FPV",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Multiroptoers-Air-LED-Brake-Light-Board-Stop-Light-for-QAV250-FPV-p-974380.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.50",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:54 GMT",
+   "url": "http://www.banggood.com/Multiroptoers-Air-LED-Brake-Light-Board-Stop-Light-for-QAV250-FPV-p-974380.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

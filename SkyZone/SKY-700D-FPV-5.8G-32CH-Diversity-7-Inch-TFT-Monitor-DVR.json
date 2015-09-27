@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SkyZone",
  "name": "SKY-700D FPV 5.8G 32CH Diversity 7 Inch TFT Monitor DVR",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Skyzone-SKY700D-FPV-58G-32CH-Diversity-7-Inch-TFT-Monitor-DVR-p-926987.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$146.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:47 GMT",
+   "url": "http://www.banggood.com/Skyzone-SKY700D-FPV-58G-32CH-Diversity-7-Inch-TFT-Monitor-DVR-p-926987.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

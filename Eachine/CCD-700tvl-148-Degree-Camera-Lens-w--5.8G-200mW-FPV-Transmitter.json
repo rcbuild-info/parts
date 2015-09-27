@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Eachine",
  "name": "CCD 700tvl 148 Degree Camera Lens w/ 5.8G 200mW FPV Transmitter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Eachine-CCD-700tvl-110-160-Degree-Camera-Lens-w-5_8G-FPV-Transmitter-p-977402.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$30.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:32 GMT",
+   "url": "http://www.banggood.com/Eachine-CCD-700tvl-110-160-Degree-Camera-Lens-w-5_8G-FPV-Transmitter-p-977402.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

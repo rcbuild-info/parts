@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "TL2870 11mm Shock-absorbing Foam Protective Sleeve",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-TL2870-11mm-Shockabsorbing-Foam-Protective-Sleeve-p-931116.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.55",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:08 GMT",
+   "url": "http://www.banggood.com/Tarot-TL2870-11mm-Shockabsorbing-Foam-Protective-Sleeve-p-931116.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MINI APM PRO Flight Controller Upgraded from APM2.6 Open Source Hardware",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/MINI-APM-PRO-Flight-Controller-Upgraded-from-APM2_6-Open-Source-Hardware-p-975909.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$48.00",
+   "stock_state": "in_stock",
+   "stock_text": "Arriving soon, expected dispatch in 3 days",
+   "timestamp": "Sun, 27 Sep 2015 20:58:01 GMT",
+   "url": "http://www.banggood.com/MINI-APM-PRO-Flight-Controller-Upgraded-from-APM2_6-Open-Source-Hardware-p-975909.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

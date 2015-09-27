@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV Multi-camera Mini Two-way Electronic Switch Video Switcher Module",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FPV-Multi-camera-Mini-Two-way-Electronic-Switch-Video-Switcher-Module-p-973356.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$4.77",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:43 GMT",
+   "url": "http://www.banggood.com/FPV-Multi-camera-Mini-Two-way-Electronic-Switch-Video-Switcher-Module-p-973356.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

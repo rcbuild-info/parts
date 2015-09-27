@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MR.RC 250 250MM PCB Mini Quadcopter Damping Frame Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/MR_RC-250-250MM-PCB-Mini-Quadcopter-Frame-Kit-p-961261.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 27 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:46 GMT",
+   "url": "http://www.banggood.com/MR_RC-250-250MM-PCB-Mini-Quadcopter-Frame-Kit-p-961261.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

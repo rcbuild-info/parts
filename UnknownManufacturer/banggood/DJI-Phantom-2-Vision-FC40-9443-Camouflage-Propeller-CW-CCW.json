@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI Phantom 2 Vision FC40 9443 Camouflage Propeller CW/CCW",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DJI-Phantom-2-Vision-FC40-9443-Camouflage-Propeller-CWCCW-p-933415.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.22",
+   "stock_state": "in_stock",
+   "stock_text": "Expected restock on 13th October 2015",
+   "timestamp": "Sun, 27 Sep 2015 21:01:45 GMT",
+   "url": "http://www.banggood.com/DJI-Phantom-2-Vision-FC40-9443-Camouflage-Propeller-CWCCW-p-933415.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

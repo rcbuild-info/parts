@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Diatone",
  "name": "M2*20mm Aluminum Standoff For Blade 150 180 200 ET 150 Frame Kits 20PCS",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Diatone-M220mm-Aluminum-Standoff-For-Blade-150-180-200-ET-150-Frame-Kits-20PCS-p-986901.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.84",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:45 GMT",
+   "url": "http://www.banggood.com/Diatone-M220mm-Aluminum-Standoff-For-Blade-150-180-200-ET-150-Frame-Kits-20PCS-p-986901.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

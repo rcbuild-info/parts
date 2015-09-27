@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI Phantom Carbon Fiber Anti-vibration 4-Axis FPV Gimbal for Gopro 3",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DJI-PHANTOM-Carbon-Fiber-Light-Anti-vibration-4-Axis-FPV-Gimbal-for-Gopro3-p-909537.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$21.13",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:58 GMT",
+   "url": "http://www.banggood.com/DJI-PHANTOM-Carbon-Fiber-Light-Anti-vibration-4-Axis-FPV-Gimbal-for-Gopro3-p-909537.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

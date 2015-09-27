@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "35mm Camera Fixed Plate Light Plate For RC250 RC250 PRO RC280 Frame",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/35mm-Camera-Fixed-Plate-Light-Plate-For-RC250-RC250-PRO-RC280-Frame-p-982503.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.29",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:49 GMT",
+   "url": "http://www.banggood.com/35mm-Camera-Fixed-Plate-Light-Plate-For-RC250-RC250-PRO-RC280-Frame-p-982503.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

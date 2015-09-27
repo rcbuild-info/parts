@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "WSX WSX-006 Personality Paster For SYMA X5 X5A X5C JJRC H5C H8C LH X5",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/WSX-WSX-006-Personality-Paster-For-SYMA-X5-X5A-X5C-JJRC-H5C-H8C-LH-X5-p-964414.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.09",
+   "stock_state": "in_stock",
+   "stock_text": "In stock , usually dispatched in 1-3 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:59:59 GMT",
+   "url": "http://www.banggood.com/WSX-WSX-006-Personality-Paster-For-SYMA-X5-X5A-X5C-JJRC-H5C-H8C-LH-X5-p-964414.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

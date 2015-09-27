@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "QQ SUPER Flight Controller For Quadcopter Multi-rotor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/QQ-SUPER-Flight-Controller-For-Quadcopter-Multi-rotor-Compatible-with-FUTABA-S_BUS-Receiver-p-910701.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:03:13 GMT",
+   "url": "http://www.banggood.com/QQ-SUPER-Flight-Controller-For-Quadcopter-Multi-rotor-Compatible-with-FUTABA-S_BUS-Receiver-p-910701.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

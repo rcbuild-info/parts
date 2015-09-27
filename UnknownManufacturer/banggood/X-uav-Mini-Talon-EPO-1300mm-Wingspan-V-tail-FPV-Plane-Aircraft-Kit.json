@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "X-uav Mini Talon EPO 1300mm Wingspan V-tail FPV Plane Aircraft Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/X-uav-Mini-Talon-EPO-1300mm-Wingspan-V-tail-FPV-Plane-Aircraft-Kit-p-983331.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:54 GMT",
+   "url": "http://www.banggood.com/X-uav-Mini-Talon-EPO-1300mm-Wingspan-V-tail-FPV-Plane-Aircraft-Kit-p-983331.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

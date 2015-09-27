@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "MT2204 2300KV Motor 6030 Propeller Esc 12A Set For Quadcopter QAV250",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Emax-MT2204-2300KV-Motor-Gemfan-6030-Propeller-Esc-12A-set-For-QAV250-p-974387.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$77.81",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:29 GMT",
+   "url": "http://www.banggood.com/Emax-MT2204-2300KV-Motor-Gemfan-6030-Propeller-Esc-12A-set-For-QAV250-p-974387.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

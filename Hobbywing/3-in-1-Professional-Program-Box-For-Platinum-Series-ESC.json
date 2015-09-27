@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "3 in 1 Professional Program Box For Platinum Series ESC",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Hobbywing-3-in-1-Professional-Program-Box-For-Platinum-Series-ESC-p-943088.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$25.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:57:20 GMT",
+   "url": "http://www.banggood.com/Hobbywing-3-in-1-Professional-Program-Box-For-Platinum-Series-ESC-p-943088.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

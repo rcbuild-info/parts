@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3mm Blade Propeller Protector Saver for Sunnysky2208 2212 2216\u00a0Motor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/3mm-Blade-Propeller-Protector-Saver-for-Sunnysky2208-2212-2216-Motor-p-971899.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:00:13 GMT",
+   "url": "http://www.banggood.com/3mm-Blade-Propeller-Protector-Saver-for-Sunnysky2208-2212-2216-Motor-p-971899.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

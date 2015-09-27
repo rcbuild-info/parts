@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SJ6000 Camera+802W WIFI Transmitter+RC305 Receiver+TS351 Transmitter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/SJ6000-Camera802W-WIFI-TransmitterRC305-ReceiverTS351-Transmitter-p-958351.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$182.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 2 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:59 GMT",
+   "url": "http://www.banggood.com/SJ6000-Camera802W-WIFI-TransmitterRC305-ReceiverTS351-Transmitter-p-958351.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

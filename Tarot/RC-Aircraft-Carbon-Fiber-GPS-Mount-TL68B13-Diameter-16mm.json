@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "RC Aircraft Carbon Fiber GPS Mount TL68B13 Diameter 16mm",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-RC-Aircraft-Carbon-Fiber-GPS-Mount-TL68B13-Diameter-16mm-p-91549.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$6.60",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:54 GMT",
+   "url": "http://www.banggood.com/Tarot-RC-Aircraft-Carbon-Fiber-GPS-Mount-TL68B13-Diameter-16mm-p-91549.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

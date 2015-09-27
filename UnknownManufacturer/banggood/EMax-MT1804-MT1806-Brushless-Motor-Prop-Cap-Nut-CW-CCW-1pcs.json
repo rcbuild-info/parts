@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EMax MT1804 MT1806 Brushless Motor Prop Cap Nut CW/CCW 1pcs",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/EMax-MT1804-MT1806-Brushless-Motor-Prop-Cap-Nut-CWCCW-1pcs-Red-p-957364.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.22",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:48 GMT",
+   "url": "http://www.banggood.com/EMax-MT1804-MT1806-Brushless-Motor-Prop-Cap-Nut-CWCCW-1pcs-Red-p-957364.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

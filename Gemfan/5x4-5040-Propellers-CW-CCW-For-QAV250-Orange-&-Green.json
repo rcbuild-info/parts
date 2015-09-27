@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5x4 5040 Propellers CW/CCW For QAV250 Orange & Green",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gemfan-5x4-5040-Propellers-CWCCW-For-QAV250-Orange-Green-p-962283.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.64",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:22 GMT",
+   "url": "http://www.banggood.com/Gemfan-5x4-5040-Propellers-CWCCW-For-QAV250-Orange-Green-p-962283.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

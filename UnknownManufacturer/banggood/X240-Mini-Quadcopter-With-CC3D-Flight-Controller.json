@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "X240 Mini Quadcopter With CC3D Flight Controller",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/X240-Mini-Quadcopter-With-CC3D-Flight-Controller-p-954482.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$105.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 3 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:58 GMT",
+   "url": "http://www.banggood.com/X240-Mini-Quadcopter-With-CC3D-Flight-Controller-p-954482.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

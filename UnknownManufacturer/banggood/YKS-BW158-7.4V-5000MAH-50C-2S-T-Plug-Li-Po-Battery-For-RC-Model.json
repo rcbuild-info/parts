@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "YKS BW158 7.4V 5000MAH 50C 2S T Plug Li-Po Battery For RC Model",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/YKS-BW158-7_4V-5000MAH-50C-2S-T-Plug-Li-Po-Battery-For-RC-Model-p-955962.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$26.53",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:58 GMT",
+   "url": "http://www.banggood.com/YKS-BW158-7_4V-5000MAH-50C-2S-T-Plug-Li-Po-Battery-For-RC-Model-p-955962.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

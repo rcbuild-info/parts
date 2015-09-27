@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mobius Wide Angle Lens C HD Action Camera &8GB MicroSD TF Memory Card",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Mobius-Wide-Angle-Lens-C-HD-Action-Camera-8GB-MicroSD-TF-Memory-Card-p-970595.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$78.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:32 GMT",
+   "url": "http://www.banggood.com/Mobius-Wide-Angle-Lens-C-HD-Action-Camera-8GB-MicroSD-TF-Memory-Card-p-970595.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

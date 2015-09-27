@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DIY LED Tail Light 3S 12V For RC Module Frame Kit White Light",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DIY-LED-Tail-Light-3S-12V-For-RC-Module-Frame-Kit-White-Light-p-973541.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.49",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:11 GMT",
+   "url": "http://www.banggood.com/DIY-LED-Tail-Light-3S-12V-For-RC-Module-Frame-Kit-White-Light-p-973541.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

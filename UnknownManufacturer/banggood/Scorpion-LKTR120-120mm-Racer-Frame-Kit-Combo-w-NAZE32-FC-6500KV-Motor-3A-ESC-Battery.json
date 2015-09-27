@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Scorpion LKTR120 120mm Racer Frame Kit Combo w/NAZE32 FC 6500KV Motor 3A ESC Battery",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Scorpion-LKTR120-120mm-Racer-Frame-Kit-Combo-wNAZE32-FC-6500KV-Motor-3A-ESC-Battery-p-992311.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$175.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:59:33 GMT",
+   "url": "http://www.banggood.com/Scorpion-LKTR120-120mm-Racer-Frame-Kit-Combo-wNAZE32-FC-6500KV-Motor-3A-ESC-Battery-p-992311.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

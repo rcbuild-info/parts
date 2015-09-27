@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HQProp Direct Drive 5030 5X3 Carbon Fiber Mix 2 PCS CW / CCW For RC Multirotor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/HQProp-Direct-Drive-5030-5X3-Carbon-Fiber-Mix-2-PCS-CW-CCW-For-RC-Multirotor-p-998558.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.38",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:25 GMT",
+   "url": "http://www.banggood.com/HQProp-Direct-Drive-5030-5X3-Carbon-Fiber-Mix-2-PCS-CW-CCW-For-RC-Multirotor-p-998558.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Male To Male RCA Adapter Connector",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Male-To-Male-RCA-Adapter-Connector-p-920126.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.65",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:20 GMT",
+   "url": "http://www.banggood.com/Male-To-Male-RCA-Adapter-Connector-p-920126.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

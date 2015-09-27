@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Suction Cup Mount Holder for Mobius Action Sports Camera",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Suction-Cup-Mount-Holder-for-Mobius-Action-Sports-Camera-p-91751.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:03 GMT",
+   "url": "http://www.banggood.com/Suction-Cup-Mount-Holder-for-Mobius-Action-Sports-Camera-p-91751.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

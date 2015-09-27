@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5x4 5040 Propellers CW/CCW For ZMR250 QAV250 240 Quadcopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gemfan-5x4-5040-Propellers-CWCCW-For-QAV-250-240-Mini-Quadcopter-p-945551.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.98",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:59 GMT",
+   "url": "http://www.banggood.com/Gemfan-5x4-5040-Propellers-CWCCW-For-QAV-250-240-Mini-Quadcopter-p-945551.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

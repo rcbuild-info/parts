@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5x3 5030 3-Leaf Propeller CW/CCW For 250 Frame Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gamfan-5x3-5030-3-Leaf-Propeller-CWCCW-For-250-Frame-Kit-p-941155.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.88",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:36 GMT",
+   "url": "http://www.banggood.com/Gamfan-5x3-5030-3-Leaf-Propeller-CWCCW-For-250-Frame-Kit-p-941155.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

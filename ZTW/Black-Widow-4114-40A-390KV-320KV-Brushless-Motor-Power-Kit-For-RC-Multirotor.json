@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ZTW",
  "name": "Black Widow 4114-40A 390KV 320KV Brushless Motor Power Kit For RC Multirotor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/ZTW-Black-Widow-4114-40A-390KV-320KV-Brushless-Motor-Power-Kit-For-RC-Multirotor-p-987912.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$102.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 10 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:28 GMT",
+   "url": "http://www.banggood.com/ZTW-Black-Widow-4114-40A-390KV-320KV-Brushless-Motor-Power-Kit-For-RC-Multirotor-p-987912.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

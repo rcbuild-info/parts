@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "Program Supportable 10A Brushless ESC For RC Model",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/4-Axis-Quadcopters-10A-Brushless-ESC-Can-Be-Set-By-Hobbywing-Program-p-941828.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$4.60",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:05 GMT",
+   "url": "http://www.banggood.com/4-Axis-Quadcopters-10A-Brushless-ESC-Can-Be-Set-By-Hobbywing-Program-p-941828.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XT60 Plug Parallel Charging Board Para Board for IMAX B6 Charger",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Amass-XT60-Plug-Parallel-Charging-Board-Charger-Adapter-Plate-p-950883.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$14.69",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:50 GMT",
+   "url": "http://www.banggood.com/Amass-XT60-Plug-Parallel-Charging-Board-Charger-Adapter-Plate-p-950883.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "3-axis Smart Gopro BL Gimbal for FPV Aerial Photography",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DYS-3-axis-Smart-Gopro-BL-Gimbal-for-FPV-Aerial-Photography-p-920668.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$172.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:04 GMT",
+   "url": "http://www.banggood.com/DYS-3-axis-Smart-Gopro-BL-Gimbal-for-FPV-Aerial-Photography-p-920668.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

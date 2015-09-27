@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "TL8X009 X Series Metal Fixed Column With Screws",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-TL8X009-X-Series-Metal-Fixed-Column-With-Screws-p-979452.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 6 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:50 GMT",
+   "url": "http://www.banggood.com/Tarot-TL8X009-X-Series-Metal-Fixed-Column-With-Screws-p-979452.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

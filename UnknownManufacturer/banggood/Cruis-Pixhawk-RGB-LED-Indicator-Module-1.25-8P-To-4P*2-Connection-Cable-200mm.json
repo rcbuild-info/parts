@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Cruis Pixhawk RGB LED Indicator Module 1.25 8P To 4P*2 Connection Cable 200mm",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Cruis-Pixhawk-RGB-LED-Indicator-Module-1_25-8P-To-4P2-Connection-Cable-200mm-p-996426.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.09",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:45 GMT",
+   "url": "http://www.banggood.com/Cruis-Pixhawk-RGB-LED-Indicator-Module-1_25-8P-To-4P2-Connection-Cable-200mm-p-996426.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

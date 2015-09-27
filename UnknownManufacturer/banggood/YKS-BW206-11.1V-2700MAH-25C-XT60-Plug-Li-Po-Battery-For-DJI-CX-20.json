@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "YKS BW206 11.1V 2700MAH 25C XT60 Plug Li-Po Battery For DJI CX-20",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/YKS-BW206-11_1V-2700MAH-25C-XT60-Plug-Li-Po-Battery-For-RC-Model-p-952859.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$24.76",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:07 GMT",
+   "url": "http://www.banggood.com/YKS-BW206-11_1V-2700MAH-25C-XT60-Plug-Li-Po-Battery-For-RC-Model-p-952859.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

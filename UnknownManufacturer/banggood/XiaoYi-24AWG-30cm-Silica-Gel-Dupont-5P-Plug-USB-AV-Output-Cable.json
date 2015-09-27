@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XiaoYi 24AWG 30cm Silica Gel Dupont 5P Plug USB AV Output Cable",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/XiaoYi-24AWG-30cm-Silica-Gel-Dupont-5P-Plug-USB-AV-Output-Cable-p-990561.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.19",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:32 GMT",
+   "url": "http://www.banggood.com/XiaoYi-24AWG-30cm-Silica-Gel-Dupont-5P-Plug-USB-AV-Output-Cable-p-990561.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

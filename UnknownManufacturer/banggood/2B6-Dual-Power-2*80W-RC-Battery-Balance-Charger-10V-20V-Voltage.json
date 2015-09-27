@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2B6 Dual Power 2*80W RC Battery Balance Charger 10V-20V Voltage",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/2B6-Dual-Power-280W-RC-Battery-Balance-Charger-10V-20V-Voltage-p-961524.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$37.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:58:23 GMT",
+   "url": "http://www.banggood.com/2B6-Dual-Power-280W-RC-Battery-Balance-Charger-10V-20V-Voltage-p-961524.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

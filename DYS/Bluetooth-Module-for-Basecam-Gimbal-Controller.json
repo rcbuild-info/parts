@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "Bluetooth Module for Basecam Gimbal Controller",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DYS-Bluetooth-Module-for-Basecam-Gimbal-Controller-p-950870.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$9.69",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:02:38 GMT",
+   "url": "http://www.banggood.com/DYS-Bluetooth-Module-for-Basecam-Gimbal-Controller-p-950870.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "NEO-M8N GPS Module Built-in Electronic Compass For APM Pixhawk",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/NEO-M8N-GPS-Module-Built-in-Electronic-Compass-For-APM-Pixhawk-p-966181.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$47.23",
+   "stock_state": "in_stock",
+   "stock_text": "In stock , usually dispatched in 1-3 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:02:01 GMT",
+   "url": "http://www.banggood.com/NEO-M8N-GPS-Module-Built-in-Electronic-Compass-For-APM-Pixhawk-p-966181.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

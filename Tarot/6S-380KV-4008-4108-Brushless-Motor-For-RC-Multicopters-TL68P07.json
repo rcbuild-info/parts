@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "6S 380KV 4008 4108 Brushless Motor For RC Multicopters TL68P07",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-6S-380KV-4008-Brushless-Motor-For-RC-Foursix-roter-Multicopters-p-936812.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$25.00",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:53 GMT",
+   "url": "http://www.banggood.com/Tarot-6S-380KV-4008-Brushless-Motor-For-RC-Foursix-roter-Multicopters-p-936812.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

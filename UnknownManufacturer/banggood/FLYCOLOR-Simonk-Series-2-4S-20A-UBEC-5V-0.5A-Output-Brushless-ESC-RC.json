@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FLYCOLOR Simonk Series 2-4S 20A UBEC 5V/0.5A Output Brushless ESC RC",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Simonk-Series-2-4S-30A-Brushless-ESC-for-RC-Quadcopter-p-975226.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$10.20",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:33 GMT",
+   "url": "http://www.banggood.com/Simonk-Series-2-4S-30A-Brushless-ESC-for-RC-Quadcopter-p-975226.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

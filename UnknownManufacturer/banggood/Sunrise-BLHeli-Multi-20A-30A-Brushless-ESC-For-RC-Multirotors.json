@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sunrise BLHeli Multi 20A 30A Brushless ESC For RC Multirotors",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Sunrise-BLHeli-Multi-20A-30A-Brushless-ESC-For-RC-Multirotors-p-971069.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$6.39",
+   "stock_state": "in_stock",
+   "stock_text": "Only 52 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:29 GMT",
+   "url": "http://www.banggood.com/Sunrise-BLHeli-Multi-20A-30A-Brushless-ESC-For-RC-Multirotors-p-971069.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "Glow In The Dark 1045 Propeller Set CW/CCW For RC Quadcopter Multirotor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gemfan-Glow-In-The-Dark-1045-Propeller-Set-CWCCW-For-RC-Quadcopter-Multirotor-p-984683.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.55",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:41 GMT",
+   "url": "http://www.banggood.com/Gemfan-Glow-In-The-Dark-1045-Propeller-Set-CWCCW-For-RC-Quadcopter-Multirotor-p-984683.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

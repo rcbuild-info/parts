@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 5.8G Wireless AV TX&RX 2000mw TX58-2W RC58-32CH Set",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Boscam-5_8G-FPV-Wireless-AV-TXandRX-2000mw-TX58-2W-RC58-32CH-Set-p-912164.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$107.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:51 GMT",
+   "url": "http://www.banggood.com/Boscam-5_8G-FPV-Wireless-AV-TXandRX-2000mw-TX58-2W-RC58-32CH-Set-p-912164.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

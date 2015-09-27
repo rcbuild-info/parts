@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "FPV 32CH 5.8G 350mW Wireless Transmitter And RC905 RX Receiver",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Boscam-FPV-32CH-5_8G-350mW-Wireless-Transmitter-And-RC905-RX-Receiver-p-973287.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$63.42",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:03 GMT",
+   "url": "http://www.banggood.com/Boscam-FPV-32CH-5_8G-350mW-Wireless-Transmitter-And-RC905-RX-Receiver-p-973287.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

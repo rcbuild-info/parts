@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flycolor",
  "name": "Fairy Series ESC 12A BLHeli ESC 2-4S BEC 5V/1A for Multirotor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Flycolor-Fairy-Series-ESC-12A-BLHeli-ESC-2-4S-BEC-5V1A-for-Multirotor-p-979378.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$11.19",
+   "stock_state": "in_stock",
+   "stock_text": "Only 86 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:58 GMT",
+   "url": "http://www.banggood.com/Flycolor-Fairy-Series-ESC-12A-BLHeli-ESC-2-4S-BEC-5V1A-for-Multirotor-p-979378.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

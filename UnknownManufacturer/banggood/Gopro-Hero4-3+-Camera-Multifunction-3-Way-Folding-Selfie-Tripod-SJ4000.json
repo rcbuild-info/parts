@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Gopro Hero4/3+ Camera Multifunction 3-Way Folding Selfie Tripod SJ4000",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gopro-Hero43-Camera-Multifunction-3-Way-Folding-Selfie-Tripod-SJ4000-p-960563.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$38.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:55:01 GMT",
+   "url": "http://www.banggood.com/Gopro-Hero43-Camera-Multifunction-3-Way-Folding-Selfie-Tripod-SJ4000-p-960563.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

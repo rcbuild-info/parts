@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Diatone",
  "name": "M2*6 Philip's Head Screws For RC Frame Kits Multirotors 20PCS Per Bag",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Diatone-M26-Philips-Head-Screws-For-RC-Frame-Kits-Multirotors-20PCS-Per-Bag-p-986907.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:49 GMT",
+   "url": "http://www.banggood.com/Diatone-M26-Philips-Head-Screws-For-RC-Frame-Kits-Multirotors-20PCS-Per-Bag-p-986907.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

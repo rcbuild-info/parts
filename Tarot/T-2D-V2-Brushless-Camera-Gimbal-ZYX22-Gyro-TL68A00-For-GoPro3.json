@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "T-2D V2 Brushless Camera Gimbal ZYX22 Gyro TL68A00 For GoPro3",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-Gopro-2-Axis-Brushless-Camera-Gimbal-With-Gyro-TL68A00-p-82497.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$102.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:18 GMT",
+   "url": "http://www.banggood.com/Tarot-Gopro-2-Axis-Brushless-Camera-Gimbal-With-Gyro-TL68A00-p-82497.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

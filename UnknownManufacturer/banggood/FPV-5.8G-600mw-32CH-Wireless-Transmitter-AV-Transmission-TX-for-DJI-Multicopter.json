@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 5.8G 600mw 32CH Wireless Transmitter AV Transmission TX for DJI Multicopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FPV-5_8G-600mw-32CH-Wireless-Transmitter-AV-Transmission-TX-for-DJI-Multicopter-p-984348.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$26.59",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:11 GMT",
+   "url": "http://www.banggood.com/FPV-5_8G-600mw-32CH-Wireless-Transmitter-AV-Transmission-TX-for-DJI-Multicopter-p-984348.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

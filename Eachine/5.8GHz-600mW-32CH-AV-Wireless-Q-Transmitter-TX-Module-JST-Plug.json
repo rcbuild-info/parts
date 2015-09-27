@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Eachine",
  "name": "5.8GHz 600mW 32CH AV Wireless Q Transmitter TX Module JST Plug",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Eachine-5_8GHz-600mW-32CH-AV-Wireless-Q-Transmitter-TX-Module-JST-Plug-p-975911.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 104 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:29 GMT",
+   "url": "http://www.banggood.com/Eachine-5_8GHz-600mW-32CH-AV-Wireless-Q-Transmitter-TX-Module-JST-Plug-p-975911.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

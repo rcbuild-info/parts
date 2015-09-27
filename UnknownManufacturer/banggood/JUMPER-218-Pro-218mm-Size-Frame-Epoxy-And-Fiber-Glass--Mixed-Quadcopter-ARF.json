@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JUMPER 218 Pro 218mm Size Frame Epoxy And Fiber Glass  Mixed Quadcopter ARF",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/JUMPER-218-Pro-218mm-Size-Frame-Epoxy-And-Fiber-Glass-Mixed-Quadcopter-ARF-p-986307.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$184.49",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:19 GMT",
+   "url": "http://www.banggood.com/JUMPER-218-Pro-218mm-Size-Frame-Epoxy-And-Fiber-Glass-Mixed-Quadcopter-ARF-p-986307.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

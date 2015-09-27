@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LED Lights Controller Electronic Switch 2A For FPV RC Quadcopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/LED-Lights-Controller-Electronic-Switch-2A-For-FPV-RC-Quadcopter-p-976106.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.70",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:38 GMT",
+   "url": "http://www.banggood.com/LED-Lights-Controller-Electronic-Switch-2A-For-FPV-RC-Quadcopter-p-976106.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

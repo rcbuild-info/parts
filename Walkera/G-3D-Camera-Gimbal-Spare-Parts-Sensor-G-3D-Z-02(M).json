@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "G-3D Camera Gimbal Spare Parts Sensor G-3D-Z-02(M)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Walkera-G-3D-Camera-Gimbal-Spare-Parts-Sensor-G-3D-Z-02M-p-943632.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$15.00",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:29 GMT",
+   "url": "http://www.banggood.com/Walkera-G-3D-Camera-Gimbal-Spare-Parts-Sensor-G-3D-Z-02M-p-943632.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

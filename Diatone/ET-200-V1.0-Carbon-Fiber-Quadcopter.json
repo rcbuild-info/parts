@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Diatone",
  "name": "ET 200 V1.0 Carbon Fiber Quadcopter",
@@ -7,9 +9,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Diatone-ET-200-V1_0-Carbon-Fiber-Quadcopter-Frame-Kit-w-BEC-Power-Distribution-Board-p-982844.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$20.49",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:46 GMT",
+   "url": "http://www.banggood.com/Diatone-ET-200-V1_0-Carbon-Fiber-Quadcopter-Frame-Kit-w-BEC-Power-Distribution-Board-p-982844.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

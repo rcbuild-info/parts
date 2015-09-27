@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 5.8GHz 200mW Mini AV Transmitter For Gopro Hero3 FPV Aircraft",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FPV-5_8GHz-200mW-Mini-AV-Transmitter-For-Gopro-Hero3-FPV-Aircraft-p-959145.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$27.99",
+   "stock_state": "in_stock",
+   "stock_text": "Sold Out Currently!",
+   "timestamp": "Sun, 27 Sep 2015 20:56:59 GMT",
+   "url": "http://www.banggood.com/FPV-5_8GHz-200mW-Mini-AV-Transmitter-For-Gopro-Hero3-FPV-Aircraft-p-959145.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

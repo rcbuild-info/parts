@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "2 Axis Gyroscope ZYX22 For TL68A08 T-2D Brushless Gimbal Gopro",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-2-Axis-Gyroscope-ZYX22-For-TL68A08-T-2D-Brushless-Gimbal-Gopro-p-906577.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$43.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:56:49 GMT",
+   "url": "http://www.banggood.com/Tarot-2-Axis-Gyroscope-ZYX22-For-TL68A08-T-2D-Brushless-Gimbal-Gopro-p-906577.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

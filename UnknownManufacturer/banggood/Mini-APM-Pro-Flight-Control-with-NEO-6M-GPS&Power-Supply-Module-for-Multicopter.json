@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini APM Pro Flight Control with NEO-6M GPS&Power Supply Module for Multicopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Mini-APM-Pro-Flight-Control-with-NEO-6M-GPSPower-Supply-Module-for-Multicopter-p-982498.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$62.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock , usually dispatched in 1-3 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:58:46 GMT",
+   "url": "http://www.banggood.com/Mini-APM-Pro-Flight-Control-with-NEO-6M-GPSPower-Supply-Module-for-Multicopter-p-982498.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

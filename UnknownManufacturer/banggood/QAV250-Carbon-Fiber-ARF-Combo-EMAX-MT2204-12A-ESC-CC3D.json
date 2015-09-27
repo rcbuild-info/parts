@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "QAV250 Carbon Fiber ARF Combo EMAX MT2204 12A ESC CC3D",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/QAV250-Carbon-Fiber-ARF-Combo-EMAX-MT2204-12A-ESC-CC3D-p-965217.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$145.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:24 GMT",
+   "url": "http://www.banggood.com/QAV250-Carbon-Fiber-ARF-Combo-EMAX-MT2204-12A-ESC-CC3D-p-965217.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

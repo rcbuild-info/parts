@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "G2 M8N HMC5983 GPS Compass Module For DJI NAZA-M V2 LITE Flight Control",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FFOSD-G2-M8N-GPS-Compass-Module-For-DJI-NAZA-M-V2-LITE-Flight-Control-p-979718.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$51.80",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:43 GMT",
+   "url": "http://www.banggood.com/FFOSD-G2-M8N-GPS-Compass-Module-For-DJI-NAZA-M-V2-LITE-Flight-Control-p-979718.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Eachine",
  "name": "700TVL 1/3 Cmos FPV 148 Degree Camera w/32CH Transmission",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Eachine-700TVL-13-Cmos-FPV-160-Degree-Camera-w32CH-Transmission-p-970051.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$26.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:31 GMT",
+   "url": "http://www.banggood.com/Eachine-700TVL-13-Cmos-FPV-160-Degree-Camera-w32CH-Transmission-p-970051.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

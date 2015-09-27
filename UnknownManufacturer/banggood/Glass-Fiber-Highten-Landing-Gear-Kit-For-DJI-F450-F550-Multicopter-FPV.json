@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Glass Fiber Highten Landing Gear Kit For DJI F450 F550 Multicopter FPV",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Glass-Fiber-Highten-Landing-Gear-Kit-For-DJI-F450-F550-Multicopter-FPV-p-944066.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$24.89",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:26 GMT",
+   "url": "http://www.banggood.com/Glass-Fiber-Highten-Landing-Gear-Kit-For-DJI-F450-F550-Multicopter-FPV-p-944066.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

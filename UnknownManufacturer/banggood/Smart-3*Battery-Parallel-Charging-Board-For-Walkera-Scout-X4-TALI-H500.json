@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Smart 3*Battery Parallel Charging Board For Walkera Scout X4 TALI H500",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Smart-3Battery-Parallel-Charging-Board-For-Walkera-Scout-X4-TALI-H500-p-960555.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$6.65",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:00 GMT",
+   "url": "http://www.banggood.com/Smart-3Battery-Parallel-Charging-Board-For-Walkera-Scout-X4-TALI-H500-p-960555.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Buzzer Alarm With Safe Switch For Pixhack Flight Controller FPV",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Buzzer-Alarm-With-Safe-Switch-For-Pixhack-Flight-Controller-FPV-p-994195.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 30 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:21 GMT",
+   "url": "http://www.banggood.com/Buzzer-Alarm-With-Safe-Switch-For-Pixhack-Flight-Controller-FPV-p-994195.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

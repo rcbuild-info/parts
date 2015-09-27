@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Fatshark Dominator V2 FPV Goggles Video Glasses 600 X 480 VGA",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Fat-Shark-DOMINATOR-V2-FPV-Goggles-Video-Glasses-600-X-480-VGA-p-917599.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "USA Warehouse",
+   "price": "$374.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 7 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:35 GMT",
+   "url": "http://www.banggood.com/Fat-Shark-DOMINATOR-V2-FPV-Goggles-Video-Glasses-600-X-480-VGA-p-917599.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

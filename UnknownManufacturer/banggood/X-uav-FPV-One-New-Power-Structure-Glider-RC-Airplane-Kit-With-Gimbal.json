@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "X-uav FPV One New Power Structure Glider RC Airplane Kit With Gimbal",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/X-uav-FPV-One-New-Power-Structure-Glider-RC-Airplane-Kit-With-Gimbal-p-963810.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$499.99",
+   "stock_state": "backordered",
+   "stock_text": "Coming soon",
+   "timestamp": "Sun, 27 Sep 2015 20:56:21 GMT",
+   "url": "http://www.banggood.com/X-uav-FPV-One-New-Power-Structure-Glider-RC-Airplane-Kit-With-Gimbal-p-963810.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

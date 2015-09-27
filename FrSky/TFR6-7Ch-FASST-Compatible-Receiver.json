@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "TFR6 7Ch FASST Compatible Receiver",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Wholesale-FrSky-TFR6-7Ch-FASST-Compatible-Receiver-p-68127.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$26.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:59:53 GMT",
+   "url": "http://www.banggood.com/Wholesale-FrSky-TFR6-7Ch-FASST-Compatible-Receiver-p-68127.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

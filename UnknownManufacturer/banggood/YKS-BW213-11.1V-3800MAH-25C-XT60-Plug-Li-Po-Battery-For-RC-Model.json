@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "YKS BW213 11.1V 3800MAH 25C XT60 Plug Li-Po Battery For RC Model",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/YKS-BW213-11_1V-3800MAH-25C-XT60-Plug-Li-Po-Battery-For-RC-Model-p-953561.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$30.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:01:55 GMT",
+   "url": "http://www.banggood.com/YKS-BW213-11_1V-3800MAH-25C-XT60-Plug-Li-Po-Battery-For-RC-Model-p-953561.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

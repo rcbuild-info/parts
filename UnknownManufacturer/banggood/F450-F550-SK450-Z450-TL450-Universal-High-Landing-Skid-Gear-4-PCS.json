@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F450 F550 SK450 Z450 TL450 Universal High Landing Skid Gear 4 PCS",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/F450-F550-SK450-Z450-TL450-Universal-High-Landing-Skid-Gear-4-PCS-p-920670.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$7.59",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:01:27 GMT",
+   "url": "http://www.banggood.com/F450-F550-SK450-Z450-TL450-Universal-High-Landing-Skid-Gear-4-PCS-p-920670.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

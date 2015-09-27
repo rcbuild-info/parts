@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "MT1806 KV2280 Brushless Motor 5030 Propellers  Esc 12A For QAV250",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/EMAX-MT1806-KV2280-Brushless-Motor-5030-Propellers-Esc-12A-For-QAV250-p-974385.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$73.78",
+   "stock_state": "in_stock",
+   "stock_text": "Expected restock on 3rd October 2015",
+   "timestamp": "Sun, 27 Sep 2015 20:57:49 GMT",
+   "url": "http://www.banggood.com/EMAX-MT1806-KV2280-Brushless-Motor-5030-Propellers-Esc-12A-For-QAV250-p-974385.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

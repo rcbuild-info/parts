@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Futaba R2008SB 2.4G 8CH S-FHSS S.BUS T6J/T8J/T10J/T14SG/T18MZ HV Receiver",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Futaba-R2008SB-2_4G-8CH-S-FHSS-S_BUS-T6JT8JT10JT14SGT18MZ-HV-Receiver-p-974306.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$75.64",
+   "stock_state": "in_stock",
+   "stock_text": "In stock , usually dispatched in 1-3 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:59:06 GMT",
+   "url": "http://www.banggood.com/Futaba-R2008SB-2_4G-8CH-S-FHSS-S_BUS-T6JT8JT10JT14SGT18MZ-HV-Receiver-p-974306.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

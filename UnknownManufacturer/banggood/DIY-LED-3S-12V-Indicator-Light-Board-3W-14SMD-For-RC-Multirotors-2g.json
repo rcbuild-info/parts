@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DIY LED 3S 12V Indicator Light Board 3W 14SMD For RC Multirotors 2g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DIY-LED-3S-12V-Indicator-Light-Board-3W-14SMD-For-RC-Multirotors-2g-p-993968.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 26 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:44 GMT",
+   "url": "http://www.banggood.com/DIY-LED-3S-12V-Indicator-Light-Board-3W-14SMD-For-RC-Multirotors-2g-p-993968.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

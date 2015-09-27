@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Protective Case For Mini APM V3.1 Flight Controller CNC Metal",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Protective-Case-For-Mini-APM-V3_1-Flight-Controller-CNC-Metal-p-987251.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.09",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:55:23 GMT",
+   "url": "http://www.banggood.com/Protective-Case-For-Mini-APM-V3_1-Flight-Controller-CNC-Metal-p-987251.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

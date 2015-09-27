@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Pixhawk 2.4.5 PX4 32bits Flight Controller With PX4F PX4IO For RC Quadcopter Multirotor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Pixhawk-2_4_5-PX4-32bits-Flight-Controller-With-PX4F-PX4IO-For-RC-Quadcopter-Multirotor-p-990038.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$88.29",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:23 GMT",
+   "url": "http://www.banggood.com/Pixhawk-2_4_5-PX4-32bits-Flight-Controller-With-PX4F-PX4IO-For-RC-Quadcopter-Multirotor-p-990038.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

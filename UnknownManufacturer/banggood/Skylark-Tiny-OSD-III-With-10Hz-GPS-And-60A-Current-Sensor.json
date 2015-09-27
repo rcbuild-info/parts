@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skylark Tiny OSD III With 10Hz GPS And 60A Current Sensor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Skylark-Tiny-OSD-III-With-10Hz-GPS-And-60A-Current-Sensor-p-76645.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$78.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:56:19 GMT",
+   "url": "http://www.banggood.com/Skylark-Tiny-OSD-III-With-10Hz-GPS-And-60A-Current-Sensor-p-76645.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "12V 1.5W Aluminum Alloy CNC LED Night Light Navigation Light White",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/12V-1_5W-Aluminum-Alloy-CNC-LED-Night-Light-Navigation-Light-White-p-963100.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:15 GMT",
+   "url": "http://www.banggood.com/12V-1_5W-Aluminum-Alloy-CNC-LED-Night-Light-Navigation-Light-White-p-963100.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

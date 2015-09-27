@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Imax B6 battery Balance Charger with PD1205 12V 5A AC Power Adapter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Imax-B6-battery-Balance-Charger-with-PD1205-12V-5A-AC-Power-Adapter-p-966747.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$28.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:00:22 GMT",
+   "url": "http://www.banggood.com/Imax-B6-battery-Balance-Charger-with-PD1205-12V-5A-AC-Power-Adapter-p-966747.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

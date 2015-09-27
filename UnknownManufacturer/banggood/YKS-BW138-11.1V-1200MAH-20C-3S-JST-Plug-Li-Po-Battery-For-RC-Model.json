@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "YKS BW138 11.1V 1200MAH 20C 3S JST Plug Li-Po Battery For RC Model",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/YKS-BW138-11_1V-1200MAH-20C-3S-JST-Plug-Li-Po-Battery-For-RC-Model-p-953839.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$12.76",
+   "stock_state": "in_stock",
+   "stock_text": "In stock , usually dispatched in 1-3 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:58:57 GMT",
+   "url": "http://www.banggood.com/YKS-BW138-11_1V-1200MAH-20C-3S-JST-Plug-Li-Po-Battery-For-RC-Model-p-953839.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

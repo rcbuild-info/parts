@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1S-6S RC Model Spear Parts LED Lipo Battery Indicator Monitor Tester",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/1S-6S-RC-Model-Spear-Parts-LED-Lipo-Battery-Indicator-Monitor-Tester-p-71830.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.59",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:22 GMT",
+   "url": "http://www.banggood.com/1S-6S-RC-Model-Spear-Parts-LED-Lipo-Battery-Indicator-Monitor-Tester-p-71830.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

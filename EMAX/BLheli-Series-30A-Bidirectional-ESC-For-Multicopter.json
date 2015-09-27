@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "BLheli Series 30A Bidirectional ESC For Multicopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Emax-BLheli-Series-30A-Bidirectional-ESC-For-Multicopter-p-992607.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$11.75",
+   "stock_state": "backordered",
+   "stock_text": "Coming soon",
+   "timestamp": "Sun, 27 Sep 2015 20:59:02 GMT",
+   "url": "http://www.banggood.com/Emax-BLheli-Series-30A-Bidirectional-ESC-For-Multicopter-p-992607.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

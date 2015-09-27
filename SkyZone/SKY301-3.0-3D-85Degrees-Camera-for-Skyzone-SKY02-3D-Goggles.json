@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SkyZone",
  "name": "SKY301 3.0 3D 85Degrees Camera for Skyzone SKY02 3D Goggles",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/SKY301-3_0-3D-Camera-for-Skyzone-SKY02-3D-Goggles-85Degrees-p-981065.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 1 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:41 GMT",
+   "url": "http://www.banggood.com/SKY301-3_0-3D-Camera-for-Skyzone-SKY02-3D-Goggles-85Degrees-p-981065.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

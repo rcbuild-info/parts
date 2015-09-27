@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "12V 600TVL 120\u00b0 2.8mm FPV Camera TL300M PAL For RC Quadcopters",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-12V-600TVL-120-2_8mm-FPV-Camera-TL300M-For-RC-Quadcopters-p-962828.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$16.69",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:47 GMT",
+   "url": "http://www.banggood.com/Tarot-12V-600TVL-120-2_8mm-FPV-Camera-TL300M-For-RC-Quadcopters-p-962828.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

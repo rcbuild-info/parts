@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X3108S 720KV 900KV 325W Brushless Motor For Multirotor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Sunnysky-X3108S-720KV-900KV-325W-Brushless-Motor-For-Multirotor-p-907943.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$31.69",
+   "stock_state": "in_stock",
+   "stock_text": "In stock , usually dispatched in 1-3 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:02:53 GMT",
+   "url": "http://www.banggood.com/Sunnysky-X3108S-720KV-900KV-325W-Brushless-Motor-For-Multirotor-p-907943.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

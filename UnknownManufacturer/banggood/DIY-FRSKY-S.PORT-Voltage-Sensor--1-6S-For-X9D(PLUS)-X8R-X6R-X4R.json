@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DIY FRSKY S.PORT Voltage Sensor  1-6S For X9D(PLUS) X8R X6R X4R",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DIY-FRSKY-S_PORT-Voltage-Sensor-1-6S-For-X9DPLUS-X8R-X6R-X4R-p-987250.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$8.35",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:55 GMT",
+   "url": "http://www.banggood.com/DIY-FRSKY-S_PORT-Voltage-Sensor-1-6S-For-X9DPLUS-X8R-X6R-X4R-p-987250.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

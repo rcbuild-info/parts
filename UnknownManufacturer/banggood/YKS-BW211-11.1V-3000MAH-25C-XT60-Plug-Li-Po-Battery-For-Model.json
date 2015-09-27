@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "YKS BW211 11.1V 3000MAH 25C XT60 Plug Li-Po Battery For Model",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/YKS-BW211-11_1V-3000MAH-25C-XT60-Plug-Li-Po-Battery-For-Model-p-953555.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$25.89",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:58:58 GMT",
+   "url": "http://www.banggood.com/YKS-BW211-11_1V-3000MAH-25C-XT60-Plug-Li-Po-Battery-For-Model-p-953555.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

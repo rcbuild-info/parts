@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Eachine",
  "name": "700tvl ET200  5.8G 32CH 200mW Mini Transmitter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Eachine-ET200-5_8G-200mW-Mini-Transmitter-p-972618.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$16.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:10 GMT",
+   "url": "http://www.banggood.com/Eachine-ET200-5_8G-200mW-Mini-Transmitter-p-972618.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

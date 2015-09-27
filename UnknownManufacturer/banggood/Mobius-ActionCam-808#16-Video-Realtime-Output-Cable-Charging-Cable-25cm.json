@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mobius ActionCam 808#16 Video Realtime Output Cable Charging Cable 25cm",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Mobius-ActionCam-80816-Audio-Video-AV-Realtime-Output-Cable-Charging-Cable-25cm-p-981060.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.24",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:29 GMT",
+   "url": "http://www.banggood.com/Mobius-ActionCam-80816-Audio-Video-AV-Realtime-Output-Cable-Charging-Cable-25cm-p-981060.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

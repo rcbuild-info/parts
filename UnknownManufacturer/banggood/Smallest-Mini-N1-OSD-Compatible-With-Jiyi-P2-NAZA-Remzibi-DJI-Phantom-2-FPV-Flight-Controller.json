@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Smallest Mini N1 OSD Compatible With Jiyi P2 NAZA Remzibi DJI Phantom 2 FPV Flight Controller",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Smallest-Mini-N1-OSD-Compatible-With-P2-NAZA-Remzibi-DJI-Phantom-2-FPV-Flight-Controller-p-992595.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$29.50",
+   "stock_state": "in_stock",
+   "stock_text": "Only 32 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:16 GMT",
+   "url": "http://www.banggood.com/Smallest-Mini-N1-OSD-Compatible-With-P2-NAZA-Remzibi-DJI-Phantom-2-FPV-Flight-Controller-p-992595.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

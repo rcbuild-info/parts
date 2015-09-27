@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "1345 For DJI Inspire-1 Carbon Fiber 13X4.5 Self-Lock Propellers",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gemfan-1345-Carbon-Fiber-Self-Lock-For-DJI-Inspire-1-Propellers-CWCCW-p-974638.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$10.81",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:11 GMT",
+   "url": "http://www.banggood.com/Gemfan-1345-Carbon-Fiber-Self-Lock-For-DJI-Inspire-1-Propellers-CWCCW-p-974638.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Amass XT60 Male/Female Bullet Connector Plugs For RC Lipo Battery",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Amass-XT60-MaleFemale-Bullet-Connector-Plugs-For-RC-Lipo-Battery-p-929670.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.46",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:18 GMT",
+   "url": "http://www.banggood.com/Amass-XT60-MaleFemale-Bullet-Connector-Plugs-For-RC-Lipo-Battery-p-929670.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

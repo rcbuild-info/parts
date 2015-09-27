@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DC To DC Adjustable Regulated Power Supply Module For FPV System",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DC-To-DC-Adjustable-Regulated-Power-Supply-Module-For-FPV-System-p-919491.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "EU Warehouse",
+   "price": "$6.59",
+   "stock_state": "in_stock",
+   "stock_text": "Only 8 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:05 GMT",
+   "url": "http://www.banggood.com/DC-To-DC-Adjustable-Regulated-Power-Supply-Module-For-FPV-System-p-919491.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

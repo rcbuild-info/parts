@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5x4.5 5045 Carbon Fiber 250 Multirotor 2-Leaf Propellers CW/CCW",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gemfan-5x4_5-5045-Carbon-Fiber-Multirotor-2-Leaf-Propellers-CWCCW-p-974622.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.38",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:55 GMT",
+   "url": "http://www.banggood.com/Gemfan-5x4_5-5045-Carbon-Fiber-Multirotor-2-Leaf-Propellers-CWCCW-p-974622.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

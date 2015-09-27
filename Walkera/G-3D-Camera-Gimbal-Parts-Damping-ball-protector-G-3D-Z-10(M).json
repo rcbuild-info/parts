@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "G-3D Camera Gimbal Parts Damping ball protector G-3D-Z-10(M)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Walkera-G-3D-Camera-Gimbal-Parts-Damping-ball-protector-G-3D-Z-10M-p-944045.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.69",
+   "stock_state": "in_stock",
+   "stock_text": "Arriving soon, expected dispatch in 3 days",
+   "timestamp": "Sun, 27 Sep 2015 21:03:36 GMT",
+   "url": "http://www.banggood.com/Walkera-G-3D-Camera-Gimbal-Parts-Damping-ball-protector-G-3D-Z-10M-p-944045.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

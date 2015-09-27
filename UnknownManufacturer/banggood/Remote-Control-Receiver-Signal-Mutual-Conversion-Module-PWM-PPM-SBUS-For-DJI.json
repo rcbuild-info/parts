@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Remote Control Receiver Signal Mutual Conversion Module PWM/PPM/SBUS For DJI",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Remote-Control-Receiver-Signal-Mutual-Conversion-Module-PWMPPMSBUS-For-DJI-p-980319.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$11.90",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:14 GMT",
+   "url": "http://www.banggood.com/Remote-Control-Receiver-Signal-Mutual-Conversion-Module-PWMPPMSBUS-For-DJI-p-980319.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

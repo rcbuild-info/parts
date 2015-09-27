@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ACE 2*TRX Male to TRX Female Plug Parallel Connection Cable 6.5cm",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/ACE-2TRX-Male-to-TRX-Female-Plug-Parallel-Connection-Cable-6_5cm-p-952068.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock , usually dispatched in 1-3 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:59:42 GMT",
+   "url": "http://www.banggood.com/ACE-2TRX-Male-to-TRX-Female-Plug-Parallel-Connection-Cable-6_5cm-p-952068.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

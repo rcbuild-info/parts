@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3DR Radio Wireless Telemetry Module Ground Station for MWC APM2.5",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/3DR-Radio-Wireless-Telemetry-Module-Ground-Station-for-MWC-APM2_5-p-911052.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$35.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 3 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:23 GMT",
+   "url": "http://www.banggood.com/3DR-Radio-Wireless-Telemetry-Module-Ground-Station-for-MWC-APM2_5-p-911052.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

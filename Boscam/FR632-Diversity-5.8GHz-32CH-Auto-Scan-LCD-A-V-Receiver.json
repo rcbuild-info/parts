@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "FR632 Diversity 5.8GHz 32CH Auto Scan LCD A/V Receiver",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Boscam-FR632-Diversity-5_8GHz-32CH-Auto-Scan-LCD-AV-Receiver-p-958097.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$56.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:34 GMT",
+   "url": "http://www.banggood.com/Boscam-FR632-Diversity-5_8GHz-32CH-Auto-Scan-LCD-AV-Receiver-p-958097.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

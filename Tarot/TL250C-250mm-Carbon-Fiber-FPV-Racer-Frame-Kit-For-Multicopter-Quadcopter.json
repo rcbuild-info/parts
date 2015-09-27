@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "TL250C 250mm Carbon Fiber FPV Racer Frame Kit For Multicopter Quadcopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-TL250C-250mm-Carbon-Fiber-FPV-Racer-Frame-Kit-For-Multicopter-Quadcopter-p-998317.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$51.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:57:54 GMT",
+   "url": "http://www.banggood.com/Tarot-TL250C-250mm-Carbon-Fiber-FPV-Racer-Frame-Kit-For-Multicopter-Quadcopter-p-998317.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

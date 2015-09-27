@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HJ 450 4-Axis RC Quapcopter 450mm Frame Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Wholesale-HJ-450-4-Axis-RC-Quapcopter-450mm-Frame-Kit-p-56959.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$14.25",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:51 GMT",
+   "url": "http://www.banggood.com/Wholesale-HJ-450-4-Axis-RC-Quapcopter-450mm-Frame-Kit-p-56959.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

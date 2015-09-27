@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Diatone",
  "name": "#37 Blade Series FPV 250 Carbon Fiber",
@@ -9,9 +11,18 @@
   "manufacturer": [],
   "related": [
    "http://www.rcgroups.com/forums/showthread.php?t=2310013"
-  ],
-  "store": [
-   "http://www.banggood.com/Diatone-37-Blade-Series-FPV-250-Carbon-Fiber-Unfolded-Frame-Kit-p-971074.html"
   ]
- }
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$31.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:39 GMT",
+   "url": "http://www.banggood.com/Diatone-37-Blade-Series-FPV-250-Carbon-Fiber-Unfolded-Frame-Kit-p-971074.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

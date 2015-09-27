@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Video Output AV Adapter Plate with USB Adapter for GOPRO3",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Video-Output-AV-Adapter-Plate-with-USB-Adapter-for-GOPRO3-p-941262.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$6.05",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:54:57 GMT",
+   "url": "http://www.banggood.com/Video-Output-AV-Adapter-Plate-with-USB-Adapter-for-GOPRO3-p-941262.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

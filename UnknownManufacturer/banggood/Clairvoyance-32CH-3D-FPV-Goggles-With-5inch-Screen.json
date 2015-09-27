@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Clairvoyance 32CH 3D FPV Goggles With 5inch Screen",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Clairvoyance-32CH-3D-FPV-Goggles-With-5inch-Screen-p-961462.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$199.00",
+   "stock_state": "in_stock",
+   "stock_text": "Only 1 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:01 GMT",
+   "url": "http://www.banggood.com/Clairvoyance-32CH-3D-FPV-Goggles-With-5inch-Screen-p-961462.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

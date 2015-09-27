@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "UBLOX NEO-M8N HMC5983 GPS Module GYGPSV5-NEO For Pixhawk APM",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/NEO-M8N-Flight-Controller-GPS-Module-GYGPSV5-NEO-for-Pixhawk-APM-p-974362.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$25.50",
+   "stock_state": "in_stock",
+   "stock_text": "Expected restock on 7th October 2015",
+   "timestamp": "Sun, 27 Sep 2015 20:58:20 GMT",
+   "url": "http://www.banggood.com/NEO-M8N-Flight-Controller-GPS-Module-GYGPSV5-NEO-for-Pixhawk-APM-p-974362.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

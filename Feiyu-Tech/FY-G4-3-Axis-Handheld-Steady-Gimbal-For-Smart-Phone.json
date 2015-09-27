@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Feiyu Tech",
  "name": "FY-G4 3 Axis Handheld Steady Gimbal For Smart Phone",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Feiyu-Tech-FY-G4-3-Axis-Handheld-Steady-Gimbal-For-Smart-Phone-p-968033.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$279.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:56:21 GMT",
+   "url": "http://www.banggood.com/Feiyu-Tech-FY-G4-3-Axis-Handheld-Steady-Gimbal-For-Smart-Phone-p-968033.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

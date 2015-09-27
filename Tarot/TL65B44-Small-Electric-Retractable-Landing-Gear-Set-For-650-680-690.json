@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "TL65B44 Small Electric Retractable Landing Gear Set For 650/680/690",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-TL65B44-Small-Electric-Retractable-Landing-Gear-Set-For-650680690-p-979455.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$32.79",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:57:47 GMT",
+   "url": "http://www.banggood.com/Tarot-TL65B44-Small-Electric-Retractable-Landing-Gear-Set-For-650680690-p-979455.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

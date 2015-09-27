@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Diatone",
  "name": "37# Blade Series Frame Part Mobius Damping Board & COMS Board",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Diatone-37-Blade-Series-Frame-Part-Mobius-Damping-Board-COMS-Board-p-972611.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.39",
+   "stock_state": "in_stock",
+   "stock_text": "Only 28 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:04 GMT",
+   "url": "http://www.banggood.com/Diatone-37-Blade-Series-Frame-Part-Mobius-Damping-Board-COMS-Board-p-972611.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

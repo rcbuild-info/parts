@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LANTIAN 2-6S 1.5A 5V 12V Dual Independent Output UBEC",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/LANTIAN-2-6S-1_5A-5V-12V-Dual-Independent-Output-UBEC-p-982507.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.39",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:48 GMT",
+   "url": "http://www.banggood.com/LANTIAN-2-6S-1_5A-5V-12V-Dual-Independent-Output-UBEC-p-982507.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

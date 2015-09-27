@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RCtimer NFS 45A OPTO Brushless ESC Speed Controller SimonK Firmware",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/RCtimer-NFS-45A-OPTO-Brushless-ESC-Speed-Controller-SimonK-Firmware-p-954660.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$12.32",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:57 GMT",
+   "url": "http://www.banggood.com/RCtimer-NFS-45A-OPTO-Brushless-ESC-Speed-Controller-SimonK-Firmware-p-954660.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

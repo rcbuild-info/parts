@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LKTR090 90mm Micro Fiberglass G10 Frame Kit For Multicopter FPV",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/LKTR090-Micro-FPV-Quadcopter-frame-Fiberglass-G10-p-995866.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$10.37",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:46 GMT",
+   "url": "http://www.banggood.com/LKTR090-Micro-FPV-Quadcopter-frame-Fiberglass-G10-p-995866.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

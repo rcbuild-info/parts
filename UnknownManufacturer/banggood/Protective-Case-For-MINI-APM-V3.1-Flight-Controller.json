@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Protective Case For MINI APM V3.1 Flight Controller",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Protective-Case-For-MINI-APM-V3_1-Flight-Controller-p-941275.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.30",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:36 GMT",
+   "url": "http://www.banggood.com/Protective-Case-For-MINI-APM-V3_1-Flight-Controller-p-941275.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "8x5 Inch 8050 Carbon Fiber Propeller Graupner For DJI Multicopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gemfan-8x5-Inch-8050-Carbon-Fiber-Propeller-Graupner-For-DJI-Multicopter-p-978231.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.85",
+   "stock_state": "in_stock",
+   "stock_text": "Only 15 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:57 GMT",
+   "url": "http://www.banggood.com/Gemfan-8x5-Inch-8050-Carbon-Fiber-Propeller-Graupner-For-DJI-Multicopter-p-978231.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

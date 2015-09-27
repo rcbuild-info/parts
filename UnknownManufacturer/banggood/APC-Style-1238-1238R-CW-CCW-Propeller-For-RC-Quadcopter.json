@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "APC Style 1238 1238R CW CCW Propeller For RC Quadcopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Wholesale-APC-Style-1238-1238R-CW-CCW-Propeller-For-Multi-rotor-Copter-Quadcopter-p-66286.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.42",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:58 GMT",
+   "url": "http://www.banggood.com/Wholesale-APC-Style-1238-1238R-CW-CCW-Propeller-For-Multi-rotor-Copter-Quadcopter-p-66286.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

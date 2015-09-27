@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "X2804 2280KV Brushless Motor For QAV250 F330 Multi-Rotors CW CCW",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/X2804-2280KV-Brushless-Motor-For-QAV250-F330-Multi-Rotors-CW-CCW-p-979295.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$8.39",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:28 GMT",
+   "url": "http://www.banggood.com/X2804-2280KV-Brushless-Motor-For-QAV250-F330-Multi-Rotors-CW-CCW-p-979295.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Futaba T6K T-FHSS Air 2.4Ghz 6CH S.Bus Transmitter With R3006SB Receiver",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Futaba-T6K-T-FHSS-Air-2_4Ghz-6CH-S_Bus-Transmitter-With-R3006SB-Receiver-p-991726.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$235.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock , usually dispatched in 1-3 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:59:32 GMT",
+   "url": "http://www.banggood.com/Futaba-T6K-T-FHSS-Air-2_4Ghz-6CH-S_Bus-Transmitter-With-R3006SB-Receiver-p-991726.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

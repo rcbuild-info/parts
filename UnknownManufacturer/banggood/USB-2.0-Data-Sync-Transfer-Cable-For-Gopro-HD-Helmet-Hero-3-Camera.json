@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "USB 2.0 Data Sync Transfer Cable For Gopro HD Helmet Hero 3 Camera",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/USB-2_0-Data-Sync-Transfer-Cable-For-Gopro-HD-Helmet-Hero-3-Camera-p-912357.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.30",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:51 GMT",
+   "url": "http://www.banggood.com/USB-2_0-Data-Sync-Transfer-Cable-For-Gopro-HD-Helmet-Hero-3-Camera-p-912357.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

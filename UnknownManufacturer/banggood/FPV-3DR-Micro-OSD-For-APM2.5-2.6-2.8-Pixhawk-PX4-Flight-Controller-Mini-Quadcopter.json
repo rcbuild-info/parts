@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 3DR Micro OSD For APM2.5 2.6 2.8 Pixhawk PX4 Flight Controller Mini Quadcopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/3DR-Micro-OSD-For-APM2_5-2_6-2_8-Pixhawk-PX4-Flight-Controller-Mini-Quadcopter-FPV-p-980860.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$14.69",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:06 GMT",
+   "url": "http://www.banggood.com/3DR-Micro-OSD-For-APM2_5-2_6-2_8-Pixhawk-PX4-Flight-Controller-Mini-Quadcopter-FPV-p-980860.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

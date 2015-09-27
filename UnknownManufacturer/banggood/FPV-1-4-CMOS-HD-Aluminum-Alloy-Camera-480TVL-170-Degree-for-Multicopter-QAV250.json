@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 1/4 CMOS HD Aluminum Alloy Camera 480TVL 170 Degree for Multicopter QAV250",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FPV-1-4-CMOS-HD-Aluminum-Alloy-Camera-480TVL-170-Degree-for-Multicopter-QAV250-p-992321.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 50 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:33 GMT",
+   "url": "http://www.banggood.com/FPV-1-4-CMOS-HD-Aluminum-Alloy-Camera-480TVL-170-Degree-for-Multicopter-QAV250-p-992321.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

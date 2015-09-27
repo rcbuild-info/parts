@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X2204S X2204 2300KV Brushless Motor CW / CCW For RC Model",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Sunnysky-X2204-2300KV-Brushless-Motor-CW-CCW-For-RC-Model-p-952075.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$15.59",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:23 GMT",
+   "url": "http://www.banggood.com/Sunnysky-X2204-2300KV-Brushless-Motor-CW-CCW-For-RC-Model-p-952075.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

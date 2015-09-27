@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "9.4x4.3 9443 For DJI Phantom 2 Carbon Fiber Self-Lock Propellers",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gemfan-9_4x4_3-9443-Carbon-Fiber-Self-Lock-Propellers-For-DJI-CWCCW-p-974628.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$7.37",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:27 GMT",
+   "url": "http://www.banggood.com/Gemfan-9_4x4_3-9443-Carbon-Fiber-Self-Lock-Propellers-For-DJI-CWCCW-p-974628.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

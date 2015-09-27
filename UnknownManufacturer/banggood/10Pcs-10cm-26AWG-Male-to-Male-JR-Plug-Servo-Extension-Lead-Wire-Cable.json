@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10Pcs 10cm 26AWG Male to Male JR Plug Servo Extension Lead Wire Cable",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/10Pcs-10cm-Male-to-Male-JR-Plug-Servo-Extension-Lead-Wire-Cable-p-946667.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.66",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:47 GMT",
+   "url": "http://www.banggood.com/10Pcs-10cm-Male-to-Male-JR-Plug-Servo-Extension-Lead-Wire-Cable-p-946667.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

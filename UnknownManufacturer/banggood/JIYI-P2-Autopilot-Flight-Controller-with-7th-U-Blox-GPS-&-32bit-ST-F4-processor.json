@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JIYI P2 Autopilot Flight Controller with 7th U-Blox GPS & 32bit ST F4 processor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/JIYI-P2-RC-Flight-Controller-With-U-Blox-GPS-p-957590.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$105.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:51 GMT",
+   "url": "http://www.banggood.com/JIYI-P2-RC-Flight-Controller-With-U-Blox-GPS-p-957590.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

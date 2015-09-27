@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DIY Transmitter Antenna Extension Cable Line RF Coaxial RG178 10 Feet",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DIY-Transmitter-Antenna-Extension-Cable-Line-RF-Coaxial-RG178-10-Feet-p-984343.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$4.90",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:57:17 GMT",
+   "url": "http://www.banggood.com/DIY-Transmitter-Antenna-Extension-Cable-Line-RF-Coaxial-RG178-10-Feet-p-984343.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

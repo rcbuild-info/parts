@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Volantex Ranger 757-4 7574 FPV 1380mm Wingspan EPO RC Airplane PNP",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Volantex-Ranger-757-4-FPV-1380mm-Wingspan-EPO-RC-Airplane-PNP-p-977615.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$122.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:57 GMT",
+   "url": "http://www.banggood.com/Volantex-Ranger-757-4-FPV-1380mm-Wingspan-EPO-RC-Airplane-PNP-p-977615.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

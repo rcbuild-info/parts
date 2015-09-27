@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "Amass XT150 Plug Connector Red/Black/2 pairs",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-Amass-XT150-Plug-Connector-RedBlack2-pairs-p-936347.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.50",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:43 GMT",
+   "url": "http://www.banggood.com/Tarot-Amass-XT150-Plug-Connector-RedBlack2-pairs-p-936347.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MINI NAZE32 ACRO Flight Controller 32bit STM32 Processor PWM PPM RC Input for FPV Multicopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/MINI-NAZE32-ACRO-Flight-Controller-32bit-STM32-Processor-PWM-PPM-RC-Input-for-FPV-Multicopter-p-999362.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$25.59",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:25 GMT",
+   "url": "http://www.banggood.com/MINI-NAZE32-ACRO-Flight-Controller-32bit-STM32-Processor-PWM-PPM-RC-Input-for-FPV-Multicopter-p-999362.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

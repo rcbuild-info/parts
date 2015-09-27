@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "6040 Bullnose Propeller CW/CCW For 250-280 Glass Frame Kit RC Multirotors",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/2-Pairs-Gemfan-6040-Bullnose-Propeller-CWCCW-For-250-280-Glass-Frame-Kit-RC-Multirotors-p-988181.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.96",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:09 GMT",
+   "url": "http://www.banggood.com/2-Pairs-Gemfan-6040-Bullnose-Propeller-CWCCW-For-250-280-Glass-Frame-Kit-RC-Multirotors-p-988181.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

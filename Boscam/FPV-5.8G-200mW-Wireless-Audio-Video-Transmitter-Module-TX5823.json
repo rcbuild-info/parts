@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "FPV 5.8G 200mW Wireless Audio Video Transmitter Module TX5823",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FPV-5_8G-200mW-Wireless-Audio-Video-Transmitter-Module-TX5823-p-84780.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$10.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:07 GMT",
+   "url": "http://www.banggood.com/FPV-5_8G-200mW-Wireless-Audio-Video-Transmitter-Module-TX5823-p-84780.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

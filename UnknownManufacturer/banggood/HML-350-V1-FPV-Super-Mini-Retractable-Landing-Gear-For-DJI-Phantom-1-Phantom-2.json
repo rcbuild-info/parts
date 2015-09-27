@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HML 350 V1 FPV Super Mini Retractable Landing Gear For DJI Phantom 1 Phantom 2",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/HML-350-V1-Super-Mini-Retractable-Landing-Gear-Kit-For-DJI-Phantom-p-979237.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$27.69",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:10 GMT",
+   "url": "http://www.banggood.com/HML-350-V1-Super-Mini-Retractable-Landing-Gear-Kit-For-DJI-Phantom-p-979237.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

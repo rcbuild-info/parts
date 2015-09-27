@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Matek VB2A5V DC-DC 1S Up to 5V Voltage Booster Regulation Module Converter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Matek-VB2A5V-DC-DC-1S-Up-to-5V-Voltage-Booster-Regulation-Module-Converter-p-988184.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$4.39",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:11 GMT",
+   "url": "http://www.banggood.com/Matek-VB2A5V-DC-DC-1S-Up-to-5V-Voltage-Booster-Regulation-Module-Converter-p-988184.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

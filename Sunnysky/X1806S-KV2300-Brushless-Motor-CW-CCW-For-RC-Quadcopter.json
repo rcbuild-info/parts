@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X1806S KV2300 Brushless Motor CW/CCW For RC Quadcopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Sunnysky-X1806S-KV2300-Brushless-Motor-CWCCW-For-RC-Quadcopter-p-959690.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$15.87",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:25 GMT",
+   "url": "http://www.banggood.com/Sunnysky-X1806S-KV2300-Brushless-Motor-CWCCW-For-RC-Quadcopter-p-959690.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

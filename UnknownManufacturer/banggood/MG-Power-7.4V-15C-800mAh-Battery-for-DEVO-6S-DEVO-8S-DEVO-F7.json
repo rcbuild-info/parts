@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MG Power 7.4V 15C 800mAh Battery for DEVO 6S/DEVO 8S/DEVO F7",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/MG-Power-7_4V-15C-800mAh-Battery-for-DEVO-6SDEVO-8SDEVO-7EDEVO-F7-p-950401.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$7.27",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:01 GMT",
+   "url": "http://www.banggood.com/MG-Power-7_4V-15C-800mAh-Battery-for-DEVO-6SDEVO-8SDEVO-7EDEVO-F7-p-950401.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

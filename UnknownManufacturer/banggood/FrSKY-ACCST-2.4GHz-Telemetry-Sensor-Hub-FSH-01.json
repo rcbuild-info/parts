@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FrSKY ACCST 2.4GHz Telemetry Sensor Hub FSH-01",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FrSKY-ACCST-2_4GHz-Telemetry-Sensor-Hub-FSH-01-p-919089.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$14.68",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:00:29 GMT",
+   "url": "http://www.banggood.com/FrSKY-ACCST-2_4GHz-Telemetry-Sensor-Hub-FSH-01-p-919089.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

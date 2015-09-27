@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "1045 Nylon Propeller CW/CCW For RC Quadcopter 1 Pair",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/GEMFAN-1045-Nylon-Propeller-CWCCW-For-RC-Quadcopter-1-Pair-p-954943.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "USA Warehouse",
+   "price": "$4.29",
+   "stock_state": "in_stock",
+   "stock_text": "Only 3 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:00 GMT",
+   "url": "http://www.banggood.com/GEMFAN-1045-Nylon-Propeller-CWCCW-For-RC-Quadcopter-1-Pair-p-954943.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

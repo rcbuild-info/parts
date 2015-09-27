@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Diatone",
  "name": "FPV250 V4 Ghost Edition LED Night Flyer Quadcopter Frame Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Diatone-FPV250-V4-Ghost-Edition-LED-Night-Flyer-Quadcopter-Frame-Kit-p-957592.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$15.17",
+   "stock_state": "in_stock",
+   "stock_text": "Only 3 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:30 GMT",
+   "url": "http://www.banggood.com/Diatone-FPV250-V4-Ghost-Edition-LED-Night-Flyer-Quadcopter-Frame-Kit-p-957592.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

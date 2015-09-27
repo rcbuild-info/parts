@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "FPV iLook+ Camera with RX LCD5802 Monitor & Carbon Fiber Mount",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Walkera-FPV-iLook-Camera-with-RX-LCD5802-Monitor-Carbon-Fiber-Mount-p-933412.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$320.00",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:55:54 GMT",
+   "url": "http://www.banggood.com/Walkera-FPV-iLook-Camera-with-RX-LCD5802-Monitor-Carbon-Fiber-Mount-p-933412.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

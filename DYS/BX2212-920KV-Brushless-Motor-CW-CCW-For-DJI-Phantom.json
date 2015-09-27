@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "BX2212 920KV Brushless Motor CW/CCW For DJI Phantom",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DYS-BX2212-KV920-Brushless-Motor-CWCCW-For-RC-Multicopters-p-936355.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$11.68",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:31 GMT",
+   "url": "http://www.banggood.com/DYS-BX2212-KV920-Brushless-Motor-CWCCW-For-RC-Multicopters-p-936355.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

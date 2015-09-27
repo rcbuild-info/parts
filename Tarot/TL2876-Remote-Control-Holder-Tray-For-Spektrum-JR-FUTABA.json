@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "TL2876 Remote Control Holder Tray For Spektrum JR FUTABA",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-TL2876-Remote-Control-Holder-Tray-For-Spektrum-JR-FUTABA-p-944060.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$41.27",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:58:30 GMT",
+   "url": "http://www.banggood.com/Tarot-TL2876-Remote-Control-Holder-Tray-For-Spektrum-JR-FUTABA-p-944060.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

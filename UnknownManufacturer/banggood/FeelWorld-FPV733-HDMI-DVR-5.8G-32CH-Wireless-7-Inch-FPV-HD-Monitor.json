@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FeelWorld FPV733 HDMI DVR 5.8G 32CH Wireless 7 Inch FPV HD Monitor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FeelWorld-FPV733-HDMI-DVR-5_8G-32CH-Wireless-7-Inch-FPV-HD-Monitor-p-986153.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$218.89",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:56:08 GMT",
+   "url": "http://www.banggood.com/FeelWorld-FPV733-HDMI-DVR-5_8G-32CH-Wireless-7-Inch-FPV-HD-Monitor-p-986153.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

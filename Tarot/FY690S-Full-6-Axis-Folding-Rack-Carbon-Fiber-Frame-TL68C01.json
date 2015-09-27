@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "FY690S Full 6 Axis Folding Rack Carbon Fiber Frame TL68C01",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-FY690S-Full-6-Axis-Folding-Rack-Carbon-Fiber-Frame-TL68C01-p-86635.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$114.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:10 GMT",
+   "url": "http://www.banggood.com/Tarot-FY690S-Full-6-Axis-Folding-Rack-Carbon-Fiber-Frame-TL68C01-p-86635.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

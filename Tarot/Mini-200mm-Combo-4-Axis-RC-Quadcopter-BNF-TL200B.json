@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "Mini 200mm Combo 4-Axis RC Quadcopter BNF TL200B",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-Mini-200mm-Combo-4-Axis-RC-Quadcopter-BNF-TL200B-p-967709.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$159.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 10 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:03 GMT",
+   "url": "http://www.banggood.com/Tarot-Mini-200mm-Combo-4-Axis-RC-Quadcopter-BNF-TL200B-p-967709.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

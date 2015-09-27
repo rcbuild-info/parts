@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HMF Totem Q250 250mm FPV 4 Axis Mini Quadcopter Frame Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/HMF-Totem-Q250-250mm-FPV-4-Axis-Mini-Quadcopter-Frame-Kit-p-965755.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$16.24",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:00:34 GMT",
+   "url": "http://www.banggood.com/HMF-Totem-Q250-250mm-FPV-4-Axis-Mini-Quadcopter-Frame-Kit-p-965755.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

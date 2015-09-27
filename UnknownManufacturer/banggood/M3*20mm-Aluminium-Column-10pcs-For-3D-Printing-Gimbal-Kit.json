@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3*20mm Aluminium Column 10pcs For 3D Printing Gimbal Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/M320mm-Aluminium-Column-10pcs-For-3D-Printing-Gimbal-Kit-p-951864.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:08 GMT",
+   "url": "http://www.banggood.com/M320mm-Aluminium-Column-10pcs-For-3D-Printing-Gimbal-Kit-p-951864.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

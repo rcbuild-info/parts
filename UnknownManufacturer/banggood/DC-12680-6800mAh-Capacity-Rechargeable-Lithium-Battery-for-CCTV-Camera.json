@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DC 12680 6800mAh Capacity Rechargeable Lithium Battery for CCTV Camera",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DC-12680-6800mAh-Capacity-Rechargeable-Lithium-Battery-for-CCTV-Camera-p-921264.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$21.56",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:55:49 GMT",
+   "url": "http://www.banggood.com/DC-12680-6800mAh-Capacity-Rechargeable-Lithium-Battery-for-CCTV-Camera-p-921264.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

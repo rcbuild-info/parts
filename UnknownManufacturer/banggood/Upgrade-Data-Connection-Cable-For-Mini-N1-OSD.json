@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Upgrade Data Connection Cable For Mini N1 OSD",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Data-Line-Upgrade-For-N1-Easy-To-Upgrade-Or-Adjust-Parameters-p-992596.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.73",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:10 GMT",
+   "url": "http://www.banggood.com/Data-Line-Upgrade-For-N1-Easy-To-Upgrade-Or-Adjust-Parameters-p-992596.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

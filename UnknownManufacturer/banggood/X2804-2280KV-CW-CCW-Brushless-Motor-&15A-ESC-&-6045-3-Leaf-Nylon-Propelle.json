@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "X2804 2280KV CW/CCW Brushless Motor &15A ESC & 6045 3-Leaf Nylon Propelle",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/X2804-2280KV-CWCCW-Brushless-Motor-15A-ESC-6045-3-Leaf-Nylon-Propelle-p-979291.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$65.93",
+   "stock_state": "in_stock",
+   "stock_text": "Only 5 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:23 GMT",
+   "url": "http://www.banggood.com/X2804-2280KV-CWCCW-Brushless-Motor-15A-ESC-6045-3-Leaf-Nylon-Propelle-p-979291.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

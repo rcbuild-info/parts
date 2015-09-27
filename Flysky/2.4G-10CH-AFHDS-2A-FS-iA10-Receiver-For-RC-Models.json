@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flysky",
  "name": "2.4G 10CH AFHDS 2A FS-iA10 Receiver For RC Models",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FlySky-2_4G-10CH-AFHDS-2A-FS-iA10-Receiver-For-RC-Models-p-972207.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$17.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:54 GMT",
+   "url": "http://www.banggood.com/FlySky-2_4G-10CH-AFHDS-2A-FS-iA10-Receiver-For-RC-Models-p-972207.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

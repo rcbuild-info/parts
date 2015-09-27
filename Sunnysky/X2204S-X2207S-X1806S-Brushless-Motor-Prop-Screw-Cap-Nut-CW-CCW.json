@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X2204S X2207S X1806S Brushless Motor Prop Screw Cap Nut CW CCW",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Sunnysky-X2204S-X2207S-X1806S-Brushless-Motor-Prop-Screw-Cap-Nut-CW-CCW-p-981051.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.70",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:53 GMT",
+   "url": "http://www.banggood.com/Sunnysky-X2204S-X2207S-X1806S-Brushless-Motor-Prop-Screw-Cap-Nut-CW-CCW-p-981051.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

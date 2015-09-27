@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "4045 Carbon Nylon CW/CCW Propeller For Mini Quadcopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gemfan-4045-Carbon-Nylon-CWCCW-Propeller-For-Mini-Quadcopter-p-963442.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.25",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:26 GMT",
+   "url": "http://www.banggood.com/Gemfan-4045-Carbon-Nylon-CWCCW-Propeller-For-Mini-Quadcopter-p-963442.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

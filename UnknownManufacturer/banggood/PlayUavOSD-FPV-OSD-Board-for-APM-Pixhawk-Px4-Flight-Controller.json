@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "PlayUavOSD FPV OSD Board for APM Pixhawk Px4 Flight Controller",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/PlayUavOSD-FPV-OSD-Board-for-APM-Pixhawk-Px4-Flight-Controller-p-982864.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$30.42",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:42 GMT",
+   "url": "http://www.banggood.com/PlayUavOSD-FPV-OSD-Board-for-APM-Pixhawk-Px4-Flight-Controller-p-982864.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

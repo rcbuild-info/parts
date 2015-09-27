@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "12x3.8 1238 Carbon Fiber Cw CCW Propeller For Rc Quadcopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/12x3_8-1238-Carbon-Fiber-Cw-CCW-Propeller-For-Rc-Quadcopter-p-923441.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 1 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:50 GMT",
+   "url": "http://www.banggood.com/12x3_8-1238-Carbon-Fiber-Cw-CCW-Propeller-For-Rc-Quadcopter-p-923441.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Pixhawk PX4 Flight Controller GPS Connection Cable 6 Pin",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Pixhawk-PX4-Flight-Controller-GPS-Connection-Cable-6-Pin-p-935612.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.89",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:00:43 GMT",
+   "url": "http://www.banggood.com/Pixhawk-PX4-Flight-Controller-GPS-Connection-Cable-6-Pin-p-935612.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

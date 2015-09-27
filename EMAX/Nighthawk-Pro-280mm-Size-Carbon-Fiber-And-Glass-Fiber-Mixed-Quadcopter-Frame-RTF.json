@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "Nighthawk Pro 280mm Size Carbon Fiber And Glass Fiber Mixed Quadcopter Frame RTF",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/EMAX-Nighthawk-Pro-280mm-Size-Carbon-Fiber-And-Glass-Fiber-Mixed-Quadcopter-Frame-RTF-p-984341.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$258.00",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:59:24 GMT",
+   "url": "http://www.banggood.com/EMAX-Nighthawk-Pro-280mm-Size-Carbon-Fiber-And-Glass-Fiber-Mixed-Quadcopter-Frame-RTF-p-984341.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

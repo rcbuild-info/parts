@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4X DYS BE1806 2300KV Brushless Motor with 4X DYS BL16A Mini 16A BLHeli ESC",
@@ -7,9 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/4X-DYS-BE1806-2300KV-Brushless-Motor-with-4X-DYS-BL16A-Mini-16A-BLHeli-ESC-p-995110.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$78.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:57:22 GMT",
+   "url": "http://www.banggood.com/4X-DYS-BE1806-2300KV-Brushless-Motor-with-4X-DYS-BL16A-Mini-16A-BLHeli-ESC-p-995110.html"
+  },
+  {
+   "location": "CN Warehouse",
+   "price": "$78.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:57:53 GMT",
+   "url": "http://www.banggood.com/4X-DYS-BE1806-2300KV-Brushless-Motor-with-4X-DYS-BL16A-Mini-16A-BLHeli-ESC-p-995111.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "Servo Program Card For ES08D ES9256 HV ES09MD ES3351 ES3352",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Emax-Servo-Program-Card-Emax-Steering-Gear-Programming-Card-p-942316.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$9.36",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:58:53 GMT",
+   "url": "http://www.banggood.com/Emax-Servo-Program-Card-Emax-Steering-Gear-Programming-Card-p-942316.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

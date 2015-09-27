@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 5.8G 5DB Mini PCB Flat Planar Antenna",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FPV-5_8G-5DB-Mini-PCB-Flat-Planar-Antenna-p-988177.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.59",
+   "stock_state": "in_stock",
+   "stock_text": "Only 9 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:50 GMT",
+   "url": "http://www.banggood.com/FPV-5_8G-5DB-Mini-PCB-Flat-Planar-Antenna-p-988177.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

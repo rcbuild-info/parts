@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 2 Axis Brushless Gimbal With Controller For DJI Phantom GoPro 3",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FPV-2-Axis-Brushless-Gimbal-With-Controller-For-DJI-Phantom-GoPro-3-p-908068.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:13 GMT",
+   "url": "http://www.banggood.com/FPV-2-Axis-Brushless-Gimbal-With-Controller-For-DJI-Phantom-GoPro-3-p-908068.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

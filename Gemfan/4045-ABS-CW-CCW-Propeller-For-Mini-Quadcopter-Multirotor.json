@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "4045 ABS CW/CCW Propeller For Mini Quadcopter Multirotor",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/2-Pairs-Gemfan-4045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-Multirotor-p-975231.html",
-   "http://www.banggood.com/Gemfan-4045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-Multirotor-p-963441.html",
-   "http://www.banggood.com/2-Pairs-Gemfan-4045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-Multirotor-p-975228.html",
-   "http://www.banggood.com/2-Pairs-Gemfan-4045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-Multirotor-p-980445.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.00",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:52 GMT",
+   "url": "http://www.banggood.com/2-Pairs-Gemfan-4045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-Multirotor-p-975228.html"
+  },
+  {
+   "location": "CN Warehouse",
+   "price": "$2.00",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:12 GMT",
+   "url": "http://www.banggood.com/2-Pairs-Gemfan-4045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-Multirotor-p-975231.html"
+  },
+  {
+   "location": "CN Warehouse",
+   "price": "$2.10",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:19 GMT",
+   "url": "http://www.banggood.com/2-Pairs-Gemfan-4045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-Multirotor-p-980445.html"
+  },
+  {
+   "location": "CN Warehouse",
+   "price": "$1.20",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:28 GMT",
+   "url": "http://www.banggood.com/Gemfan-4045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-Multirotor-p-963441.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

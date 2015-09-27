@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BS-880 Flight Control GPS Module With HMC5883L Electric Compass For APM 2.5 2.6 pixhawk",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/BS-880-Flight-Control-GPS-Module-With-Electric-HMC5883L-Compass-For-APM-25-26-p-995591.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$16.14",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:25 GMT",
+   "url": "http://www.banggood.com/BS-880-Flight-Control-GPS-Module-With-Electric-HMC5883L-Compass-For-APM-25-26-p-995591.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

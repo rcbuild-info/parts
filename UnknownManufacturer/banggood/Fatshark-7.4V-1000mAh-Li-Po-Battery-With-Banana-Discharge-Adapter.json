@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Fatshark 7.4V 1000mAh Li-Po Battery With Banana Discharge Adapter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FatShark-7_4V-1000mAh-Li-Po-Battery-Pack-With-Banana-Discharge-Adapter-p-915679.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$21.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:56:49 GMT",
+   "url": "http://www.banggood.com/FatShark-7_4V-1000mAh-Li-Po-Battery-Pack-With-Banana-Discharge-Adapter-p-915679.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

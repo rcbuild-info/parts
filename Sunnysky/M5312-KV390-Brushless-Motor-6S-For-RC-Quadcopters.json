@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "M5312 KV390 Brushless Motor 6S For RC Quadcopters",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Sunnysky-M5312-KV390-Brushless-Motor-6S-For-RC-Quadcopters-p-961224.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$69.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 10 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:00 GMT",
+   "url": "http://www.banggood.com/Sunnysky-M5312-KV390-Brushless-Motor-6S-For-RC-Quadcopters-p-961224.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

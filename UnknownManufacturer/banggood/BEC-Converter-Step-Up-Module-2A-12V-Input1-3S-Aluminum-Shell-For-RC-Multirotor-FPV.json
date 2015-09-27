@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BEC Converter Step-Up Module 2A 12V Input1-3S Aluminum Shell For RC Multirotor FPV",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/BEC-Converter-Step-Up-Module-FPV-Transmission-2A-12V-Input1-3S-Aluminum-Shell-p-981153.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$6.69",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:03:33 GMT",
+   "url": "http://www.banggood.com/BEC-Converter-Step-Up-Module-FPV-Transmission-2A-12V-Input1-3S-Aluminum-Shell-p-981153.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

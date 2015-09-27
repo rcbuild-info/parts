@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "TAROT TL2710-06 1045 Multi Rotor Parts 6mm CW/CCW Propeller Prop Set",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/TAROT-1045-RC-Quadcopter-Parts-White-6mm-CWCCW-Propeller-Prop-Set-p-944058.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.48",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:15 GMT",
+   "url": "http://www.banggood.com/TAROT-1045-RC-Quadcopter-Parts-White-6mm-CWCCW-Propeller-Prop-Set-p-944058.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "STARC 11.1V 8C 2200mAh Li-Poly Battery For Flysky Futaba Walkera Transmitter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/STARC-11_1V-8C-2200mAh-Li-Poly-Battery-For-Flysky-Futaba-Walkera-Transmitter-p-987461.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$11.57",
+   "stock_state": "in_stock",
+   "stock_text": "In stock , usually dispatched in 1-3 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:03:21 GMT",
+   "url": "http://www.banggood.com/STARC-11_1V-8C-2200mAh-Li-Poly-Battery-For-Flysky-Futaba-Walkera-Transmitter-p-987461.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

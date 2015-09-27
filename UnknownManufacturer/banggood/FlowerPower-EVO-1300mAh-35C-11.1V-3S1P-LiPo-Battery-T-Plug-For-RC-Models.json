@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FlowerPower EVO 1300mAh 35C 11.1V 3S1P LiPo Battery T Plug For RC Models",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FlowerPower-EVO-1300mAh-35C-11_1V-3S1P-LiPo-Battery-T-Plug-For-RC-Models-p-977962.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$15.64",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:06 GMT",
+   "url": "http://www.banggood.com/FlowerPower-EVO-1300mAh-35C-11_1V-3S1P-LiPo-Battery-T-Plug-For-RC-Models-p-977962.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

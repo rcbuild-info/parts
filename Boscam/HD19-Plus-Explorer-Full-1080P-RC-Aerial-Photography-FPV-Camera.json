@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "HD19 Plus Explorer Full 1080P RC Aerial Photography FPV Camera",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Boscam-HD19-Full-1080P-HD-RC-Aerial-Photography-FPV-Camera-p-907739.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:04 GMT",
+   "url": "http://www.banggood.com/Boscam-HD19-Full-1080P-HD-RC-Aerial-Photography-FPV-Camera-p-907739.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

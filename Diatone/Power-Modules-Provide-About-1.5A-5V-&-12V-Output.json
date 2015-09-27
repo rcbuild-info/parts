@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Diatone",
  "name": "Power Modules Provide About 1.5A 5V & 12V Output",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Diatone-Power-Modules-Provide-About-1_5A-5V-12V-Output-p-975759.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:08 GMT",
+   "url": "http://www.banggood.com/Diatone-Power-Modules-Provide-About-1_5A-5V-12V-Output-p-975759.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

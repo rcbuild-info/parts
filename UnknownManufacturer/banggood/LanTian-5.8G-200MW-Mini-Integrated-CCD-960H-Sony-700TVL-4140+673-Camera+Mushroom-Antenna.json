@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LanTian 5.8G 200MW Mini Integrated CCD 960H Sony 700TVL 4140+673 Camera+Mushroom Antenna",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/LanTian-5_8G-200MW-Mini-Integrated-CCD-960H-Sony-700TVL-4140673-CameraMushroom-Antenna-p-984875.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$50.59",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:31 GMT",
+   "url": "http://www.banggood.com/LanTian-5_8G-200MW-Mini-Integrated-CCD-960H-Sony-700TVL-4140673-CameraMushroom-Antenna-p-984875.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

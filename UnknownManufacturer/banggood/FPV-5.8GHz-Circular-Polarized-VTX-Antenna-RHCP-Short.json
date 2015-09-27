@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 5.8GHz Circular Polarized VTX Antenna RHCP Short",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FPV-5_8GHz-Circular-Polarized-VTX-Antenna-RHCP-Short-p-961732.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$4.69",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:48 GMT",
+   "url": "http://www.banggood.com/FPV-5_8GHz-Circular-Polarized-VTX-Antenna-RHCP-Short-p-961732.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

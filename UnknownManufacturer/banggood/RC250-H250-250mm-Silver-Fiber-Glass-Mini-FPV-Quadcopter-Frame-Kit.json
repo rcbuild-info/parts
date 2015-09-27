@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RC250 H250 250mm Silver Fiber Glass Mini FPV Quadcopter Frame Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/QAV250-H250-250mm-Silver-Fiber-Glass-Mini-FPV-Quadcopter-Frame-Kit-p-949613.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$23.66",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:24 GMT",
+   "url": "http://www.banggood.com/QAV250-H250-250mm-Silver-Fiber-Glass-Mini-FPV-Quadcopter-Frame-Kit-p-949613.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

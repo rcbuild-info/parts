@@ -13,28 +13,44 @@
  },
  "variants": [
   {
+   "price": "$19.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:34 GMT",
+   "url": "http://multirotormania.com/40-amp/435-ztw-spider-40amp-opto-esc.html"
+  },
+  {
+   "location": "CN Warehouse",
+   "price": "$14.59",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:04 GMT",
    "url": "http://www.banggood.com/ZTW-Spider-Series-40A-OPTO-Brushless-Speed-Control-ESC-p-919069.html"
   },
   {
-   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81223"
-  },
-  {
-   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81222"
+   "location": "CN Warehouse",
+   "price": "$11.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:03:01 GMT",
+   "url": "http://www.banggood.com/ZTW-Spider-Series-40A-OPTO-Small-Brushless-Speed-Control-ESC-p-946403.html"
   },
   {
    "url": "http://www.hobbyking.com/hobbyking/store/__81203__ZTW_Spider_Series_40A_OPTO_Multi_Rotor_ESC_2_6S_SimonK_Firmware_.html"
   },
   {
-   "url": "http://www.banggood.com/ZTW-Spider-Series-40A-OPTO-Small-Brushless-Speed-Control-ESC-p-946403.html"
+   "url": "http://www.hobbyking.com/hobbyking/store/__81207__ZTW_Spider_Series_40A_Small_OPTO_Multi_Rotor_ESC_2_6S_SimonK_Firmware_.html"
   },
   {
-   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81239"
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81222"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81223"
   },
   {
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81238"
   },
   {
-   "url": "http://www.hobbyking.com/hobbyking/store/__81207__ZTW_Spider_Series_40A_Small_OPTO_Multi_Rotor_ESC_2_6S_SimonK_Firmware_.html"
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81239"
   },
   {
    "url": "http://www.multirotorsuperstore.com/esc/ztw-spider-40a-opto-esc-simonk-rapidesc.html"
@@ -45,12 +61,6 @@
    "stock_text": "In stock",
    "timestamp": "Sat, 26 Sep 2015 02:48:41 GMT",
    "url": "http://www.multirotorsuperstore.com/ztw-spider-40a-opto-esc-simonk-rapidesc.html"
-  },
-  {
-   "price": "$19.00",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 22:41:34 GMT",
-   "url": "http://multirotormania.com/40-amp/435-ztw-spider-40amp-opto-esc.html"
   }
  ],
  "version": 2,

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5045 Fiberglass Nylon Propeller For 250mm Quadcopter CW/CCW",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/2-Pairs-Gemfan-5045-Fiberglass-Nylon-Propeller-For-250mm-Quadcopter-CWCCW-p-976120.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.79",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:56 GMT",
+   "url": "http://www.banggood.com/2-Pairs-Gemfan-5045-Fiberglass-Nylon-Propeller-For-250mm-Quadcopter-CWCCW-p-976120.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

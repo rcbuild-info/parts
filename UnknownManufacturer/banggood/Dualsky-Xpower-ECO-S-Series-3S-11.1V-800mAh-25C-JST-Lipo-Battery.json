@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dualsky Xpower ECO-S Series 3S 11.1V 800mAh 25C JST Lipo Battery",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Dualsky-Xpower-ECO-S-Series-3S-11_1V-800mAh-25C-Lipo-Battery-p-984515.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$10.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:14 GMT",
+   "url": "http://www.banggood.com/Dualsky-Xpower-ECO-S-Series-3S-11_1V-800mAh-25C-Lipo-Battery-p-984515.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

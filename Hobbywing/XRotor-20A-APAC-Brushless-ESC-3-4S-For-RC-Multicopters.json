@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "XRotor 20A APAC Brushless ESC 3-4S For RC Multicopters",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Hobbywing-XRotor-20A-APAC-Brushless-ESC-3-4S-For-RC-Multicopters-p-945929.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$9.61",
+   "stock_state": "in_stock",
+   "stock_text": "Expected restock on 12th October 2015",
+   "timestamp": "Sun, 27 Sep 2015 20:58:03 GMT",
+   "url": "http://www.banggood.com/Hobbywing-XRotor-20A-APAC-Brushless-ESC-3-4S-For-RC-Multicopters-p-945929.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

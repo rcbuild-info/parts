@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "VL2IN1 2 in 1 Low Voltage Alarm Buzzer with Indicator LED Battery Monitor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/VL2IN1-Voltage-Alarm-Alert-with-LED-p-989251.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:37 GMT",
+   "url": "http://www.banggood.com/VL2IN1-Voltage-Alarm-Alert-with-LED-p-989251.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

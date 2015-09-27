@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Immersion RC SpiroNet 8dBi Mini RHCP Right Hand Circular Polarized Patch Plate Antenna",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Immersion-RC-SpiroNet-8dBi-Mini-RHCP-Right-Hand-Circular-Polarized-Patch-Plate-Antenna-p-999342.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$28.49",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:58 GMT",
+   "url": "http://www.banggood.com/Immersion-RC-SpiroNet-8dBi-Mini-RHCP-Right-Hand-Circular-Polarized-Patch-Plate-Antenna-p-999342.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

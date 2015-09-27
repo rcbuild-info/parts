@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "FPV 32CH 5.8G 350mW Wireless Transmitter AV Video Transmission RC",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Boscam-32CH-5_8G-350mW-Wireless-Transmitter-Black-p-972370.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$28.98",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:17 GMT",
+   "url": "http://www.banggood.com/Boscam-32CH-5_8G-350mW-Wireless-Transmitter-Black-p-972370.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

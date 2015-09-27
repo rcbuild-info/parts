@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "Simonk Series 12A 20A 25A 30A 40A ESC For Quadcopter QAV250",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Emax-Simonk-Series-12A-20A-25A-30A-40A-ESC-For-Quadcopter-QAV-250-p-918126.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$8.60",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:13 GMT",
+   "url": "http://www.banggood.com/Emax-Simonk-Series-12A-20A-25A-30A-40A-ESC-For-Quadcopter-QAV-250-p-918126.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

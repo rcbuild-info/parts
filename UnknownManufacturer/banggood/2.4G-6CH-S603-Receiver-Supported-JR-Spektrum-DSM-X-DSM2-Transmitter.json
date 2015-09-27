@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2.4G 6CH S603 Receiver Supported JR Spektrum DSM-X DSM2 Transmitter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/2_4G-6CH-S603-Receiver-Supported-JR-Spektrun-DSM-X-DSM2-Transmitter-p-961733.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$12.80",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:25 GMT",
+   "url": "http://www.banggood.com/2_4G-6CH-S603-Receiver-Supported-JR-Spektrun-DSM-X-DSM2-Transmitter-p-961733.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

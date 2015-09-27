@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "Nano Series Mini 20A ESC Support OneShot 125 For RC Multirotors Aircrafts",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/EMAX-Nano-Series-Mini-20A-ESC-Support-OneShot-125-For-RC-Multirotors-Aircrafts-p-986139.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$12.94",
+   "stock_state": "backordered",
+   "stock_text": "Coming soon",
+   "timestamp": "Sun, 27 Sep 2015 20:59:27 GMT",
+   "url": "http://www.banggood.com/EMAX-Nano-Series-Mini-20A-ESC-Support-OneShot-125-For-RC-Multirotors-Aircrafts-p-986139.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "5030  3 Leaf Clover Propeller CW CCW A Pair TL250A03 TL250A02",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-250A-3-Leaf-Clover-Propeller-CW-CCW-A-Pair-TL250A03-TL250A02-p-965216.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.89",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:40 GMT",
+   "url": "http://www.banggood.com/Tarot-250A-3-Leaf-Clover-Propeller-CW-CCW-A-Pair-TL250A03-TL250A02-p-965216.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

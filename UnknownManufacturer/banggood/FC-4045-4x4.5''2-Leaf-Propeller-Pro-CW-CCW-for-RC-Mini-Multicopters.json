@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FC 4045 4x4.5''2-Leaf Propeller Pro CW/CCW for RC Mini Multicopters",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/4045-4x4_52-Leaf-Propeller-Pro-CWCCW-for-RC-Mini-Multicopters-p-973121.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.22",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:44 GMT",
+   "url": "http://www.banggood.com/4045-4x4_52-Leaf-Propeller-Pro-CWCCW-for-RC-Mini-Multicopters-p-973121.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

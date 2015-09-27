@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "X-uav One EPO 1800mm Wingspan FPV Aircraft Plane V tail PNP",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/X-uav-One-EPO-1800mm-Wingspan-FPV-Aircraft-Plane-V-tail-PNP-p-989592.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$239.99",
+   "stock_state": "backordered",
+   "stock_text": "Coming soon",
+   "timestamp": "Sun, 27 Sep 2015 20:56:22 GMT",
+   "url": "http://www.banggood.com/X-uav-One-EPO-1800mm-Wingspan-FPV-Aircraft-Plane-V-tail-PNP-p-989592.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

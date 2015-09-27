@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FCMODEL X4M350L Z16 380mm Carbon Fiber Floding CNC Process Quadcopter Frame Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FCMODEL-X4M350L-Z16-380mm-Carbon-Fiber-Floding-CNC-Process-Quadcopter-Frame-Kit-p-983964.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$129.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:59:24 GMT",
+   "url": "http://www.banggood.com/FCMODEL-X4M350L-Z16-380mm-Carbon-Fiber-Floding-CNC-Process-Quadcopter-Frame-Kit-p-983964.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

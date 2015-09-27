@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "5.8G FPV 600MW Image Transmission Receiver Set TL300N",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-5_8G-FPV-600MW-Image-Transmission-Receiver-Set-TL300N-p-961975.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$51.68",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:59 GMT",
+   "url": "http://www.banggood.com/Tarot-5_8G-FPV-600MW-Image-Transmission-Receiver-Set-TL300N-p-961975.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

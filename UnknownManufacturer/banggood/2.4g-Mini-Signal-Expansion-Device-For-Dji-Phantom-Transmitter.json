@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2.4g Mini Signal Expansion Device For Dji Phantom Transmitter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/2_4g-Mini-Signal-Expansion-Device-For-Dji-Phantom-Transmitter-p-923448.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$31.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:09 GMT",
+   "url": "http://www.banggood.com/2_4g-Mini-Signal-Expansion-Device-For-Dji-Phantom-Transmitter-p-923448.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

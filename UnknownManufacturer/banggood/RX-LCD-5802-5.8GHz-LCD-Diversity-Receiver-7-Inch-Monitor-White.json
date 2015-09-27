@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RX LCD 5802 5.8GHz LCD Diversity Receiver 7 Inch Monitor White",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/RX-LCD-5802-5_8GHz-LCD-Diversity-Receiver-7-Inch-Monitor-White-p-947343.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$139.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:26 GMT",
+   "url": "http://www.banggood.com/RX-LCD-5802-5_8GHz-LCD-Diversity-Receiver-7-Inch-Monitor-White-p-947343.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

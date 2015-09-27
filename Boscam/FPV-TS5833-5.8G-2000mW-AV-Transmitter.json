@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "FPV TS5833 5.8G 2000mW AV Transmitter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Boscam-FPV-TS5833-5_8G-2000mW-AV-Transmitter-p-90430.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$63.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:55:23 GMT",
+   "url": "http://www.banggood.com/Boscam-FPV-TS5833-5_8G-2000mW-AV-Transmitter-p-90430.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

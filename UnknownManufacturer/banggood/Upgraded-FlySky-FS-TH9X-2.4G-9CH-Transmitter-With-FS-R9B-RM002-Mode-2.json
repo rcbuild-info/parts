@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Upgraded FlySky FS-TH9X 2.4G 9CH Transmitter With FS-R9B RM002 Mode 2",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Wholesale-FlySky-Upgrade-FS-TH9X-FS-TH9XB-2_4G-9CH-RC-Remote-Control-Transmitter-Mode-2-p-47904.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$88.49",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:12 GMT",
+   "url": "http://www.banggood.com/Wholesale-FlySky-Upgrade-FS-TH9X-FS-TH9XB-2_4G-9CH-RC-Remote-Control-Transmitter-Mode-2-p-47904.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

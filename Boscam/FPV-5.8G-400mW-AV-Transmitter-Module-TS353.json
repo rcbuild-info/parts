@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "FPV 5.8G 400mW AV Transmitter Module TS353",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FPV-5_8G-400mW-AV-Transmitter-Module-TS353-p-73439.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$37.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:55 GMT",
+   "url": "http://www.banggood.com/FPV-5_8G-400mW-AV-Transmitter-Module-TS353-p-73439.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

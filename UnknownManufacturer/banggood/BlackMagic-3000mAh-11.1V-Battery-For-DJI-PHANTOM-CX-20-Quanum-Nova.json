@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BlackMagic 3000mAh 11.1V Battery For DJI PHANTOM CX-20 Quanum Nova",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/BlackMagic-3000mAh-11_1V-Battery-For-DJI-PHANTOM-CX-20-Quanum-Nova-p-946803.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$25.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:25 GMT",
+   "url": "http://www.banggood.com/BlackMagic-3000mAh-11_1V-Battery-For-DJI-PHANTOM-CX-20-Quanum-Nova-p-946803.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "Brushless 25A SimonK 4-in-1 Quadcopter ESC Built-in UBEC",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Emax-Quattro-25A-X4-UBEC-Multirotor-4-in-1-Brushless-ESC-Quadcopter-KK-p-931805.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$29.30",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:27 GMT",
+   "url": "http://www.banggood.com/Emax-Quattro-25A-X4-UBEC-Multirotor-4-in-1-Brushless-ESC-Quadcopter-KK-p-931805.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5X CC3D CC3D Atom RC Antenna Pedestal Antenna Box For RC Mutirotors",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/5X-CC3D-CC3D-Atom-RC-Antenna-Pedestal-Antenna-Box-For-RC-Mutirotors-p-974355.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.00",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:30 GMT",
+   "url": "http://www.banggood.com/5X-CC3D-CC3D-Atom-RC-Antenna-Pedestal-Antenna-Box-For-RC-Mutirotors-p-974355.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

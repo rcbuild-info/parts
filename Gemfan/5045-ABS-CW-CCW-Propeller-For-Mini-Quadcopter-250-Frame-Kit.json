@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5045 ABS CW/CCW Propeller For Mini Quadcopter 250 Frame Kit",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Gemfan-5045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-250-Frame-Kit-p-963448.html",
-   "http://www.banggood.com/2-Pairs-Gemfan-5045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-250-Frame-Kit-p-977955.html",
-   "http://www.banggood.com/2-Pairs-Gemfan-5045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-250-Frame-Kit-p-978912.html",
-   "http://www.banggood.com/2-Pairs-Gemfan-5045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-250-Frame-Kit-p-977956.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.12",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:56 GMT",
+   "url": "http://www.banggood.com/2-Pairs-Gemfan-5045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-250-Frame-Kit-p-977955.html"
+  },
+  {
+   "location": "CN Warehouse",
+   "price": "$2.12",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:53 GMT",
+   "url": "http://www.banggood.com/2-Pairs-Gemfan-5045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-250-Frame-Kit-p-977956.html"
+  },
+  {
+   "location": "CN Warehouse",
+   "price": "$2.12",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:00 GMT",
+   "url": "http://www.banggood.com/2-Pairs-Gemfan-5045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-250-Frame-Kit-p-978912.html"
+  },
+  {
+   "location": "CN Warehouse",
+   "price": "$1.24",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:21 GMT",
+   "url": "http://www.banggood.com/Gemfan-5045-ABS-CWCCW-Propeller-For-Mini-Quadcopter-250-Frame-Kit-p-963448.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

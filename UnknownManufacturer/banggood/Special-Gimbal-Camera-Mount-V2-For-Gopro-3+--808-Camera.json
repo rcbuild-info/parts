@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Special Gimbal Camera Mount V2 For Gopro 3+  808 Camera",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Special-Gimbal-Camera-Mount-V2-For-MOBIUS-Actioncam-808-Camera-p-951860.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$25.87",
+   "stock_state": "in_stock",
+   "stock_text": "Only 2 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:59 GMT",
+   "url": "http://www.banggood.com/Special-Gimbal-Camera-Mount-V2-For-MOBIUS-Actioncam-808-Camera-p-951860.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

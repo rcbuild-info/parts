@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Diatone",
  "name": "V3.1 BEC 5V Power Distribution Board For Blade 150 180 200 ET150",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Diatone-V3_1-BEC-5V-Power-Distribution-Board-For-Blade-150-180-200-ET150-p-986913.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:29 GMT",
+   "url": "http://www.banggood.com/Diatone-V3_1-BEC-5V-Power-Distribution-Board-For-Blade-150-180-200-ET150-p-986913.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Aomway",
  "name": "5.8GHz FPV 4 Leaf Clover AV Transmission RHCP Antenna 1 Pair Blue Red",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Aomway-5_8GHz-FPV-4-Leaf-Clover-AV-Transmission-RHCP-Antenna-1-Pair-p-961730.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:36 GMT",
+   "url": "http://www.banggood.com/Aomway-5_8GHz-FPV-4-Leaf-Clover-AV-Transmission-RHCP-Antenna-1-Pair-p-961730.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

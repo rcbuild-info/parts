@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Alexmos 3 Axis Brushless Gimbal Controller BGC V3.3 DRV8313 Driver",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Alexmos-3-Axis-Brushless-Gimbal-Controller-BGC-V3_3-DRV8313-Driver-p-957362.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$31.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:56:55 GMT",
+   "url": "http://www.banggood.com/Alexmos-3-Axis-Brushless-Gimbal-Controller-BGC-V3_3-DRV8313-Driver-p-957362.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

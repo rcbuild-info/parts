@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1045 Propeller 10in 10x4.5 CW/CCW For Quadcopter And Multirotor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/1045-Propeller-10in-10x4_5-CWCCW-For-Quadcopter-And-Multirotor-p-933186.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.63",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:22 GMT",
+   "url": "http://www.banggood.com/1045-Propeller-10in-10x4_5-CWCCW-For-Quadcopter-And-Multirotor-p-933186.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

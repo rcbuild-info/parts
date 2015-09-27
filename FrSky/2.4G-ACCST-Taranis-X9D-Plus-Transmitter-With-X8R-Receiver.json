@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "2.4G ACCST Taranis X9D Plus Transmitter With X8R Receiver",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FrSky-2_4G-ACCST-Taranis-X9D-Plus-Transmitter-p-940819.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$250.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:13 GMT",
+   "url": "http://www.banggood.com/FrSky-2_4G-ACCST-Taranis-X9D-Plus-Transmitter-p-940819.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

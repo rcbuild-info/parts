@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "800TVL FPV Double DSP HD CMOS Camera Lens for QAV250 Multicopters",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/800TVL-FPV-Double-DSP-HD-COMS-Camera-Lens-for-QAV250-Multicopters-p-971906.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$13.20",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:47 GMT",
+   "url": "http://www.banggood.com/800TVL-FPV-Double-DSP-HD-COMS-Camera-Lens-for-QAV250-Multicopters-p-971906.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "PM1306 2800KV The First Plastic Brushless Motor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Emax-PM1306-2800KV-The-First-Plastic-Brushless-Motor-p-957753.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:23 GMT",
+   "url": "http://www.banggood.com/Emax-PM1306-2800KV-The-First-Plastic-Brushless-Motor-p-957753.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

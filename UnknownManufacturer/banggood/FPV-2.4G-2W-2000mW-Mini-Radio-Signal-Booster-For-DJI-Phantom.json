@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 2.4G 2W 2000mW Mini Radio Signal Booster For DJI Phantom",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FPV-2_4G-2W-2000mW-Mini-Radio-Signal-Booster-For-DJI-Phantom-p-965221.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$26.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:39 GMT",
+   "url": "http://www.banggood.com/FPV-2_4G-2W-2000mW-Mini-Radio-Signal-Booster-For-DJI-Phantom-p-965221.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

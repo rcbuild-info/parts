@@ -13,19 +13,35 @@
  },
  "variants": [
   {
+   "price": "$15.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:32 GMT",
+   "url": "http://multirotormania.com/20-amp/433-ztw-spider-20-amp-opto-esc.html"
+  },
+  {
+   "location": "CN Warehouse",
+   "price": "$9.36",
+   "stock_state": "in_stock",
+   "stock_text": "In stock , usually dispatched in 1-3 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:03:22 GMT",
    "url": "http://www.banggood.com/ZTW-Spider-Series-20A-OPTO-Brushless-Speed-Control-ESC-p-85717.html"
   },
   {
-   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81215"
-  },
-  {
-   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81214"
+   "location": "CN Warehouse",
+   "price": "$11.18",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:37 GMT",
+   "url": "http://www.banggood.com/ZTW-Spider-Series-20A-OPTO-Small-ESC-With-SimonK-Program-p-982595.html"
   },
   {
    "url": "http://www.hobbyking.com/hobbyking/store/__81201__ZTW_Spider_Series_20A_OPTO_Multi_Rotor_ESC_2_6S_SimonK_Firmware_.html"
   },
   {
-   "url": "http://www.banggood.com/ZTW-Spider-Series-20A-OPTO-Small-ESC-With-SimonK-Program-p-982595.html"
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81214"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81215"
   },
   {
    "url": "http://www.multirotorsuperstore.com/esc/esc-by-firmware/ztw-spider-20a-opto-esc-simonk-rapidesc.html"
@@ -36,12 +52,6 @@
    "stock_text": "In stock",
    "timestamp": "Sat, 26 Sep 2015 02:48:43 GMT",
    "url": "http://www.multirotorsuperstore.com/ztw-spider-20a-opto-esc-simonk-rapidesc.html"
-  },
-  {
-   "price": "$15.00",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 22:41:32 GMT",
-   "url": "http://multirotormania.com/20-amp/433-ztw-spider-20-amp-opto-esc.html"
   }
  ],
  "version": 2,

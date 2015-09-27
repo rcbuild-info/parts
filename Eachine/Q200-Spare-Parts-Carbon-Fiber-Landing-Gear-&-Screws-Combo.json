@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Eachine",
  "name": "Q200 Spare Parts Carbon Fiber Landing Gear & Screws Combo",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Eachine-Q200-Spare-Parts-Carbon-Fiber-Landing-Gear-Screws-Combo-p-973418.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.58",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:01:37 GMT",
+   "url": "http://www.banggood.com/Eachine-Q200-Spare-Parts-Carbon-Fiber-Landing-Gear-Screws-Combo-p-973418.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

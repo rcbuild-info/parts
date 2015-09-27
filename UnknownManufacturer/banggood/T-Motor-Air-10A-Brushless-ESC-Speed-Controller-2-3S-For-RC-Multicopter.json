@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "T-Motor Air 10A Brushless ESC Speed Controller 2-3S For RC Multicopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/T-Motor-Air-10A-Brushless-ESC-Speed-Controller-2-3S-For-RC-Multicopter-p-967439.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$12.02",
+   "stock_state": "in_stock",
+   "stock_text": "Only 12 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:03 GMT",
+   "url": "http://www.banggood.com/T-Motor-Air-10A-Brushless-ESC-Speed-Controller-2-3S-For-RC-Multicopter-p-967439.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1.5W 12V G4 LED CNC Aluminium Alloy Searchlight For Quadcopter Multicopter Night Lights",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/1_5W-12V-G4-LED-CNC-Aluminium-Alloy-Searchlight-For-Quadcopter-Multicopter-Night-Lights-p-983217.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.09",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:29 GMT",
+   "url": "http://www.banggood.com/1_5W-12V-G4-LED-CNC-Aluminium-Alloy-Searchlight-For-Quadcopter-Multicopter-Night-Lights-p-983217.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

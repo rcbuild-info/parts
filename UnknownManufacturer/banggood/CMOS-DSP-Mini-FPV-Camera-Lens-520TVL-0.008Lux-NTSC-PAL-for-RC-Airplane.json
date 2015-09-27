@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "CMOS DSP Mini FPV Camera Lens 520TVL 0.008Lux NTSC PAL for RC Airplane",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/CMOS-DSP-Mini-FPV-Camera-Lens-520TVL-0_008Lux-NTSC-PAL-for-RC-Airplane-p-956187.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$35.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 4 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:59 GMT",
+   "url": "http://www.banggood.com/CMOS-DSP-Mini-FPV-Camera-Lens-520TVL-0_008Lux-NTSC-PAL-for-RC-Airplane-p-956187.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "30CM Extension Cable 3.5MM Banana Head Silicon Cable For Motor ESC",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/30CM-Extension-Cable-3_5MM-Banana-Head-Silicon-Cable-For-Motor-ESC-p-967711.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.08",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:47 GMT",
+   "url": "http://www.banggood.com/30CM-Extension-Cable-3_5MM-Banana-Head-Silicon-Cable-For-Motor-ESC-p-967711.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

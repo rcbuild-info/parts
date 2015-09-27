@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "FPV 5.8G 10mW Wireless Audio Video Transmitter Module TX5813",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/FPV-5_8G-10mW-Wireless-Audio-Video-Transmitter-Module-TX5813-p-84761.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$8.09",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:56:27 GMT",
+   "url": "http://www.banggood.com/FPV-5_8G-10mW-Wireless-Audio-Video-Transmitter-Module-TX5813-p-84761.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

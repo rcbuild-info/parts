@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LED Light Remote Control Switch Module For RC Quadcopter FPV",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/LED-Light-Remote-Control-Switch-Module-For-RC-Quadcopter-FPV-p-980207.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:00:17 GMT",
+   "url": "http://www.banggood.com/LED-Light-Remote-Control-Switch-Module-For-RC-Quadcopter-FPV-p-980207.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

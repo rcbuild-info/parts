@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "CRIUS CO-16 OLED Display Module V1.0 For MWC MultiWii Flight Control",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/CRIUS-CO-16-OLED-Display-Module-V1_0-For-MWC-MultiWii-Flight-Control-p-90163.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$6.28",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:17 GMT",
+   "url": "http://www.banggood.com/CRIUS-CO-16-OLED-Display-Module-V1_0-For-MWC-MultiWii-Flight-Control-p-90163.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

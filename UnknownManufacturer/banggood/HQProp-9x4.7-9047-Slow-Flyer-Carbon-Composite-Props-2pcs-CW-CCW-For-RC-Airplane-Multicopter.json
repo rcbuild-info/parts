@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HQProp 9x4.7 9047 Slow Flyer Carbon Composite Props 2pcs CW/CCW For RC Airplane Multicopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/HQ-Prop-9x4_7-9047-Slow-Flyer-Carbon-Composite-Props-2pcs-CWCCW-For-RC-Airplane-Multicopter-p-998552.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$5.59",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:31 GMT",
+   "url": "http://www.banggood.com/HQ-Prop-9x4_7-9047-Slow-Flyer-Carbon-Composite-Props-2pcs-CWCCW-For-RC-Airplane-Multicopter-p-998552.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

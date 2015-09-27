@@ -13,9 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://www.banggood.com/ZTW-Spider-Series-18A-OPTO-ESC-With-SimonK-Oneshot-Program-p-983660.html"
-  },
-  {
    "price": "$12.00",
    "stock_state": "in_stock",
    "stock_text": "In stock",
@@ -26,6 +23,14 @@
    "price": "$15.00",
    "timestamp": "Sat, 26 Sep 2015 22:41:38 GMT",
    "url": "http://multirotormania.com/20-amp/1094-ztw-spider-18-amp-lite-opto-esc.html"
+  },
+  {
+   "location": "CN Warehouse",
+   "price": "$10.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:23 GMT",
+   "url": "http://www.banggood.com/ZTW-Spider-Series-18A-OPTO-ESC-With-SimonK-Oneshot-Program-p-983660.html"
   }
  ],
  "version": 2,

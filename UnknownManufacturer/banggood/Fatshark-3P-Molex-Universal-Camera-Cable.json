@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Fatshark 3P Molex Universal Camera Cable",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Fatshark-3P-Molex-Universal-Camera-Cable-360mm-p-964860.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.89",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:40 GMT",
+   "url": "http://www.banggood.com/Fatshark-3P-Molex-Universal-Camera-Cable-360mm-p-964860.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

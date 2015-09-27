@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI Phantom 3 Professional/ Advanced Anti-Vibration Gimbal Mounting Plate",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DJI-Phantom-3-Professional-Advanced-Anti-Vibration-Gimbal-Mounting-Plate-p-993929.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$11.39",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:00:13 GMT",
+   "url": "http://www.banggood.com/DJI-Phantom-3-Professional-Advanced-Anti-Vibration-Gimbal-Mounting-Plate-p-993929.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

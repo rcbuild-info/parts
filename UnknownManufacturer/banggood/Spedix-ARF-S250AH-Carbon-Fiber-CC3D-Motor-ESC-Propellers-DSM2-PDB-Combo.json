@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Spedix ARF S250AH Carbon Fiber CC3D Motor ESC Propellers DSM2 PDB Combo",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Spedix-ARF-S250AH-Carbon-Fiber-CC3D-Motor-ESC-Propellers-DSM2-PDB-Combo-p-981963.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$169.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 25 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:57:29 GMT",
+   "url": "http://www.banggood.com/Spedix-ARF-S250AH-Carbon-Fiber-CC3D-Motor-ESC-Propellers-DSM2-PDB-Combo-p-981963.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SMA Male RF Coaxial Termination Matched Dummy Load 50 Ohm",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/SMA-Male-RF-Coaxial-Termination-Matched-Dummy-Load-50-Ohm-p-927353.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.69",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:12 GMT",
+   "url": "http://www.banggood.com/SMA-Male-RF-Coaxial-Termination-Matched-Dummy-Load-50-Ohm-p-927353.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

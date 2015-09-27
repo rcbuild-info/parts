@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "G-2D FPV Gimbal Spare Parts Wire Set G-2D-Z-04(M)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Walkera-G2D-FPV-Gimbal-Spare-Parts-Wire-Set-G2DZ04M-p-926790.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.80",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:55:14 GMT",
+   "url": "http://www.banggood.com/Walkera-G2D-FPV-Gimbal-Spare-Parts-Wire-Set-G2DZ04M-p-926790.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

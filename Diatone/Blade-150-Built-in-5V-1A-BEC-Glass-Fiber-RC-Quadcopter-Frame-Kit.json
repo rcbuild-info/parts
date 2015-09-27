@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Diatone",
  "name": "Blade 150 Built-in 5V 1A BEC Glass Fiber RC Quadcopter Frame Kit",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Diatone-Blade-150-Glass-Fiber-PCB-Frame-Kit-w-LED-Decoration-Board-p-976128.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:59 GMT",
+   "url": "http://www.banggood.com/Diatone-Blade-150-Glass-Fiber-PCB-Frame-Kit-w-LED-Decoration-Board-p-976128.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

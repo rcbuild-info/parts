@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "iMAX B6-AC B6AC Lipo NiMH 3S RC Battery Balance Charger",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/IMAX-B6-AC-B6AC-Lipo-NiMH-3S-RC-Battery-Balance-Charger-p-908064.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$32.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:54:22 GMT",
+   "url": "http://www.banggood.com/IMAX-B6-AC-B6AC-Lipo-NiMH-3S-RC-Battery-Balance-Charger-p-908064.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

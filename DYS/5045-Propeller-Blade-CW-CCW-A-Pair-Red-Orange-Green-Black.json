@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DYS",
  "name": "5045 Propeller Blade CW CCW A Pair Red Orange Green Black",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DYS-5045-Propeller-Blade-CW-CCW-A-Pair-Red-Orange-Green-Black-p-986154.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:53 GMT",
+   "url": "http://www.banggood.com/DYS-5045-Propeller-Blade-CW-CCW-A-Pair-Red-Orange-Green-Black-p-986154.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

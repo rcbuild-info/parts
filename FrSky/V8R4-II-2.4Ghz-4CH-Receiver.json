@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "V8R4-II 2.4Ghz 4CH Receiver",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Wholesale-FrSky-V8R4-II-2_4Ghz-4CH-Receiver-p-68589.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$18.20",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "timestamp": "Sun, 27 Sep 2015 20:58:06 GMT",
+   "url": "http://www.banggood.com/Wholesale-FrSky-V8R4-II-2_4Ghz-4CH-Receiver-p-68589.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

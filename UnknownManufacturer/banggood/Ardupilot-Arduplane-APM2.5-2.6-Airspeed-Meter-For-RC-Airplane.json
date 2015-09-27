@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Ardupilot Arduplane APM2.5 2.6 Airspeed Meter For RC Airplane",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Ardupilot-Arduplane-APM2_5-2_6-Airspeed-Meter-For-RC-Airplane-p-961077.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$18.13",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:59:00 GMT",
+   "url": "http://www.banggood.com/Ardupilot-Arduplane-APM2_5-2_6-Airspeed-Meter-For-RC-Airplane-p-961077.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

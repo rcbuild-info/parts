@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X2208 1500KV Brushless Motor For RC Model",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Sunnysky-X2208-1500KV-Brushless-Motor-For-RC-Model-p-78199.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$16.60",
+   "stock_state": "in_stock",
+   "stock_text": "Expected restock on 8th October 2015",
+   "timestamp": "Sun, 27 Sep 2015 21:01:58 GMT",
+   "url": "http://www.banggood.com/Sunnysky-X2208-1500KV-Brushless-Motor-For-RC-Model-p-78199.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Matek RGB 5050 LED Lamp Panel 16V 4S Lipo 7 Colors Switch For FPV Helicopter Multi-axis",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Matek-RGB-5050-LED-Lamp-Panel-16V-4S-Lipo-7-Colors-Switch-For-FPV-Helicopter-Multi-axis-p-985685.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.11",
+   "stock_state": "in_stock",
+   "stock_text": "In stock , usually dispatched in 1-3 business days",
+   "timestamp": "Sun, 27 Sep 2015 21:02:55 GMT",
+   "url": "http://www.banggood.com/Matek-RGB-5050-LED-Lamp-Panel-16V-4S-Lipo-7-Colors-Switch-For-FPV-Helicopter-Multi-axis-p-985685.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

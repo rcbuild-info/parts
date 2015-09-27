@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DYX-0010 11.1V 3S Battery Charging Charge Cable 3 In 1 For QAV250 GE260",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/DYX-0010-11_1V-3S-Battery-Charging-Charge-Cable-3-In-1-For-QAV250-GE260-p-979384.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.25",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:21 GMT",
+   "url": "http://www.banggood.com/DYX-0010-11_1V-3S-Battery-Charging-Charge-Cable-3-In-1-For-QAV250-GE260-p-979384.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

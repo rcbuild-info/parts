@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "SkyWalker 25A 4 In 1 Brushless ESC Speed Controller",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Hobbywing-SkyWalker-25A-4-In-1-Brushless-ESC-Speed-Controller--p-70387.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$34.48",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:33 GMT",
+   "url": "http://www.banggood.com/Hobbywing-SkyWalker-25A-4-In-1-Brushless-ESC-Speed-Controller--p-70387.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

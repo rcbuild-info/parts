@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "7dB Patch Module Antenna",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Wholesale-FrSky-7dB-Patch-Module-Antenna-p-68704.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$8.50",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:55:27 GMT",
+   "url": "http://www.banggood.com/Wholesale-FrSky-7dB-Patch-Module-Antenna-p-68704.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

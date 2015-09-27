@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "Scout X4 TALI H500 QR X350 Pro FPV Gopro3+ AV Cable",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Walkera-QR-X350Pro-FPV-Gopro-Hero-3-Camera-AV-Output-Adaption-Cable-p-922924.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:02:36 GMT",
+   "url": "http://www.banggood.com/Walkera-QR-X350Pro-FPV-Gopro-Hero-3-Camera-AV-Output-Adaption-Cable-p-922924.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

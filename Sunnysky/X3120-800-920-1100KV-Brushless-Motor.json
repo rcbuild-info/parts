@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X3120 800/920/1100KV Brushless Motor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Sunnysky-X3120-8009201100KV-Brushless-Motor-p-995602.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$41.89",
+   "stock_state": "backordered",
+   "stock_text": "Coming soon",
+   "timestamp": "Sun, 27 Sep 2015 20:59:09 GMT",
+   "url": "http://www.banggood.com/Sunnysky-X3120-8009201100KV-Brushless-Motor-p-995602.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

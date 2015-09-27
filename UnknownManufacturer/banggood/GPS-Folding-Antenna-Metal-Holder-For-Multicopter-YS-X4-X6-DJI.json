@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GPS Folding Antenna Metal Holder For Multicopter YS X4 X6 DJI",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/GPS-Folding-Antenna-Metal-Holder-For-Multicopter-YS-X4-X6-DJI-p-86774.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$4.08",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 20:58:32 GMT",
+   "url": "http://www.banggood.com/GPS-Folding-Antenna-Metal-Holder-For-Multicopter-YS-X4-X6-DJI-p-86774.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

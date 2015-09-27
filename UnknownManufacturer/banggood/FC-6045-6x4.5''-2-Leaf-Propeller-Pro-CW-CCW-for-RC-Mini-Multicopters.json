@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FC 6045 6x4.5'' 2-Leaf Propeller Pro CW/CCW for RC Mini Multicopters",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/6045-6x4_5-2-Leaf-Propeller-Pro-CWCCW-for-RC-Mini-Multicopters-p-973119.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$2.33",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:01:00 GMT",
+   "url": "http://www.banggood.com/6045-6x4_5-2-Leaf-Propeller-Pro-CWCCW-for-RC-Mini-Multicopters-p-973119.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

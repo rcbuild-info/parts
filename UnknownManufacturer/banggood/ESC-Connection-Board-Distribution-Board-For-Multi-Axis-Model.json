@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ESC Connection Board Distribution Board For Multi-Axis Model",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/ESC-Connection-Board-Distribution-Board-For-Multi-Axis-Model-p-941273.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "USA Warehouse",
+   "price": "$4.29",
+   "stock_state": "in_stock",
+   "stock_text": "Only 11 units,dispatched in 1 business day",
+   "timestamp": "Sun, 27 Sep 2015 21:03:15 GMT",
+   "url": "http://www.banggood.com/ESC-Connection-Board-Distribution-Board-For-Multi-Axis-Model-p-941273.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
