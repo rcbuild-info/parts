@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Simple Motor Mount Discs",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/simple-motor-mount-discs/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:14 GMT",
+   "url": "http://store.flitetest.com/simple-motor-mount-discs/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

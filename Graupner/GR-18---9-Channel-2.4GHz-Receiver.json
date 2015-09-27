@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Graupner",
  "name": "GR-18 - 9 Channel 2.4GHz Receiver",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/graupner-gr-18-9-channel-2-4ghz-receiver/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:41 GMT",
+   "url": "http://store.flitetest.com/graupner-gr-18-9-channel-2-4ghz-receiver/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

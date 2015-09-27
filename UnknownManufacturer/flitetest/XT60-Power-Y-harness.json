@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XT60 Power Y-harness",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/xt60-power-y-harness/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:42 GMT",
+   "url": "http://store.flitetest.com/xt60-power-y-harness/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

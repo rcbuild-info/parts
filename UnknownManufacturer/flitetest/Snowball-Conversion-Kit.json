@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Snowball Conversion Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/snowball-conversion-kit/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:01 GMT",
+   "url": "http://store.flitetest.com/snowball-conversion-kit/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Lipo Storage Bags",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/lipo-storage-bags/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:56 GMT",
+   "url": "http://store.flitetest.com/lipo-storage-bags/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

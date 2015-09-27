@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Adtech Pro200 Glue Gun (200 Watt)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/adtech-pro200-glue-gun-200-watt/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$39.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:48 GMT",
+   "url": "http://store.flitetest.com/adtech-pro200-glue-gun-200-watt/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

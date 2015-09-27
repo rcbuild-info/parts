@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Female XT60 connectors (5pcs/bag)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/female-xt60-connectors-5pcs-bag/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.50",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:24 GMT",
+   "url": "http://store.flitetest.com/female-xt60-connectors-5pcs-bag/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

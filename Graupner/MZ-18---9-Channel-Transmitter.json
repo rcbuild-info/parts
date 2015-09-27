@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Graupner",
  "name": "MZ-18 - 9 Channel Transmitter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/graupner-mz-18-9-channel-transmitter/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$333.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:37 GMT",
+   "url": "http://store.flitetest.com/graupner-mz-18-9-channel-transmitter/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

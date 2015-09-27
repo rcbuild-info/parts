@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flite Test",
  "name": "Zip-up Hoodie",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/flite-test-zip-up-hoodie/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$35.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:45 GMT",
+   "url": "http://store.flitetest.com/flite-test-zip-up-hoodie/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

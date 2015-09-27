@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Tough Tilt Servo - ES3154 Emax",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/tough-tilt-servo-es3154-emax/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:42 GMT",
+   "url": "http://store.flitetest.com/tough-tilt-servo-es3154-emax/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

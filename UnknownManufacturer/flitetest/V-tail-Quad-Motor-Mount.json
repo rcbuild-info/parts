@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "V-tail Quad Motor Mount",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/v-tail-quad-motor-mount/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:13 GMT",
+   "url": "http://store.flitetest.com/v-tail-quad-motor-mount/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

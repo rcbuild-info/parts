@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "18\" Matte Frosted FT Logo Decal",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/18-matte-frosted-ft-logo-decal/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:27 GMT",
+   "url": "http://store.flitetest.com/18-matte-frosted-ft-logo-decal/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

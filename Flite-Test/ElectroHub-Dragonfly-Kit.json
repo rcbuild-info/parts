@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Flite Test",
  "name": "ElectroHub Dragonfly",
@@ -9,9 +11,16 @@
   "manufacturer": [
    "http://store.flitetest.com/electrohub-dragonfly-kit/"
   ],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/electrohub-dragonfly-kit/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$50.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:10 GMT",
+   "url": "http://store.flitetest.com/electrohub-dragonfly-kit/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

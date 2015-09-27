@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Landing Gear Kit (2 pk)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/landing-gear-kit-2-pk/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:57 GMT",
+   "url": "http://store.flitetest.com/landing-gear-kit-2-pk/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

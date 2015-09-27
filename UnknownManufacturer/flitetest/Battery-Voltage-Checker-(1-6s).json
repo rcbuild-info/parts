@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Battery Voltage Checker (1-6s)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/battery-voltage-checker-1-6s/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:25 GMT",
+   "url": "http://store.flitetest.com/battery-voltage-checker-1-6s/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

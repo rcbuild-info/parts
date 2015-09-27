@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "800mAh 3s 20c Lipo Battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/800mah-3s-20c-lipo-battery/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.50",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:44 GMT",
+   "url": "http://store.flitetest.com/800mah-3s-20c-lipo-battery/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

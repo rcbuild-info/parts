@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10\"x0.56\" Carbon Fiber Round Boom",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/10x0-56-carbon-fiber-round-boom/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:09 GMT",
+   "url": "http://store.flitetest.com/10x0-56-carbon-fiber-round-boom/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Vector Flight Controller +OSD",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/vector-flight-controller-osd/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$238.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:36 GMT",
+   "url": "http://store.flitetest.com/vector-flight-controller-osd/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

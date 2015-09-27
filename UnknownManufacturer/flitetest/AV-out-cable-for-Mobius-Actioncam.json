@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "AV out cable for Mobius Actioncam",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/av-out-cable-for-mobius-actioncam/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:43 GMT",
+   "url": "http://store.flitetest.com/av-out-cable-for-mobius-actioncam/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

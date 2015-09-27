@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3 Pack Swappable Speed Build Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/3-pack-swappable-speed-build-kit/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$33.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:26 GMT",
+   "url": "http://store.flitetest.com/3-pack-swappable-speed-build-kit/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

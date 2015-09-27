@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "VersaCopter 280 Quad Frame Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/versacopter-280-quad-frame-kit/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:20 GMT",
+   "url": "http://store.flitetest.com/versacopter-280-quad-frame-kit/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

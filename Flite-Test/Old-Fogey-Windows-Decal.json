@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flite Test",
  "name": "Old Fogey Windows Decal",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/ft-old-fogey-windows-decal/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:50 GMT",
+   "url": "http://store.flitetest.com/ft-old-fogey-windows-decal/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

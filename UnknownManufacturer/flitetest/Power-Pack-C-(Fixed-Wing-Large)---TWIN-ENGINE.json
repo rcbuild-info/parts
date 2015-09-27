@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Power Pack C (Fixed Wing Large) - TWIN ENGINE",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/power-pack-c-fixed-wing-large-twin-engine/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$95.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:20 GMT",
+   "url": "http://store.flitetest.com/power-pack-c-fixed-wing-large-twin-engine/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

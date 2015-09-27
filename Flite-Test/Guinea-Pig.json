@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flite Test",
  "name": "Guinea Pig",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/ft-guinea-pig/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$46.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:52 GMT",
+   "url": "http://store.flitetest.com/ft-guinea-pig/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 x 20mm Stainless Pack [Button]",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/m3-x-20mm-stainless-pack-button/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:56 GMT",
+   "url": "http://store.flitetest.com/m3-x-20mm-stainless-pack-button/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

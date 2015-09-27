@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flite Test",
  "name": "Elements Simple Glider Tow Release",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/ft-elements-simple-glider-tow-release/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:53 GMT",
+   "url": "http://store.flitetest.com/ft-elements-simple-glider-tow-release/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

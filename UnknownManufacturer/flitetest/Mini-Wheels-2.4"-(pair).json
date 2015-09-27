@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini Wheels 2.4\" (pair)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/mini-wheels-2-4-pair/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:02 GMT",
+   "url": "http://store.flitetest.com/mini-wheels-2-4-pair/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

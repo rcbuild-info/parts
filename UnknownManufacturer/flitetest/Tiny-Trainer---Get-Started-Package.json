@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Tiny Trainer - Get Started Package",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/tiny-trainer-get-started-package/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$175.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:00 GMT",
+   "url": "http://store.flitetest.com/tiny-trainer-get-started-package/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

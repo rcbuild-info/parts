@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Rotor DR1 T-Shirt",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/rotor-dr1-t-shirt/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$20.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:35 GMT",
+   "url": "http://store.flitetest.com/rotor-dr1-t-shirt/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

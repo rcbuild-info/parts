@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Naze32 (acro) flight controller board",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/naze32-acro-flight-controller-board/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:42 GMT",
+   "url": "http://store.flitetest.com/naze32-acro-flight-controller-board/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

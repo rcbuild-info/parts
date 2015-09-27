@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Graupner",
  "name": "MZ-24 12 Channel Transmitter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/graupner-mz-24-12-channel-transmitter/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$444.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:36 GMT",
+   "url": "http://store.flitetest.com/graupner-mz-24-12-channel-transmitter/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Simple Delrin Landing Gear",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/simple-delrin-landing-gear/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:15 GMT",
+   "url": "http://store.flitetest.com/simple-delrin-landing-gear/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

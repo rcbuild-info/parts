@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Graupner",
  "name": "MZ-10 - 5 Channel Transmitter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/graupner-mz-10-5-channel-transmitter/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:41 GMT",
+   "url": "http://store.flitetest.com/graupner-mz-10-5-channel-transmitter/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Servo Tester",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/servo-tester/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:02 GMT",
+   "url": "http://store.flitetest.com/servo-tester/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Swappable Power Pod/Firewall (5-Pack)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/swappable-power-pod-firewall-5-pack/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:01 GMT",
+   "url": "http://store.flitetest.com/swappable-power-pod-firewall-5-pack/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

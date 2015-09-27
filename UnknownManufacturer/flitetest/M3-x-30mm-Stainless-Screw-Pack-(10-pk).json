@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 x 30mm Stainless Screw Pack (10 pk)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/m3-x-30mm-stainless-screw-pack-10-pk/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:55 GMT",
+   "url": "http://store.flitetest.com/m3-x-30mm-stainless-screw-pack-10-pk/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

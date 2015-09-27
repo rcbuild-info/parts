@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Battle Buddies - Combo Pack",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/battle-buddies-combo-pack/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:25 GMT",
+   "url": "http://store.flitetest.com/battle-buddies-combo-pack/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV Rail System - Long (11.75\")",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/fpv-rail-system-long-11-75/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$25.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:08 GMT",
+   "url": "http://store.flitetest.com/fpv-rail-system-long-11-75/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

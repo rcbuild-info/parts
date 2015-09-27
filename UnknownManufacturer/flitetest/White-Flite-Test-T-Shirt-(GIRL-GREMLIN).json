@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "White Flite Test T-Shirt (GIRL GREMLIN)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/white-flite-test-t-shirt-girl-gremlin/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:34 GMT",
+   "url": "http://store.flitetest.com/white-flite-test-t-shirt-girl-gremlin/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

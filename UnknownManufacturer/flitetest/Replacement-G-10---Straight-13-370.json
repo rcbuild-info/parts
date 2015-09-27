@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Replacement G-10 - Straight 13-370",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/replacement-g-10-straight-13-370/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:15 GMT",
+   "url": "http://store.flitetest.com/replacement-g-10-straight-13-370/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

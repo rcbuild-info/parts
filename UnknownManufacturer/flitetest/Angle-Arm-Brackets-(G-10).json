@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Angle Arm Brackets (G-10)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/angle-arm-brackets-g-10/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:09 GMT",
+   "url": "http://store.flitetest.com/angle-arm-brackets-g-10/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

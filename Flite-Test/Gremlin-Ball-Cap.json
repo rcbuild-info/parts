@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flite Test",
  "name": "Gremlin Ball Cap",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/flite-test-gremlin-ball-cap/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:46 GMT",
+   "url": "http://store.flitetest.com/flite-test-gremlin-ball-cap/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

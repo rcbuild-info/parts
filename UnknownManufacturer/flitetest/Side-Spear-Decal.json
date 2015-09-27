@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Side Spear Decal",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/side-spear-decal/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:01 GMT",
+   "url": "http://store.flitetest.com/side-spear-decal/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

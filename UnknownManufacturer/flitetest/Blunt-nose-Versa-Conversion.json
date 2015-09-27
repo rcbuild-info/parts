@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Blunt nose Versa Conversion",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/blunt-nose-versa-conversion/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:24 GMT",
+   "url": "http://store.flitetest.com/blunt-nose-versa-conversion/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

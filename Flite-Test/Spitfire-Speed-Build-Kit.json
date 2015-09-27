@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flite Test",
  "name": "Spitfire Speed Build Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/ft-spitfire-speed-build-kit/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$36.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:33 GMT",
+   "url": "http://store.flitetest.com/ft-spitfire-speed-build-kit/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

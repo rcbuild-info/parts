@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Flight Control Board Mounting Plate (36mm x 36mm)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/flight-control-board-mounting-plate-36mm-x-36mm/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:08 GMT",
+   "url": "http://store.flitetest.com/flight-control-board-mounting-plate-36mm-x-36mm/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

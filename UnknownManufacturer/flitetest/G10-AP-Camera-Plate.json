@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "G10 AP Camera Plate",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/g10-ap-camera-plate/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:05:21 GMT",
+   "url": "http://store.flitetest.com/g10-ap-camera-plate/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Vibration Dampening Camera Mount",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/vibration-dampening-camera-mount/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$20.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:13 GMT",
+   "url": "http://store.flitetest.com/vibration-dampening-camera-mount/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

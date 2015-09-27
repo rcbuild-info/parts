@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Flite Test",
  "name": "Viggen Nose Replacement (3 pack)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://store.flitetest.com/ft-viggen-nose-replacement-3-pack/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 07:06:00 GMT",
+   "url": "http://store.flitetest.com/ft-viggen-nose-replacement-3-pack/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
