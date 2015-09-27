@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Pack of 10 \u2013 DEMON High Quality M3x6mm Stainless Steel bolts",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://demonframes.com/product/pack-of-10-m3x6mm-stainless-steel-bolts/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.29",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:58:39 GMT",
+   "url": "http://demonframes.com/product/pack-of-10-m3x6mm-stainless-steel-bolts/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

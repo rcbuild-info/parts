@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Pack of 10 \u2013 DEMON High Quality M3x10mm Stainless Steel bolts",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://demonframes.com/product/set-of-metal-screws/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.39",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:58:38 GMT",
+   "url": "http://demonframes.com/product/set-of-metal-screws/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

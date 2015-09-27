@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Pack of 5 \u2013 DEMON High Quality M3x35mm black nylon 6.6 spacers",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://demonframes.com/product/pack-of-5-m3x35mm-black-nylon-6-6-pillars/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 18:58:40 GMT",
+   "url": "http://demonframes.com/product/pack-of-5-m3x35mm-black-nylon-6-6-pillars/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

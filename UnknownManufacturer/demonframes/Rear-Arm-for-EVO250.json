@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Rear Arm for EVO250",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://demonframes.com/product/arm-for-evo250/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.50",
+   "stock_state": "in_stock",
+   "stock_text": "5 in stock",
+   "timestamp": "Sun, 27 Sep 2015 18:58:43 GMT",
+   "url": "http://demonframes.com/product/arm-for-evo250/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

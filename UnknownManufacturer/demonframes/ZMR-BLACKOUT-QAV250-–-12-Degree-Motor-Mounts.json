@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ZMR/BLACKOUT/QAV250 \u2013 12 Degree Motor Mounts",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://demonframes.com/product/demon-zmrblackoutqav250-12-degree-motor-mounts/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.49",
+   "stock_state": "in_stock",
+   "stock_text": "10 in stock",
+   "timestamp": "Sun, 27 Sep 2015 18:58:42 GMT",
+   "url": "http://demonframes.com/product/demon-zmrblackoutqav250-12-degree-motor-mounts/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
