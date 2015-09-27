@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "1154-Q - Main Drive Gear (2pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds1154q-main-drive-gear-2pcs-p-3229.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:59:02 GMT",
+   "url": "http://www.myrcmart.com/kds1154q-main-drive-gear-2pcs-p-3229.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

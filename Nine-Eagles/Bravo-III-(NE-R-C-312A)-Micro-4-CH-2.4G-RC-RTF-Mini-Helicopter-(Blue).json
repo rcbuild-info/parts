@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "Bravo III (NE-R/C-312A) Micro 4 CH 2.4G RC RTF Mini Helicopter (Blue)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=2820"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD33.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:39:43 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=2820"
+  }
+ ],
+ "version": 2,
+ "weight": "1250g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "H-450Q QuadCopter (Red & White / With KK2.1, 30A ESC, H2214-950KV Motor, 1045 Prop)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h450q-quadcopter-red-white-with-kk21-30a-esc-h2214950kv-motor-1045-prop-p-8013.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD109.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:40:50 GMT",
+   "url": "http://www.myrcmart.com/h450q-quadcopter-red-white-with-kk21-30a-esc-h2214950kv-motor-1045-prop-p-8013.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1000g"
 }

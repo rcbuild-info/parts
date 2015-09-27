@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "3630BB Standard Analog Servo (36g / 3.0kg / 0.19sec)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-3630bb-standard-analog-servo-36g-30kg-019sec-p-4267.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:25:22 GMT",
+   "url": "http://www.myrcmart.com/rcx-3630bb-standard-analog-servo-36g-30kg-019sec-p-4267.html"
+  }
+ ],
+ "version": 2,
+ "weight": "70g"
 }

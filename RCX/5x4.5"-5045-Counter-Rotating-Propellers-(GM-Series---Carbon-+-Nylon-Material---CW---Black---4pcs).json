@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "5x4.5\" 5045 Counter Rotating Propellers (GM Series / Carbon + Nylon Material / CW / Black / 4pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/5x45-5045-counter-rotating-propellers-gm-series-carbon-nylon-material-cw-black-4pcs-p-8759.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:33:03 GMT",
+   "url": "http://www.myrcmart.com/5x45-5045-counter-rotating-propellers-gm-series-carbon-nylon-material-cw-black-4pcs-p-8759.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

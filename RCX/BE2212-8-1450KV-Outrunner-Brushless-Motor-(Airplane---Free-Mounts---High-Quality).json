@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "BE2212-8 1450KV Outrunner Brushless Motor (Airplane / Free Mounts / High Quality)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-be22128-1450kv-outrunner-brushless-motor-airplane-free-mounts-high-quality-p-6235.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD14.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:36:21 GMT",
+   "url": "http://www.myrcmart.com/rcx-be22128-1450kv-outrunner-brushless-motor-airplane-free-mounts-high-quality-p-6235.html"
+  }
+ ],
+ "version": 2,
+ "weight": "90g"
 }

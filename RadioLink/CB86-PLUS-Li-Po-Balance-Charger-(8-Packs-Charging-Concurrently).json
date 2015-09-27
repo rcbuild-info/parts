@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RadioLink",
  "name": "CB86-PLUS Li-Po Balance Charger (8-Packs Charging Concurrently)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/radiolink-cb86plus-lipo-balance-charger-8packs-charging-concurrently-p-8957.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD86.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:43:02 GMT",
+   "url": "http://www.myrcmart.com/radiolink-cb86plus-lipo-balance-charger-8packs-charging-concurrently-p-8957.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1000g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Great Wall",
  "name": "GW (Great Wall) Maker 9938 2.4Ghz 4-CH RC RTF Helicopter (Titanium Gold / TX with LED Display)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=5506"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD24.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:39:56 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=5506"
+  }
+ ],
+ "version": 2,
+ "weight": "1000g"
 }

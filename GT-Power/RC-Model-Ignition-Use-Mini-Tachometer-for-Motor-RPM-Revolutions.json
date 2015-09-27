@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "GT Power",
  "name": "RC Model Ignition Use Mini Tachometer for Motor RPM Revolutions",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/gt-power-rc-model-ignition-use-mini-tachometer-for-motor-rpm-revolutions-p-6334.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:24:21 GMT",
+   "url": "http://www.myrcmart.com/gt-power-rc-model-ignition-use-mini-tachometer-for-motor-rpm-revolutions-p-6334.html"
+  }
+ ],
+ "version": 2,
+ "weight": "70g"
 }

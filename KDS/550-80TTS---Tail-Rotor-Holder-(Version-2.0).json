@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "550-80TTS - Tail Rotor Holder (Version 2.0)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds55080tts-tail-rotor-holder-version-20-p-6150.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD12.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:55:07 GMT",
+   "url": "http://www.myrcmart.com/kds55080tts-tail-rotor-holder-version-20-p-6150.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

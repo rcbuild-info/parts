@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "38-in-1 Interchangeable Mini Screwdriver Set For PC/Mobile/PSP/PDA/RC Model",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/38in1-interchangeable-mini-screwdriver-set-for-pcmobilepsppdarc-model-p-2729.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:29:43 GMT",
+   "url": "http://www.myrcmart.com/38in1-interchangeable-mini-screwdriver-set-for-pcmobilepsppdarc-model-p-2729.html"
+  }
+ ],
+ "version": 2,
+ "weight": "240g"
 }

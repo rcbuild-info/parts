@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "H250CF-3K FPV Quadcopter (3K Carbon Fiber / H2206 Motor / HW 20A ESC / 6045 / KK 2.1)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-h250cf3k-fpv-quadcopter-3k-carbon-fiber-h2206-motor-hw-20a-esc-6045-kk-21-p-8401.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD109.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:41:17 GMT",
+   "url": "http://www.myrcmart.com/rcx-h250cf3k-fpv-quadcopter-3k-carbon-fiber-h2206-motor-hw-20a-esc-6045-kk-21-p-8401.html"
+  }
+ ],
+ "version": 2,
+ "weight": "600g"
 }

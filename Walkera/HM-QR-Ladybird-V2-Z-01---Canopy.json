@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-QR-Ladybird-V2-Z-01 - Canopy",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmqrladybirdv2z01-canopy-p-6084.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:26:38 GMT",
+   "url": "http://www.myrcmart.com/hmqrladybirdv2z01-canopy-p-6084.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

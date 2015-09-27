@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Terminal Blocks (Connect ESC and Motor for Testing) 10A",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/terminal-blocks-connect-esc-and-motor-for-testing-10a-p-7986.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:23:54 GMT",
+   "url": "http://www.myrcmart.com/terminal-blocks-connect-esc-and-motor-for-testing-10a-p-7986.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Wireless Wifi 720P H.264 10 LED IR-CUT IP Camera Night Vision Network Security (Rotatable Remotely / Built-In Mic / 1280*720)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/wireless-wifi-720p-h264-10-led-ircut-ip-camera-night-vision-network-security-rotatable-remotely-builtin-mic-1280720-p-4705.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD79.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:23:33 GMT",
+   "url": "http://www.myrcmart.com/wireless-wifi-720p-h264-10-led-ircut-ip-camera-night-vision-network-security-rotatable-remotely-builtin-mic-1280720-p-4705.html"
+  }
+ ],
+ "version": 2,
+ "weight": "750g"
 }

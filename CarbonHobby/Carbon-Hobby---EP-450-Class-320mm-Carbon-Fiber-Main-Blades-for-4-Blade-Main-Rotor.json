@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "CarbonHobby",
  "name": "Carbon Hobby - EP 450 Class 320mm Carbon Fiber Main Blades for 4-Blade Main Rotor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=2698"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD29.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:41:02 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=2698"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

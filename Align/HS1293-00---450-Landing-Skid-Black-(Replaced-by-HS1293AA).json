@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HS1293-00 - 450 Landing Skid/Black (Replaced by HS1293AA)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hs129300-450-landing-skidblack-replaced-by-hs1293aa-p-5651.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD6.29",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:14:19 GMT",
+   "url": "http://www.myrcmart.com/hs129300-450-landing-skidblack-replaced-by-hs1293aa-p-5651.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

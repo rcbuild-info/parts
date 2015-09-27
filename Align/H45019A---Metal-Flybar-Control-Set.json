@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H45019A - Metal Flybar Control Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h45019a-metal-flybar-control-set-p-5289.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD15.29",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:11:07 GMT",
+   "url": "http://www.myrcmart.com/h45019a-metal-flybar-control-set-p-5289.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

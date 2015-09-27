@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "1S To 2S Charging Cable for 3.7V JST Battery (w/ T Connector Output)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/1s-to-2s-charging-cable-for-37v-jst-battery-connector-output-p-6351.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.89",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:26:51 GMT",
+   "url": "http://www.myrcmart.com/1s-to-2s-charging-cable-for-37v-jst-battery-connector-output-p-6351.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "RX-LCD 5802 5.8GHz LCD Diversity Receiver 7 Inch Monitor (Black)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-rxlcd-5802-58ghz-lcd-diversity-receiver-inch-monitor-black-p-8508.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD89.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:49 GMT",
+   "url": "http://www.myrcmart.com/rcx-rxlcd-5802-58ghz-lcd-diversity-receiver-inch-monitor-black-p-8508.html"
+  }
+ ],
+ "version": 2,
+ "weight": "850g"
 }

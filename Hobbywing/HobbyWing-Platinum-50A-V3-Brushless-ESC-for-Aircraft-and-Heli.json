@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "HobbyWing Platinum 50A V3 Brushless ESC for Aircraft and Heli",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hobbywing-platinum-50a-v3-brushless-esc-for-aircraft-and-heli-p-7925.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD54.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:39:45 GMT",
+   "url": "http://www.myrcmart.com/hobbywing-platinum-50a-v3-brushless-esc-for-aircraft-and-heli-p-7925.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

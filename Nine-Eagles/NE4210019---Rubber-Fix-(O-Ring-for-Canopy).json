@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "NE4210019 - Rubber Fix (O Ring for Canopy)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/ne4210019-rubber-fix-ring-for-canopy-p-3148.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:53:09 GMT",
+   "url": "http://www.myrcmart.com/ne4210019-rubber-fix-ring-for-canopy-p-3148.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

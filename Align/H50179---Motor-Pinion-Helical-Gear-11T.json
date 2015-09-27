@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H50179 - Motor Pinion Helical Gear 11T",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h50179-motor-pinion-helical-gear-11t-p-5603.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD6.29",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:06:54 GMT",
+   "url": "http://www.myrcmart.com/h50179-motor-pinion-helical-gear-11t-p-5603.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

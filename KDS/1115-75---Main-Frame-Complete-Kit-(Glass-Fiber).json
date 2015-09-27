@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "1115-75 - Main Frame Complete Kit (Glass Fiber)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds111575-main-frame-complete-kit-glass-fiber-p-2470.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD34.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:59:35 GMT",
+   "url": "http://www.myrcmart.com/kds111575-main-frame-complete-kit-glass-fiber-p-2470.html"
+  }
+ ],
+ "version": 2,
+ "weight": "120g"
 }

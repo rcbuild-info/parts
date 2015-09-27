@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "V450D03 6-Axis Flybarless Brushless RC RTF Helicopter (Devo 10)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=6200"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD309.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:39:17 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=6200"
+  }
+ ],
+ "version": 2,
+ "weight": "3500g"
 }

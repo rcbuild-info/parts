@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "2014 - KDS Outrunner Brushless Motor KV3500 11.1V (KDS-WS2632 / 450 Helicopter)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds2014-kds-outrunner-brushless-motor-kv3500-111v-kdsws2632-450-helicopter-p-2500.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD15.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:37:55 GMT",
+   "url": "http://www.myrcmart.com/kds2014-kds-outrunner-brushless-motor-kv3500-111v-kdsws2632-450-helicopter-p-2500.html"
+  }
+ ],
+ "version": 2,
+ "weight": "70g"
 }

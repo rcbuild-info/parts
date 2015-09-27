@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "X350 Pro RC RTF FPV Multirotor Quadcopter (Devo 10 / 5.8G Transmitter / Brushless Gimbal)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/walkera-x350-pro-rc-rtf-fpv-multirotor-quadcopter-devo-10-58g-transmitter-brushless-gimbal-p-8352.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD489.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:35:25 GMT",
+   "url": "http://www.myrcmart.com/walkera-x350-pro-rc-rtf-fpv-multirotor-quadcopter-devo-10-58g-transmitter-brushless-gimbal-p-8352.html"
+  }
+ ],
+ "version": 2,
+ "weight": "5000g"
 }

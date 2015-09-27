@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "4#3B Upgrade Accessory (Brushless Motor + ESC + Tail Motor + RX)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=674"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:35:55 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=674"
+  }
+ ],
+ "version": 2,
+ "weight": "150g"
 }

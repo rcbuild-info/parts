@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "D5010-14 360KV Outrunner Brushless Motor (Multicopter / Free Mounts & Cable)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=4613"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD19.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:31:11 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=4613"
+  }
+ ],
+ "version": 2,
+ "weight": "130g"
 }

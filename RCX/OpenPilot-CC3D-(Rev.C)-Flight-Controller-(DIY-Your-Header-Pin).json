@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "OpenPilot CC3D (Rev.C) Flight Controller (DIY Your Header Pin)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/openpilot-cc3d-revc-flight-controller-diy-your-header-pin-p-8837.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD11.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:31:58 GMT",
+   "url": "http://www.myrcmart.com/openpilot-cc3d-revc-flight-controller-diy-your-header-pin-p-8837.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

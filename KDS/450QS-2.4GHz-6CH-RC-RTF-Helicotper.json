@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "450QS 2.4GHz 6CH RC RTF Helicotper",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds-450qs-24ghz-6ch-rc-rtf-helicotper-p-4436.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD199.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:39:23 GMT",
+   "url": "http://www.myrcmart.com/kds-450qs-24ghz-6ch-rc-rtf-helicotper-p-4436.html"
+  }
+ ],
+ "version": 2,
+ "weight": "3500g"
 }

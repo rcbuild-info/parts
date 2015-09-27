@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LBG3650/13.5T 2280KV 3-Slot Inrunner Seneorless Brushless Motor (1/10 Car)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lbg3650135t-2280kv-3slot-inrunner-seneorless-brushless-motor-110-car-p-4995.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD59.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:37:44 GMT",
+   "url": "http://www.myrcmart.com/leopard-lbg3650135t-2280kv-3slot-inrunner-seneorless-brushless-motor-110-car-p-4995.html"
+  }
+ ],
+ "version": 2,
+ "weight": "240g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "X-550Q HexCopter (V2 / With KK2.1, 30A ESC, H2214-950KV Motor, 1045 Prop)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/x550q-hexcopter-v2-with-kk21-30a-esc-h2214950kv-motor-1045-prop-p-8038.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD149.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:41:54 GMT",
+   "url": "http://www.myrcmart.com/x550q-hexcopter-v2-with-kk21-30a-esc-h2214950kv-motor-1045-prop-p-8038.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1200g"
 }

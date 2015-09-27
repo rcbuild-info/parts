@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HS1157-84 - Metal Tail Boom Brace",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=5655"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD13.49",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:13:51 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=5655"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HeliCox",
  "name": "Helicox TG-1 Flybarless 3-Axis Gyro (Without G-Box)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/helicox-tg1-flybarless-3axis-gyro-without-gbox-p-4927.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD49.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:35 GMT",
+   "url": "http://www.myrcmart.com/helicox-tg1-flybarless-3axis-gyro-without-gbox-p-4927.html"
+  }
+ ],
+ "version": 2,
+ "weight": "140g"
 }

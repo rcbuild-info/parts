@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-QR-W100-Z-09 - Wi-Fi Module",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmqrw100z09-wifi-module-p-6365.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD23.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:27:26 GMT",
+   "url": "http://www.myrcmart.com/hmqrw100z09-wifi-module-p-6365.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

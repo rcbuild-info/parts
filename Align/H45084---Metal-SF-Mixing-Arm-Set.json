@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H45084 - Metal SF Mixing Arm Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h45084-metal-sf-mixing-arm-set-p-5563.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD13.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:13:20 GMT",
+   "url": "http://www.myrcmart.com/h45084-metal-sf-mixing-arm-set-p-5563.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

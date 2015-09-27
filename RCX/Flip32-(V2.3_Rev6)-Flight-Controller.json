@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Flip32 (V2.3_Rev6) Flight Controller",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=8057"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD14.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:31:20 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=8057"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

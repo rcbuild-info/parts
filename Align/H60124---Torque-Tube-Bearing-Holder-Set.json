@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60124 - Torque Tube Bearing Holder Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h60124-torque-tube-bearing-holder-set-p-7181.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD8.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:09:11 GMT",
+   "url": "http://www.myrcmart.com/h60124-torque-tube-bearing-holder-set-p-7181.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

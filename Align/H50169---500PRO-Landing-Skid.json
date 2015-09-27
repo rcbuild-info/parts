@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H50169 - 500PRO Landing Skid",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h50169-500pro-landing-skid-p-5628.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:06:59 GMT",
+   "url": "http://www.myrcmart.com/h50169-500pro-landing-skid-p-5628.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60113 - CF Main Frame(R)/Silver 1.6mm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h60113-cf-main-framersilver-16mm-p-7232.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD53.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:06:27 GMT",
+   "url": "http://www.myrcmart.com/h60113-cf-main-framersilver-16mm-p-7232.html"
+  }
+ ],
+ "version": 2,
+ "weight": "300g"
 }

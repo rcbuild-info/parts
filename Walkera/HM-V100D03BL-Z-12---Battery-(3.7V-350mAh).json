@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-V100D03BL-Z-12 - Battery (3.7V 350mAh)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmv100d03blz12-battery-37v-350mah-p-5462.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.49",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:27:02 GMT",
+   "url": "http://www.myrcmart.com/hmv100d03blz12-battery-37v-350mah-p-5462.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

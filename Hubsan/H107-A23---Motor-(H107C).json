@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hubsan",
  "name": "H107-A23 - Motor (H107C)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h107a23-motor-h107c-p-6826.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD11.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:45:35 GMT",
+   "url": "http://www.myrcmart.com/h107a23-motor-h107c-p-6826.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

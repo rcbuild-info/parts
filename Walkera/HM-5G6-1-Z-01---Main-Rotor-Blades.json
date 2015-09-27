@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-5G6-1-Z-01 - Main Rotor Blades",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hm5g61z01-main-rotor-blades-p-287.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:31:19 GMT",
+   "url": "http://www.myrcmart.com/hm5g61z01-main-rotor-blades-p-287.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

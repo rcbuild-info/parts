@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "WL Toys",
  "name": "HM-QR-X350-Z-21 - Transmitter (TX5804 CE)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmqrx350z21-transmitter-tx5804-ce-p-8338.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD19.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:23 GMT",
+   "url": "http://www.myrcmart.com/hmqrx350z21-transmitter-tx5804-ce-p-8338.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

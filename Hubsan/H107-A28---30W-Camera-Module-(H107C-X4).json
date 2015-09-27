@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hubsan",
  "name": "H107-A28 - 30W Camera Module (H107C X4)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h107a28-30w-camera-module-h107c-x4-p-6828.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD11.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:45:34 GMT",
+   "url": "http://www.myrcmart.com/h107a28-30w-camera-module-h107c-x4-p-6828.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

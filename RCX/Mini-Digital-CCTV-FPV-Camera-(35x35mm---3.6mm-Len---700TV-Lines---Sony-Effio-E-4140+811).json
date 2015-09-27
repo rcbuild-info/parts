@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Mini Digital CCTV/FPV Camera (35x35mm / 3.6mm Len / 700TV-Lines / Sony Effio-E 4140+811)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/mini-digital-cctvfpv-camera-35x35mm-36mm-len-700tvlines-sony-effioe-4140811-p-8436.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD14.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:25:27 GMT",
+   "url": "http://www.myrcmart.com/mini-digital-cctvfpv-camera-35x35mm-36mm-len-700tvlines-sony-effioe-4140811-p-8436.html"
+  }
+ ],
+ "version": 2,
+ "weight": "120g"
 }

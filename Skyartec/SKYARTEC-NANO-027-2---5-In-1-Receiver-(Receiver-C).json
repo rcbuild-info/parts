@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyartec",
  "name": "SKYARTEC-NANO-027-2 - 5 In 1 Receiver (Receiver C)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/skyartecnano0272-in-receiver-receiver-p-6427.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD32.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:48:34 GMT",
+   "url": "http://www.myrcmart.com/skyartecnano0272-in-receiver-receiver-p-6427.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

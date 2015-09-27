@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LBH3660/8T 3600KV 2-Poles Inrunner Brushless Motor (Car & Boat)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lbh36608t-3600kv-2poles-inrunner-brushless-motor-car-boat-p-5413.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD54.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:35:45 GMT",
+   "url": "http://www.myrcmart.com/leopard-lbh36608t-3600kv-2poles-inrunner-brushless-motor-car-boat-p-5413.html"
+  }
+ ],
+ "version": 2,
+ "weight": "280g"
 }

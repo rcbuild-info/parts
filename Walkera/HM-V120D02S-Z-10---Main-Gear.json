@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-V120D02S-Z-10 - Main Gear",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmv120d02sz10-main-gear-p-5474.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:26:38 GMT",
+   "url": "http://www.myrcmart.com/hmv120d02sz10-main-gear-p-5474.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

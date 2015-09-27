@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "NE402228045A - Cabin Set (Green)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/ne402228045a-cabin-set-green-p-4516.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD13.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:49:52 GMT",
+   "url": "http://www.myrcmart.com/ne402228045a-cabin-set-green-p-4516.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-V450D01-Z-16 - Brushless Motor (WK-WS-26-001)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmv450d01z16-brushless-motor-wkws26001-p-3571.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD16.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:21:41 GMT",
+   "url": "http://www.myrcmart.com/hmv450d01z16-brushless-motor-wkws26001-p-3571.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H50074 - Main Blade Holder/New",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h50074-main-blade-holdernew-p-5770.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD6.29",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:07:09 GMT",
+   "url": "http://www.myrcmart.com/h50074-main-blade-holdernew-p-5770.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

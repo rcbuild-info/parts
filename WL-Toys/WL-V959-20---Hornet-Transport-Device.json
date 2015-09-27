@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "WL Toys",
  "name": "WL-V959-20 - Hornet Transport Device",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/wlv95920-hornet-transport-device-p-6025.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:47:37 GMT",
+   "url": "http://www.myrcmart.com/wlv95920-hornet-transport-device-p-6025.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

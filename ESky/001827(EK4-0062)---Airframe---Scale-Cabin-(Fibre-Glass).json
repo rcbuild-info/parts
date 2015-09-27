@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "001827(EK4-0062) - Airframe / Scale Cabin (Fibre Glass)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1127"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD36.20",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:17:40 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1127"
+  }
+ ],
+ "version": 2,
+ "weight": "1000g"
 }

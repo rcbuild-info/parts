@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "Solo Pro 180D 2.4G 6CH RC ARF Helicopter (Yellow / BNF / No Transmitter / No Battery)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=4826"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD114.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:39:38 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=4826"
+  }
+ ],
+ "version": 2,
+ "weight": "300g"
 }

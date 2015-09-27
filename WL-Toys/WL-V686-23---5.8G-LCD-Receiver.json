@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "WL Toys",
  "name": "WL-V686-23 - 5.8G LCD Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/wlv68623-58g-lcd-receiver-p-8861.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD34.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:01:13 GMT",
+   "url": "http://www.myrcmart.com/wlv68623-58g-lcd-receiver-p-8861.html"
+  }
+ ],
+ "version": 2,
+ "weight": "500g"
 }

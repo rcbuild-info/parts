@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60133AJ - 600 Metal Tail Torque Tube Unit/Grey",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=7503"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD47.69",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:07:29 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=7503"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

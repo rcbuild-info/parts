@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "1017-1-SD - Tail Push Rod Guide",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds10171sd-tail-push-rod-guide-p-4488.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:59:31 GMT",
+   "url": "http://www.myrcmart.com/kds10171sd-tail-push-rod-guide-p-4488.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

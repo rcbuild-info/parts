@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "XT60 Power Distribution (3-Pair 3.5mm Banana Connectors) Cable in Parallel for TriCopter & MultiCopter (1-TO-3 / 22cm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/xt60-power-distribution-3pair-35mm-banana-connectors-cable-in-parallel-for-tricopter-multicopter-1to3-22cm-p-6122.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:27:13 GMT",
+   "url": "http://www.myrcmart.com/xt60-power-distribution-3pair-35mm-banana-connectors-cable-in-parallel-for-tricopter-multicopter-1to3-22cm-p-6122.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

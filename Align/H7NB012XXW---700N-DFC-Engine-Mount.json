@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H7NB012XXW - 700N DFC Engine Mount",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h7nb012xxw-700n-dfc-engine-mount-p-7594.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD20.69",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:07:50 GMT",
+   "url": "http://www.myrcmart.com/h7nb012xxw-700n-dfc-engine-mount-p-7594.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

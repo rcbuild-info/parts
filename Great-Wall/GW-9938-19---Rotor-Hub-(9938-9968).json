@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Great Wall",
  "name": "GW-9938-19 - Rotor Hub (9938/9968)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/gw993819-rotor-hub-99389968-p-5877.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:47:09 GMT",
+   "url": "http://www.myrcmart.com/gw993819-rotor-hub-99389968-p-5877.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

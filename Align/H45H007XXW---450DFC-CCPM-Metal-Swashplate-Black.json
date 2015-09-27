@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H45H007XXW - 450DFC CCPM Metal Swashplate/Black",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h45h007xxw-450dfc-ccpm-metal-swashplateblack-p-7022.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD26.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:12:41 GMT",
+   "url": "http://www.myrcmart.com/h45h007xxw-450dfc-ccpm-metal-swashplateblack-p-7022.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

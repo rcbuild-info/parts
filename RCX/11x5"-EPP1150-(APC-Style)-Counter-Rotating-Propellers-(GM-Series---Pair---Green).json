@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "11x5\" EPP1150 (APC Style) Counter Rotating Propellers (GM Series / Pair / Green)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/11x5-epp1150-apc-style-counter-rotating-propellers-gm-series-pair-green-p-7920.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:32:30 GMT",
+   "url": "http://www.myrcmart.com/11x5-epp1150-apc-style-counter-rotating-propellers-gm-series-pair-green-p-7920.html"
+  }
+ ],
+ "version": 2,
+ "weight": "60g"
 }

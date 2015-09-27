@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "000646(EK1-0606) - Course Light Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1010"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:16:24 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1010"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

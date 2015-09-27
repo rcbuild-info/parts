@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H50G001XXW - M0.6 Torque Tube Front Drive Gear Set/36T",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=6396"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD10.79",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:06:52 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=6396"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

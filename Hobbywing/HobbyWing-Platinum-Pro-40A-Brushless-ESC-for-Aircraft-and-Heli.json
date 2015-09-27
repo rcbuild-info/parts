@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "HobbyWing Platinum Pro 40A Brushless ESC for Aircraft and Heli",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hobbywing-platinum-pro-40a-brushless-esc-for-aircraft-and-heli-p-4560.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD34.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:39:41 GMT",
+   "url": "http://www.myrcmart.com/hobbywing-platinum-pro-40a-brushless-esc-for-aircraft-and-heli-p-4560.html"
+  }
+ ],
+ "version": 2,
+ "weight": "70g"
 }

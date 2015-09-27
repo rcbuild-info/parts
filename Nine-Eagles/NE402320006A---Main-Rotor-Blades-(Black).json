@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "NE402320006A - Main Rotor Blades (Black)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/ne402320006a-main-rotor-blades-black-p-3836.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:51:53 GMT",
+   "url": "http://www.myrcmart.com/ne402320006a-main-rotor-blades-black-p-3836.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

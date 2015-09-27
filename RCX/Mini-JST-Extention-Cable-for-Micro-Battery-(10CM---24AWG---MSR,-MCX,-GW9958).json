@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Mini JST Extention Cable for Micro Battery (10CM / 24AWG / MSR, MCX, GW9958)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/mini-jst-extention-cable-for-micro-battery-10cm-24awg-msr-mcx-gw9958-p-4205.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.50",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:26:15 GMT",
+   "url": "http://www.myrcmart.com/mini-jst-extention-cable-for-micro-battery-10cm-24awg-msr-mcx-gw9958-p-4205.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

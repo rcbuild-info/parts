@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Canopy Mask (Hand Made / 450 Pro V2)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/canopy-mask-hand-made-450-pro-v2-p-5708.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:23 GMT",
+   "url": "http://www.myrcmart.com/canopy-mask-hand-made-450-pro-v2-p-5708.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

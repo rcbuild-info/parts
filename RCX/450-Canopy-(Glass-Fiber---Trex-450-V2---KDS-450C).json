@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "450 Canopy (Glass Fiber / Trex 450 V2 / KDS-450C)",
@@ -7,9 +7,115 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-p-3831.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:38:16 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=3710"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:38:19 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=3842"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:38:17 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=4200"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:20 GMT",
+   "url": "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-10-p-3841.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:19 GMT",
+   "url": "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-11-p-3843.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:11 GMT",
+   "url": "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-12-p-4040.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:08 GMT",
+   "url": "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-13-p-4047.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:15 GMT",
+   "url": "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-p-3265.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:14 GMT",
+   "url": "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-p-3266.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:14 GMT",
+   "url": "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-p-3518.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:13 GMT",
+   "url": "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-p-3520.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:13 GMT",
+   "url": "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-p-3521.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:18 GMT",
+   "url": "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-p-3830.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:18 GMT",
+   "url": "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-p-3831.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:17 GMT",
+   "url": "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-p-3832.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

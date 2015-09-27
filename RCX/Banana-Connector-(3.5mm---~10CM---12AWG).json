@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Banana Connector (3.5mm / ~10CM / 12AWG)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/banana-connector-35mm-10cm-12awg-p-2676.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:25:58 GMT",
+   "url": "http://www.myrcmart.com/banana-connector-35mm-10cm-12awg-p-2676.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

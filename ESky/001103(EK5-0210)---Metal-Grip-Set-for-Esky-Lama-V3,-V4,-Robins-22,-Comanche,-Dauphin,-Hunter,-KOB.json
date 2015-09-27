@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "001103(EK5-0210) - Metal Grip Set for Esky Lama V3, V4, Robins 22, Comanche, Dauphin, Hunter, KOB",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1120"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD22.67",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:19:02 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1120"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

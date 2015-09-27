@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "BC2826-13 1000KV Outrunner Brushless Motor (Airplane / Free Mounts)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-bc282613-1000kv-outrunner-brushless-motor-airplane-free-mounts-p-3992.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD8.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:36:30 GMT",
+   "url": "http://www.myrcmart.com/rcx-bc282613-1000kv-outrunner-brushless-motor-airplane-free-mounts-p-3992.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

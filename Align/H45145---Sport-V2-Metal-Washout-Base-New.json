@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H45145 - Sport V2 Metal Washout Base/New",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h45145-sport-v2-metal-washout-basenew-p-5142.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.19",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:12:27 GMT",
+   "url": "http://www.myrcmart.com/h45145-sport-v2-metal-washout-basenew-p-5142.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

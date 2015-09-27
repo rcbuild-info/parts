@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60078 - Metal Tail Drive Gear Assembly",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h60078-metal-tail-drive-gear-assembly-p-7342.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD9.89",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:09:57 GMT",
+   "url": "http://www.myrcmart.com/h60078-metal-tail-drive-gear-assembly-p-7342.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

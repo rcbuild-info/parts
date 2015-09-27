@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "1024-74-SD - Ball Linkage Rod Set (Flybarless Version)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds102474sd-ball-linkage-rod-set-flybarless-version-p-4496.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD6.49",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:57:53 GMT",
+   "url": "http://www.myrcmart.com/kds102474sd-ball-linkage-rod-set-flybarless-version-p-4496.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

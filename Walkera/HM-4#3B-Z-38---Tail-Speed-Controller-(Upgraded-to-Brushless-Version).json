@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-4#3B-Z-38 - Tail Speed Controller (Upgraded to Brushless Version)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1820"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:35:59 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1820"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-5#10-Z-16 - Hollow Shaft",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hm510z16-hollow-shaft-p-195.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:31:23 GMT",
+   "url": "http://www.myrcmart.com/hm510z16-hollow-shaft-p-195.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

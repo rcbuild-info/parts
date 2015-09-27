@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "NE11015400 - Receiver (for NE-T002 Transmitter)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/ne11015400-receiver-for-net002-transmitter-p-3692.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD19.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:49:25 GMT",
+   "url": "http://www.myrcmart.com/ne11015400-receiver-for-net002-transmitter-p-3692.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

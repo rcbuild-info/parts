@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "FPV Camera to 5.8Ghz Video Transmitter Cable (5mm)",
@@ -7,10 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/fpv-camera-to-58ghz-video-transmitter-cable-5mm-p-8785.html",
-   "http://www.myrcmart.com/fpv-camera-to-58ghz-video-transmitter-cable-5mm-p-8930.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:25:31 GMT",
+   "url": "http://www.myrcmart.com/fpv-camera-to-58ghz-video-transmitter-cable-5mm-p-8785.html"
+  },
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:25:30 GMT",
+   "url": "http://www.myrcmart.com/fpv-camera-to-58ghz-video-transmitter-cable-5mm-p-8930.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

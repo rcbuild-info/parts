@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "Brushless Motor (Levogyrate Thread) (Black) (Wk-Ws-34-001)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=8148"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD24.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:25:08 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=8148"
+  }
+ ],
+ "version": 2,
+ "weight": "70g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "D5012 360KV Outrunner Brushless Motor (Multicopter / Free Mounts)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-d5012-360kv-outrunner-brushless-motor-multicopter-free-mounts-p-6476.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD19.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:30:50 GMT",
+   "url": "http://www.myrcmart.com/rcx-d5012-360kv-outrunner-brushless-motor-multicopter-free-mounts-p-6476.html"
+  }
+ ],
+ "version": 2,
+ "weight": "150g"
 }

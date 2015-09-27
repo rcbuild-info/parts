@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LBP4074/2.5Y 2000KV 4-Poles Inrunner Brushless Motor (0.6M-0.9M Boat)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lbp407425y-2000kv-4poles-inrunner-brushless-motor-06m09m-boat-p-4924.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD79.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:35:56 GMT",
+   "url": "http://www.myrcmart.com/leopard-lbp407425y-2000kv-4poles-inrunner-brushless-motor-06m09m-boat-p-4924.html"
+  }
+ ],
+ "version": 2,
+ "weight": "500g"
 }

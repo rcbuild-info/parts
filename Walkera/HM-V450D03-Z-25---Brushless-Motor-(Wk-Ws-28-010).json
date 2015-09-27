@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-V450D03-Z-25 - Brushless Motor (Wk-Ws-28-010)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmv450d03z25-brushless-motor-wkws28010-p-6054.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD23.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:04:46 GMT",
+   "url": "http://www.myrcmart.com/hmv450d03z25-brushless-motor-wkws28010-p-6054.html"
+  }
+ ],
+ "version": 2,
+ "weight": "150g"
 }

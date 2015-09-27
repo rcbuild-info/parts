@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60198 - 131T M0.8 Autorotation Tail Drive Gear",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h60198-131t-m08-autorotation-tail-drive-gear-p-7162.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD8.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:08:16 GMT",
+   "url": "http://www.myrcmart.com/h60198-131t-m08-autorotation-tail-drive-gear-p-7162.html"
+  }
+ ],
+ "version": 2,
+ "weight": "70g"
 }

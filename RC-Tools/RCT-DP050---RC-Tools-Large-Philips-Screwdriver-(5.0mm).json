@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RC-Tools",
  "name": "RCT-DP050 - RC-Tools Large Philips Screwdriver (5.0mm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1875"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.10",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:27:49 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1875"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Motor Case (w/ Magnets & Shaft Installed) for RCX 1804 Micro Motor (Without *R)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=7854"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:52:41 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=7854"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

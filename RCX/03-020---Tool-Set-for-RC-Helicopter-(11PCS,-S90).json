@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "03-020 - Tool Set for RC Helicopter (11PCS, S90)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1797"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD32.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:29:40 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1797"
+  }
+ ],
+ "version": 2,
+ "weight": "1200g"
 }

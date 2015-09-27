@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LC4250-7T 710KV Outrunner Brushless Motor (Prop 12-13\")",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lc42507t-710kv-outrunner-brushless-motor-prop-1213-p-4971.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD49.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:35:51 GMT",
+   "url": "http://www.myrcmart.com/leopard-lc42507t-710kv-outrunner-brushless-motor-prop-1213-p-4971.html"
+  }
+ ],
+ "version": 2,
+ "weight": "300g"
 }

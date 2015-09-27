@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-QR-W100-Z-06 - Motor Set (Clockwise)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmqrw100z06-motor-set-clockwise-p-6361.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.59",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:25:27 GMT",
+   "url": "http://www.myrcmart.com/hmqrw100z06-motor-set-clockwise-p-6361.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "RCX 450 Canopy (Glass Fiber / Trex 450 V2 / KDS-450C)",
@@ -7,9 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-p-2486.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:38:16 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=2484"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:15 GMT",
+   "url": "http://www.myrcmart.com/rcx-450-canopy-glass-fiber-trex-450-v2-kds450c-p-2486.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

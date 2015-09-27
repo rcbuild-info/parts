@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Li-Polymer Battery 3.7V (1 Cell) 500mAh 30C (E-flite Blade 120 / WL-V929,V949,V959,V222 / NE-328A)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-lipolymer-battery-37v-cell-500mah-30c-eflite-blade-120-wlv929v949v959v222-ne328a-p-5499.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:43:18 GMT",
+   "url": "http://www.myrcmart.com/rcx-lipolymer-battery-37v-cell-500mah-30c-eflite-blade-120-wlv929v949v959v222-ne328a-p-5499.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

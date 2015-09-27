@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini uBlox M8N w/ Compass for APM (35x35mm)",
@@ -7,9 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=8768"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD24.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:31:57 GMT",
+   "url": "http://www.myrcmart.com/mini-ublox-m8n-compass-for-apm-35x35mm-p-8950.html"
+  },
+  {
+   "price": "USD24.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:40:45 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=8768"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

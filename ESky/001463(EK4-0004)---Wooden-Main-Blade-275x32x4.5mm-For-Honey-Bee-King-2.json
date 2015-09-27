@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "001463(EK4-0004) - Wooden Main Blade 275x32x4.5mm For Honey Bee King 2",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=55"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.60",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:18:22 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=55"
+  }
+ ],
+ "version": 2,
+ "weight": "150g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "Li-Po Battery (22.2V 5400Mah)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/lipo-battery-222v-5400mah-p-8318.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD109.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:22 GMT",
+   "url": "http://www.myrcmart.com/lipo-battery-222v-5400mah-p-8318.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1250g"
 }

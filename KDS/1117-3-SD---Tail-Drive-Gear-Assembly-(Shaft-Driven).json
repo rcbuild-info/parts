@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "1117-3-SD - Tail Drive Gear Assembly (Shaft Driven)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds11173sd-tail-drive-gear-assembly-shaft-driven-p-4491.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD6.49",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:58:20 GMT",
+   "url": "http://www.myrcmart.com/kds11173sd-tail-drive-gear-assembly-shaft-driven-p-4491.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

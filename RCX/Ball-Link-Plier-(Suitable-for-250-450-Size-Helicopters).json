@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Ball Link Plier (Suitable for 250-450 Size Helicopters)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-ball-link-plier-suitable-for-250450-size-helicopters-p-2696.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:29:32 GMT",
+   "url": "http://www.myrcmart.com/rcx-ball-link-plier-suitable-for-250450-size-helicopters-p-2696.html"
+  }
+ ],
+ "version": 2,
+ "weight": "110g"
 }

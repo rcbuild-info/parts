@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "XT60 Power Distribution Cable in Parallel for QuadCopter & MultiCopter (4-In-1 / 17cm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/xt60-power-distribution-cable-in-parallel-for-quadcopter-multicopter-4in1-17cm-p-4730.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.50",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:25:46 GMT",
+   "url": "http://www.myrcmart.com/xt60-power-distribution-cable-in-parallel-for-quadcopter-multicopter-4in1-17cm-p-4730.html"
+  }
+ ],
+ "version": 2,
+ "weight": "60g"
 }

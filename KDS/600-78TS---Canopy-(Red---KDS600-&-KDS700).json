@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "600-78TS - Canopy (Red / KDS600 & KDS700)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds60078ts-canopy-red-kds600-kds700-p-4386.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD44.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:53:37 GMT",
+   "url": "http://www.myrcmart.com/kds60078ts-canopy-red-kds600-kds700-p-4386.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1500g"
 }

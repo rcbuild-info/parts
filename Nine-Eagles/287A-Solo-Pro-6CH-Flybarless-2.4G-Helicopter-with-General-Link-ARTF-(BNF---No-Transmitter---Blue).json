@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "287A Solo Pro 6CH Flybarless 2.4G Helicopter with General Link ARTF (BNF / No Transmitter / Blue)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=6272"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD199.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:38:42 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=6272"
+  }
+ ],
+ "version": 2,
+ "weight": "2000g"
 }

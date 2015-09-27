@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H45T002XXW - 450 Metal Tail Rotor Holder",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h45t002xxw-450-metal-tail-rotor-holder-p-7043.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD19.79",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:11:52 GMT",
+   "url": "http://www.myrcmart.com/h45t002xxw-450-metal-tail-rotor-holder-p-7043.html"
+  }
+ ],
+ "version": 2,
+ "weight": "60g"
 }

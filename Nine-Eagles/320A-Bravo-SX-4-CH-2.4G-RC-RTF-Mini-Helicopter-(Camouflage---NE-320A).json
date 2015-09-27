@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "320A Bravo SX 4 CH 2.4G RC RTF Mini Helicopter (Camouflage / NE-320A)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/nine-eagles-320a-bravo-sx-ch-24g-rc-rtf-mini-helicopter-camouflage-ne320a-p-3736.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD42.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:38:33 GMT",
+   "url": "http://www.myrcmart.com/nine-eagles-320a-bravo-sx-ch-24g-rc-rtf-mini-helicopter-camouflage-ne320a-p-3736.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1000g"
 }

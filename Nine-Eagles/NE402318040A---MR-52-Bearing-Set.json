@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "NE402318040A - MR 52 Bearing Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/ne402318040a-mr-52-bearing-set-p-4336.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.50",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:50:50 GMT",
+   "url": "http://www.myrcmart.com/ne402318040a-mr-52-bearing-set-p-4336.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

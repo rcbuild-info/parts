@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "GY-521 MPU-6050 MPU6050 Module 3 Axis Analog Gyro Sensors+ 3 Axis Accelerometer Module",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/gy521-mpu6050-mpu6050-module-axis-analog-gyro-sensors-axis-accelerometer-module-p-8946.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:34:14 GMT",
+   "url": "http://www.myrcmart.com/gy521-mpu6050-mpu6050-module-axis-analog-gyro-sensors-axis-accelerometer-module-p-8946.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

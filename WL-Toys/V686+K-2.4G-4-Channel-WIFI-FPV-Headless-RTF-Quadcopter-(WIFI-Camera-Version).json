@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "WL Toys",
  "name": "V686+K 2.4G 4 Channel WIFI FPV Headless RTF Quadcopter (WIFI Camera Version)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/wl-toys-v686k-24g-channel-wifi-fpv-headless-rtf-quadcopter-wifi-camera-version-p-8832.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD49.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:35:15 GMT",
+   "url": "http://www.myrcmart.com/wl-toys-v686k-24g-channel-wifi-fpv-headless-rtf-quadcopter-wifi-camera-version-p-8832.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1200g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H45152 - Sport V2 Linkage Rod Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h45152-sport-v2-linkage-rod-set-p-5179.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:12:51 GMT",
+   "url": "http://www.myrcmart.com/h45152-sport-v2-linkage-rod-set-p-5179.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

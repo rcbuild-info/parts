@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-G400-Z-09 - Wires Fixing Part",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmg400z09-wires-fixing-part-p-7831.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.myrcmart.com/hmg400z09-wires-fixing-part-p-7831.html"
+  },
+  {
+   "price": "USD1.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:29:08 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=7831"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

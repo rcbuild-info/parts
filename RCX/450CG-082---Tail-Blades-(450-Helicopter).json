@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "450CG-082 - Tail Blades (450 Helicopter)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx450cg082-tail-blades-450-helicopter-p-3425.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:54:13 GMT",
+   "url": "http://www.myrcmart.com/rcx450cg082-tail-blades-450-helicopter-p-3425.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

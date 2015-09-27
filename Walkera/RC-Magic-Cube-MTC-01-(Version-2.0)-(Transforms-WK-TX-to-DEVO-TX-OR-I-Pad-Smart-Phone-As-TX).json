@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "RC Magic Cube MTC-01 (Version 2.0) (Transforms WK-TX to DEVO-TX OR I-Pad/Smart Phone As TX)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/walkera-rc-magic-cube-mtc01-version-20-transforms-wktx-to-devotx-or-ipadsmart-phone-as-tx-p-5848.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD18.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:44:36 GMT",
+   "url": "http://www.myrcmart.com/walkera-rc-magic-cube-mtc01-version-20-transforms-wktx-to-devotx-or-ipadsmart-phone-as-tx-p-5848.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

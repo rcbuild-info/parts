@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "500 DFC Flybarless Rotor Head Set (Black / 500 Helicopter)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-500-dfc-flybarless-rotor-head-set-black-500-helicopter-p-5205.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD39.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:44:55 GMT",
+   "url": "http://www.myrcmart.com/rcx-500-dfc-flybarless-rotor-head-set-black-500-helicopter-p-5205.html"
+  }
+ ],
+ "version": 2,
+ "weight": "190g"
 }

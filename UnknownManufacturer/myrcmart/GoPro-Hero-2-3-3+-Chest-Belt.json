@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GoPro Hero 2/3/3+ Chest Belt",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/gopro-hero-233-chest-belt-p-8104.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:24:35 GMT",
+   "url": "http://www.myrcmart.com/gopro-hero-233-chest-belt-p-8104.html"
+  }
+ ],
+ "version": 2,
+ "weight": "200g"
 }

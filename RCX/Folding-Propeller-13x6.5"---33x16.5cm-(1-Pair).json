@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Folding Propeller 13x6.5\" / 33x16.5cm (1 Pair)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-folding-propeller-13x65-33x165cm-pair-p-4078.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.50",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:43:40 GMT",
+   "url": "http://www.myrcmart.com/rcx-folding-propeller-13x65-33x165cm-pair-p-4078.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

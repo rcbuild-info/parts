@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "20A (FVT Little Bee) BLHeli ESC + H1806 Motor Combo (4*ESC & 4*Motor)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-20a-fvt-little-bee-blheli-esc-h1806-motor-combo-4esc-4motor-p-9053.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD79.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:31:07 GMT",
+   "url": "http://www.myrcmart.com/rcx-20a-fvt-little-bee-blheli-esc-h1806-motor-combo-4esc-4motor-p-9053.html"
+  }
+ ],
+ "version": 2,
+ "weight": "150g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RadioLink",
  "name": "AT10 10CH 2.4Ghz Transmitter with R10D 10CH Receiver (Gray/Orange)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/radiolink-at10-10ch-24ghz-transmitter-with-r10d-10ch-receiver-grayorange-p-8900.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD112.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:41:46 GMT",
+   "url": "http://www.myrcmart.com/radiolink-at10-10ch-24ghz-transmitter-with-r10d-10ch-receiver-grayorange-p-8900.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1450g"
 }

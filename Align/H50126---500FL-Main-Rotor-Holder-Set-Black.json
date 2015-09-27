@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H50126 - 500FL Main Rotor Holder Set/Black",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h50126-500fl-main-rotor-holder-setblack-p-7791.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD43.19",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:11:23 GMT",
+   "url": "http://www.myrcmart.com/h50126-500fl-main-rotor-holder-setblack-p-7791.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

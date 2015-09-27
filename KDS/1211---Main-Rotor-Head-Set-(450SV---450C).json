@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "1211 - Main Rotor Head Set (450SV / 450C)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds1211-main-rotor-head-set-450sv-450c-p-2392.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD34.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:54:19 GMT",
+   "url": "http://www.myrcmart.com/kds1211-main-rotor-head-set-450sv-450c-p-2392.html"
+  }
+ ],
+ "version": 2,
+ "weight": "110g"
 }

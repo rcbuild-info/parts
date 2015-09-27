@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-53Q3-Z-16 - Skid Landing Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hm53q3z16-skid-landing-set-p-616.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:32:44 GMT",
+   "url": "http://www.myrcmart.com/hm53q3z16-skid-landing-set-p-616.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "820 AVCS Dual Rate & Head Lock Gyro (Helicopter)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=4269"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD24.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:53:56 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=4269"
+  }
+ ],
+ "version": 2,
+ "weight": "110g"
 }

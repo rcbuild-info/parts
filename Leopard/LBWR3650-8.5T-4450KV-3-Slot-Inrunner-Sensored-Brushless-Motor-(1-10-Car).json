@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LBWR3650/8.5T 4450KV 3-Slot Inrunner Sensored Brushless Motor (1/10 Car)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lbwr365085t-4450kv-3slot-inrunner-sensored-brushless-motor-110-car-p-5000.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD64.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:37:36 GMT",
+   "url": "http://www.myrcmart.com/leopard-lbwr365085t-4450kv-3slot-inrunner-sensored-brushless-motor-110-car-p-5000.html"
+  }
+ ],
+ "version": 2,
+ "weight": "250g"
 }

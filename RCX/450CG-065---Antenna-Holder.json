@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "450CG-065 - Antenna Holder",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx450cg065-antenna-holder-p-3408.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:04:19 GMT",
+   "url": "http://www.myrcmart.com/rcx450cg065-antenna-holder-p-3408.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

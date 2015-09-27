@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Great Wall",
  "name": "GW-9968-02 - Servo (Left)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/gw996802-servo-left-p-5900.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:47:06 GMT",
+   "url": "http://www.myrcmart.com/gw996802-servo-left-p-5900.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

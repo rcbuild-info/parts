@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "WL Toys",
  "name": "V939 Beetle Mini 4CH 2.4Ghz 4-Axis RTF QuadCopter (Red)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/wl-toys-v939-beetle-mini-4ch-24ghz-4axis-rtf-quadcopter-red-p-5054.html",
-   "http://www.myrcmart.com/product_reviews.php?products_id=5054"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.myrcmart.com/product_reviews.php?products_id=5054"
+  },
+  {
+   "price": "USD23.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:35:12 GMT",
+   "url": "http://www.myrcmart.com/wl-toys-v939-beetle-mini-4ch-24ghz-4axis-rtf-quadcopter-red-p-5054.html"
+  }
+ ],
+ "version": 2,
+ "weight": "800g"
 }

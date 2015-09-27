@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Syma",
  "name": "S107 3CH RC Helicopter RTF w/ Gyro (Yellow)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/syma-s107-3ch-rc-helicopter-rtf-gyro-yellow-p-3295.html",
-   "http://www.myrcmart.com/product_reviews.php?products_id=3295"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.myrcmart.com/product_reviews.php?products_id=3295"
+  },
+  {
+   "price": "USD19.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:41:04 GMT",
+   "url": "http://www.myrcmart.com/syma-s107-3ch-rc-helicopter-rtf-gyro-yellow-p-3295.html"
+  }
+ ],
+ "version": 2,
+ "weight": "700g"
 }

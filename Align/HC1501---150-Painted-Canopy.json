@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HC1501 - 150 Painted Canopy",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hc1501-150-painted-canopy-p-7061.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD8.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:12:04 GMT",
+   "url": "http://www.myrcmart.com/hc1501-150-painted-canopy-p-7061.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-QR-Scorpion-Z-02 - Canopy",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmqrscorpionz02-canopy-p-5456.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:27:18 GMT",
+   "url": "http://www.myrcmart.com/hmqrscorpionz02-canopy-p-5456.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

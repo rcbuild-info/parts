@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "WL Toys",
  "name": "HM-QR-X350-Z-15 - GPS Power Board",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmqrx350z15-gps-power-board-p-6749.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD8.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:08 GMT",
+   "url": "http://www.myrcmart.com/hmqrx350z15-gps-power-board-p-6749.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

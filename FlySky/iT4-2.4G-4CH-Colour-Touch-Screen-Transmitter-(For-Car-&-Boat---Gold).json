@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FlySky",
  "name": "iT4 2.4G 4CH Colour Touch Screen Transmitter (For Car & Boat / Gold)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/flysky-it4-24g-4ch-colour-touch-screen-transmitter-for-car-boat-gold-p-5856.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD129.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:41:47 GMT",
+   "url": "http://www.myrcmart.com/flysky-it4-24g-4ch-colour-touch-screen-transmitter-for-car-boat-gold-p-5856.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1500g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Brushless Motor Bearing (\u03a65*\u03a611*4mm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/brushless-motor-bearing-%CE%A65%CE%A6114mm-p-8087.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:36:40 GMT",
+   "url": "http://www.myrcmart.com/brushless-motor-bearing-%CE%A65%CE%A6114mm-p-8087.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

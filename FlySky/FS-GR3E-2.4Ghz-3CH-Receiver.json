@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FlySky",
  "name": "FS-GR3E 2.4Ghz 3CH Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/flysky-fsgr3e-24ghz-3ch-receiver-p-4718.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:23:50 GMT",
+   "url": "http://www.myrcmart.com/flysky-fsgr3e-24ghz-3ch-receiver-p-4718.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

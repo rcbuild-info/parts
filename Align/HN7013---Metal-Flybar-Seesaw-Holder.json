@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HN7013 - Metal Flybar Seesaw Holder",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hn7013-metal-flybar-seesaw-holder-p-7521.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD25.19",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:08:49 GMT",
+   "url": "http://www.myrcmart.com/hn7013-metal-flybar-seesaw-holder-p-7521.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

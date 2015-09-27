@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60G001XXW - CNC Slant Thread Main Drive Gear/112T",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h60g001xxw-cnc-slant-thread-main-drive-gear112t-p-7145.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD22.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:08:13 GMT",
+   "url": "http://www.myrcmart.com/h60g001xxw-cnc-slant-thread-main-drive-gear112t-p-7145.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

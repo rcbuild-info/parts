@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "X550Q-002 - Main Frame Bottom Plate (Glass Fiber / X550Q V1)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=6295"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:02:59 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=6295"
+  }
+ ],
+ "version": 2,
+ "weight": "90g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "3K Carbon Main Rotor Blades (550 Helicopter / 520mm / Black & White)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-3k-carbon-main-rotor-blades-550-helicopter-520mm-black-white-p-5366.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD24.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:41:20 GMT",
+   "url": "http://www.myrcmart.com/rcx-3k-carbon-main-rotor-blades-550-helicopter-520mm-black-white-p-5366.html"
+  }
+ ],
+ "version": 2,
+ "weight": "500g"
 }

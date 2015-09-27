@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "000677(EK1-0413) - (Ring Link) Push Rod",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=912"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:22:45 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=912"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "1115-70C - Main Frame Set (Glass Fiber / 2pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds111570c-main-frame-set-glass-fiber-2pcs-p-2469.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD14.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:59:35 GMT",
+   "url": "http://www.myrcmart.com/kds111570c-main-frame-set-glass-fiber-2pcs-p-2469.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

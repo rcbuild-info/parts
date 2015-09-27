@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "WL Toys",
  "name": "WL V388 3.5 CH Hornet Transport RC RTF (Built-in Gyro) Helicopter (Yellow)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/wl-v388-35-ch-hornet-transport-rc-rtf-builtin-gyro-helicopter-yellow-p-5290.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD19.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:40:28 GMT",
+   "url": "http://www.myrcmart.com/wl-v388-35-ch-hornet-transport-rc-rtf-builtin-gyro-helicopter-yellow-p-5290.html"
+  }
+ ],
+ "version": 2,
+ "weight": "700g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "4F200LM 3-Blades Flybarless Brushless Metal Edition w/ DEVO7 TX RTF Combo (Silver)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/walkera-4f200lm-3blades-flybarless-brushless-metal-edition-devo7-tx-rtf-combo-silver-p-3729.html",
-   "http://www.myrcmart.com/product_reviews.php?products_id=3729"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.myrcmart.com/product_reviews.php?products_id=3729"
+  },
+  {
+   "price": "USD289.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:39:07 GMT",
+   "url": "http://www.myrcmart.com/walkera-4f200lm-3blades-flybarless-brushless-metal-edition-devo7-tx-rtf-combo-silver-p-3729.html"
+  }
+ ],
+ "version": 2,
+ "weight": "3500g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "High Quality Canopy for Trex 250 Pro (Glass Fiber / Hand-Painting)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-250-pro-glass-fiber-handpainting-p-6062.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:54 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-250-pro-glass-fiber-handpainting-p-6062.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

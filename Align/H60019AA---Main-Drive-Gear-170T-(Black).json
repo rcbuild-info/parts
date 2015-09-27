@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60019AA - Main Drive Gear/170T (Black)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h60019aa-main-drive-gear170t-black-p-7248.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD12.59",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:05:28 GMT",
+   "url": "http://www.myrcmart.com/h60019aa-main-drive-gear170t-black-p-7248.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H45079 - Metal Main Rotor Holder Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h45079-metal-main-rotor-holder-set-p-5556.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD24.29",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:13:21 GMT",
+   "url": "http://www.myrcmart.com/h45079-metal-main-rotor-holder-set-p-5556.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

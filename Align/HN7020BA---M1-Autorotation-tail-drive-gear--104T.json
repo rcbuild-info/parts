@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HN7020BA - M1 Autorotation tail drive gear /104T",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hn7020ba-m1-autorotation-tail-drive-gear-104t-p-7602.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD17.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:03:09 GMT",
+   "url": "http://www.myrcmart.com/hn7020ba-m1-autorotation-tail-drive-gear-104t-p-7602.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

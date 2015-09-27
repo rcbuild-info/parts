@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "Devention Devo7 7-CH 2.4Ghz Radio System",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/walkera-devention-devo7-7ch-24ghz-radio-system-p-6863.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD64.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:44:40 GMT",
+   "url": "http://www.myrcmart.com/walkera-devention-devo7-7ch-24ghz-radio-system-p-6863.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1300g"
 }

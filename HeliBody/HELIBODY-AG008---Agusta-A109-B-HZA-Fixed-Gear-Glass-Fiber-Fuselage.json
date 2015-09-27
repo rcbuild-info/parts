@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HeliBody",
  "name": "HELIBODY-AG008 - Agusta A109 B-HZA Fixed Gear Glass Fiber Fuselage",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1831"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD78.20",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:40:01 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1831"
+  }
+ ],
+ "version": 2,
+ "weight": "6000g"
 }

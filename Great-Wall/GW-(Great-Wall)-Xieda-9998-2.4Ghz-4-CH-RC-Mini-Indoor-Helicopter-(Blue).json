@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Great Wall",
  "name": "GW (Great Wall) Xieda 9998 2.4Ghz 4-CH RC Mini Indoor Helicopter (Blue)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=3829"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:39:51 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=3829"
+  }
+ ],
+ "version": 2,
+ "weight": "1000g"
 }

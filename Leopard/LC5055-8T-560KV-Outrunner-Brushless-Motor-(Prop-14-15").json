@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LC5055-8T 560KV Outrunner Brushless Motor (Prop 14-15\")",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lc50558t-560kv-outrunner-brushless-motor-prop-1415-p-4970.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD74.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:35:51 GMT",
+   "url": "http://www.myrcmart.com/leopard-lc50558t-560kv-outrunner-brushless-motor-prop-1415-p-4970.html"
+  }
+ ],
+ "version": 2,
+ "weight": "350g"
 }

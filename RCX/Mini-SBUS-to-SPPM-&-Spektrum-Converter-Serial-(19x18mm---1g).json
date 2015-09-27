@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Mini SBUS to SPPM & Spektrum Converter Serial (19x18mm / 1g)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/mini-sbus-to-sppm-spektrum-converter-serial-19x18mm-1g-p-9056.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:24:07 GMT",
+   "url": "http://www.myrcmart.com/mini-sbus-to-sppm-spektrum-converter-serial-19x18mm-1g-p-9056.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

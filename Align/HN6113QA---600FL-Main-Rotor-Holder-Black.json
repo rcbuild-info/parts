@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HN6113QA - 600FL Main Rotor Holder/Black",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=7799"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD44.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:11:38 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=7799"
+  }
+ ],
+ "version": 2,
+ "weight": "600g"
 }

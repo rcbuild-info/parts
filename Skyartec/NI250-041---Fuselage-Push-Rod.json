@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyartec",
  "name": "NI250-041 - Fuselage Push Rod",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=2911"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.10",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:48:03 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=2911"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HC6004 - 600N Painted Canopy/Lightning Black",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hc6004-600n-painted-canopylightning-black-p-7412.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD59.39",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:05:48 GMT",
+   "url": "http://www.myrcmart.com/hc6004-600n-painted-canopylightning-black-p-7412.html"
+  }
+ ],
+ "version": 2,
+ "weight": "2000g"
 }

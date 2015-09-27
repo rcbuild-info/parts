@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Li-Polymer Battery 14.8V (4 Cells) 5200mAh 30C (X650)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-lipolymer-battery-148v-cells-5200mah-30c-x650-p-6380.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD52.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:43:25 GMT",
+   "url": "http://www.myrcmart.com/rcx-lipolymer-battery-148v-cells-5200mah-30c-x650-p-6380.html"
+  }
+ ],
+ "version": 2,
+ "weight": "600g"
 }

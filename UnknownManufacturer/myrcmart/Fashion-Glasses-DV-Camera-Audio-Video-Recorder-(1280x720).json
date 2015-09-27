@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Fashion Glasses DV Camera Audio Video Recorder (1280x720)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/fashion-glasses-dv-camera-audio-video-recorder-1280x720-p-6232.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD23.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:24:37 GMT",
+   "url": "http://www.myrcmart.com/fashion-glasses-dv-camera-audio-video-recorder-1280x720-p-6232.html"
+  }
+ ],
+ "version": 2,
+ "weight": "180g"
 }

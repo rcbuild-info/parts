@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FlySky",
  "name": "Flysky FS-R8B 2.4GHz 8CH Receiver (For FS-TH9X / FS-TH9B Radio)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/flysky-fsr8b-24ghz-8ch-receiver-for-fsth9x-fsth9b-radio-p-4717.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD15.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:23:48 GMT",
+   "url": "http://www.myrcmart.com/flysky-fsr8b-24ghz-8ch-receiver-for-fsth9x-fsth9b-radio-p-4717.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

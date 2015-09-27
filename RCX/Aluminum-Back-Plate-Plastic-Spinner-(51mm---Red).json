@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Aluminum Back Plate Plastic Spinner (51mm / Red)",
@@ -7,10 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/aluminum-back-plate-plastic-spinner-51mm-red-p-8675.html",
-   "http://www.myrcmart.com/aluminum-back-plate-plastic-spinner-51mm-red-p-8374.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:43:31 GMT",
+   "url": "http://www.myrcmart.com/aluminum-back-plate-plastic-spinner-51mm-red-p-8374.html"
+  },
+  {
+   "price": "USD5.29",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:43:31 GMT",
+   "url": "http://www.myrcmart.com/aluminum-back-plate-plastic-spinner-51mm-red-p-8675.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

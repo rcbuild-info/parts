@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HeliCox",
  "name": "Helicox TG-1 Flybarless 3-Axis Gyro (With G-Box Program Card)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/helicox-tg1-flybarless-3axis-gyro-with-gbox-program-card-p-4910.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD74.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:37 GMT",
+   "url": "http://www.myrcmart.com/helicox-tg1-flybarless-3axis-gyro-with-gbox-program-card-p-4910.html"
+  }
+ ],
+ "version": 2,
+ "weight": "210g"
 }

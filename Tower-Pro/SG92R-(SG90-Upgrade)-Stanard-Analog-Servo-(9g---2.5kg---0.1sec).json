@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tower Pro",
  "name": "SG92R (SG90 Upgrade) Stanard Analog Servo (9g / 2.5kg / 0.1sec)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/tower-pro-sg92r-sg90-upgrade-stanard-analog-servo-9g-25kg-01sec-p-5372.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:23:38 GMT",
+   "url": "http://www.myrcmart.com/tower-pro-sg92r-sg90-upgrade-stanard-analog-servo-9g-25kg-01sec-p-5372.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

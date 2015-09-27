@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "550-22 - Frame Strengthening Plate",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds55022-frame-strengthening-plate-p-4114.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD19.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:54:38 GMT",
+   "url": "http://www.myrcmart.com/kds55022-frame-strengthening-plate-p-4114.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

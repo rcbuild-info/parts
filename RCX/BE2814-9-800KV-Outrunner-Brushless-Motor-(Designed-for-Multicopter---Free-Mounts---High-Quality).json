@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "BE2814-9 800KV Outrunner Brushless Motor (Designed for Multicopter / Free Mounts / High Quality)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-be28149-800kv-outrunner-brushless-motor-designed-for-multicopter-free-mounts-high-quality-p-6488.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD17.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:31:00 GMT",
+   "url": "http://www.myrcmart.com/rcx-be28149-800kv-outrunner-brushless-motor-designed-for-multicopter-free-mounts-high-quality-p-6488.html"
+  }
+ ],
+ "version": 2,
+ "weight": "150g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "HobbyWing EZRUN Brushless System Combo for 1/10 Car (35A ESC / 3650S-3000KV / Program Card)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hobbywing-ezrun-brushless-system-combo-for-110-car-35a-esc-3650s3000kv-program-card-p-4901.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD79.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:37:24 GMT",
+   "url": "http://www.myrcmart.com/hobbywing-ezrun-brushless-system-combo-for-110-car-35a-esc-3650s3000kv-program-card-p-4901.html"
+  }
+ ],
+ "version": 2,
+ "weight": "390g"
 }

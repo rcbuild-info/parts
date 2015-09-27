@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Happy Cow",
  "name": "HappyCow i-Spy Tank RTR Tank w/ Live! Camera Controlled by App (White Color / iPhone/iPad/iPod)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/happycow-ispy-tank-rtr-tank-live-camera-controlled-by-app-white-color-iphoneipadipod-p-5675.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD49.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:02:44 GMT",
+   "url": "http://www.myrcmart.com/happycow-ispy-tank-rtr-tank-live-camera-controlled-by-app-white-color-iphoneipadipod-p-5675.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1800g"
 }

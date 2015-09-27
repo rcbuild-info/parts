@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hubsan",
  "name": "H107-A11 - U Wrench (Rotor Uninstaller)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h107a11-wrench-rotor-uninstaller-p-6678.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:45:36 GMT",
+   "url": "http://www.myrcmart.com/h107a11-wrench-rotor-uninstaller-p-6678.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

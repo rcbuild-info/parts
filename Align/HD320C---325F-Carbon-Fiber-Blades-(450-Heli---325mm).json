@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HD320C - 325F Carbon Fiber Blades (450 Heli / 325mm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=5414"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD17.09",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:14:00 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=5414"
+  }
+ ],
+ "version": 2,
+ "weight": "90g"
 }

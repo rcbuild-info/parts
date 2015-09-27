@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "700-35 - Feathering Shaft Rubber Ring",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds70035-feathering-shaft-rubber-ring-p-4406.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:55:33 GMT",
+   "url": "http://www.myrcmart.com/kds70035-feathering-shaft-rubber-ring-p-4406.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FrSky",
  "name": "TFR4B 2.4Ghz 4CH Surface/Air Receiver FAAST Compatible",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/frsky-tfr4b-24ghz-4ch-surfaceair-receiver-faast-compatible-p-8974.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD36.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:23:41 GMT",
+   "url": "http://www.myrcmart.com/frsky-tfr4b-24ghz-4ch-surfaceair-receiver-faast-compatible-p-8974.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

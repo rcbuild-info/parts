@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "L-C Power Filter-2A (Max 16V Input)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/lc-power-filter2a-max-16v-input-p-9041.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:25:29 GMT",
+   "url": "http://www.myrcmart.com/lc-power-filter2a-max-16v-input-p-9041.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

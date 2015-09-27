@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Banana Connector Housing (Red Color / 3.5mm / Walkera, KDS, Align)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/banana-connector-housing-red-color-35mm-walkera-kds-align-p-3475.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.40",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:26:37 GMT",
+   "url": "http://www.myrcmart.com/banana-connector-housing-red-color-35mm-walkera-kds-align-p-3475.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

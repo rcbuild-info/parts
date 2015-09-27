@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "5x4.5\" (3-Rotor) EPP5045 Counter Rotating Propellers (FM Series / Pair / Orange)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/5x45-3rotor-epp5045-counter-rotating-propellers-fm-series-pair-orange-p-7949.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:33:05 GMT",
+   "url": "http://www.myrcmart.com/5x45-3rotor-epp5045-counter-rotating-propellers-fm-series-pair-orange-p-7949.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

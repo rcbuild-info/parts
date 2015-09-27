@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Motor Mount for RCX Motors (4215-V2 / D5012 / BE3608 / BE4108 / BE4114)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/motor-mount-for-rcx-motors-4215v2-d5012-be3608-be4108-be4114-p-6316.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:37:08 GMT",
+   "url": "http://www.myrcmart.com/motor-mount-for-rcx-motors-4215v2-d5012-be3608-be4108-be4114-p-6316.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60087 - Bearing(MR74ZZ/623ZZ)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h60087-bearingmr74zz623zz-p-7278.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD6.29",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:06:28 GMT",
+   "url": "http://www.myrcmart.com/h60087-bearingmr74zz623zz-p-7278.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

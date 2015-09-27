@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "MG5509 Standard Metal Gear Servo  (55g / 9.5kg / 0.23sec)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-mg5509-standard-metal-gear-servo-55g-95kg-023sec-p-3854.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:30:11 GMT",
+   "url": "http://www.myrcmart.com/rcx-mg5509-standard-metal-gear-servo-55g-95kg-023sec-p-3854.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

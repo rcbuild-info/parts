@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "600-60 - Tail Boom Brace",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds60060-tail-boom-brace-p-4376.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:56:03 GMT",
+   "url": "http://www.myrcmart.com/kds60060-tail-boom-brace-p-4376.html"
+  }
+ ],
+ "version": 2,
+ "weight": "500g"
 }

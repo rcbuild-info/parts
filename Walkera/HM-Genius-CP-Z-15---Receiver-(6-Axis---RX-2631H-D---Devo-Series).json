@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-Genius-CP-Z-15 - Receiver (6-Axis / RX-2631H-D / Devo Series)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmgeniuscpz15-receiver-6axis-rx2631hd-devo-series-p-5550.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD59.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:27:55 GMT",
+   "url": "http://www.myrcmart.com/hmgeniuscpz15-receiver-6axis-rx2631hd-devo-series-p-5550.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

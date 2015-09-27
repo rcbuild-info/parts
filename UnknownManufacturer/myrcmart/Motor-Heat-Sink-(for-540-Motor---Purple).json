@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Motor Heat Sink (for 540 Motor / Purple)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/motor-heat-sink-for-540-motor-purple-p-6133.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:37:09 GMT",
+   "url": "http://www.myrcmart.com/motor-heat-sink-for-540-motor-purple-p-6133.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

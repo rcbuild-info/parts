@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "1108-Q-1 - Tail Holder Side Frame",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds1108q1-tail-holder-side-frame-p-3956.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:59:19 GMT",
+   "url": "http://www.myrcmart.com/kds1108q1-tail-holder-side-frame-p-3956.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

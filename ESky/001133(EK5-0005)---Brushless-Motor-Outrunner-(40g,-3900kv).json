@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "001133(EK5-0005) - Brushless Motor Outrunner (40g, 3900kv)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=876"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD20.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:16:43 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=876"
+  }
+ ],
+ "version": 2,
+ "weight": "200g"
 }

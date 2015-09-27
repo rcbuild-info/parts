@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "LI-PO SAFE BAG (Silver / 64x50x125mm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/lipo-safe-bag-silver-64x50x125mm-p-8335.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:42:35 GMT",
+   "url": "http://www.myrcmart.com/lipo-safe-bag-silver-64x50x125mm-p-8335.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

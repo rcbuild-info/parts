@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H50119-75 - Metal Tail Rotor Holder/Silver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=5759"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD24.29",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:07:24 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=5759"
+  }
+ ],
+ "version": 2,
+ "weight": "120g"
 }

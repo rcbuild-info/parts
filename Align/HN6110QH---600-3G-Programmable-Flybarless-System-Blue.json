@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HN6110QH - 600 3G Programmable Flybarless System/Blue",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hn6110qh-600-3g-programmable-flybarless-systemblue-p-7803.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD377.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:11:38 GMT",
+   "url": "http://www.myrcmart.com/hn6110qh-600-3g-programmable-flybarless-systemblue-p-7803.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1500g"
 }

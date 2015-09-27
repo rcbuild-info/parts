@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyartec",
  "name": "WH3-021 - Tail Pitch Shifter Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=3010"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD10.40",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:48:58 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=3010"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

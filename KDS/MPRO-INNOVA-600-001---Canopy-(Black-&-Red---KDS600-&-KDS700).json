@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "MPRO-INNOVA-600-001 - Canopy (Black & Red / KDS600 & KDS700)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kdsmproinnova600001-canopy-black-red-kds600-kds700-p-6116.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD44.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:53:36 GMT",
+   "url": "http://www.myrcmart.com/kdsmproinnova600001-canopy-black-red-kds600-kds700-p-6116.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1500g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tower Pro",
  "name": "SG-50 Mirco Servo (6.3g / 0.6kg / 0.3sec)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1375"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:24:14 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1375"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

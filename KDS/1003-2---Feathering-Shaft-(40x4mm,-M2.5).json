@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "1003-2 - Feathering Shaft (40x4mm, M2.5)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds10032-feathering-shaft-40x4mm-m25-p-2383.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:53:52 GMT",
+   "url": "http://www.myrcmart.com/kds10032-feathering-shaft-40x4mm-m25-p-2383.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

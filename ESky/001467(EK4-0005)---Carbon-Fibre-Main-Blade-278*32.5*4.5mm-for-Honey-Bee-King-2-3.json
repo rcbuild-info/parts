@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "001467(EK4-0005) - Carbon Fibre Main Blade 278*32.5*4.5mm for Honey Bee King 2/3",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1143"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD29.80",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:18:22 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1143"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

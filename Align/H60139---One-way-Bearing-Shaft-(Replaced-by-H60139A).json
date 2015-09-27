@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60139 - One-way Bearing Shaft (Replaced by H60139A)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=7139"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.49",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:08:09 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=7139"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

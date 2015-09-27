@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Q-FPV 5.8GHz 32CH Mini FPV Video Transmitter (600mW / 13g)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-qfpv-58ghz-32ch-mini-fpv-video-transmitter-600mw-13g-p-8879.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD23.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:50 GMT",
+   "url": "http://www.myrcmart.com/rcx-qfpv-58ghz-32ch-mini-fpv-video-transmitter-600mw-13g-p-8879.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

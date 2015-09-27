@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Charging Wire Extension Cable for 2S (20CM / 2-Cell Li-Po Battery / 7.4V)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/charging-wire-extension-cable-for-2s-20cm-2cell-lipo-battery-74v-p-5010.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.50",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:26:46 GMT",
+   "url": "http://www.myrcmart.com/charging-wire-extension-cable-for-2s-20cm-2cell-lipo-battery-74v-p-5010.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

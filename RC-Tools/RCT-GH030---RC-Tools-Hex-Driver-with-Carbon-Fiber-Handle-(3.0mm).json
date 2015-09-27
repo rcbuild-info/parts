@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RC-Tools",
  "name": "RCT-GH030 - RC-Tools Hex Driver with Carbon Fiber Handle (3.0mm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1857"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD9.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:29:01 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1857"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

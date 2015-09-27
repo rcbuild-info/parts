@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HN7008-00 - Carbon Fiber Flybar Paddle",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hn700800-carbon-fiber-flybar-paddle-p-7592.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD36.89",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:08:40 GMT",
+   "url": "http://www.myrcmart.com/hn700800-carbon-fiber-flybar-paddle-p-7592.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

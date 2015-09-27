@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LBP4074/2Y 2150KV 4-Poles Inrunner Brushless Motor (1/8 Car)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lbp40742y-2150kv-4poles-inrunner-brushless-motor-18-car-p-4923.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD79.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:37:49 GMT",
+   "url": "http://www.myrcmart.com/leopard-lbp40742y-2150kv-4poles-inrunner-brushless-motor-18-car-p-4923.html"
+  }
+ ],
+ "version": 2,
+ "weight": "500g"
 }

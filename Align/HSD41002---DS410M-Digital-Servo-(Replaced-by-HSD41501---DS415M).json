@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HSD41002 - DS410M Digital Servo (Replaced by HSD41501 - DS415M)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1890"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD34.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:13:55 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1890"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

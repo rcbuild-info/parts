@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "CF263 4-Axis Quadcopter (Barebone Frame / H1806 Motor / 10A ESC / 5030 / MWC Lite)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-cf263-4axis-quadcopter-barebone-frame-h1806-motor-10a-esc-5030-mwc-lite-p-7892.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD94.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:40:44 GMT",
+   "url": "http://www.myrcmart.com/rcx-cf263-4axis-quadcopter-barebone-frame-h1806-motor-10a-esc-5030-mwc-lite-p-7892.html"
+  }
+ ],
+ "version": 2,
+ "weight": "600g"
 }

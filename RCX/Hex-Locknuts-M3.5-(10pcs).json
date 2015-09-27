@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Hex Locknuts M3.5 (10pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hex-locknuts-m35-10pcs-p-4838.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:28:24 GMT",
+   "url": "http://www.myrcmart.com/hex-locknuts-m35-10pcs-p-4838.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

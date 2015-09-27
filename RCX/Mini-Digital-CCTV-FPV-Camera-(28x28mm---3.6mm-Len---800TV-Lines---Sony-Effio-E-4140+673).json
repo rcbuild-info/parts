@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Mini Digital CCTV/FPV Camera (28x28mm / 3.6mm Len / 800TV-Lines / Sony Effio-E 4140+673)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/mini-digital-cctvfpv-camera-28x28mm-36mm-len-800tvlines-sony-effioe-4140673-p-8242.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD19.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:25:28 GMT",
+   "url": "http://www.myrcmart.com/mini-digital-cctvfpv-camera-28x28mm-36mm-len-800tvlines-sony-effioe-4140673-p-8242.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

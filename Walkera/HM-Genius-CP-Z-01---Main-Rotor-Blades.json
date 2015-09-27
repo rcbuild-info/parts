@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-Genius-CP-Z-01 - Main Rotor Blades",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmgeniuscpz01-main-rotor-blades-p-5540.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:29:58 GMT",
+   "url": "http://www.myrcmart.com/hmgeniuscpz01-main-rotor-blades-p-5540.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

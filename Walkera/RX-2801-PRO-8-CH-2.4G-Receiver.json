@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "RX-2801 PRO 8-CH 2.4G Receiver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/walkera-rx2801-pro-8ch-24g-receiver-p-2353.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD37.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:23:59 GMT",
+   "url": "http://www.myrcmart.com/walkera-rx2801-pro-8ch-24g-receiver-p-2353.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

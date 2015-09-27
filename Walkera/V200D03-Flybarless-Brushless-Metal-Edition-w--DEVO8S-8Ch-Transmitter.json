@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "V200D03 Flybarless Brushless Metal Edition w/ DEVO8S 8Ch Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=3928"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD379.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:39:18 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=3928"
+  }
+ ],
+ "version": 2,
+ "weight": "3000g"
 }

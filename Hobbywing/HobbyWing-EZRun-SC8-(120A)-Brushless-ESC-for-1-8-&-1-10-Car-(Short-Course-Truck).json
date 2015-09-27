@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "HobbyWing EZRun SC8 (120A) Brushless ESC for 1/8 & 1/10 Car (Short Course Truck)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=4761"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD69.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:39:12 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=4761"
+  }
+ ],
+ "version": 2,
+ "weight": "120g"
 }

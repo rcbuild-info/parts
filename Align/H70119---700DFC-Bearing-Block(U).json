@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H70119 - 700DFC Bearing Block(U)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h70119-700dfc-bearing-blocku-p-7683.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD26.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:14:11 GMT",
+   "url": "http://www.myrcmart.com/h70119-700dfc-bearing-blocku-p-7683.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

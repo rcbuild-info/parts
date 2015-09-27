@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "WL Toys",
  "name": "WL-V944-17 - Bearings \u04246X\u042410X2.5mm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=6938"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:56:41 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=6938"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

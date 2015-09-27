@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Li-Polymer Battery 11.1V (3 Cells) 2600mAh 25C (Walkera V450D03/NV450D01)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-lipolymer-battery-111v-cells-2600mah-25c-walkera-v450d03nv450d01-p-6478.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD29.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:43:07 GMT",
+   "url": "http://www.myrcmart.com/rcx-lipolymer-battery-111v-cells-2600mah-25c-walkera-v450d03nv450d01-p-6478.html"
+  }
+ ],
+ "version": 2,
+ "weight": "270g"
 }

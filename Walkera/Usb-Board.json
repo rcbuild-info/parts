@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "Usb Board",
@@ -7,10 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/usb-board-p-8157.html",
-   "http://www.myrcmart.com/usb-board-p-8315.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:25:19 GMT",
+   "url": "http://www.myrcmart.com/usb-board-p-8157.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:42 GMT",
+   "url": "http://www.myrcmart.com/usb-board-p-8315.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

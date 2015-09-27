@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H50158 - 500PRO Carbon Main Frame(L)/1.6mm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h50158-500pro-carbon-main-framel16mm-p-5611.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD35.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:07:04 GMT",
+   "url": "http://www.myrcmart.com/h50158-500pro-carbon-main-framel16mm-p-5611.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

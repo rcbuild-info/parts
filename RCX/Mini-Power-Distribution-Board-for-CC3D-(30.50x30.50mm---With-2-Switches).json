@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Mini Power Distribution Board for CC3D (30.50x30.50mm / With 2 Switches)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/mini-power-distribution-board-for-cc3d-3050x3050mm-with-switches-p-8823.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:31:39 GMT",
+   "url": "http://www.myrcmart.com/mini-power-distribution-board-for-cc3d-3050x3050mm-with-switches-p-8823.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

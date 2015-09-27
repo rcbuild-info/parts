@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "000250(EK1-0280) - Center Hub & Spindle Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=995"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.80",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:17:36 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=995"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "1047-1-SD - FG Hand Painted Canopy (KDS 450 BD/SD/QS)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds10471sd-fg-hand-painted-canopy-kds-450-bdsdqs-p-4482.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD16.49",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:53:42 GMT",
+   "url": "http://www.myrcmart.com/kds10471sd-fg-hand-painted-canopy-kds-450-bdsdqs-p-4482.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

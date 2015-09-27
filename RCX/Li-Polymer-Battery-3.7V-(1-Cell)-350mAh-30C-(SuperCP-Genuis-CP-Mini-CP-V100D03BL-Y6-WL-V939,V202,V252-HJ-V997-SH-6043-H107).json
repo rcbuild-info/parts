@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Li-Polymer Battery 3.7V (1 Cell) 350mAh 30C (SuperCP/Genuis CP/Mini CP/V100D03BL/Y6/WL V939,V202,V252/HJ V997/SH 6043/H107)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-lipolymer-battery-37v-cell-350mah-30c-supercpgenuis-cpmini-cpv100d03bly6wl-v939v202v252hj-v997sh-6043h107-p-5579.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:43:19 GMT",
+   "url": "http://www.myrcmart.com/rcx-lipolymer-battery-37v-cell-350mah-30c-supercpgenuis-cpmini-cpv100d03bly6wl-v939v202v252hj-v997sh-6043h107-p-5579.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

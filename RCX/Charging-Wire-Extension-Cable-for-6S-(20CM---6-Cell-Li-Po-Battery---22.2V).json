@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Charging Wire Extension Cable for 6S (20CM / 6-Cell Li-Po Battery / 22.2V)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/charging-wire-extension-cable-for-6s-20cm-6cell-lipo-battery-222v-p-5084.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:25:48 GMT",
+   "url": "http://www.myrcmart.com/charging-wire-extension-cable-for-6s-20cm-6cell-lipo-battery-222v-p-5084.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

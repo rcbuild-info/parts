@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HN7037A - M1 Engine Gear Set/14T",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hn7037a-m1-engine-gear-set14t-p-7616.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD12.59",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:10:03 GMT",
+   "url": "http://www.myrcmart.com/hn7037a-m1-engine-gear-set14t-p-7616.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "126A Brushless Flybarless 2.4G 6CH RC 3D RTF Helicopter (Red)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=6137"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD179.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:38:47 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=6137"
+  }
+ ],
+ "version": 2,
+ "weight": "1500g"
 }

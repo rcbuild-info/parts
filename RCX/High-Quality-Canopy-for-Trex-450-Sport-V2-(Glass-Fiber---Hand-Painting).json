@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "High Quality Canopy for Trex 450 Sport V2 (Glass Fiber / Hand-Painting)",
@@ -7,10 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-v2-glass-fiber-handpainting-p-5704.html",
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-v2-glass-fiber-handpainting-p-5703.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:09 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-v2-glass-fiber-handpainting-p-5703.html"
+  },
+  {
+   "price": "USD7.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:09 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-v2-glass-fiber-handpainting-p-5704.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "H1806-6 2400KV Micro Outrunner Brushless Motor (4 x Motor / 16 x 5030)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-h18066-2400kv-micro-outrunner-brushless-motor-motor-16-5030-p-8045.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD38.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:31:35 GMT",
+   "url": "http://www.myrcmart.com/rcx-h18066-2400kv-micro-outrunner-brushless-motor-motor-16-5030-p-8045.html"
+  }
+ ],
+ "version": 2,
+ "weight": "200g"
 }

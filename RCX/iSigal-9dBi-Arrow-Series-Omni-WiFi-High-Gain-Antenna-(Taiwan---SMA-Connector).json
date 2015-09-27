@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "iSigal 9dBi Arrow Series Omni WiFi High Gain Antenna (Taiwan / SMA Connector)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/isigal-9dbi-arrow-series-omni-wifi-high-gain-antenna-taiwan-sma-connector-p-4798.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:30:09 GMT",
+   "url": "http://www.myrcmart.com/isigal-9dbi-arrow-series-omni-wifi-high-gain-antenna-taiwan-sma-connector-p-4798.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

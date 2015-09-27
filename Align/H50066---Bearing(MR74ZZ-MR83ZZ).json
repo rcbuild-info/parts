@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H50066 - Bearing(MR74ZZ/MR83ZZ)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h50066-bearingmr74zzmr83zz-p-7210.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD6.29",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:09:32 GMT",
+   "url": "http://www.myrcmart.com/h50066-bearingmr74zzmr83zz-p-7210.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

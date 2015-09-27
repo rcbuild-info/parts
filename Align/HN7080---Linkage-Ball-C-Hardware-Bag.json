@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HN7080 - Linkage Ball-C Hardware Bag",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hn7080-linkage-ballc-hardware-bag-p-7665.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD10.79",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:08:59 GMT",
+   "url": "http://www.myrcmart.com/hn7080-linkage-ballc-hardware-bag-p-7665.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

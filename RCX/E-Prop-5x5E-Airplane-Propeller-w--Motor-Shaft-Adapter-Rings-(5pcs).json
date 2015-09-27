@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "E-Prop 5x5E Airplane Propeller w/ Motor Shaft Adapter Rings (5pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-eprop-5x5e-airplane-propeller-motor-shaft-adapter-rings-5pcs-p-3934.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:44:22 GMT",
+   "url": "http://www.myrcmart.com/rcx-eprop-5x5e-airplane-propeller-motor-shaft-adapter-rings-5pcs-p-3934.html"
+  }
+ ],
+ "version": 2,
+ "weight": "60g"
 }

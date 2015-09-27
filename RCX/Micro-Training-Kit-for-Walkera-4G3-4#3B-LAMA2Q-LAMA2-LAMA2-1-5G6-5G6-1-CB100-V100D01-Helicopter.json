@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Micro Training Kit for Walkera 4G3/4#3B/LAMA2Q/LAMA2/LAMA2-1/5G6/5G6-1/CB100/V100D01 Helicopter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1992"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:35:56 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1992"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

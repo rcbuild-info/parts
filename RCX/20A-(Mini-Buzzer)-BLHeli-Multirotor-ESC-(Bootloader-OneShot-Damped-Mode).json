@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "20A (Mini Buzzer) BLHeli Multirotor ESC (Bootloader/OneShot/Damped Mode)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-20a-mini-buzzer-blheli-multirotor-esc-bootloaderoneshotdamped-mode-p-9048.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD14.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:34:28 GMT",
+   "url": "http://www.myrcmart.com/rcx-20a-mini-buzzer-blheli-multirotor-esc-bootloaderoneshotdamped-mode-p-9048.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

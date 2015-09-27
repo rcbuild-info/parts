@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HC4202 - Trex 450 Pro Painted Canopy A (Align)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=5281"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD21.59",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:11:50 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=5281"
+  }
+ ],
+ "version": 2,
+ "weight": "300g"
 }

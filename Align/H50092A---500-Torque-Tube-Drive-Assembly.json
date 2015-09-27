@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H50092A - 500 Torque Tube Drive Assembly",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h50092a-500-torque-tube-drive-assembly-p-5671.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD72.89",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:06:50 GMT",
+   "url": "http://www.myrcmart.com/h50092a-500-torque-tube-drive-assembly-p-5671.html"
+  }
+ ],
+ "version": 2,
+ "weight": "500g"
 }

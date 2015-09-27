@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H25122 - 250DFC Main Rotor Grip Arm Integrated Control Link Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h25122-250dfc-main-rotor-grip-arm-integrated-control-link-set-p-5302.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD13.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:10:53 GMT",
+   "url": "http://www.myrcmart.com/h25122-250dfc-main-rotor-grip-arm-integrated-control-link-set-p-5302.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LM2596 DC-DC Step Down Adjustable Power Supply Module (4V-35V Input)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/lm2596-dcdc-step-down-adjustable-power-supply-module-4v35v-input-p-9029.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:35:07 GMT",
+   "url": "http://www.myrcmart.com/lm2596-dcdc-step-down-adjustable-power-supply-module-4v35v-input-p-9029.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

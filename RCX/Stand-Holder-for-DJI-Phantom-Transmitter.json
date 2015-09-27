@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Stand Holder for DJI Phantom Transmitter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/stand-holder-for-dji-phantom-transmitter-p-8694.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:44:43 GMT",
+   "url": "http://www.myrcmart.com/stand-holder-for-dji-phantom-transmitter-p-8694.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

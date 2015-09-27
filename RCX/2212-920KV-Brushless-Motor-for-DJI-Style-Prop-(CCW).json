@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "2212 920KV Brushless Motor for DJI Style Prop (CCW)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-2212-920kv-brushless-motor-for-dji-style-prop-ccw-p-8028.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD9.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:34:55 GMT",
+   "url": "http://www.myrcmart.com/rcx-2212-920kv-brushless-motor-for-dji-style-prop-ccw-p-8028.html"
+  }
+ ],
+ "version": 2,
+ "weight": "70g"
 }

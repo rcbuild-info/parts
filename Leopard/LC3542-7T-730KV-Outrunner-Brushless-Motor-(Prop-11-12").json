@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LC3542-7T 730KV Outrunner Brushless Motor (Prop 11-12\")",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lc35427t-730kv-outrunner-brushless-motor-prop-1112-p-4969.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD39.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:35:57 GMT",
+   "url": "http://www.myrcmart.com/leopard-lc35427t-730kv-outrunner-brushless-motor-prop-1112-p-4969.html"
+  }
+ ],
+ "version": 2,
+ "weight": "230g"
 }

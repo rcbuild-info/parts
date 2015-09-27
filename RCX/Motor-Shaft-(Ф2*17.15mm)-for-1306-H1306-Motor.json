@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Motor Shaft (\u04242*17.15mm) for 1306/H1306 Motor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/motor-shaft-%D0%A421715mm-for-1306h1306-motor-p-8127.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:37:03 GMT",
+   "url": "http://www.myrcmart.com/motor-shaft-%D0%A421715mm-for-1306h1306-motor-p-8127.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

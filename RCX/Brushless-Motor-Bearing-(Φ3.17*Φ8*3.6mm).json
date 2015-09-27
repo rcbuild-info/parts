@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Brushless Motor Bearing (\u03a63.17*\u03a68*3.6mm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/brushless-motor-bearing-%CE%A6317%CE%A6836mm-p-6984.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:36:43 GMT",
+   "url": "http://www.myrcmart.com/brushless-motor-bearing-%CE%A6317%CE%A6836mm-p-6984.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

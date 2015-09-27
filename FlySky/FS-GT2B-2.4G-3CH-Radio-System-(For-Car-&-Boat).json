@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FlySky",
  "name": "FS-GT2B 2.4G 3CH Radio System (For Car & Boat)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/flysky-fsgt2b-24g-3ch-radio-system-for-car-boat-p-4796.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD24.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:41:55 GMT",
+   "url": "http://www.myrcmart.com/flysky-fsgt2b-24g-3ch-radio-system-for-car-boat-p-4796.html"
+  }
+ ],
+ "version": 2,
+ "weight": "800g"
 }

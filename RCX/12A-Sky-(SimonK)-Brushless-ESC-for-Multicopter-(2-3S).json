@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "12A Sky (SimonK) Brushless ESC for Multicopter (2-3S)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-12a-sky-simonk-brushless-esc-for-multicopter-23s-p-8051.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:32:44 GMT",
+   "url": "http://www.myrcmart.com/rcx-12a-sky-simonk-brushless-esc-for-multicopter-23s-p-8051.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

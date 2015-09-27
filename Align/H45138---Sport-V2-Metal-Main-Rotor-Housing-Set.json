@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H45138 - Sport V2 Metal Main Rotor Housing Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h45138-sport-v2-metal-main-rotor-housing-set-p-5134.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD17.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:13:30 GMT",
+   "url": "http://www.myrcmart.com/h45138-sport-v2-metal-main-rotor-housing-set-p-5134.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HSD52001 - DS520 Digital Servo (Replaced by HSD52501 DS525M)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=5217"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD44.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:11:56 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=5217"
+  }
+ ],
+ "version": 2,
+ "weight": "150g"
 }

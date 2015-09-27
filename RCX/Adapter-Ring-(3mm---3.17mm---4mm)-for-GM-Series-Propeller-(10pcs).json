@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Adapter Ring (3mm / 3.17mm / 4mm) for GM Series Propeller (10pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/adapter-ring-3mm-317mm-4mm-for-gm-series-propeller-10pcs-p-8030.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:42:27 GMT",
+   "url": "http://www.myrcmart.com/adapter-ring-3mm-317mm-4mm-for-gm-series-propeller-10pcs-p-8030.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

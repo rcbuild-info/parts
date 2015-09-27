@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LBP3660/2Y 2550KV 4-Poles Inrunner Brushless Motor (1/8 Car / 0.5M Boat)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lbp36602y-2550kv-4poles-inrunner-brushless-motor-18-car-05m-boat-p-4936.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD69.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:35:39 GMT",
+   "url": "http://www.myrcmart.com/leopard-lbp36602y-2550kv-4poles-inrunner-brushless-motor-18-car-05m-boat-p-4936.html"
+  }
+ ],
+ "version": 2,
+ "weight": "380g"
 }

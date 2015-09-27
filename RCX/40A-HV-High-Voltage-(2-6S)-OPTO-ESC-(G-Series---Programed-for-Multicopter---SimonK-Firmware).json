@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "40A-HV High Voltage (2-6S) OPTO ESC (G Series / Programed for Multicopter - SimonK Firmware)",
@@ -7,10 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-40ahv-high-voltage-26s-opto-esc-series-programed-for-multicopter-simonk-firmware-p-6112.html",
-   "http://www.myrcmart.com/rcx-40ahv-high-voltage-26s-opto-esc-series-programed-for-multicopter-simonk-firmware-p-6442.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD16.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:34:21 GMT",
+   "url": "http://www.myrcmart.com/rcx-40ahv-high-voltage-26s-opto-esc-series-programed-for-multicopter-simonk-firmware-p-6112.html"
+  },
+  {
+   "price": "USD16.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:34:20 GMT",
+   "url": "http://www.myrcmart.com/rcx-40ahv-high-voltage-26s-opto-esc-series-programed-for-multicopter-simonk-firmware-p-6442.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

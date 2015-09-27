@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2-Axis Brushless Gimbal Controller (V2)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=6471"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD99.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:34:34 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=6471"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

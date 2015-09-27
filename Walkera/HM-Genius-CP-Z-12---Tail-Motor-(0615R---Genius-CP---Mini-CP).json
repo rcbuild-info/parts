@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-Genius-CP-Z-12 - Tail Motor (0615R / Genius CP / Mini CP)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmgeniuscpz12-tail-motor-0615r-genius-cp-mini-cp-p-5538.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:27:00 GMT",
+   "url": "http://www.myrcmart.com/hmgeniuscpz12-tail-motor-0615r-genius-cp-mini-cp-p-5538.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

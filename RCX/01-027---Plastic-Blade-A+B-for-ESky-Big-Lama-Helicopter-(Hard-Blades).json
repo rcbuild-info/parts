@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "01-027 - Plastic Blade A+B for ESky Big Lama Helicopter (Hard Blades)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx01027-plastic-blade-ab-for-esky-big-lama-helicopter-hard-blades-p-1334.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:41:02 GMT",
+   "url": "http://www.myrcmart.com/rcx01027-plastic-blade-ab-for-esky-big-lama-helicopter-hard-blades-p-1334.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

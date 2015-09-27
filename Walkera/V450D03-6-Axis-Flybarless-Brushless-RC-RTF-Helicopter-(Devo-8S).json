@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "V450D03 6-Axis Flybarless Brushless RC RTF Helicopter (Devo 8S)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/walkera-v450d03-6axis-flybarless-brushless-rc-rtf-helicopter-devo-8s-p-5684.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD359.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:39:15 GMT",
+   "url": "http://www.myrcmart.com/walkera-v450d03-6axis-flybarless-brushless-rc-rtf-helicopter-devo-8s-p-5684.html"
+  }
+ ],
+ "version": 2,
+ "weight": "3500g"
 }

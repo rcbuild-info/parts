@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "WL Toys",
  "name": "V912 4CH 2.4Ghz RTF Helicopter (V2.0 with Multifunction Receiver / Brushed Version)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/wl-toys-v912-4ch-24ghz-rtf-helicopter-v20-with-multifunction-receiver-brushed-version-p-5855.html",
-   "http://www.myrcmart.com/product_reviews.php?products_id=5855"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.myrcmart.com/product_reviews.php?products_id=5855"
+  },
+  {
+   "price": "USD41.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:40:03 GMT",
+   "url": "http://www.myrcmart.com/wl-toys-v912-4ch-24ghz-rtf-helicopter-v20-with-multifunction-receiver-brushed-version-p-5855.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1500g"
 }

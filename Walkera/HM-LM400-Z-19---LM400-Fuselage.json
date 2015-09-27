@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-LM400-Z-19 - LM400 Fuselage",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1260"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:25:45 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1260"
+  }
+ ],
+ "version": 2,
+ "weight": "1500g"
 }

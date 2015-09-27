@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Lanyu",
  "name": "TW-782 Biplane Micro Infrared Control Indoor Aeroplane (Red)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/tw782-biplane-micro-infrared-control-indoor-aeroplane-red-p-2803.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD19.95",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:04:58 GMT",
+   "url": "http://www.myrcmart.com/tw782-biplane-micro-infrared-control-indoor-aeroplane-red-p-2803.html"
+  }
+ ],
+ "version": 2,
+ "weight": "500g"
 }

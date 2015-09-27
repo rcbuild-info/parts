@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GJ Thermostatic Soldering Iron (60W / 220V / Temperature Adjustable)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/gj-thermostatic-soldering-iron-60w-220v-temperature-adjustable-p-3921.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD8.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:29:51 GMT",
+   "url": "http://www.myrcmart.com/gj-thermostatic-soldering-iron-60w-220v-temperature-adjustable-p-3921.html"
+  }
+ ],
+ "version": 2,
+ "weight": "200g"
 }

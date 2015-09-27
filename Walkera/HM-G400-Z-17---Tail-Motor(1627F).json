@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-G400-Z-17 - Tail Motor(1627F)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmg400z17-tail-motor1627f-p-7839.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.myrcmart.com/hmg400z17-tail-motor1627f-p-7839.html"
+  },
+  {
+   "price": "USD9.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:29:04 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=7839"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

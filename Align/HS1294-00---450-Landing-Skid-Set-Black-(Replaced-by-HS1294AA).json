@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HS1294-00 - 450 Landing Skid Set/Black (Replaced by HS1294AA)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=5647"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.19",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:14:18 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=5647"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

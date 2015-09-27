@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "High Quality Canopy for Trex 450 Pro V2 (Glass Fiber / Hand-Painting)",
@@ -7,13 +7,45 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-pro-v2-glass-fiber-handpainting-p-4790.html",
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-pro-v2-glass-fiber-handpainting-p-4788.html",
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-pro-v2-glass-fiber-handpainting-p-4789.html",
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-pro-v2-glass-fiber-handpainting-p-4575.html",
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-pro-v2-glass-fiber-handpainting-p-4576.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:23 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-pro-v2-glass-fiber-handpainting-p-4575.html"
+  },
+  {
+   "price": "USD7.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:23 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-pro-v2-glass-fiber-handpainting-p-4576.html"
+  },
+  {
+   "price": "USD7.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:21 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-pro-v2-glass-fiber-handpainting-p-4788.html"
+  },
+  {
+   "price": "USD7.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:21 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-pro-v2-glass-fiber-handpainting-p-4789.html"
+  },
+  {
+   "price": "USD7.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:20 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-pro-v2-glass-fiber-handpainting-p-4790.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

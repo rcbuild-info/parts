@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LBG3650/6.5T 4750KV 3-Slot Inrunner Seneorless Brushless Motor (1/10 Car)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lbg365065t-4750kv-3slot-inrunner-seneorless-brushless-motor-110-car-p-4990.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD59.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:37:42 GMT",
+   "url": "http://www.myrcmart.com/leopard-lbg365065t-4750kv-3slot-inrunner-seneorless-brushless-motor-110-car-p-4990.html"
+  }
+ ],
+ "version": 2,
+ "weight": "240g"
 }

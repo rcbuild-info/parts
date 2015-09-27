@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HN7108QF - 700 Flybarless System Main Rotor Set/Silver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hn7108qf-700-flybarless-system-main-rotor-setsilver-p-7770.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD125.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:11:03 GMT",
+   "url": "http://www.myrcmart.com/hn7108qf-700-flybarless-system-main-rotor-setsilver-p-7770.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1500g"
 }

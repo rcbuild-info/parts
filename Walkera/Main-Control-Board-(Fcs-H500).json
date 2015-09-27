@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "Main Control Board (Fcs-H500)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/main-control-board-fcsh500-p-8154.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD139.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:25:00 GMT",
+   "url": "http://www.myrcmart.com/main-control-board-fcsh500-p-8154.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

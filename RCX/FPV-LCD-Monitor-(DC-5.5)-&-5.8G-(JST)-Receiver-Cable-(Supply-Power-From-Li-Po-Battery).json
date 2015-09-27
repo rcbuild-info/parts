@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "FPV LCD Monitor (DC 5.5) & 5.8G (JST) Receiver Cable (Supply Power From Li-Po Battery)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/fpv-lcd-monitor-dc-55-58g-jst-receiver-cable-supply-power-from-lipo-battery-p-9045.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:25:54 GMT",
+   "url": "http://www.myrcmart.com/fpv-lcd-monitor-dc-55-58g-jst-receiver-cable-supply-power-from-lipo-battery-p-9045.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "6A ESC Brushless Motor Speed Controller (G Series)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-6a-esc-brushless-motor-speed-controller-series-p-3848.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:39:21 GMT",
+   "url": "http://www.myrcmart.com/rcx-6a-esc-brushless-motor-speed-controller-series-p-3848.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

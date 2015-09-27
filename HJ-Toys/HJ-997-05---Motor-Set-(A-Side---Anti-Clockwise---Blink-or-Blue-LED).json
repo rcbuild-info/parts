@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HJ Toys",
  "name": "HJ-997-05 - Motor Set (A Side / Anti-Clockwise / Blink or Blue LED)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hj99705-motor-set-side-anticlockwise-blink-or-blue-led-p-6224.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:57:46 GMT",
+   "url": "http://www.myrcmart.com/hj99705-motor-set-side-anticlockwise-blink-or-blue-led-p-6224.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

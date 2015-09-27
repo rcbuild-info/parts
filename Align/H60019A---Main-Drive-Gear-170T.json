@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60019A - Main Drive Gear/170T",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=7291"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD12.59",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:07:53 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=7291"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

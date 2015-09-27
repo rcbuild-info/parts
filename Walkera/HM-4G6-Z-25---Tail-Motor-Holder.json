@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-4G6-Z-25 - Tail Motor Holder",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hm4g6z25-tail-motor-holder-p-1920.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.50",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:32:57 GMT",
+   "url": "http://www.myrcmart.com/hm4g6z25-tail-motor-holder-p-1920.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

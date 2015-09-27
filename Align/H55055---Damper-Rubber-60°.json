@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H55055 - Damper Rubber 60\u00b0",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h55055-damper-rubber-60%C2%B0-p-7117.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.39",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:09:29 GMT",
+   "url": "http://www.myrcmart.com/h55055-damper-rubber-60%C2%B0-p-7117.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

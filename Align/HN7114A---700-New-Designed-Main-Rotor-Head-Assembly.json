@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HN7114A - 700 New Designed Main Rotor Head Assembly",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=7543"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD146.69",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:10:43 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=7543"
+  }
+ ],
+ "version": 2,
+ "weight": "1500g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60206 - 600PRO Metal Mixing Arm (U)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h60206-600pro-metal-mixing-arm-p-7357.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD17.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:09:45 GMT",
+   "url": "http://www.myrcmart.com/h60206-600pro-metal-mixing-arm-p-7357.html"
+  }
+ ],
+ "version": 2,
+ "weight": "60g"
 }

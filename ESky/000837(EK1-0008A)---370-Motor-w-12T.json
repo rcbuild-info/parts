@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "000837(EK1-0008A) - 370 Motor w/12T",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1056"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:22:57 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1056"
+  }
+ ],
+ "version": 2,
+ "weight": "200g"
 }

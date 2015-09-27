@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tower Pro",
  "name": "SG-5010 Double Ball Bearing Servo (38g / 3.1kg / 0.17sec)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1378"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:24:14 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1378"
+  }
+ ],
+ "version": 2,
+ "weight": "70g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "NE4260012 - Fixed Pin Balance Bar",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/ne4260012-fixed-pin-balance-bar-p-2564.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.70",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:52:12 GMT",
+   "url": "http://www.myrcmart.com/ne4260012-fixed-pin-balance-bar-p-2564.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

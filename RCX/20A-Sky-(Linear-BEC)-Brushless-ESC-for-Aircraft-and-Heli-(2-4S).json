@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "20A Sky (Linear BEC) Brushless ESC for Aircraft and Heli (2-4S)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-20a-sky-linear-bec-brushless-esc-for-aircraft-and-heli-24s-p-8040.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:39:23 GMT",
+   "url": "http://www.myrcmart.com/rcx-20a-sky-linear-bec-brushless-esc-for-aircraft-and-heli-24s-p-8040.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

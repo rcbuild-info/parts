@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "WFLY",
  "name": "WFT06II 2.4G 6CH Radio System (TX + RX)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/wfly-wft06ii-24g-6ch-radio-system-tx-rx-p-4715.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD59.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:42:05 GMT",
+   "url": "http://www.myrcmart.com/wfly-wft06ii-24g-6ch-radio-system-tx-rx-p-4715.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1000g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Super Mini Digital CCTV/FPV Camera (12.5x12.5x14mm / 2.8mm Len 120\u00b0 Angle/ CMOS 600TVL / 2-3g)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/super-mini-digital-cctvfpv-camera-125x125x14mm-28mm-len-120%C2%B0-angle-cmos-600tvl-23g-p-8511.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD7.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:27:06 GMT",
+   "url": "http://www.myrcmart.com/super-mini-digital-cctvfpv-camera-125x125x14mm-28mm-len-120%C2%B0-angle-cmos-600tvl-23g-p-8511.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

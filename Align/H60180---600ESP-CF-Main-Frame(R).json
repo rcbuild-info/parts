@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60180 - 600ESP CF Main Frame(R)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=7314"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD53.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:10:09 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=7314"
+  }
+ ],
+ "version": 2,
+ "weight": "300g"
 }

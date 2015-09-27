@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "10A (eXtreme Series) BLHeli Multirotor ESC For High KV/RPM Motors (1104/1105) With OneShot125 Supported",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-10a-extreme-series-blheli-multirotor-esc-for-high-kvrpm-motors-11041105-with-oneshot125-supported-p-9031.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD8.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:34:05 GMT",
+   "url": "http://www.myrcmart.com/rcx-10a-extreme-series-blheli-multirotor-esc-for-high-kvrpm-motors-11041105-with-oneshot125-supported-p-9031.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

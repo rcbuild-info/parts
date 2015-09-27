@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H11025 - 100 Metal Re-fitting Components",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h11025-100-metal-refitting-components-p-5381.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD26.09",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:15:49 GMT",
+   "url": "http://www.myrcmart.com/h11025-100-metal-refitting-components-p-5381.html"
+  }
+ ],
+ "version": 2,
+ "weight": "120g"
 }

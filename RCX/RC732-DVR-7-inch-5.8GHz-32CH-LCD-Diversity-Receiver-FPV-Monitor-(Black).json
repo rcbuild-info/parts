@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "RC732-DVR 7 inch 5.8GHz 32CH LCD Diversity Receiver FPV Monitor (Black)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-rc732dvr-inch-58ghz-32ch-lcd-diversity-receiver-fpv-monitor-black-p-8509.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD99.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:50 GMT",
+   "url": "http://www.myrcmart.com/rcx-rc732dvr-inch-58ghz-32ch-lcd-diversity-receiver-fpv-monitor-black-p-8509.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1100g"
 }

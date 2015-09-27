@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "Signal Cable",
@@ -7,10 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/signal-cable-p-8164.html",
-   "http://www.myrcmart.com/signal-cable-p-8319.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:56 GMT",
+   "url": "http://www.myrcmart.com/signal-cable-p-8164.html"
+  },
+  {
+   "price": "USD4.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:45 GMT",
+   "url": "http://www.myrcmart.com/signal-cable-p-8319.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "Genius CP V2 6-Axis 6-CH RC RTF Helicopter (DEVO 10)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=5857"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD179.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:39:07 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=5857"
+  }
+ ],
+ "version": 2,
+ "weight": "1750g"
 }

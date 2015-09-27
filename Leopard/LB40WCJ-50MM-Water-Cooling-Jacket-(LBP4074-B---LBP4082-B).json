@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LB40WCJ 50MM Water Cooling Jacket (LBP4074-B / LBP4082-B)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lb40wcj-50mm-water-cooling-jacket-lbp4074b-lbp4082b-p-6762.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD9.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:35:31 GMT",
+   "url": "http://www.myrcmart.com/leopard-lb40wcj-50mm-water-cooling-jacket-lbp4074b-lbp4082b-p-6762.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

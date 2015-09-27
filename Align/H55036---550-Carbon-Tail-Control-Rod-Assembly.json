@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H55036 - 550 Carbon Tail Control Rod Assembly",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h55036-550-carbon-tail-control-rod-assembly-p-7171.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD17.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:07:35 GMT",
+   "url": "http://www.myrcmart.com/h55036-550-carbon-tail-control-rod-assembly-p-7171.html"
+  }
+ ],
+ "version": 2,
+ "weight": "300g"
 }

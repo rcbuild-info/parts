@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyartec",
  "name": "CNC Main Rotor Holder w/ Main and Tail Blades Combo (Nano CP / CPX)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/cnc-main-rotor-holder-main-and-tail-blades-combo-nano-cp-cpx-p-6459.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD9.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:48:20 GMT",
+   "url": "http://www.myrcmart.com/cnc-main-rotor-holder-main-and-tail-blades-combo-nano-cp-cpx-p-6459.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

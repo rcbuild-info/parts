@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H70041A - Carbon Main Frame(L) / 2mm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h70041a-carbon-main-framel-2mm-p-7687.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD68.39",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:10:32 GMT",
+   "url": "http://www.myrcmart.com/h70041a-carbon-main-framel-2mm-p-7687.html"
+  }
+ ],
+ "version": 2,
+ "weight": "500g"
 }

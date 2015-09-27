@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H45173 - 450 Plus Washout Base Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h45173-450-plus-washout-base-set-p-5419.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.39",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:12:36 GMT",
+   "url": "http://www.myrcmart.com/h45173-450-plus-washout-base-set-p-5419.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

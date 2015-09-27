@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "EBar V2 3-Axis Flybarless System w/ Program PC (Version 2.0 New!! in 2013)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds-ebar-v2-3axis-flybarless-system-program-pc-version-20-new-in-2013-p-6453.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD119.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:31 GMT",
+   "url": "http://www.myrcmart.com/kds-ebar-v2-3axis-flybarless-system-program-pc-version-20-new-in-2013-p-6453.html"
+  }
+ ],
+ "version": 2,
+ "weight": "180g"
 }

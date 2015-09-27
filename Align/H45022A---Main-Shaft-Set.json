@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H45022A - Main Shaft Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h45022a-main-shaft-set-p-5171.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD10.79",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:13:48 GMT",
+   "url": "http://www.myrcmart.com/h45022a-main-shaft-set-p-5171.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

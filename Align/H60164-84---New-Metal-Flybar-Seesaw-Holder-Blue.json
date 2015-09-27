@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60164-84 - New Metal Flybar Seesaw Holder/Blue",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h6016484-new-metal-flybar-seesaw-holderblue-p-7490.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD22.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:07:14 GMT",
+   "url": "http://www.myrcmart.com/h6016484-new-metal-flybar-seesaw-holderblue-p-7490.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

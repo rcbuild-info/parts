@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "X650 V4 Combo (With 20A ESC, BC2836-880KV Motor, 1045 Prop)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/x650-v4-combo-with-20a-esc-bc2836880kv-motor-1045-prop-p-6674.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD179.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:41:52 GMT",
+   "url": "http://www.myrcmart.com/x650-v4-combo-with-20a-esc-bc2836880kv-motor-1045-prop-p-6674.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1600g"
 }

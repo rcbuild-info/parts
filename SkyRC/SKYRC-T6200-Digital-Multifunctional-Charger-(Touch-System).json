@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SkyRC",
  "name": "SKYRC T6200 Digital Multifunctional Charger (Touch System)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/skyrc-t6200-digital-multifunctional-charger-touch-system-p-6463.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD74.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:42:56 GMT",
+   "url": "http://www.myrcmart.com/skyrc-t6200-digital-multifunctional-charger-touch-system-p-6463.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1100g"
 }

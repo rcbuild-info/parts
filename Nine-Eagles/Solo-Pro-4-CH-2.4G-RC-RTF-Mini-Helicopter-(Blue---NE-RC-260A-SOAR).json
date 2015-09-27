@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "Solo Pro 4 CH 2.4G RC RTF Mini Helicopter (Blue / NE-RC-260A-SOAR)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/nine-eagles-solo-pro-ch-24g-rc-rtf-mini-helicopter-blue-nerc260asoar-p-2584.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD31.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:39:28 GMT",
+   "url": "http://www.myrcmart.com/nine-eagles-solo-pro-ch-24g-rc-rtf-mini-helicopter-blue-nerc260asoar-p-2584.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1000g"
 }

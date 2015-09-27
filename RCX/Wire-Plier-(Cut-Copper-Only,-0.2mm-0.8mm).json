@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Wire Plier (Cut-Copper Only, 0.2mm-0.8mm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/wire-plier-cutcopper-only-02mm08mm-p-2681.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD8.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:27:37 GMT",
+   "url": "http://www.myrcmart.com/wire-plier-cutcopper-only-02mm08mm-p-2681.html"
+  }
+ ],
+ "version": 2,
+ "weight": "150g"
 }

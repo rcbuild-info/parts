@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "2004-7 - N690 Digital Tail Locking Servo (For 550/600/700)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=4421"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD27.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:55:52 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=4421"
+  }
+ ],
+ "version": 2,
+ "weight": "140g"
 }

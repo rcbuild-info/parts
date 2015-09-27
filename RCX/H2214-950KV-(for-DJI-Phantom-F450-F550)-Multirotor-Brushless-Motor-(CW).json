@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "H2214 950KV (for DJI Phantom/F450/F550) Multirotor Brushless Motor (CW)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-h2214-950kv-for-dji-phantomf450f550-multirotor-brushless-motor-cw-p-8034.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD10.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:31:25 GMT",
+   "url": "http://www.myrcmart.com/rcx-h2214-950kv-for-dji-phantomf450f550-multirotor-brushless-motor-cw-p-8034.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

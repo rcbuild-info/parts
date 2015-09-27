@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Dual TTL 3DRobotics 3DR Radio Telemetry Kit 915Mhz (500mW) for Pixhawk/APM",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/dual-ttl-3drobotics-3dr-radio-telemetry-kit-915mhz-500mw-for-pixhawkapm-p-9059.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD39.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:18 GMT",
+   "url": "http://www.myrcmart.com/dual-ttl-3drobotics-3dr-radio-telemetry-kit-915mhz-500mw-for-pixhawkapm-p-9059.html"
+  }
+ ],
+ "version": 2,
+ "weight": "90g"
 }

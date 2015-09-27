@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RC-Tools",
  "name": "RCT-TB001 - RC-Tools Standard Set for Helicopter (12PCS)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1850"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD34.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:29:42 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1850"
+  }
+ ],
+ "version": 2,
+ "weight": "1500g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-G400-Z-03 - Plastic Blade Grips",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmg400z03-plastic-blade-grips-p-7825.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.myrcmart.com/hmg400z03-plastic-blade-grips-p-7825.html"
+  },
+  {
+   "price": "USD6.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:29:11 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=7825"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

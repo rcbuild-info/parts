@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HN7097 - 700FL Mixing base assembly/Silver",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=7784"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD33.29",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:11:04 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=7784"
+  }
+ ],
+ "version": 2,
+ "weight": "60g"
 }

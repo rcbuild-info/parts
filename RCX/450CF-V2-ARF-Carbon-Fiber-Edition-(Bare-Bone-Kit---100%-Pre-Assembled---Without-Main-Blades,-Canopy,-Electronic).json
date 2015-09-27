@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "450CF V2 ARF Carbon Fiber Edition (Bare Bone Kit / 100% Pre-Assembled / Without Main Blades, Canopy, Electronic)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=3304"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD69.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:38:38 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=3304"
+  }
+ ],
+ "version": 2,
+ "weight": "2000g"
 }

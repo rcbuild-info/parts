@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "600-38 - Main Shaft",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=4384"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD9.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:56:05 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=4384"
+  }
+ ],
+ "version": 2,
+ "weight": "170g"
 }

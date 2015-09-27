@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "WL L969 1:12 Scale 2.4G RTR RC Truck (Waterproof / Red)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/wl-l969-112-scale-24g-rtr-rc-truck-waterproof-red-p-6470.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD54.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:15:39 GMT",
+   "url": "http://www.myrcmart.com/wl-l969-112-scale-24g-rtr-rc-truck-waterproof-red-p-6470.html"
+  }
+ ],
+ "version": 2,
+ "weight": "3000g"
 }

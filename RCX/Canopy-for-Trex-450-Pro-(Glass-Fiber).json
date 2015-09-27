@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Canopy for Trex 450 Pro (Glass Fiber)",
@@ -7,26 +7,136 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-18-p-4352.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-4048.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-4045.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-4043.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-4042.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-12-p-4178.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-10-p-4176.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-17-p-4198.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-4174.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-11-p-4177.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-13-p-4194.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-4175.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-14-p-4195.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-16-p-4197.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-15-p-4196.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-3845.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-3844.html",
-   "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-3846.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:07 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-10-p-4176.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:06 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-11-p-4177.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:06 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-12-p-4178.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:10 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-13-p-4194.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:10 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-14-p-4195.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:09 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-15-p-4196.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:09 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-16-p-4197.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:08 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-17-p-4198.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:54 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-18-p-4352.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:12 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-3844.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:11 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-3845.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:11 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-3846.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:05 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-4042.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:05 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-4043.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:04 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-4045.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:04 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-4048.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:08 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-4174.html"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:07 GMT",
+   "url": "http://www.myrcmart.com/rcx-canopy-for-trex-450-pro-glass-fiber-p-4175.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Bubble Level (Spirit Level) for Multirotor Helicopter (60x12mm / High Precision)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/bubble-level-spirit-level-for-multirotor-helicopter-60x12mm-high-precision-p-8062.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:24:28 GMT",
+   "url": "http://www.myrcmart.com/bubble-level-spirit-level-for-multirotor-helicopter-60x12mm-high-precision-p-8062.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

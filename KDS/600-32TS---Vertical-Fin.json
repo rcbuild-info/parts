@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "600-32TS - Vertical Fin",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds60032ts-vertical-fin-p-4362.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD9.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:55:04 GMT",
+   "url": "http://www.myrcmart.com/kds60032ts-vertical-fin-p-4362.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

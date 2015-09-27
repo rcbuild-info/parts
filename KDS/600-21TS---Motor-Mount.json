@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "600-21TS - Motor Mount",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds60021ts-motor-mount-p-4360.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD13.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:55:05 GMT",
+   "url": "http://www.myrcmart.com/kds60021ts-motor-mount-p-4360.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

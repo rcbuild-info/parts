@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H45134 - 450FL Metal Control Arm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h45134-450fl-metal-control-arm-p-5221.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD16.19",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:11:42 GMT",
+   "url": "http://www.myrcmart.com/h45134-450fl-metal-control-arm-p-5221.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "H250GF (DT Version) FPV Quadcopter",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=8208"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD12.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:41:16 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=8208"
+  }
+ ],
+ "version": 2,
+ "weight": "200g"
 }

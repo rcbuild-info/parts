@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "San Huan",
  "name": "SH 6025-1 Mini X 3-CH Helicopter with Gyroscopes System (Blue)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/sh-60251-mini-3ch-helicopter-with-gyroscopes-system-blue-p-2801.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD19.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:41:09 GMT",
+   "url": "http://www.myrcmart.com/sh-60251-mini-3ch-helicopter-with-gyroscopes-system-blue-p-2801.html"
+  }
+ ],
+ "version": 2,
+ "weight": "800g"
 }

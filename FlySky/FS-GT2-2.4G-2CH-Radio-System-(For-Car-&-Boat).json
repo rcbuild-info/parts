@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FlySky",
  "name": "FS-GT2 2.4G 2CH Radio System (For Car & Boat)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=4795"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD21.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:41:55 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=4795"
+  }
+ ],
+ "version": 2,
+ "weight": "800g"
 }

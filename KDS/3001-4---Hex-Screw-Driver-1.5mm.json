@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "3001-4 - Hex Screw Driver 1.5mm",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds30014-hex-screw-driver-15mm-p-3271.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:53:47 GMT",
+   "url": "http://www.myrcmart.com/kds30014-hex-screw-driver-15mm-p-3271.html"
+  }
+ ],
+ "version": 2,
+ "weight": "70g"
 }

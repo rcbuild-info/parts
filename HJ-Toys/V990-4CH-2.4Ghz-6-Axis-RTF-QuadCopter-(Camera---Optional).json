@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HJ Toys",
  "name": "V990 4CH 2.4Ghz 6-Axis RTF QuadCopter (Camera - Optional)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=6450"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD24.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:40:35 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=6450"
+  }
+ ],
+ "version": 2,
+ "weight": "1000g"
 }

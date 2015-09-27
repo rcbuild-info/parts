@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyartec",
  "name": "Lanyu 4CH Pitiness Series Sky Hawk ARTF Power Glider (Yellow)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=2986"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:02:43 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=2986"
+  }
+ ],
+ "version": 2,
+ "weight": "5500g"
 }

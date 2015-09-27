@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Xing Yao Hua",
  "name": "ZD T3GMN-2400 3-CH 2.4GHz FHSS Radio System for RC Car",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/zd-t3gmn2400-3ch-24ghz-fhss-radio-system-for-rc-car-p-5511.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD17.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:44:34 GMT",
+   "url": "http://www.myrcmart.com/zd-t3gmn2400-3ch-24ghz-fhss-radio-system-for-rc-car-p-5511.html"
+  }
+ ],
+ "version": 2,
+ "weight": "800g"
 }

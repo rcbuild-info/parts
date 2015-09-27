@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "Screw Set",
@@ -7,11 +7,31 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/screw-set-p-8146.html",
-   "http://www.myrcmart.com/screw-set-p-8170.html",
-   "http://www.myrcmart.com/screw-set-p-8306.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:57 GMT",
+   "url": "http://www.myrcmart.com/screw-set-p-8146.html"
+  },
+  {
+   "price": "USD3.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:03 GMT",
+   "url": "http://www.myrcmart.com/screw-set-p-8170.html"
+  },
+  {
+   "price": "USD3.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:45 GMT",
+   "url": "http://www.myrcmart.com/screw-set-p-8306.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

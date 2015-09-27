@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HN6031 - Tail Boom",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hn6031-tail-boom-p-7447.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD11.69",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:05:43 GMT",
+   "url": "http://www.myrcmart.com/hn6031-tail-boom-p-7447.html"
+  }
+ ],
+ "version": 2,
+ "weight": "2000g"
 }

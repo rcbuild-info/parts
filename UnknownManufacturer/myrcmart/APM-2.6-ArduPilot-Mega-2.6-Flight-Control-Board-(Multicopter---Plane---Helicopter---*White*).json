@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "APM 2.6 ArduPilot Mega 2.6 Flight Control Board (Multicopter / Plane / Helicopter / *White*)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/apm-26-ardupilot-mega-26-flight-control-board-multicopter-plane-helicopter-white-p-8483.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD39.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:53 GMT",
+   "url": "http://www.myrcmart.com/apm-26-ardupilot-mega-26-flight-control-board-multicopter-plane-helicopter-white-p-8483.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

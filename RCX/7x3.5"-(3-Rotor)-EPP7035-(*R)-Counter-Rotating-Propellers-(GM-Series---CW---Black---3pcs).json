@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "7x3.5\" (3-Rotor) EPP7035 (*R) Counter Rotating Propellers (GM Series / CW / Black / 3pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/7x35-3rotor-epp7035-counter-rotating-propellers-gm-series-cw-black-3pcs-p-7098.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:33:55 GMT",
+   "url": "http://www.myrcmart.com/7x35-3rotor-epp7035-counter-rotating-propellers-gm-series-cw-black-3pcs-p-7098.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

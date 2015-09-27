@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "1137-SV - Side Frame (Carbon Fiber / 450SV)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds1137sv-side-frame-carbon-fiber-450sv-p-2384.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD24.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:54:09 GMT",
+   "url": "http://www.myrcmart.com/kds1137sv-side-frame-carbon-fiber-450sv-p-2384.html"
+  }
+ ],
+ "version": 2,
+ "weight": "60g"
 }

@@ -1,5 +1,7 @@
 {
- "category": "motor",
+ "categories": [
+  "motor"
+ ],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "H2223 2900KV",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-h2223-2900kv-brushless-outrunner-450500-class-heli-p-6878.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD16.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:45 GMT",
+   "url": "http://www.myrcmart.com/rcx-h2223-2900kv-brushless-outrunner-450500-class-heli-p-6878.html"
+  }
+ ],
+ "version": 2,
+ "weight": "110g"
 }

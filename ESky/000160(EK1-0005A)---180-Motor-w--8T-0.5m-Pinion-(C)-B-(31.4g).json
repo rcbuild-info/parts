@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "000160(EK1-0005A) - 180 Motor w/ 8T 0.5m Pinion (C) B (31.4g)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=939"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.29",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:18:44 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=939"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

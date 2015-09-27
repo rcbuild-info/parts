@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyartec",
  "name": "WASP100 Nano CPX Flybarless Brushless 3D RTF Helicopter (w/ LCD Transmitter)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/skyartec-wasp100-nano-cpx-flybarless-brushless-3d-rtf-helicopter-lcd-transmitter-p-6355.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD74.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:38:12 GMT",
+   "url": "http://www.myrcmart.com/skyartec-wasp100-nano-cpx-flybarless-brushless-3d-rtf-helicopter-lcd-transmitter-p-6355.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1400g"
 }

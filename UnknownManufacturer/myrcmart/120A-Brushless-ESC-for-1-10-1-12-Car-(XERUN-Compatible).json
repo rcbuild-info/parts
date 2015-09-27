@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "120A Brushless ESC for 1/10 1/12 Car (XERUN Compatible)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/120a-brushless-esc-for-110-112-car-xerun-compatible-p-6696.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD39.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:39:17 GMT",
+   "url": "http://www.myrcmart.com/120a-brushless-esc-for-110-112-car-xerun-compatible-p-6696.html"
+  }
+ ],
+ "version": 2,
+ "weight": "150g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LC450 3200KV Outrunner Brushless Motor (450 Helicopter)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lc450-3200kv-outrunner-brushless-motor-450-helicopter-p-4955.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD29.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:37:53 GMT",
+   "url": "http://www.myrcmart.com/leopard-lc450-3200kv-outrunner-brushless-motor-450-helicopter-p-4955.html"
+  }
+ ],
+ "version": 2,
+ "weight": "120g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Screw M2x10 (10pcs / Stainless Steel / Antirust)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-screw-m2x10-10pcs-stainless-steel-antirust-p-8480.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:28:34 GMT",
+   "url": "http://www.myrcmart.com/rcx-screw-m2x10-10pcs-stainless-steel-antirust-p-8480.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

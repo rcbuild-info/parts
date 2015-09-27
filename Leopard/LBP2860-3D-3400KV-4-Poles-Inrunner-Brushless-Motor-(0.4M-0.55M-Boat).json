@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LBP2860/3D 3400KV 4-Poles Inrunner Brushless Motor (0.4M-0.55M Boat)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lbp28603d-3400kv-4poles-inrunner-brushless-motor-04m055m-boat-p-4951.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD59.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:35:40 GMT",
+   "url": "http://www.myrcmart.com/leopard-lbp28603d-3400kv-4poles-inrunner-brushless-motor-04m055m-boat-p-4951.html"
+  }
+ ],
+ "version": 2,
+ "weight": "250g"
 }

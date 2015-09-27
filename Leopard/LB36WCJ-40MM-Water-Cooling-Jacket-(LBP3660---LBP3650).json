@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LB36WCJ 40MM Water Cooling Jacket (LBP3660 / LBP3650)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lb36wcj-40mm-water-cooling-jacket-lbp3660-lbp3650-p-6765.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD8.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:35:33 GMT",
+   "url": "http://www.myrcmart.com/leopard-lb36wcj-40mm-water-cooling-jacket-lbp3660-lbp3650-p-6765.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

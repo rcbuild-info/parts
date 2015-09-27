@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "WL Toys",
  "name": "HM-QR-X350-Z-10 - Brushless Speed Controller (WST-15A(G))",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmqrx350z10-brushless-speed-controller-wst15ag-p-6744.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD16.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:11 GMT",
+   "url": "http://www.myrcmart.com/hmqrx350z10-brushless-speed-controller-wst15ag-p-6744.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

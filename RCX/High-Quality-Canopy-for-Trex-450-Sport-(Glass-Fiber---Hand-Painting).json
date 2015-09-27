@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "High Quality Canopy for Trex 450 Sport (Glass Fiber / Hand-Painting)",
@@ -7,16 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4511.html",
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4615.html",
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4614.html",
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4594.html",
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4793.html",
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4794.html",
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4668.html",
-   "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4792.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:24 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4511.html"
+  },
+  {
+   "price": "USD7.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:07 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4594.html"
+  },
+  {
+   "price": "USD4.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:25 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4614.html"
+  },
+  {
+   "price": "USD5.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:24 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4615.html"
+  },
+  {
+   "price": "USD6.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:42 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4668.html"
+  },
+  {
+   "price": "USD7.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:41 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4792.html"
+  },
+  {
+   "price": "USD7.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:40 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4793.html"
+  },
+  {
+   "price": "USD7.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:38:40 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-canopy-for-trex-450-sport-glass-fiber-handpainting-p-4794.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

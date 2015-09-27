@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyartec",
  "name": "SKYARTEC-NANO-006 - Motor Copper Gear (9T)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/skyartecnano006-motor-copper-gear-9t-p-6406.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.69",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:47:57 GMT",
+   "url": "http://www.myrcmart.com/skyartecnano006-motor-copper-gear-9t-p-6406.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

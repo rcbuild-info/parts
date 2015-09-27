@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "01-012 - Plastic Blade B for ESky LAMA V3, V4, Robins 22, Comanche, Dauphin and Walkera 5#8/5#4/5#10 Helicopters",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx01012-plastic-blade-for-esky-lama-v3-v4-robins-22-comanche-dauphin-and-walkera-5854510-helicopters-p-76.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.30",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:35:10 GMT",
+   "url": "http://www.myrcmart.com/rcx01012-plastic-blade-for-esky-lama-v3-v4-robins-22-comanche-dauphin-and-walkera-5854510-helicopters-p-76.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

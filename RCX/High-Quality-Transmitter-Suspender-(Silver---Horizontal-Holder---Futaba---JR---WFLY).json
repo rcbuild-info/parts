@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "High Quality Transmitter Suspender (Silver / Horizontal Holder / Futaba / JR / WFLY)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-high-quality-transmitter-suspender-silver-horizontal-holder-futaba-jr-wfly-p-4009.html",
-   "http://www.myrcmart.com/product_reviews.php?products_id=4009"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.myrcmart.com/product_reviews.php?products_id=4009"
+  },
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:30:39 GMT",
+   "url": "http://www.myrcmart.com/rcx-high-quality-transmitter-suspender-silver-horizontal-holder-futaba-jr-wfly-p-4009.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

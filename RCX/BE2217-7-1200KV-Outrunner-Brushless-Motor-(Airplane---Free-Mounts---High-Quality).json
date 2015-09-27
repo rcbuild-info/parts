@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "BE2217-7 1200KV Outrunner Brushless Motor (Airplane / Free Mounts / High Quality)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-be22177-1200kv-outrunner-brushless-motor-airplane-free-mounts-high-quality-p-6485.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD15.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:36:20 GMT",
+   "url": "http://www.myrcmart.com/rcx-be22177-1200kv-outrunner-brushless-motor-airplane-free-mounts-high-quality-p-6485.html"
+  }
+ ],
+ "version": 2,
+ "weight": "150g"
 }

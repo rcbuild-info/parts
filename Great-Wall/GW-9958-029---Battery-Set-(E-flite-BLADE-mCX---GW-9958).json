@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Great Wall",
  "name": "GW-9958-029 - Battery Set (E-flite BLADE mCX / GW-9958)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/gw9958029-battery-set-eflite-blade-mcx-gw9958-p-3758.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.53",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:52:33 GMT",
+   "url": "http://www.myrcmart.com/gw9958029-battery-set-eflite-blade-mcx-gw9958-p-3758.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "000155(EK2-0508) - Digital Servo",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=925"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD12.40",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:23:44 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=925"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

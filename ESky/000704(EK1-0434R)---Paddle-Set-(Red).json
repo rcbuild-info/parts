@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "000704(EK1-0434R) - Paddle Set (Red)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=906"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:16:48 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=906"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

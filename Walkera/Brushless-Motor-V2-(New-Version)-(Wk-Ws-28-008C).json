@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "Brushless Motor V2 (New Version) (Wk-Ws-28-008C)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/brushless-motor-v2-new-version-wkws28008c-p-8815.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD22.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:17 GMT",
+   "url": "http://www.myrcmart.com/brushless-motor-v2-new-version-wkws28008c-p-8815.html"
+  }
+ ],
+ "version": 2,
+ "weight": "60g"
 }

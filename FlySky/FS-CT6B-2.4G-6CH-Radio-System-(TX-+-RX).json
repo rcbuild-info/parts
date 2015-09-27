@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FlySky",
  "name": "FS-CT6B 2.4G 6CH Radio System (TX + RX)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/flysky-fsct6b-24g-6ch-radio-system-tx-rx-p-3665.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD29.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:41:56 GMT",
+   "url": "http://www.myrcmart.com/flysky-fsct6b-24g-6ch-radio-system-tx-rx-p-3665.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1200g"
 }

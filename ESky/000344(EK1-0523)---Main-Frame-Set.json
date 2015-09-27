@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "000344(EK1-0523) - Main Frame Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=132"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.96",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:23:11 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=132"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

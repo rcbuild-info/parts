@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "NE10577008003 - Aluminum Case for Sky Eagle Mini Airplane",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=3470"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD29.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:49:55 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=3470"
+  }
+ ],
+ "version": 2,
+ "weight": "2500g"
 }

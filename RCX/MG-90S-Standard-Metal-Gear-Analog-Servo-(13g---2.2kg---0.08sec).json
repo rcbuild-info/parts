@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "MG-90S Standard Metal Gear Analog Servo (13g / 2.2kg / 0.08sec)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_reviews.php?products_id=3510",
-   "http://www.myrcmart.com/rcx-mg90s-standard-metal-gear-analog-servo-13g-22kg-008sec-p-3510.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.myrcmart.com/product_reviews.php?products_id=3510"
+  },
+  {
+   "price": "USD4.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:30:11 GMT",
+   "url": "http://www.myrcmart.com/rcx-mg90s-standard-metal-gear-analog-servo-13g-22kg-008sec-p-3510.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

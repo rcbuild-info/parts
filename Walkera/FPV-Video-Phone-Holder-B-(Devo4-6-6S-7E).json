@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "FPV Video Phone Holder B (Devo4/6/6S/7E)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/walkera-fpv-video-phone-holder-devo466s7e-p-6720.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD4.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:21:30 GMT",
+   "url": "http://www.myrcmart.com/walkera-fpv-video-phone-holder-devo466s7e-p-6720.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

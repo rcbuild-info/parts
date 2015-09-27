@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HN6071 - 600N Fiberglass 18G Servo Adapter Plate",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hn6071-600n-fiberglass-18g-servo-adapter-plate-p-7482.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.39",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:09:16 GMT",
+   "url": "http://www.myrcmart.com/hn6071-600n-fiberglass-18g-servo-adapter-plate-p-7482.html"
+  }
+ ],
+ "version": 2,
+ "weight": "70g"
 }

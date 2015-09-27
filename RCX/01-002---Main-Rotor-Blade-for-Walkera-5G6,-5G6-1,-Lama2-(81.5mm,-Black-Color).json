@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "01-002 - Main Rotor Blade for Walkera 5G6, 5G6-1, Lama2 (81.5mm, Black Color)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx01002-main-rotor-blade-for-walkera-5g6-5g61-lama2-815mm-black-color-p-656.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.83",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:35:11 GMT",
+   "url": "http://www.myrcmart.com/rcx01002-main-rotor-blade-for-walkera-5g6-5g61-lama2-815mm-black-color-p-656.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "1154-1-SD - Small Drive Gear (2pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds11541sd-small-drive-gear-2pcs-p-4500.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:58:11 GMT",
+   "url": "http://www.myrcmart.com/kds11541sd-small-drive-gear-2pcs-p-4500.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

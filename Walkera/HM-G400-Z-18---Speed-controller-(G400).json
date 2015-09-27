@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-G400-Z-18 - Speed controller (G400)",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmg400z18-speed-controller-g400-p-7840.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.myrcmart.com/hmg400z18-speed-controller-g400-p-7840.html"
+  },
+  {
+   "price": "USD15.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:29:03 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=7840"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "2-Axis Brushless Gimbal for GoPro Hero 2, Hero 3, CCHD, etc.. Similar Camera (Gimbal / Brushless Motor)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/2axis-brushless-gimbal-for-gopro-hero-hero-cchd-etc-similar-camera-gimbal-brushless-motor-p-6350.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD94.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:34:31 GMT",
+   "url": "http://www.myrcmart.com/2axis-brushless-gimbal-for-gopro-hero-hero-cchd-etc-similar-camera-gimbal-brushless-motor-p-6350.html"
+  }
+ ],
+ "version": 2,
+ "weight": "260g"
 }

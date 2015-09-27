@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-G400-Z-13 - Tail Boom Holder",
@@ -7,9 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmg400z13-tail-boom-holder-p-7835.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.myrcmart.com/hmg400z13-tail-boom-holder-p-7835.html"
+  },
+  {
+   "price": "USD3.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:29:06 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=7835"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

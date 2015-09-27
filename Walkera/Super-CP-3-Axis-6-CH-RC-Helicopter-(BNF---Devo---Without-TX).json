@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "Super CP 3-Axis 6-CH RC Helicopter (BNF / Devo / Without TX)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/walkera-super-cp-3axis-6ch-rc-helicopter-bnf-devo-without-tx-p-5820.html",
-   "http://www.myrcmart.com/product_reviews.php?products_id=5820"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.myrcmart.com/product_reviews.php?products_id=5820"
+  },
+  {
+   "price": "USD62.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:39:09 GMT",
+   "url": "http://www.myrcmart.com/walkera-super-cp-3axis-6ch-rc-helicopter-bnf-devo-without-tx-p-5820.html"
+  }
+ ],
+ "version": 2,
+ "weight": "900g"
 }

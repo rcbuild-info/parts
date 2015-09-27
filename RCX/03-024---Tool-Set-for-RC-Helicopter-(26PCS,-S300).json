@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "03-024 - Tool Set for RC Helicopter (26PCS, S300)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1801"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD99.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:27:35 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1801"
+  }
+ ],
+ "version": 2,
+ "weight": "2500g"
 }

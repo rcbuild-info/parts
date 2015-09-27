@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "TS932 5.8GHz 32CH Long Distance FPV Video Transmitter (1000mW / Aluminum Case / 7-30V IN & 5V Out / 35g)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-ts932-58ghz-32ch-long-distance-fpv-video-transmitter-1000mw-aluminum-case-730v-in-5v-out-35g-p-8880.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD38.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:40:40 GMT",
+   "url": "http://www.myrcmart.com/rcx-ts932-58ghz-32ch-long-distance-fpv-video-transmitter-1000mw-aluminum-case-730v-in-5v-out-35g-p-8880.html"
+  }
+ ],
+ "version": 2,
+ "weight": "70g"
 }

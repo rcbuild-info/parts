@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Nine Eagles",
  "name": "NE401771014A - Plane Cellule (Xtra 300 / Red)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/ne401771014a-plane-cellule-xtra-300-red-p-3764.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD8.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:51:46 GMT",
+   "url": "http://www.myrcmart.com/ne401771014a-plane-cellule-xtra-300-red-p-3764.html"
+  }
+ ],
+ "version": 2,
+ "weight": "500g"
 }

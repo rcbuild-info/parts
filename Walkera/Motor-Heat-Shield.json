@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "Motor Heat Shield",
@@ -7,10 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/motor-heat-shield-p-8140.html",
-   "http://www.myrcmart.com/motor-heat-shield-p-8301.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.49",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:59 GMT",
+   "url": "http://www.myrcmart.com/motor-heat-shield-p-8140.html"
+  },
+  {
+   "price": "USD1.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:20 GMT",
+   "url": "http://www.myrcmart.com/motor-heat-shield-p-8301.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

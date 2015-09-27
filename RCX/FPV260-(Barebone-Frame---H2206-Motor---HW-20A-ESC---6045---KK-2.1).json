@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "FPV260 (Barebone Frame / H2206 Motor / HW 20A ESC / 6045 / KK 2.1)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-fpv260-barebone-frame-h2206-motor-hw-20a-esc-6045-kk-21-p-8403.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD99.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:40:38 GMT",
+   "url": "http://www.myrcmart.com/rcx-fpv260-barebone-frame-h2206-motor-hw-20a-esc-6045-kk-21-p-8403.html"
+  }
+ ],
+ "version": 2,
+ "weight": "600g"
 }

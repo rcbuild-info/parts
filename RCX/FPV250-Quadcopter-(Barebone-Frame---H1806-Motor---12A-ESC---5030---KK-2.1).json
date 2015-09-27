@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "FPV250 Quadcopter (Barebone Frame / H1806 Motor / 12A ESC / 5030 / KK 2.1)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=8194"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD84.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:40:39 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=8194"
+  }
+ ],
+ "version": 2,
+ "weight": "600g"
 }

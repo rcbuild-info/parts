@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "3-in-1 Battery Balancer, Discharger & Voltage Indicator (150W Discharging)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-3in1-battery-balancer-discharger-voltage-indicator-150w-discharging-p-4767.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD14.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:24:41 GMT",
+   "url": "http://www.myrcmart.com/rcx-3in1-battery-balancer-discharger-voltage-indicator-150w-discharging-p-4767.html"
+  }
+ ],
+ "version": 2,
+ "weight": "170g"
 }

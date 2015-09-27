@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "X350 Pro RC FPV Multirotor Quadcopter (ARF / No Radio, No Receiver, No Battery)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/walkera-x350-pro-rc-fpv-multirotor-quadcopter-arf-no-radio-no-receiver-no-battery-p-8346.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD229.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:34:41 GMT",
+   "url": "http://www.myrcmart.com/walkera-x350-pro-rc-fpv-multirotor-quadcopter-arf-no-radio-no-receiver-no-battery-p-8346.html"
+  }
+ ],
+ "version": 2,
+ "weight": "3000g"
 }

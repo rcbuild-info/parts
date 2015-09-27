@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "450BD FBL RC ARF Helicotper (Flybarless / Belt Driven / 80% Assembled / Motor & ESC & EBar & Servos Included)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds-450bd-fbl-rc-arf-helicotper-flybarless-belt-driven-80-assembled-motor-esc-ebar-servos-included-p-4583.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD424.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:39:36 GMT",
+   "url": "http://www.myrcmart.com/kds-450bd-fbl-rc-arf-helicotper-flybarless-belt-driven-80-assembled-motor-esc-ebar-servos-included-p-4583.html"
+  }
+ ],
+ "version": 2,
+ "weight": "3000g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "12V Soft LED Light (5CM / Waterproof / 3 LEDs / Yellow)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/12v-soft-led-light-5cm-waterproof-leds-yellow-p-8494.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:41:39 GMT",
+   "url": "http://www.myrcmart.com/12v-soft-led-light-5cm-waterproof-leds-yellow-p-8494.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

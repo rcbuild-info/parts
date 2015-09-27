@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60G006XXW - Motor Slant Thread Pinion Gear 14T",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h60g006xxw-motor-slant-thread-pinion-gear-14t-p-7384.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.39",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:09:48 GMT",
+   "url": "http://www.myrcmart.com/h60g006xxw-motor-slant-thread-pinion-gear-14t-p-7384.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

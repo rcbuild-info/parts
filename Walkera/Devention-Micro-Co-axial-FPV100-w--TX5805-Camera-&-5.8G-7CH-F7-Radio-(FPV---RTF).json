@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "Devention Micro Co-axial FPV100 w/ TX5805 Camera & 5.8G 7CH F7 Radio (FPV / RTF)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=6220"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD299.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:38:22 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=6220"
+  }
+ ],
+ "version": 2,
+ "weight": "2800g"
 }

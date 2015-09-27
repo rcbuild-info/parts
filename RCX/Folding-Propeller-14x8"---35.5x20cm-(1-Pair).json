@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Folding Propeller 14x8\" / 35.5x20cm (1 Pair)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-folding-propeller-14x8-355x20cm-pair-p-4080.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.50",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:42:09 GMT",
+   "url": "http://www.myrcmart.com/rcx-folding-propeller-14x8-355x20cm-pair-p-4080.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

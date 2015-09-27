@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hubsan",
  "name": "H107-A26 - Boddy Shell (Black Red / H107C)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h107a26-boddy-shell-black-red-h107c-p-6823.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD2.49",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:45:34 GMT",
+   "url": "http://www.myrcmart.com/h107a26-boddy-shell-black-red-h107c-p-6823.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

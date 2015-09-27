@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "ESky",
  "name": "000369(EK1-0548) - Servo Linkage Rod",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=111"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:23:21 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=111"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

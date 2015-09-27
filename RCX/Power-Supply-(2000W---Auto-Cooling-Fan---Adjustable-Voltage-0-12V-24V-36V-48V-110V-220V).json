@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Power Supply (2000W / Auto Cooling Fan / Adjustable Voltage 0-12V/24V/36V/48V/110V/220V)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/power-supply-2000w-auto-cooling-fan-adjustable-voltage-012v24v36v48v110v220v-p-8016.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD269.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:42:22 GMT",
+   "url": "http://www.myrcmart.com/power-supply-2000w-auto-cooling-fan-adjustable-voltage-012v24v36v48v110v220v-p-8016.html"
+  }
+ ],
+ "version": 2,
+ "weight": "6500g"
 }

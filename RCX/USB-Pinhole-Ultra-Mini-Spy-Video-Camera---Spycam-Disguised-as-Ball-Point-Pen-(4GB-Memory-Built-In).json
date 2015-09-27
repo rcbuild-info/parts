@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "USB Pinhole Ultra-Mini Spy Video Camera / Spycam Disguised as Ball-Point Pen (4GB Memory Built-In)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/usb-pinhole-ultramini-spy-video-camera-spycam-disguised-as-ballpoint-pen-4gb-memory-builtin-p-3299.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD13.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:23:35 GMT",
+   "url": "http://www.myrcmart.com/usb-pinhole-ultramini-spy-video-camera-spycam-disguised-as-ballpoint-pen-4gb-memory-builtin-p-3299.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

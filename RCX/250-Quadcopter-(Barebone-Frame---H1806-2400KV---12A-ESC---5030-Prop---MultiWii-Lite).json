@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "250 Quadcopter (Barebone Frame / H1806 2400KV / 12A ESC / 5030 Prop / MultiWii Lite)",
@@ -7,10 +7,20 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_reviews.php?products_id=6321",
-   "http://www.myrcmart.com/rcx-250-quadcopter-barebone-frame-h1806-2400kv-12a-esc-5030-prop-multiwii-lite-p-6321.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.myrcmart.com/product_reviews.php?products_id=6321"
+  },
+  {
+   "price": "USD79.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:40:47 GMT",
+   "url": "http://www.myrcmart.com/rcx-250-quadcopter-barebone-frame-h1806-2400kv-12a-esc-5030-prop-multiwii-lite-p-6321.html"
+  }
+ ],
+ "version": 2,
+ "weight": "600g"
 }

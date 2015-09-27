@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "HN7076 - 700N Tail Case Part Bag",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hn7076-700n-tail-case-part-bag-p-7627.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD8.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:09:01 GMT",
+   "url": "http://www.myrcmart.com/hn7076-700n-tail-case-part-bag-p-7627.html"
+  }
+ ],
+ "version": 2,
+ "weight": "50g"
 }

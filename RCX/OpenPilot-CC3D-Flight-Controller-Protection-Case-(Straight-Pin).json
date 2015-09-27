@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "OpenPilot CC3D Flight Controller Protection Case (Straight Pin)",
@@ -7,10 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/openpilot-cc3d-flight-controller-protection-case-straight-pin-p-8241.html",
-   "http://www.myrcmart.com/openpilot-cc3d-flight-controller-protection-case-straight-pin-p-8923.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:32:27 GMT",
+   "url": "http://www.myrcmart.com/openpilot-cc3d-flight-controller-protection-case-straight-pin-p-8241.html"
+  },
+  {
+   "price": "USD1.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:32:26 GMT",
+   "url": "http://www.myrcmart.com/openpilot-cc3d-flight-controller-protection-case-straight-pin-p-8923.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

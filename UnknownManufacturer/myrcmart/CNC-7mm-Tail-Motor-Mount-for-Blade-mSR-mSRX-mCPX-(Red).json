@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "CNC 7mm Tail Motor Mount for Blade mSR/mSRX/mCPX (Red)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/cnc-7mm-tail-motor-mount-for-blade-msrmsrxmcpx-red-p-4355.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:42:17 GMT",
+   "url": "http://www.myrcmart.com/cnc-7mm-tail-motor-mount-for-blade-msrmsrxmcpx-red-p-4355.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

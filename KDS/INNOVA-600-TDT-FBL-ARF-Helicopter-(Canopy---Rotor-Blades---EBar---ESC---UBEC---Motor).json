@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "INNOVA 600 TDT FBL ARF Helicopter (Canopy / Rotor Blades / EBar / ESC / UBEC / Motor)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=4093"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:38:27 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=4093"
+  }
+ ],
+ "version": 2,
+ "weight": "5500g"
 }

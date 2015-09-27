@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "4-In-1 Socket Screwdriver Set (4.0/5.5/7.0/8.0mm)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-4in1-socket-screwdriver-set-40557080mm-p-3602.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD6.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:27:35 GMT",
+   "url": "http://www.myrcmart.com/rcx-4in1-socket-screwdriver-set-40557080mm-p-3602.html"
+  }
+ ],
+ "version": 2,
+ "weight": "190g"
 }

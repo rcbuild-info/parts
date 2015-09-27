@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "700-38-TDT - Main Shaft (TDT Version)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/kds70038tdt-main-shaft-tdt-version-p-6148.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD10.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:55:32 GMT",
+   "url": "http://www.myrcmart.com/kds70038tdt-main-shaft-tdt-version-p-6148.html"
+  }
+ ],
+ "version": 2,
+ "weight": "150g"
 }

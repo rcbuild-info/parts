@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60005-00 - Metal Head Stopper/Black",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h6000500-metal-head-stopperblack-p-7491.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD3.59",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:07:34 GMT",
+   "url": "http://www.myrcmart.com/h6000500-metal-head-stopperblack-p-7491.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

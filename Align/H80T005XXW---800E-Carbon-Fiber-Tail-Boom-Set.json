@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H80T005XXW - 800E Carbon Fiber Tail Boom Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h80t005xxw-800e-carbon-fiber-tail-boom-set-p-7767.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD47.69",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:03:13 GMT",
+   "url": "http://www.myrcmart.com/h80t005xxw-800e-carbon-fiber-tail-boom-set-p-7767.html"
+  }
+ ],
+ "version": 2,
+ "weight": "2000g"
 }

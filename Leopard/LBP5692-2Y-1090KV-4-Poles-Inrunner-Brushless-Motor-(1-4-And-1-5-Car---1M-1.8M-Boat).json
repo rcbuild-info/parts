@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Leopard",
  "name": "LBP5692/2Y 1090KV 4-Poles Inrunner Brushless Motor (1/4 And 1/5 Car / 1M-1.8M Boat)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/leopard-lbp56922y-1090kv-4poles-inrunner-brushless-motor-14-and-15-car-1m18m-boat-p-4915.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD139.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:35:54 GMT",
+   "url": "http://www.myrcmart.com/leopard-lbp56922y-1090kv-4poles-inrunner-brushless-motor-14-and-15-car-1m18m-boat-p-4915.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1300g"
 }

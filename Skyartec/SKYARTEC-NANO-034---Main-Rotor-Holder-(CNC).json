@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skyartec",
  "name": "SKYARTEC-NANO-034 - Main Rotor Holder (CNC)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/skyartecnano034-main-rotor-holder-cnc-p-6435.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD13.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:48:31 GMT",
+   "url": "http://www.myrcmart.com/skyartecnano034-main-rotor-holder-cnc-p-6435.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

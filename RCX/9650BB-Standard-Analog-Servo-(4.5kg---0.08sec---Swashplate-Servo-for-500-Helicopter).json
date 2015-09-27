@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "9650BB Standard Analog Servo (4.5kg / 0.08sec / Swashplate Servo for 500 Helicopter)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-9650bb-standard-analog-servo-45kg-008sec-swashplate-servo-for-500-helicopter-p-3853.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD5.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:30:16 GMT",
+   "url": "http://www.myrcmart.com/rcx-9650bb-standard-analog-servo-45kg-008sec-swashplate-servo-for-500-helicopter-p-3853.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

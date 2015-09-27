@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Great Wall",
  "name": "GW-9958-019 - Main Blades (Yellow)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=3746"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.45",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:46:41 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=3746"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

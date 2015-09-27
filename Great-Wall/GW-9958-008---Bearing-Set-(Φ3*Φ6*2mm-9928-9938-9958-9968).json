@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Great Wall",
  "name": "GW-9958-008 - Bearing Set (\u03a63*\u03a66*2mm/9928/9938/9958/9968)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/gw9958008-bearing-set-%CE%A63%CE%A662mm9928993899589968-p-3810.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.50",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:47:07 GMT",
+   "url": "http://www.myrcmart.com/gw9958008-bearing-set-%CE%A63%CE%A662mm9928993899589968-p-3810.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

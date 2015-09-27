@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "WL Toys",
  "name": "WL-L959-14 - Front Positioning Seat",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/wll95914-front-positioning-seat-p-6605.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:00:09 GMT",
+   "url": "http://www.myrcmart.com/wll95914-front-positioning-seat-p-6605.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

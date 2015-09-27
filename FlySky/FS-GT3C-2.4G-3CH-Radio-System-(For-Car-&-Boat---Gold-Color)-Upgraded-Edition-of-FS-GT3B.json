@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FlySky",
  "name": "FS-GT3C 2.4G 3CH Radio System (For Car & Boat / Gold Color) Upgraded Edition of FS-GT3B",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/flysky-fsgt3c-24g-3ch-radio-system-for-car-boat-gold-color-upgraded-edition-of-fsgt3b-p-4720.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD41.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:41:50 GMT",
+   "url": "http://www.myrcmart.com/flysky-fsgt3c-24g-3ch-radio-system-for-car-boat-gold-color-upgraded-edition-of-fsgt3b-p-4720.html"
+  }
+ ],
+ "version": 2,
+ "weight": "800g"
 }

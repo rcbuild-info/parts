@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HeliBody",
  "name": "HELIBODY-WF001 - Airwolf 500 Glass Fiber Fuselage with Retractable Landing Gear",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=1848"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD137.60",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:38:56 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=1848"
+  }
+ ],
+ "version": 2,
+ "weight": "6000g"
 }

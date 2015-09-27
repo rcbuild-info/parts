@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Great Wall",
  "name": "GW-9958-020 - Tail Fin (Purple)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=3742"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.36",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:46:40 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=3742"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

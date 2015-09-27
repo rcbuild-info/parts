@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-Mini-CP-Z-17 - Battery 3.7V 240mAh (Mini CP / Genius CP)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmminicpz17-battery-37v-240mah-mini-cp-genius-cp-p-5529.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD6.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:24:41 GMT",
+   "url": "http://www.myrcmart.com/hmminicpz17-battery-37v-240mah-mini-cp-genius-cp-p-5529.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

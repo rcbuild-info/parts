@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "KDS",
  "name": "450C 2.4GHz 6CH RC RTF Helicotper (Glass Fiber Edition / Aluminum Case)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=2504"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD279.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 22:39:24 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=2504"
+  }
+ ],
+ "version": 2,
+ "weight": "7500g"
 }

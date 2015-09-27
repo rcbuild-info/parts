@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "100A (HW) ESC Brushless Motor Speed Controller (SS Series)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-100a-hw-esc-brushless-motor-speed-controller-ss-series-p-6989.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD24.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:39:10 GMT",
+   "url": "http://www.myrcmart.com/rcx-100a-hw-esc-brushless-motor-speed-controller-ss-series-p-6989.html"
+  }
+ ],
+ "version": 2,
+ "weight": "100g"
 }

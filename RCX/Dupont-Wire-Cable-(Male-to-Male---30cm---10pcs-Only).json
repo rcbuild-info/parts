@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Dupont Wire Cable (Male to Male / 30cm / 10pcs Only)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/dupont-wire-cable-male-to-male-30cm-10pcs-only-p-9067.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.50",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:26:20 GMT",
+   "url": "http://www.myrcmart.com/dupont-wire-cable-male-to-male-30cm-10pcs-only-p-9067.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20g"
 }

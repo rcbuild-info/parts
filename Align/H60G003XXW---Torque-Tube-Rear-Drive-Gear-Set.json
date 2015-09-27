@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Align",
  "name": "H60G003XXW - Torque Tube Rear Drive Gear Set",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/h60g003xxw-torque-tube-rear-drive-gear-set-p-7236.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD11.69",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:07:14 GMT",
+   "url": "http://www.myrcmart.com/h60g003xxw-torque-tube-rear-drive-gear-set-p-7236.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40g"
 }

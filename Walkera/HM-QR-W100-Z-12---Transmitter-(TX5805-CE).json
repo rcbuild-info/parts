@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "HM-QR-W100-Z-12 - Transmitter (TX5805 CE)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/hmqrw100z12-transmitter-tx5805-ce-p-6515.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD39.99",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:27:24 GMT",
+   "url": "http://www.myrcmart.com/hmqrw100z12-transmitter-tx5805-ce-p-6515.html"
+  }
+ ],
+ "version": 2,
+ "weight": "30g"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "H250CF PCB (V2) Upgrade (for Naze32 & CC3D)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/rcx-h250cf-pcb-v2-upgrade-for-naze32-cc3d-p-8919.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD9.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 22:41:23 GMT",
+   "url": "http://www.myrcmart.com/rcx-h250cf-pcb-v2-upgrade-for-naze32-cc3d-p-8919.html"
+  }
+ ],
+ "version": 2,
+ "weight": "80g"
 }

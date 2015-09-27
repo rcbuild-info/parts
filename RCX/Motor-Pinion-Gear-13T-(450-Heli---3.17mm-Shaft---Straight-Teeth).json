@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Motor Pinion Gear 13T (450 Heli / 3.17mm Shaft / Straight Teeth)",
@@ -7,9 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=4851"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD1.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:59:57 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=4851"
+  },
+  {
+   "price": "USD1.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:37:04 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=5816"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

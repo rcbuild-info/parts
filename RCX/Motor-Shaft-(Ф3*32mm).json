@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "RCX",
  "name": "Motor Shaft (\u04243*32mm)",
@@ -7,9 +7,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/product_info.php?products_id=8080"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD0.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:37:02 GMT",
+   "url": "http://www.myrcmart.com/motor-shaft-%D0%A4332mm-p-8424.html"
+  },
+  {
+   "price": "USD1.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "timestamp": "Sun, 27 Sep 2015 21:37:03 GMT",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=8080"
+  }
+ ],
+ "version": 2,
+ "weight": "10g"
 }

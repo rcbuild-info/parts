@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "SkyRC",
  "name": "iMax B6AC+V2 (Version 2) 1 - 6 Cells Battery Balance Charger (Built-in Adapter / Ready To Charge)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.myrcmart.com/imax-b6acv2-version-cells-battery-balance-charger-builtin-adapter-ready-to-charge-p-6328.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD39.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:42:24 GMT",
+   "url": "http://www.myrcmart.com/imax-b6acv2-version-cells-battery-balance-charger-builtin-adapter-ready-to-charge-p-6328.html"
+  }
+ ],
+ "version": 2,
+ "weight": "1200g"
 }
