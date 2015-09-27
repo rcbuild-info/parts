@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Battery Strap",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/armattan-battery-strap/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$1.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:42 GMT",
+   "url": "http://www.armattanquads.com/armattan-battery-strap/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

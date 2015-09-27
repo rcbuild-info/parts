@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Mini 20 Amps ESCs (DYS sn20 BLHeli)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/mini-20-amps-escs-dys-sn20-blheli/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$14.50",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:43 GMT",
+   "url": "http://www.armattanquads.com/mini-20-amps-escs-dys-sn20-blheli/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

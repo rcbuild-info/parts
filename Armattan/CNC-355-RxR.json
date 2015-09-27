@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "CNC 355 RxR",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/cnc-355-rxr/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$250.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:38 GMT",
+   "url": "http://www.armattanquads.com/cnc-355-rxr/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

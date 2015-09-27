@@ -1,5 +1,7 @@
 {
- "category": "fc",
+ "categories": [
+  "fc"
+ ],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Mullet Acro",
@@ -9,9 +11,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/mullet-acro-flight-controller/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$20.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:47 GMT",
+   "url": "http://www.armattanquads.com/mullet-acro-flight-controller/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

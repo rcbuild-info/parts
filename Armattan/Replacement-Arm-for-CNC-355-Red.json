@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Replacement Arm for CNC 355 Red",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/replacement-arm-for-cnc-355-red/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$14.50",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:21 GMT",
+   "url": "http://www.armattanquads.com/replacement-arm-for-cnc-355-red/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Piezo Buzzer for KK2 and Mullet/Naze Flight Controllers",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/piezo-buzzer-for-kk2-and-mullet-naze-flight-controllers/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$5.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:45 GMT",
+   "url": "http://www.armattanquads.com/piezo-buzzer-for-kk2-and-mullet-naze-flight-controllers/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

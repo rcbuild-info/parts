@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Morphite X 155 DIY Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/morphite-x-155-diy-kit/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$195.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:40 GMT",
+   "url": "http://www.armattanquads.com/morphite-x-155-diy-kit/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

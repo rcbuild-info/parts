@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Anti Vibration Rubber Bobbin",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/anti-vibration-rubber-bobbin/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$0.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:10 GMT",
+   "url": "http://www.armattanquads.com/anti-vibration-rubber-bobbin/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

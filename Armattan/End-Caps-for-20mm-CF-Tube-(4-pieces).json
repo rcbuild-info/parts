@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "End Caps for 20mm CF Tube (4 pieces)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/end-caps-for-20mm-cf-tube-4-pieces/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$3.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:53 GMT",
+   "url": "http://www.armattanquads.com/end-caps-for-20mm-cf-tube-4-pieces/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

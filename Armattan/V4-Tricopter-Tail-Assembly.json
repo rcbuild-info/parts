@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "V4 Tricopter Tail Assembly",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/v4-tricopter-tail-assembly/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$25.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:41 GMT",
+   "url": "http://www.armattanquads.com/v4-tricopter-tail-assembly/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

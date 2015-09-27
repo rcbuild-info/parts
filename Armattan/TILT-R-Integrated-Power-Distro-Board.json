@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "TILT-R Integrated Power Distro Board",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/tilt-r-integrated-power-distro-board/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$15.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:14 GMT",
+   "url": "http://www.armattanquads.com/tilt-r-integrated-power-distro-board/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Mullet Headers Set (Bent and Straight Headers Included)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/mullet-headers-set-bent-and-straight-headers-included/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$0.25",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:26 GMT",
+   "url": "http://www.armattanquads.com/mullet-headers-set-bent-and-straight-headers-included/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "V-Tail 258 RxR",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/v-tail-258-rxr/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$340.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:36 GMT",
+   "url": "http://www.armattanquads.com/v-tail-258-rxr/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

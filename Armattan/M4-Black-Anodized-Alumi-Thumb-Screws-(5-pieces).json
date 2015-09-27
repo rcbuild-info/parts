@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "M4 Black Anodized Alumi Thumb Screws (5 pieces)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/m4-black-anodized-alumi-thumb-screws-5-pieces/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$3.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:46 GMT",
+   "url": "http://www.armattanquads.com/m4-black-anodized-alumi-thumb-screws-5-pieces/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

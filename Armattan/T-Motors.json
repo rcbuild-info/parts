@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "T-Motors",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/armattan-t-motors/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$27.50",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:45 GMT",
+   "url": "http://www.armattanquads.com/armattan-t-motors/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

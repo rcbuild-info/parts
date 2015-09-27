@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "M3 Black Anodized Aluminium Standoffs",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/m3-black-anodized-aluminium-standoffs/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$1.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:54 GMT",
+   "url": "http://www.armattanquads.com/m3-black-anodized-aluminium-standoffs/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

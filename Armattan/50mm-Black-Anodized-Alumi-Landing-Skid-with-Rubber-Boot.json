@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "50mm Black Anodized Alumi Landing Skid with Rubber Boot",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/50mm-black-anodized-alumi-landing-skid-with-rubber-boot/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$1.40",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:18 GMT",
+   "url": "http://www.armattanquads.com/50mm-black-anodized-alumi-landing-skid-with-rubber-boot/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

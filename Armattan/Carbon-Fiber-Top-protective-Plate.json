@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Carbon Fiber Top protective Plate",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/carbon-fiber-top-protective-plate/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$6.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:25 GMT",
+   "url": "http://www.armattanquads.com/carbon-fiber-top-protective-plate/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

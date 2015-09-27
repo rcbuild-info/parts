@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Bolt-On Propeller Adapter for 2822/12 Motors",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/bolt-on-propeller-adapter-for-2822-12-motors/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$2.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:36 GMT",
+   "url": "http://www.armattanquads.com/bolt-on-propeller-adapter-for-2822-12-motors/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

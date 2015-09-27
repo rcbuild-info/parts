@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "M3 Black Nylon Bolts 12mm (12 pieces)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/m3-black-nylon-bolts-12mm-12-pieces/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$5.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:36 GMT",
+   "url": "http://www.armattanquads.com/m3-black-nylon-bolts-12mm-12-pieces/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

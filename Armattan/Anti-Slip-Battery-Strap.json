@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Anti-Slip Battery Strap",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/armattan-anti-slip-battery-strap/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$2.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:42 GMT",
+   "url": "http://www.armattanquads.com/armattan-anti-slip-battery-strap/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

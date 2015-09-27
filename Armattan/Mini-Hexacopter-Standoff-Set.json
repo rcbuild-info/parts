@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Mini Hexacopter Standoff Set",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/mini-hexacopter-standoff-set/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$6.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:03 GMT",
+   "url": "http://www.armattanquads.com/mini-hexacopter-standoff-set/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

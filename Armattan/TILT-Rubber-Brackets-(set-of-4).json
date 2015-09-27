@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "TILT Rubber Brackets (set of 4)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/tilt-rubber-brackets-set-of-4/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$1.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:56 GMT",
+   "url": "http://www.armattanquads.com/tilt-rubber-brackets-set-of-4/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

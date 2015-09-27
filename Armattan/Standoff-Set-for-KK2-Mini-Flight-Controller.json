@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Standoff Set for KK2 Mini Flight Controller",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/standoff-set-for-kk2-mini-flight-controller/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$5.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:48 GMT",
+   "url": "http://www.armattanquads.com/standoff-set-for-kk2-mini-flight-controller/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

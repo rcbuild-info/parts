@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "CNC 355",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/cnc-355-frame/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$70.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:39 GMT",
+   "url": "http://www.armattanquads.com/cnc-355-frame/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

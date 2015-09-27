@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "FPV 333mm Rev 2 TILT DIY Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/fpv-333mm-rev-2-tilt-diy-kit/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$325.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:41 GMT",
+   "url": "http://www.armattanquads.com/fpv-333mm-rev-2-tilt-diy-kit/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

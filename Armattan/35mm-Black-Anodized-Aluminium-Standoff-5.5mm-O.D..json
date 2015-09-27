@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "35mm Black Anodized Aluminium Standoff 5.5mm O.D.",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/35mm-black-anodized-aluminium-standoff-5-5mm-o-d/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$0.95",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:11 GMT",
+   "url": "http://www.armattanquads.com/35mm-black-anodized-aluminium-standoff-5-5mm-o-d/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

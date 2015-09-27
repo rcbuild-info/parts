@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Misc Service Charge 2",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/misc-service-charge-2/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$10.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:27 GMT",
+   "url": "http://www.armattanquads.com/misc-service-charge-2/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

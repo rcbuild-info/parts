@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Mobius Plate for Mini Hexacopter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/mobius-plate-for-mini-hexacopter/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$4.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:02 GMT",
+   "url": "http://www.armattanquads.com/mobius-plate-for-mini-hexacopter/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "T-shirts (Read Product Description)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/armattan-t-shirts-read-product-description/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$5.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:28 GMT",
+   "url": "http://www.armattanquads.com/armattan-t-shirts-read-product-description/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

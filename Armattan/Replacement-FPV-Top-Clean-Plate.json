@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Replacement FPV Top Clean Plate",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/replacement-fpv-top-clean-plate/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$18.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:18 GMT",
+   "url": "http://www.armattanquads.com/replacement-fpv-top-clean-plate/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

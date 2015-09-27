@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Aluminium Thumbscrews (4 pieces)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/aluminium-thumbscrews-4-pieces/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$2.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:10 GMT",
+   "url": "http://www.armattanquads.com/aluminium-thumbscrews-4-pieces/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

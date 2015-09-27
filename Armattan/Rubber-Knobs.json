@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Rubber Knobs",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/rubber-knobs/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$1.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:49 GMT",
+   "url": "http://www.armattanquads.com/rubber-knobs/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

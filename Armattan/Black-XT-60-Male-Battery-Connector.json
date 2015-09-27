@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Black XT-60 Male Battery Connector",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/black-xt-60-male-battery-connector/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$1.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:44 GMT",
+   "url": "http://www.armattanquads.com/black-xt-60-male-battery-connector/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

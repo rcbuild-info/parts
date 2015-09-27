@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "CF 258 RxR",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/cf-258-rxr/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$270.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:37 GMT",
+   "url": "http://www.armattanquads.com/cf-258-rxr/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

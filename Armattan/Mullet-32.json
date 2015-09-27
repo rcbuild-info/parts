@@ -1,5 +1,7 @@
 {
- "category": "fc",
+ "categories": [
+  "fc"
+ ],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Mullet 32",
@@ -9,9 +11,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/mullet-32/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$40.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:37 GMT",
+   "url": "http://www.armattanquads.com/mullet-32/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

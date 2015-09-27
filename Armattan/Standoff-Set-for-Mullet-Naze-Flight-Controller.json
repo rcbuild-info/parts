@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Standoff Set for Mullet/Naze Flight Controller",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/standoff-set-for-mullet-naze-flight-controller/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$5.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:20 GMT",
+   "url": "http://www.armattanquads.com/standoff-set-for-mullet-naze-flight-controller/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

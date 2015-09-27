@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "FPV Mophite 180 Standoff Set",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/fpv-mophite-180-standoff-set/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$6.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:04 GMT",
+   "url": "http://www.armattanquads.com/fpv-mophite-180-standoff-set/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

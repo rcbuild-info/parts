@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "TILT-R",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/armattan-tilt-r-frame/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$170.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:41 GMT",
+   "url": "http://www.armattanquads.com/armattan-tilt-r-frame/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

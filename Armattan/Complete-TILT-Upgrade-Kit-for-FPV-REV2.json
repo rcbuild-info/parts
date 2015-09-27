@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Complete TILT Upgrade Kit for FPV REV2",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/complete-tilt-upgrade-kit-for-fpv-rev2/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$22.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:08 GMT",
+   "url": "http://www.armattanquads.com/complete-tilt-upgrade-kit-for-fpv-rev2/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

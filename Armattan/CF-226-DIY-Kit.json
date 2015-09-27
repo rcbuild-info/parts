@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "CF 226 DIY Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/cf-226-diy-kit/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$235.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:43 GMT",
+   "url": "http://www.armattanquads.com/cf-226-diy-kit/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

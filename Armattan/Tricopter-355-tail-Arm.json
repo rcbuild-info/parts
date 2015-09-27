@@ -1,5 +1,7 @@
 {
- "category": "arm",
+ "categories": [
+  "arm"
+ ],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "Tricopter 355 Tail",
@@ -7,9 +9,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/tricopter-355-tail-arm/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$14.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:16 GMT",
+   "url": "http://www.armattanquads.com/tricopter-355-tail-arm/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

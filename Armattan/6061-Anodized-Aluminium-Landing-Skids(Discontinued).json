@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "6061 Anodized Aluminium Landing Skids(Discontinued)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/6061-anodized-aluminium-landing-skids-discontinued/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$5.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:21:17 GMT",
+   "url": "http://www.armattanquads.com/6061-anodized-aluminium-landing-skids-discontinued/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

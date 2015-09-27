@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Armattan",
  "name": "1306/ 3100kv Motors (set of 2 motors- cw/ccw)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.armattanquads.com/armattan-1306-3100kv-motors-set-of-2-motors-cw-ccw/"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "US$28.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:20:52 GMT",
+   "url": "http://www.armattanquads.com/armattan-1306-3100kv-motors-set-of-2-motors-cw-ccw/"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
