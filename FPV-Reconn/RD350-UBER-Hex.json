@@ -1,5 +1,7 @@
 {
- "category": "frame",
+ "categories": [
+  "frame"
+ ],
  "equivalent": [],
  "manufacturer": "FPV-Reconn",
  "name": "RD-X Mini Top Plate",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=131"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$186.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out Of Stock",
+   "timestamp": "Sun, 27 Sep 2015 01:13:32 GMT",
+   "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=131"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

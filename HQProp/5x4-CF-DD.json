@@ -13,28 +13,48 @@
  },
  "variants": [
   {
+   "url": "http://flyduino.net/HQProp-5040-2-bladed-CF-reinforced-Propeller-Set-2-CW-and-2-CCW"
+  },
+  {
    "url": "http://flyduino.net/HQProp-5040-2-bladed-CF-reinforced-Propeller-Set-Green-4-pcs-2-CW-and-2-CCW"
   },
   {
-   "url": "http://flyduino.net/HQProp-5040-2-bladed-CF-reinforced-Propeller-Set-2-CW-and-2-CCW"
+   "price": "4,40 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:21 GMT",
+   "url": "http://flyduino.net/HQProp-5x4-127cm-Proppeler-Set-Black-4-pcs-Carbon-reinforced"
   },
   {
    "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_40"
   },
   {
+   "price": "$2.38",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out Of Stock",
+   "timestamp": "Sun, 27 Sep 2015 01:14:18 GMT",
    "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=104"
   },
   {
+   "price": "$2.38",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out Of Stock",
+   "timestamp": "Sun, 27 Sep 2015 01:14:18 GMT",
    "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=105"
   },
   {
-   "url": "http://www.multirotorsuperstore.com/props/props-by-size/5-inch/hqprop-5040-props.html"
+   "price": "US$3.24",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:22 GMT",
+   "url": "http://www.dronematters.com/hqprop-5040-carbon-composite-propellers-2-ccw.html"
+  },
+  {
+   "price": "US$3.24",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:21 GMT",
+   "url": "http://www.dronematters.com/hqprop-5040-carbon-composite-propellers-2-cw.html"
   },
   {
    "url": "http://www.dronematters.com/power-system/hqprop-5040-carbon-composite-propellers-2-cw.html"
-  },
-  {
-   "url": "https://www.multirotorparts.com/propellers/5-propellers/hqprop-5-x-4-carbon-versterkte-propeller-set-van-4-zwart.html"
   },
   {
    "description": "HQProp 5040 Props (CF/Nylon) - CW",
@@ -51,16 +71,14 @@
    "url": "http://www.multirotorsuperstore.com/hqprop-5040-props.html"
   },
   {
-   "price": "$2.38",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:28:02 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-5x4-carbon-composite-prop"
+   "url": "http://www.multirotorsuperstore.com/props/props-by-size/5-inch/hqprop-5040-props.html"
   },
   {
-   "price": "4,40 \u20ac",
+   "price": "$2.38",
    "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 19:16:21 GMT",
-   "url": "http://flyduino.net/HQProp-5x4-127cm-Proppeler-Set-Black-4-pcs-Carbon-reinforced"
+   "stock_text": "16 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:46 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2868"
   },
   {
    "price": "$2.38",
@@ -72,21 +90,8 @@
   {
    "price": "$2.38",
    "stock_state": "in_stock",
-   "stock_text": "16 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:08:46 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2868"
-  },
-  {
-   "price": "US$3.24",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 23:34:21 GMT",
-   "url": "http://www.dronematters.com/hqprop-5040-carbon-composite-propellers-2-cw.html"
-  },
-  {
-   "price": "US$3.24",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 23:34:22 GMT",
-   "url": "http://www.dronematters.com/hqprop-5040-carbon-composite-propellers-2-ccw.html"
+   "timestamp": "Sat, 26 Sep 2015 06:28:02 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-5x4-carbon-composite-prop"
   },
   {
    "price": "\u20ac3.90",
@@ -94,6 +99,9 @@
    "stock_state": "out_of_stock",
    "timestamp": "Sun, 27 Sep 2015 00:26:46 GMT",
    "url": "https://www.multirotorparts.com/hqprop-5-x-4-carbon-versterkte-propeller-set-van-4-zwart.html"
+  },
+  {
+   "url": "https://www.multirotorparts.com/propellers/5-propellers/hqprop-5-x-4-carbon-versterkte-propeller-set-van-4-zwart.html"
   }
  ],
  "version": 2,

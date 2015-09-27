@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Multi-Purpose Silicone Band",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=111"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.80",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 01:13:39 GMT",
+   "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=111"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

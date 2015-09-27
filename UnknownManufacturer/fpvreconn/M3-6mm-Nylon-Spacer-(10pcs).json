@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 6mm Nylon Spacer (10pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=143"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.50",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 01:14:13 GMT",
+   "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=143"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

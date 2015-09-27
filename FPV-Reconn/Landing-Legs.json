@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "FPV-Reconn",
  "name": "Flight Controller Mount",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=65"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.70",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 01:13:54 GMT",
+   "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=65"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

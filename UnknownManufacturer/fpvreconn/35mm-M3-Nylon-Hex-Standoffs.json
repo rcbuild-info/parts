@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "35mm M3 Nylon Hex Standoffs",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=79"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.30",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 01:14:15 GMT",
+   "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=79"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

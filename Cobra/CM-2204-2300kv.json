@@ -15,33 +15,11 @@
  },
  "variants": [
   {
+   "price": "$21.50",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out Of Stock",
+   "timestamp": "Sun, 27 Sep 2015 01:14:06 GMT",
    "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=109"
-  },
-  {
-   "url": "http://www.multirotorsuperstore.com/motors/motors-by-size/22xx/cobra-2204-2300kv-brushless-motor.html"
-  },
-  {
-   "url": "http://www.dronematters.com/power-system/brushless-motors/cobra-2204-28-2300kv-2-3s-brushless-motor-integrated.html"
-  },
-  {
-   "price": "$20.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of stock",
-   "timestamp": "Sat, 26 Sep 2015 02:46:32 GMT",
-   "url": "http://www.multirotorsuperstore.com/cobra-2204-2300kv-brushless-motor.html"
-  },
-  {
-   "price": "$20.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:41:39 GMT",
-   "url": "http://www.getfpv.com/cobra-cm-2204-2300kv-motor.html"
-  },
-  {
-   "price": "US$20.99",
-   "stock_state": "out_of_stock",
-   "timestamp": "Sat, 26 Sep 2015 23:35:02 GMT",
-   "url": "http://www.dronematters.com/cobra-2204-28-2300kv-2-3s-brushless-motor-integrated.html"
   },
   {
    "price": "USD$21.99",
@@ -56,6 +34,32 @@
    "stock_text": "Out Of Stock",
    "timestamp": "Sun, 27 Sep 2015 00:51:14 GMT",
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=74"
+  },
+  {
+   "price": "US$20.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:35:02 GMT",
+   "url": "http://www.dronematters.com/cobra-2204-28-2300kv-2-3s-brushless-motor-integrated.html"
+  },
+  {
+   "url": "http://www.dronematters.com/power-system/brushless-motors/cobra-2204-28-2300kv-2-3s-brushless-motor-integrated.html"
+  },
+  {
+   "price": "$20.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:41:39 GMT",
+   "url": "http://www.getfpv.com/cobra-cm-2204-2300kv-motor.html"
+  },
+  {
+   "price": "$20.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "timestamp": "Sat, 26 Sep 2015 02:46:32 GMT",
+   "url": "http://www.multirotorsuperstore.com/cobra-2204-2300kv-brushless-motor.html"
+  },
+  {
+   "url": "http://www.multirotorsuperstore.com/motors/motors-by-size/22xx/cobra-2204-2300kv-brushless-motor.html"
   }
  ],
  "version": 2,

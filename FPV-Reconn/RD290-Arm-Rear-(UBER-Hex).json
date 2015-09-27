@@ -1,5 +1,7 @@
 {
- "category": "arm",
+ "categories": [
+  "arm"
+ ],
  "equivalent": [],
  "manufacturer": "FPV-Reconn",
  "name": "RD-X Mini Top Plate",
@@ -7,9 +9,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=127"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 01:14:00 GMT",
+   "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=127"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

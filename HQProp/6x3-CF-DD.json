@@ -13,19 +13,30 @@
  },
  "variants": [
   {
-   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_30"
-  },
-  {
    "url": "http://flyduino.net/HQProp-6030-CF-reinforced-Propellers-Set-2-CW-und-2-CCW"
   },
   {
+   "price": "5,30 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:28 GMT",
+   "url": "http://flyduino.net/HQProp-6x3-1524cm-Propeller-Set-Black-4-pcs-Carbon-reinforced"
+  },
+  {
+   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_30"
+  },
+  {
+   "price": "$2.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 01:14:18 GMT",
    "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=106"
   },
   {
+   "price": "$2.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 01:14:17 GMT",
    "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=107"
-  },
-  {
-   "url": "http://www.multirotorsuperstore.com/props/props-by-mfg/hqprop/hqprop-6030-props.html"
   },
   {
    "description": "HQProp 6030 Props (CF/Nylon) - CW",
@@ -42,16 +53,14 @@
    "url": "http://www.multirotorsuperstore.com/hqprop-6030-props.html"
   },
   {
-   "price": "$3.08",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:25:11 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-6x3-carbon-composite-prop"
+   "url": "http://www.multirotorsuperstore.com/props/props-by-mfg/hqprop/hqprop-6030-props.html"
   },
   {
-   "price": "5,30 \u20ac",
+   "price": "$3.08",
    "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 19:16:28 GMT",
-   "url": "http://flyduino.net/HQProp-6x3-1524cm-Propeller-Set-Black-4-pcs-Carbon-reinforced"
+   "stock_text": "113 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:12:34 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2278"
   },
   {
    "price": "$3.08",
@@ -63,9 +72,8 @@
   {
    "price": "$3.08",
    "stock_state": "in_stock",
-   "stock_text": "113 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:12:34 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2278"
+   "timestamp": "Sat, 26 Sep 2015 06:25:11 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-6x3-carbon-composite-prop"
   }
  ],
  "version": 2,
