@@ -35,24 +35,24 @@
    "url": "http://www.getfpv.com/cobra-cm-2208-2000kv-motor.html"
   },
   {
-   "price": "USD$26.99",
-   "stock_state": "backordered",
-   "stock_text": "Pre-Order",
-   "timestamp": "Sat, 26 Sep 2015 05:00:40 GMT",
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=275"
-  },
-  {
-   "price": "USD$80.00",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 05:00:40 GMT",
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=227"
-  },
-  {
    "price": "US$25.99",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 23:13:48 GMT",
    "url": "http://www.dronematters.com/cobra-2208-20-2000kv-2-3s-brushless-motor.html"
+  },
+  {
+   "price": "USD$25.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 00:51:13 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=227"
+  },
+  {
+   "price": "USD$26.99",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Sun, 27 Sep 2015 00:51:12 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=275"
   }
  ],
  "version": 2,

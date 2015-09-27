@@ -13,13 +13,6 @@
  },
  "variants": [
   {
-   "price": "USD$3.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 05:01:17 GMT",
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=261"
-  },
-  {
    "price": "$3.84",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 06:27:29 GMT",
@@ -96,6 +89,13 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 22:41:20 GMT",
    "url": "http://multirotormania.com/hq-prop/1028-hqprop-6x45x3-props-1-pair-choose-your-color.html"
+  },
+  {
+   "price": "USD$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 00:50:35 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=261"
   }
  ],
  "version": 2,

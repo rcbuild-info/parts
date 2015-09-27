@@ -18,17 +18,17 @@
    "url": "http://shendrones.myshopify.com/products/krieger-dtf-200-pre-order"
   },
   {
-   "price": "USD$90.00",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 05:02:33 GMT",
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=326"
-  },
-  {
    "price": "$90.00",
    "stock_state": "backordered",
    "timestamp": "Sat, 26 Sep 2015 19:32:06 GMT",
    "url": "http://shendrones.myshopify.com/products/krieger-dtf-200-pre-order?variant=6088734977"
+  },
+  {
+   "price": "USD$90.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 00:51:03 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=326"
   }
  ],
  "version": 2,
