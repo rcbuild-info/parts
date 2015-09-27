@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Scorpia 180",
@@ -7,9 +7,38 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://lizard-rc.se/index.php?id_product=35&controller=product&id_lang=1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "gold",
+   "price": "595,00 kr",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 19:51:20 GMT",
+   "url": "http://lizard-rc.se/index.php?id_product=35&controller=product&id_lang=1"
+  },
+  {
+   "description": "red",
+   "price": "595,00 kr",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 19:51:20 GMT",
+   "url": "http://lizard-rc.se/index.php?id_product=35&controller=product&id_lang=1"
+  },
+  {
+   "description": "purple",
+   "price": "595,00 kr",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 19:51:20 GMT",
+   "url": "http://lizard-rc.se/index.php?id_product=35&controller=product&id_lang=1"
+  },
+  {
+   "description": "black",
+   "price": "595,00 kr",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 19:51:20 GMT",
+   "url": "http://lizard-rc.se/index.php?id_product=35&controller=product&id_lang=1"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

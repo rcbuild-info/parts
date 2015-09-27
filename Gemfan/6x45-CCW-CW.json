@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "6x45 CCW/CW",
@@ -7,9 +7,28 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://lizard-rc.se/index.php?id_product=13&controller=product&id_lang=1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "black",
+   "price": "78,00 kr",
+   "quantity": 8,
+   "stock_state": "in_stock",
+   "stock_text": "40 items in stock",
+   "timestamp": "Sun, 27 Sep 2015 19:51:44 GMT",
+   "url": "http://lizard-rc.se/index.php?id_product=13&controller=product&id_lang=1"
+  },
+  {
+   "description": "green",
+   "price": "78,00 kr",
+   "quantity": 8,
+   "stock_state": "in_stock",
+   "stock_text": "7 items in stock",
+   "timestamp": "Sun, 27 Sep 2015 19:51:44 GMT",
+   "url": "http://lizard-rc.se/index.php?id_product=13&controller=product&id_lang=1"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Gemfan",
  "name": "5x3 CCW/CW",
@@ -7,9 +7,37 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://lizard-rc.se/index.php?id_product=11&controller=product&id_lang=1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "white",
+   "price": "59,00 kr",
+   "quantity": 8,
+   "stock_state": "in_stock",
+   "stock_text": "72 items in stock",
+   "timestamp": "Sun, 27 Sep 2015 19:51:50 GMT",
+   "url": "http://lizard-rc.se/index.php?id_product=11&controller=product&id_lang=1"
+  },
+  {
+   "description": "black",
+   "price": "59,00 kr",
+   "quantity": 8,
+   "stock_state": "in_stock",
+   "stock_text": "25 items in stock",
+   "timestamp": "Sun, 27 Sep 2015 19:51:50 GMT",
+   "url": "http://lizard-rc.se/index.php?id_product=11&controller=product&id_lang=1"
+  },
+  {
+   "description": "green",
+   "price": "59,00 kr",
+   "quantity": 8,
+   "stock_state": "in_stock",
+   "stock_text": "25 items in stock",
+   "timestamp": "Sun, 27 Sep 2015 19:51:50 GMT",
+   "url": "http://lizard-rc.se/index.php?id_product=11&controller=product&id_lang=1"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

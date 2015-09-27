@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Pololu",
  "name": "5V Step-Up/Step-Down Voltage Regulator",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://lizard-rc.se/index.php?id_product=37&controller=product&id_lang=1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "60,00 kr",
+   "stock_state": "in_stock",
+   "stock_text": "17 items in stock",
+   "timestamp": "Sun, 27 Sep 2015 19:51:50 GMT",
+   "url": "http://lizard-rc.se/index.php?id_product=37&controller=product&id_lang=1"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

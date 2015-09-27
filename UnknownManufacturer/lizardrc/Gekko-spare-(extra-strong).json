@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Gekko spare (extra strong)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://lizard-rc.se/index.php?id_product=8&controller=product&id_lang=1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "139,00 kr",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 19:51:42 GMT",
+   "url": "http://lizard-rc.se/index.php?id_product=8&controller=product&id_lang=1"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

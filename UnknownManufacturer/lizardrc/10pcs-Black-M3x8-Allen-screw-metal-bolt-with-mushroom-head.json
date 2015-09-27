@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10pcs Black M3x8 Allen screw metal bolt with mushroom head",
@@ -7,9 +7,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://lizard-rc.se/index.php?id_product=10&controller=product&id_lang=1"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "40,00 kr",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 19:51:30 GMT",
+   "url": "http://lizard-rc.se/index.php?id_product=10&controller=product&id_lang=1"
+  },
+  {
+   "price": "40,00 kr",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 19:51:11 GMT",
+   "url": "http://lizard-rc.se/index.php?id_product=6&controller=product&id_lang=1"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
