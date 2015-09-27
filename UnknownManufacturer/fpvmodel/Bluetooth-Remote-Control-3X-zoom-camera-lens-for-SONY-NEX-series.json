@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Bluetooth Remote Control 3X zoom camera lens for SONY NEX series",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/bluetooth-remote-control-3x-zoom-camera-lens-for-sony-nex-series_g443.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$319.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:49 GMT",
+   "url": "http://www.fpvmodel.com/bluetooth-remote-control-3x-zoom-camera-lens-for-sony-nex-series_g443.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

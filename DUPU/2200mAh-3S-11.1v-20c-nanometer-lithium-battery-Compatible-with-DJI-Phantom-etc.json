@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DUPU",
  "name": "2200mAh 3S 11.1v 20c nanometer lithium battery Compatible with DJI Phantom etc",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dupu-2200mah-11-1v-20c-nanometer-lithium-battery-compatible-with-dji-phantom-etc_g186.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$23.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:18 GMT",
+   "url": "http://www.fpvmodel.com/dupu-2200mah-11-1v-20c-nanometer-lithium-battery-compatible-with-dji-phantom-etc_g186.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

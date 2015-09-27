@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HiModel TX5502 5.8G 32 Channel 400mW Transmitter Dual-way Tx FPV Telemetry w/ LED Display",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/himodel-tx5502-5-8g-32-channel-500mw-transmitter-dual-way-tx-fpv-telemetry-w-led-display_g380.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$94.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:19 GMT",
+   "url": "http://www.fpvmodel.com/himodel-tx5502-5-8g-32-channel-500mw-transmitter-dual-way-tx-fpv-telemetry-w-led-display_g380.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

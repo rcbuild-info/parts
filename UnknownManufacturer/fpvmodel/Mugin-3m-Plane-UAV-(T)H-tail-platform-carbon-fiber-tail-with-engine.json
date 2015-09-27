@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mugin 3m Plane UAV (T)H-tail platform carbon fiber tail with engine",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/mugin-3m-plane-uav-h-tail-platform-carbon-fiber-tail-new-with-the-engine_g13.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2,459.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:47 GMT",
+   "url": "http://www.fpvmodel.com/mugin-3m-plane-uav-h-tail-platform-carbon-fiber-tail-new-with-the-engine_g13.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

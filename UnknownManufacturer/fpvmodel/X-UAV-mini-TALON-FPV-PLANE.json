@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "X-UAV mini TALON FPV PLANE",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/x-uav-mini-talon-fpv-plane_g391.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$68.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:04:17 GMT",
+   "url": "http://www.fpvmodel.com/x-uav-mini-talon-fpv-plane_g391.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

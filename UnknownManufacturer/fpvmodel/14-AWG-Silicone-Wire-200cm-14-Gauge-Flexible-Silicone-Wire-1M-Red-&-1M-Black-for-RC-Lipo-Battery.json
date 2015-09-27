@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "14 AWG Silicone Wire 200cm 14 Gauge Flexible Silicone Wire 1M Red & 1M Black for RC Lipo Battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/14-awg-silicone-wire-200cm-14-gauge-flexible-silicone-wire-1m-red-1m-black-for-rc-lipo-battery_g430.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:38 GMT",
+   "url": "http://www.fpvmodel.com/14-awg-silicone-wire-200cm-14-gauge-flexible-silicone-wire-1m-red-1m-black-for-rc-lipo-battery_g430.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

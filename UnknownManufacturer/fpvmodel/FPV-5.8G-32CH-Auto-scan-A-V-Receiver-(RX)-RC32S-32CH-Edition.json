@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 5.8G 32CH Auto-scan A/V Receiver (RX) RC32S 32CH Edition",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fpv-5-8g-32ch-auto-scan-a-v-receiver-rx-rc32s-32ch-edition_g395.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$37.63",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:31 GMT",
+   "url": "http://www.fpvmodel.com/fpv-5-8g-32ch-auto-scan-a-v-receiver-rx-rc32s-32ch-edition_g395.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

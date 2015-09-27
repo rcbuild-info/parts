@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "FY680 RTF BNF,ready-to-fly!!",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/tarot-fy680-rtf-bnf-ready-to-fly-_g400.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2,199.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:04:04 GMT",
+   "url": "http://www.fpvmodel.com/tarot-fy680-rtf-bnf-ready-to-fly-_g400.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3 Channel Video Switcher Module 3 way Video Switch Unit for FPV Camera",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/3-channel-video-switcher-module-3-way-video-switch-unit-for-fpv-camera_g372.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:18 GMT",
+   "url": "http://www.fpvmodel.com/3-channel-video-switcher-module-3-way-video-switch-unit-for-fpv-camera_g372.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

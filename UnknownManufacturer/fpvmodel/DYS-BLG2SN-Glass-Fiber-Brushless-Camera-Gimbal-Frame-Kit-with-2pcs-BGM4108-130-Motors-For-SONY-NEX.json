@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DYS BLG2SN Glass Fiber Brushless Camera Gimbal Frame Kit with 2pcs BGM4108-130 Motors For SONY NEX",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dys-blg2sn-glass-fiber-brushless-camera-gimbal-frame-kit-with-2pcs-bgm4108-130-motors-for-sony-nex_g452.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$153.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:36 GMT",
+   "url": "http://www.fpvmodel.com/dys-blg2sn-glass-fiber-brushless-camera-gimbal-frame-kit-with-2pcs-bgm4108-130-motors-for-sony-nex_g452.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

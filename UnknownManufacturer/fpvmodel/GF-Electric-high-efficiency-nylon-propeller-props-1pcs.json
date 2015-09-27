@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GF Electric high efficiency nylon propeller props 1pcs",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/electric-high-efficiency-gf-nylon-propeller-1pcs_g413.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:10 GMT",
+   "url": "http://www.fpvmodel.com/electric-high-efficiency-gf-nylon-propeller-1pcs_g413.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

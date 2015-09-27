@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "new sky surfer x8 1410mm glider",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/new-sky-surfer-x8-1410mm-glider_g405.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:21 GMT",
+   "url": "http://www.fpvmodel.com/new-sky-surfer-x8-1410mm-glider_g405.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

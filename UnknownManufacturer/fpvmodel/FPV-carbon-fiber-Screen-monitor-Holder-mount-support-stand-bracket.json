@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV carbon fiber Screen monitor Holder/mount support stand bracket",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fpv-carbon-fiber-screen-monitor-holder-mount-support-stand-bracket_g284.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:14 GMT",
+   "url": "http://www.fpvmodel.com/fpv-carbon-fiber-screen-monitor-holder-mount-support-stand-bracket_g284.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

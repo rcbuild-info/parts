@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1555 15X55 Carbon Fiber Propeller Props CW/CCW for DJI S800 octocopter mulitrotor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/1555-15x55-carbon-fiber-propeller-props-cw-ccw-for-dji-s800-octocopter-mulitrotor_g347.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.12",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:14 GMT",
+   "url": "http://www.fpvmodel.com/1555-15x55-carbon-fiber-propeller-props-cw-ccw-for-dji-s800-octocopter-mulitrotor_g347.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

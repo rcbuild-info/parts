@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "5.8GHz Cloud Spirit Circular Polarized Antenna Set (RP-SMA/SMA connector) for FPV",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/boscam-5-8ghz-cloud-spirit-circular-polarized-antenna-set-rp-sma-connector-for-fpv-_g456.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.18",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:40 GMT",
+   "url": "http://www.fpvmodel.com/boscam-5-8ghz-cloud-spirit-circular-polarized-antenna-set-rp-sma-connector-for-fpv-_g456.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

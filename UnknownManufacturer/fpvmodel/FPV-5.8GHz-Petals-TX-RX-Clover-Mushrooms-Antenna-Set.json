@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 5.8GHz Petals TX/RX Clover Mushrooms Antenna Set",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fpv-5-8ghz-petals-tx-rx-clover-mushrooms-antenna-set_g104.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$22.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:19 GMT",
+   "url": "http://www.fpvmodel.com/fpv-5-8ghz-petals-tx-rx-clover-mushrooms-antenna-set_g104.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

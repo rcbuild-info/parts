@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mugin 3m Plane UAV H tail platform",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/new-mugin-3m-plane-uav-h-tail-platform-frame-kit-_g14.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1,973.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:22 GMT",
+   "url": "http://www.fpvmodel.com/new-mugin-3m-plane-uav-h-tail-platform-frame-kit-_g14.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

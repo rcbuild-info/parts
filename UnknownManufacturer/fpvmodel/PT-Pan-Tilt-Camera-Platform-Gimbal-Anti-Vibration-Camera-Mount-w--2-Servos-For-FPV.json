@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "PT Pan/Tilt Camera Platform Gimbal Anti-Vibration Camera Mount w/ 2 Servos For FPV",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fpv-pan-and-tilt-camera-mount_g371.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$13.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:48 GMT",
+   "url": "http://www.fpvmodel.com/fpv-pan-and-tilt-camera-mount_g371.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

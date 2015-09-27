@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FY 41AP-M&GPS Autopilot For Multi-rotors",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fy-41ap-m-gps-autopilot-for-multi-rotors_g381.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$235.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:38 GMT",
+   "url": "http://www.fpvmodel.com/fy-41ap-m-gps-autopilot-for-multi-rotors_g381.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Universal Glass Fiber/Aluminum Gimbal Debugging Test Frame Holder for Gimbal Camera Mount Debugging",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/universal-glass-fiber-aluminum-gimbal-debugging-test-frame-holder-for-gimbal-camera-mount-debugging-_g440.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.54",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:32 GMT",
+   "url": "http://www.fpvmodel.com/universal-glass-fiber-aluminum-gimbal-debugging-test-frame-holder-for-gimbal-camera-mount-debugging-_g440.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

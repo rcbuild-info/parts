@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FY-DOS-A AFSS Inertial Attitude Stabilizer for RC Fixed-wing FPV Control",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fy-dos-a-afss-inertial-attitude-stabilizer-for-rc-fixed-wing-fpv-control_g167.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$79.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:37 GMT",
+   "url": "http://www.fpvmodel.com/fy-dos-a-afss-inertial-attitude-stabilizer-for-rc-fixed-wing-fpv-control_g167.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

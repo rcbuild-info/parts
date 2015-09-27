@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "IRONMAN 650 3K Pure Carbon Fiber Folding FPV Quadcopter Frame TL65B01",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/tarot-ironman-650-3k-pure-carbon-fiber-folding-fpv-quadcopter-frame-tl65b01_g414.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$101.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:52 GMT",
+   "url": "http://www.fpvmodel.com/tarot-ironman-650-3k-pure-carbon-fiber-folding-fpv-quadcopter-frame-tl65b01_g414.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

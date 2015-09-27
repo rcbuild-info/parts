@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SkyKnight X8-1100 High Strength Carbon Fiber FPV Folding Octacopter Frame Kit(25mm Tube)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skyknight-x8-1100-high-strength-carbon-fiber-fpv-folding-octacopter-frame-kit-25mm-tube-_g55.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$802.62",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:41 GMT",
+   "url": "http://www.fpvmodel.com/skyknight-x8-1100-high-strength-carbon-fiber-fpv-folding-octacopter-frame-kit-25mm-tube-_g55.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

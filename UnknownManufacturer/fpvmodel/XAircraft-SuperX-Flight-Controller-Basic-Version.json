@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XAircraft SuperX Flight Controller Basic Version",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/xaircraft-superx-flight-control-system-standard-version_g174.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$425.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:33 GMT",
+   "url": "http://www.fpvmodel.com/xaircraft-superx-flight-control-system-standard-version_g174.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

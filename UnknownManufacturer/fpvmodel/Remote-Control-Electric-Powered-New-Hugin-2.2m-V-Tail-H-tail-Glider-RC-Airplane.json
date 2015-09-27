@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Remote Control Electric Powered New Hugin 2.2m V-Tail/H-tail Glider RC Airplane",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/remote-control-electric-powered-new-hugin-2-2m-v-tail-glider-modle-airplane_g43.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$359.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:11 GMT",
+   "url": "http://www.fpvmodel.com/remote-control-electric-powered-new-hugin-2-2m-v-tail-glider-modle-airplane_g43.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

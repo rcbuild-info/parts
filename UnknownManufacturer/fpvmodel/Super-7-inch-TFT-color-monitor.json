@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Super 7 inch TFT color monitor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/super-7-inch-tft-color-lcd-monitor_g71.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$35.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:40 GMT",
+   "url": "http://www.fpvmodel.com/super-7-inch-tft-color-lcd-monitor_g71.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

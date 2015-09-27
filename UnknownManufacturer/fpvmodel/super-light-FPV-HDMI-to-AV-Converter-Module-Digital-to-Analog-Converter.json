@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "super light FPV HDMI to AV Converter Module Digital to Analog Converter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/super-light-fpv-hdmi-to-av-converter-module-digital-to-analog-converter_g241.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$52.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:16 GMT",
+   "url": "http://www.fpvmodel.com/super-light-fpv-hdmi-to-av-converter-module-digital-to-analog-converter_g241.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

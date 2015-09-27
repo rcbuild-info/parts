@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI phantom 2 vision quadcopter RTF",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/new-dji-phantom-2-vision-quadcopter-rtf_g47.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$799.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:46 GMT",
+   "url": "http://www.fpvmodel.com/new-dji-phantom-2-vision-quadcopter-rtf_g47.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

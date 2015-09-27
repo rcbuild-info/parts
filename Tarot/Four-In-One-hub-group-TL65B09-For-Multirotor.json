@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "Four In One hub group TL65B09 For Multirotor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/tarot-four-in-one-hub-group-tl65b09-for-multirotor_g448.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:12 GMT",
+   "url": "http://www.fpvmodel.com/tarot-four-in-one-hub-group-tl65b09-for-multirotor_g448.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

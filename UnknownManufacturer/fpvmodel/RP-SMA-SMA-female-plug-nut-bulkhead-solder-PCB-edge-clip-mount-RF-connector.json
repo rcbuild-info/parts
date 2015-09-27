@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RP-SMA/SMA female plug nut bulkhead solder PCB edge clip mount RF connector",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/rp-sma-female-plug-nut-bulkhead-solder-pcb-edge-clip-mount-rf-connector_g361.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.39",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:23 GMT",
+   "url": "http://www.fpvmodel.com/rp-sma-female-plug-nut-bulkhead-solder-pcb-edge-clip-mount-rf-connector_g361.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Famous spacewalk550 FPV Fiberglass Quadcopter Frame Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/famous-spacewalk550fpv-fiberglass-version-quad-multicopter-frame-aircraft_g51.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$84.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:46 GMT",
+   "url": "http://www.fpvmodel.com/famous-spacewalk550fpv-fiberglass-version-quad-multicopter-frame-aircraft_g51.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

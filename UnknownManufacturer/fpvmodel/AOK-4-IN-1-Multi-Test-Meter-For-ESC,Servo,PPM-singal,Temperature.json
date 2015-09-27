@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "AOK 4 IN 1 Multi Test Meter For ESC,Servo,PPM singal,Temperature",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/new-aok-4-in-1-multi-test-meter-for-esc-servo-ppm-singal-temperature-_g472.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.93",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:25 GMT",
+   "url": "http://www.fpvmodel.com/new-aok-4-in-1-multi-test-meter-for-esc-servo-ppm-singal-temperature-_g472.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

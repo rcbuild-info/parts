@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Aluminum alloy universal soldering station",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/aluminum-alloy-universal-soldering-station_g240.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.88",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:55:38 GMT",
+   "url": "http://www.fpvmodel.com/aluminum-alloy-universal-soldering-station_g240.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

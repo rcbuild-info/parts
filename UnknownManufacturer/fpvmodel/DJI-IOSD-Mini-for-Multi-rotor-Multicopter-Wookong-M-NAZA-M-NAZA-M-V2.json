@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI IOSD Mini for Multi-rotor Multicopter Wookong-M NAZA-M NAZA-M V2",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dji-iosd-mini-for-multi-rotor-multicopter-wookong-m-naza-m-naza-m-v2_g164.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$61.11",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:13 GMT",
+   "url": "http://www.fpvmodel.com/dji-iosd-mini-for-multi-rotor-multicopter-wookong-m-naza-m-naza-m-v2_g164.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

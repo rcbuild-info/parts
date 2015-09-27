@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Rmilec RD4047 FPV 400-470MHZ 433mhz suite for Futaba/JR radios long range fpv",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/rmilec-rd4047-fpv-400-470mhz-433mhz-suite-for-futaba-jr-radios-long-range-fpv_g95.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$175.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:35 GMT",
+   "url": "http://www.fpvmodel.com/rmilec-rd4047-fpv-400-470mhz-433mhz-suite-for-futaba-jr-radios-long-range-fpv_g95.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

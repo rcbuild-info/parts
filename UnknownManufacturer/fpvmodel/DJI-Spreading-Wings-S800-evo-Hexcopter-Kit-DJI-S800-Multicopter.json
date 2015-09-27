@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI Spreading Wings S800 evo Hexcopter Kit DJI-S800 Multicopter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dji-spreading-wings-s800-evo-hexcopter-kit-dji-s800-multicopter_g377.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3,105.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:38 GMT",
+   "url": "http://www.fpvmodel.com/dji-spreading-wings-s800-evo-hexcopter-kit-dji-s800-multicopter_g377.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

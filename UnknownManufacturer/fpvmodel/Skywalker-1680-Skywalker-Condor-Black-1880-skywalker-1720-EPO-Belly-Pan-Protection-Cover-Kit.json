@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skywalker 1680/Skywalker Condor Black 1880/skywalker 1720 EPO Belly Pan Protection Cover Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/new-skywalker-1680-skywalker1880-skywalker-1900-belly-protection_g26.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$13.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:56:51 GMT",
+   "url": "http://www.fpvmodel.com/new-skywalker-1680-skywalker1880-skywalker-1900-belly-protection_g26.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

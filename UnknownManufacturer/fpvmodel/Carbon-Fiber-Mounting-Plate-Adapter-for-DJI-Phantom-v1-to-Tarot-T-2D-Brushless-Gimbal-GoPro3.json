@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Carbon Fiber Mounting Plate Adapter for DJI Phantom v1 to Tarot T-2D Brushless Gimbal GoPro3",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/carbon-fiber-mounting-plate-adapter-for-dji-phantom-v1-to-tarot-t-2d-brushless-gimbal-gopro3_g454.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:50 GMT",
+   "url": "http://www.fpvmodel.com/carbon-fiber-mounting-plate-adapter-for-dji-phantom-v1-to-tarot-t-2d-brushless-gimbal-gopro3_g454.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

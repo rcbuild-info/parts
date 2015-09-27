@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XAircraft X650 CM130-TPS Two Axis Gimbal Camera Mount w/ Three Servos",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/xaircraft-x650-cm130c-tps-two-axis-gimbal-camera-mount-w-two-servos_g153.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$174.50",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:01 GMT",
+   "url": "http://www.fpvmodel.com/xaircraft-x650-cm130c-tps-two-axis-gimbal-camera-mount-w-two-servos_g153.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

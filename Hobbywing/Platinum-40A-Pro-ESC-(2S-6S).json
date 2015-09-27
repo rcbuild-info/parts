@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "Platinum 40A Pro ESC (2S-6S)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/hobbywing-platinum-40a-pro-esc_g275.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$41.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:48 GMT",
+   "url": "http://www.fpvmodel.com/hobbywing-platinum-40a-pro-esc_g275.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

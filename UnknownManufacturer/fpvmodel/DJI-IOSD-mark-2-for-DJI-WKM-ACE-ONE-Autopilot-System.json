@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI IOSD mark 2 for DJI WKM ACE ONE Autopilot System",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dji-iosd-mark-2-for-dji-wkm-ace-one-autopilot-system_g179.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$198.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:52 GMT",
+   "url": "http://www.fpvmodel.com/dji-iosd-mark-2-for-dji-wkm-ace-one-autopilot-system_g179.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

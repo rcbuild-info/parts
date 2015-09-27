@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FatShark Predator v2 RTF FPV Headset System w/Camera and 5.8G TX",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fatshark-predator-v2-rtf-fpv-headset-system-w-camera-and-5-8g-tx_g96.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$279.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:42 GMT",
+   "url": "http://www.fpvmodel.com/fatshark-predator-v2-rtf-fpv-headset-system-w-camera-and-5-8g-tx_g96.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

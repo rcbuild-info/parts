@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT2212 KV750 / KV980",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-mt2212-kv750-kv980_g306.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$31.43",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:16 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-mt2212-kv750-kv980_g306.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

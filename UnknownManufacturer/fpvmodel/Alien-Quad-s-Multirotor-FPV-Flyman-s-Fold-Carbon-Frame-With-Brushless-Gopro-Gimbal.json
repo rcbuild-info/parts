@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Alien Quad s Multirotor FPV Flyman s Fold Carbon Frame With Brushless Gopro Gimbal",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/alien-quad-s-multirotor-fpv-flyman-s-fold-carbon-frame-with-brushless-gopro-gimbal_g49.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$409.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:44 GMT",
+   "url": "http://www.fpvmodel.com/alien-quad-s-multirotor-fpv-flyman-s-fold-carbon-frame-with-brushless-gopro-gimbal_g49.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

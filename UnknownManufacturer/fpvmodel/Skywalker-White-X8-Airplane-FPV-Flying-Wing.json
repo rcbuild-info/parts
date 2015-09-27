@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skywalker White X8 Airplane FPV Flying Wing",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skywalker-white-x8-airplane-fpv-flying-wing_g27.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$163.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:57 GMT",
+   "url": "http://www.fpvmodel.com/skywalker-white-x8-airplane-fpv-flying-wing_g27.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

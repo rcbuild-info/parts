@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SkyKnight X8-1100 High Strength Carbon Fiber FPV Folding Octacopter Frame Kit 22mm Tube (with 3 degrees dihedral angle )",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skyknight-x8-1100-high-strength-carbon-fiber-fpv-folding-octacopter-frame-kit-22mm-tube-with-3-degrees-dihedral-angle-_g54.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$802.62",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:54 GMT",
+   "url": "http://www.fpvmodel.com/skyknight-x8-1100-high-strength-carbon-fiber-fpv-folding-octacopter-frame-kit-22mm-tube-with-3-degrees-dihedral-angle-_g54.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

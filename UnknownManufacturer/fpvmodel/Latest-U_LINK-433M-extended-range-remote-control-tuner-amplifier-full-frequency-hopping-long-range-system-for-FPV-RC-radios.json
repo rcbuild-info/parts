@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Latest U_LINK 433M extended-range remote control tuner amplifier full frequency hopping long range system for FPV RC radios",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/latest-u_link-433m-extended-range-remote-control-tuner-amplifier-full-frequency-hopping-long-range-system-for-fpv-rc-radios_g276.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$152.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:38 GMT",
+   "url": "http://www.fpvmodel.com/latest-u_link-433m-extended-range-remote-control-tuner-amplifier-full-frequency-hopping-long-range-system-for-fpv-rc-radios_g276.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

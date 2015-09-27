@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "UMX ASK-21 with AS3X Technology FPV plane",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/umx-ask-21-bnf-with-as3x-technology-by-e-flite_g35.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:52 GMT",
+   "url": "http://www.fpvmodel.com/umx-ask-21-bnf-with-as3x-technology-by-e-flite_g35.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

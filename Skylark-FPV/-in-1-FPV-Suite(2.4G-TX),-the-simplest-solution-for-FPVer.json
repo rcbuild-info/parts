@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skylark FPV",
  "name": "-in-1 FPV Suite(2.4G TX), the simplest solution for FPVer",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skylark-all-in-1-fpv-suite-2-4g-tx-the-simplest-solution-for-fpver_g376.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$198.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:24 GMT",
+   "url": "http://www.fpvmodel.com/skylark-all-in-1-fpv-suite-2-4g-tx-the-simplest-solution-for-fpver_g376.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

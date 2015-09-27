@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RC701 5.8GHz FPV 32CH 2way Dual Diversity 7 inch LCD Screen Receiver Monitor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/5-8ghz-fpv-8ch-2way-dual-diversity-receiver-7-tft-lcd-screen-monitor-displayer_g112.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$165.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:43 GMT",
+   "url": "http://www.fpvmodel.com/5-8ghz-fpv-8ch-2way-dual-diversity-receiver-7-tft-lcd-screen-monitor-displayer_g112.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

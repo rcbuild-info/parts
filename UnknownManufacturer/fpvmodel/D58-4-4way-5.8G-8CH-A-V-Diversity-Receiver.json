@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "D58-4 4way 5.8G 8CH A/V Diversity Receiver",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/4-way-wireless-5-8g-8ch-a-v-dual-diversity-receiver-d58-4_g114.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$188.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:56:23 GMT",
+   "url": "http://www.fpvmodel.com/4-way-wireless-5-8g-8ch-a-v-dual-diversity-receiver-d58-4_g114.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

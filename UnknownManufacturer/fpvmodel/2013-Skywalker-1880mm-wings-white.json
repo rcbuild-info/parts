@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2013 Skywalker 1880mm wings white",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/new-2013-skywalker-1880mm-wing-white_g404.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$56.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:00 GMT",
+   "url": "http://www.fpvmodel.com/new-2013-skywalker-1880mm-wing-white_g404.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

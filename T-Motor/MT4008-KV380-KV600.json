@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT4008 KV380/KV600",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-mt4008-kv380-kv600-kv770_g309.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$85.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:10 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-mt4008-kv380-kv600-kv770_g309.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

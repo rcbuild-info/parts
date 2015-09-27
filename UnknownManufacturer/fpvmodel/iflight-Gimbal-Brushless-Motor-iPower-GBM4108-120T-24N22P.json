@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "iflight Gimbal Brushless Motor iPower GBM4108-120T 24N22P",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/iflight-gimbal-brushless-motor-ipower-gbm4108-120t-24n22p_g263.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$69.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:05 GMT",
+   "url": "http://www.fpvmodel.com/iflight-gimbal-brushless-motor-ipower-gbm4108-120t-24n22p_g263.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

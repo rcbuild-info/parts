@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "(Motor ESC Prop and servos kit) power combo for new Skywalker 1680",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/-motor-esc-prop-and-servos-kit-power-combo-for-the-skywalker-1680-1880-1900_g370.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$102.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:59 GMT",
+   "url": "http://www.fpvmodel.com/-motor-esc-prop-and-servos-kit-power-combo-for-the-skywalker-1680-1880-1900_g370.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ACE Lipo battery 5500mAH 22.2V 45C",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/ace-lipo-battery-5500mah-22-2v-45c_g208.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$164.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:33 GMT",
+   "url": "http://www.fpvmodel.com/ace-lipo-battery-5500mah-22-2v-45c_g208.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

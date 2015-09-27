@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GoPro3 Hero3 GO3 HD Sports Camera Recorder genuine Battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/gopro3-hero3-go3-hd-sports-camera-recorder-genuine-battery_g416.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$35.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:26 GMT",
+   "url": "http://www.fpvmodel.com/gopro3-hero3-go3-hd-sports-camera-recorder-genuine-battery_g416.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

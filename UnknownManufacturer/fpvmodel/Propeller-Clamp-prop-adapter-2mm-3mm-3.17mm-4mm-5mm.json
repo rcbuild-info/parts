@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Propeller Clamp prop adapter 2mm/3mm/3.17mm/4mm/5mm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/propeller-clamp-prop-adapter-2mm-3mm-3-17mm-4mm-5mm_g298.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.94",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:07 GMT",
+   "url": "http://www.fpvmodel.com/propeller-clamp-prop-adapter-2mm-3mm-3-17mm-4mm-5mm_g298.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

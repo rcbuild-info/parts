@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "HD19 PLUS ExplorerHD Full HD 1080p FPV Camera with Integral Recoder & Mount Gimbal Pan/tilt For Camera HD19+ Set(included servos)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/boscam-hd19-explorer-hd-full-hd-1080p-fpv-camera-mount-gimbal-pan-for-camera-hd19-suite-includes-servos-_g97.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$128.66",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:17 GMT",
+   "url": "http://www.fpvmodel.com/boscam-hd19-explorer-hd-full-hd-1080p-fpv-camera-mount-gimbal-pan-for-camera-hd19-suite-includes-servos-_g97.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

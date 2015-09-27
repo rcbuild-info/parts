@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HawkEye FHD 1080P Motion DVR FPV 64g Sport Camera w/LCD Screen for aerial photograpy",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/hawkeye-fhd-1080p-motion-dvr-fpv-64g-sport-camera-w-lcd-screen-for-aerial-photo_g69.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$118.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:55:52 GMT",
+   "url": "http://www.fpvmodel.com/hawkeye-fhd-1080p-motion-dvr-fpv-64g-sport-camera-w-lcd-screen-for-aerial-photo_g69.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

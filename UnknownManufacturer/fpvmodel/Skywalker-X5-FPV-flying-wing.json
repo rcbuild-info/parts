@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skywalker X5 FPV flying wing",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skywalker-x5-fpv-flying-wing_g37.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$45.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:38 GMT",
+   "url": "http://www.fpvmodel.com/skywalker-x5-fpv-flying-wing_g37.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

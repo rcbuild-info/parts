@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Zero UAV data link 900MHz module",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/zero-uav-data-link-900mhz-module_g177.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$199.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:41 GMT",
+   "url": "http://www.fpvmodel.com/zero-uav-data-link-900mhz-module_g177.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ACE Lipo battery 6200mAH 22.2V 25C",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/ace-lipo-battery-6200mah-22-2v-25c_g206.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$138.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:30 GMT",
+   "url": "http://www.fpvmodel.com/ace-lipo-battery-6200mah-22-2v-25c_g206.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

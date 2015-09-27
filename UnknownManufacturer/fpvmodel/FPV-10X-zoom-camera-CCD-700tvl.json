@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV-10X zoom camera CCD 700tvl",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fpv-10x-zoom-video-camera-new-version-700tvl-for-fpv_g105.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$168.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:19 GMT",
+   "url": "http://www.fpvmodel.com/fpv-10x-zoom-video-camera-new-version-700tvl-for-fpv_g105.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

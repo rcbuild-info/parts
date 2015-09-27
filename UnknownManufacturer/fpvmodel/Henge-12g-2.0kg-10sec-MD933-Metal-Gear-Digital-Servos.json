@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Henge 12g 2.0kg 10sec MD933 Metal Gear Digital Servos",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/henge-12g-2-0kg-10sec-md933-servos_g297.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$13.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:43 GMT",
+   "url": "http://www.fpvmodel.com/henge-12g-2-0kg-10sec-md933-servos_g297.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

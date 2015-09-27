@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Zero UAV YS-X6 Autopilot system for multirotors",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/zero-uav-ys-x6-autopilot-system-for-multirotors_g184.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$856.20",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:34 GMT",
+   "url": "http://www.fpvmodel.com/zero-uav-ys-x6-autopilot-system-for-multirotors_g184.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

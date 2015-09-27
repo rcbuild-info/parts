@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "KX171 700TVL 1/3 Sony CCD FPV Camera",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/kx171-550-700tv-line-1-3-fpv-camera_g110.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$89.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:20 GMT",
+   "url": "http://www.fpvmodel.com/kx171-550-700tv-line-1-3-fpv-camera_g110.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "A.K.E DRAGON 22.2V/10000mAh/18C for DJI S800 etc",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/a-k-e-dragon-22-2v-10000mah-18c-for-dji-s800-etc_g215.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$362.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:37 GMT",
+   "url": "http://www.fpvmodel.com/a-k-e-dragon-22-2v-10000mah-18c-for-dji-s800-etc_g215.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

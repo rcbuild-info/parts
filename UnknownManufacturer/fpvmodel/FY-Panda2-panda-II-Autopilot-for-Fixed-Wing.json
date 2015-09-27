@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FY Panda2 panda II Autopilot for Fixed Wing",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fy-panda2-panda-ii-autopilot_g384.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1,290.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:47 GMT",
+   "url": "http://www.fpvmodel.com/fy-panda2-panda-ii-autopilot_g384.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

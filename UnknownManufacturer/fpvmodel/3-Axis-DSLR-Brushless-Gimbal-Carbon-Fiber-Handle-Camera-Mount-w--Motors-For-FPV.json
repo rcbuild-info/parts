@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3 Axis DSLR Brushless Gimbal Carbon Fiber Handle Camera Mount w/ Motors For FPV",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/3-axis-dslr-brushless-gimbal-glass-fiber-handle-camera-mount-w-motor-for-fpv_g89.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$428.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:28 GMT",
+   "url": "http://www.fpvmodel.com/3-axis-dslr-brushless-gimbal-glass-fiber-handle-camera-mount-w-motor-for-fpv_g89.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

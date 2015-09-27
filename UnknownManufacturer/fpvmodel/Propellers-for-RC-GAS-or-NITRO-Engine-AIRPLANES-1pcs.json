@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Propellers for RC GAS or NITRO Engine AIRPLANES 1pcs",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/propellers-for-rc-gas-or-nitro-rc-airplanes-1pcs_g258.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$0.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:51 GMT",
+   "url": "http://www.fpvmodel.com/propellers-for-rc-gas-or-nitro-rc-airplanes-1pcs_g258.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

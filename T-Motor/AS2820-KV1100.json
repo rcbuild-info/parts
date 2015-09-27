@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "AS2820 KV1100",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-as2820-kv800-kv920-kv1100_g305.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$41.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:55:59 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-as2820-kv800-kv920-kv1100_g305.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

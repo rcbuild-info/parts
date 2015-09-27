@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "RC805 5.8G 8CH Wireless AV Receiver For FPV",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/rc805-5-8g-wireless-av-receiver-for-fpv_g135.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.79",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:56:30 GMT",
+   "url": "http://www.fpvmodel.com/rc805-5-8g-wireless-av-receiver-for-fpv_g135.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

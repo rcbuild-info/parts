@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skylark FPV",
  "name": "ch Highlight Monitor(No blue Screen)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skylark-7inch-highlight-monitor-no-blue-screen-_g118.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$269.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:47 GMT",
+   "url": "http://www.fpvmodel.com/skylark-7inch-highlight-monitor-no-blue-screen-_g118.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

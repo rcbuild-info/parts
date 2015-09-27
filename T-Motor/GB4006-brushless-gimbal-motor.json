@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "GB4006 brushless gimbal motor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-gb4006-brushless-gimbal-motor_g425.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:46 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-gb4006-brushless-gimbal-motor_g425.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

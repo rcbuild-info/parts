@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "AT3520 KV730/KV880",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-at3520-kv730-kv880_g332.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$88.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:23 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-at3520-kv730-kv880_g332.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV FZY-QU4D Locust X-Shape Folding Quadcopter Frame only",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fpv-fzy-qu4d-locust-x-shape-folding-quadcopter-frame-only_g52.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$79.92",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:00 GMT",
+   "url": "http://www.fpvmodel.com/fpv-fzy-qu4d-locust-x-shape-folding-quadcopter-frame-only_g52.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

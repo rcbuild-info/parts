@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "iPower GBM4008-150T Hollow Shaft iFlight Gimbal Brushless Motor for 5N/7N FPV Aerial Photography",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/ipower-gbm4008-150t-hollow-shaft-iflight-gimbal-brushless-motor-for-5n-7n-fpv-aerial-photography_g264.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$54.80",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:06 GMT",
+   "url": "http://www.fpvmodel.com/ipower-gbm4008-150t-hollow-shaft-iflight-gimbal-brushless-motor-for-5n-7n-fpv-aerial-photography_g264.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FrSky Two-way 2.4G DHT Module",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/frsky-two-way-2-4g-dht-module_g109.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$69.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:01 GMT",
+   "url": "http://www.fpvmodel.com/frsky-two-way-2-4g-dht-module_g109.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

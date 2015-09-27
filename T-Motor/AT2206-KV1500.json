@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "AT2206 KV1500",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-at2206-kv1500_g327.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$23.93",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:58 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-at2206-kv1500_g327.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

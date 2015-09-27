@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1047 10X4.7 Real Carbon Fiber Propeller Props CW/CCW Pair For Multirotor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/1047-10x4-7-real-carbon-fiber-propeller-prop-cw-ccw-for-quadcoptor-2-pairs_g236.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.72",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:43 GMT",
+   "url": "http://www.fpvmodel.com/1047-10x4-7-real-carbon-fiber-propeller-prop-cw-ccw-for-quadcoptor-2-pairs_g236.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

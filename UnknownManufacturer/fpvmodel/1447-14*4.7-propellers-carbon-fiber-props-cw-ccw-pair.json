@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1447 14*4.7 propellers carbon fiber props cw/ccw pair",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/1447-propellers-carbon-fiber-props-cw-ccw-2-pairs_g286.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$23.12",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:44 GMT",
+   "url": "http://www.fpvmodel.com/1447-propellers-carbon-fiber-props-cw-ccw-2-pairs_g286.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

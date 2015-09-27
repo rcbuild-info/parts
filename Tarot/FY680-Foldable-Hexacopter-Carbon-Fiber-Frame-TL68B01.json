@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "FY680 Foldable Hexacopter Carbon Fiber Frame TL68B01",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/tarot-fy680-foldable-hexacopter-carbon-fiber-frame-tl68b01_g59.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$169.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:04:00 GMT",
+   "url": "http://www.fpvmodel.com/tarot-fy680-foldable-hexacopter-carbon-fiber-frame-tl68b01_g59.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

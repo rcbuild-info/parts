@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EMAX ES08MD Mini Metal Gear Digital Servo 12g/ 2.4kg 0.10 sec",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/emax-es08md-mini-metal-gear-digital-servo-12g-2-4kg-0-10-sec_g363.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:44 GMT",
+   "url": "http://www.fpvmodel.com/emax-es08md-mini-metal-gear-digital-servo-12g-2-4kg-0-10-sec_g363.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

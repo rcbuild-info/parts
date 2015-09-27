@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Universal RC shutter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/universal-rc-shutter_g296.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.92",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:09 GMT",
+   "url": "http://www.fpvmodel.com/universal-rc-shutter_g296.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

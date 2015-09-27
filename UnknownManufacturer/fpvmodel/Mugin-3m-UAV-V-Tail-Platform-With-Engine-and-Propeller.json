@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mugin 3m UAV V-Tail Platform With Engine and Propeller",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/mugin-3m-uav-v3-tail-platform-kit-includes-engine-and-propeller-_g19.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2,394.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:11 GMT",
+   "url": "http://www.fpvmodel.com/mugin-3m-uav-v3-tail-platform-kit-includes-engine-and-propeller-_g19.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

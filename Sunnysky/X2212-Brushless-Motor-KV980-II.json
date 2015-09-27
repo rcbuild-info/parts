@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X2212 Brushless Motor KV980 II",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/sunnysky-x2212-brushless-motor-kv980_g345.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.68",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:22 GMT",
+   "url": "http://www.fpvmodel.com/sunnysky-x2212-brushless-motor-kv980_g345.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

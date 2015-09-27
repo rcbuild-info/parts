@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skylark FPV",
  "name": "door Highlight FPV Ground Station 1000cd/m2 Monitor 10.4 Inch No Blue Screen",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skylark-outdoor-highlight-fpv-ground-station-1000cd-m2-monitor-10-inches_g115.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$449.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:33 GMT",
+   "url": "http://www.fpvmodel.com/skylark-outdoor-highlight-fpv-ground-station-1000cd-m2-monitor-10-inches_g115.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

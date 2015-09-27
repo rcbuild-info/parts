@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ATG DJI Phantom Upgrade landing skid W/ single axis gimbal Anti-vibration Shock Absorber Glass/Carbon Fiber Plate",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/atg-dji-phantom-upgrade-landing-skid-w-single-axis-gimbal-anti-vibration-shock-absorber-glass-carbon-fiber-plate_g245.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$26.93",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:35 GMT",
+   "url": "http://www.fpvmodel.com/atg-dji-phantom-upgrade-landing-skid-w-single-axis-gimbal-anti-vibration-shock-absorber-glass-carbon-fiber-plate_g245.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

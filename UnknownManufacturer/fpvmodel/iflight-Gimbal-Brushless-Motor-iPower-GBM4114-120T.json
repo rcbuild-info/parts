@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "iflight Gimbal Brushless Motor iPower GBM4114-120T",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/iflight-gimbal-brushless-motor-ipower-gbm4114-120t_g262.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$79.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:23 GMT",
+   "url": "http://www.fpvmodel.com/iflight-gimbal-brushless-motor-ipower-gbm4114-120t_g262.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

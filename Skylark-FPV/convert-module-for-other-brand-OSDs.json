@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skylark FPV",
  "name": "convert module for other brand OSDs",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/aat-convert-module-for-other-brand-osd-the-newest-_g91.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$28.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:13 GMT",
+   "url": "http://www.fpvmodel.com/aat-convert-module-for-other-brand-osd-the-newest-_g91.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

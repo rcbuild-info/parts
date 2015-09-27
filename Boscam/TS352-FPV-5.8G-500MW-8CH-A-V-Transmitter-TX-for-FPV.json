@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "TS352 FPV 5.8G 500MW 8CH A/V Transmitter TX for FPV",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/ts352-fpv-5-8g-500mw-video-transmitter-tx-4km-for-5-8ghz-rx-receiver_g154.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$46.72",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:31 GMT",
+   "url": "http://www.fpvmodel.com/ts352-fpv-5-8g-500mw-video-transmitter-tx-4km-for-5-8ghz-rx-receiver_g154.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

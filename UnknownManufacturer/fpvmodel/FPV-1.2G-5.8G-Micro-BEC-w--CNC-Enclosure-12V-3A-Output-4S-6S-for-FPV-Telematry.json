@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 1.2G 5.8G Micro BEC w/ CNC Enclosure 12V 3A Output 4S-6S for FPV Telematry",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fpv-1-2g-5-8g-micro-bec-w-cnc-enclosure-12v-3a-output-4s-6s-for-fpv-telematry_g267.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$6.71",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:09 GMT",
+   "url": "http://www.fpvmodel.com/fpv-1-2g-5-8g-micro-bec-w-cnc-enclosure-12v-3a-output-4s-6s-for-fpv-telematry_g267.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

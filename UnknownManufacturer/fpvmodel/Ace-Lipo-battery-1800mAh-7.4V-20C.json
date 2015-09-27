@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Ace Lipo battery 1800mAh 7.4V 20C",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/ace-lipo-battery-1800mah-7-4v-20c_g213.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:45 GMT",
+   "url": "http://www.fpvmodel.com/ace-lipo-battery-1800mah-7-4v-20c_g213.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

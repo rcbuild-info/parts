@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini Skywalker EPO plane",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/mini-skywalker-epo-plane_g39.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$35.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:18 GMT",
+   "url": "http://www.fpvmodel.com/mini-skywalker-epo-plane_g39.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

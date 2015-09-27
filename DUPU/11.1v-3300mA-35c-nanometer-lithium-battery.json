@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DUPU",
  "name": "11.1v 3300mA 35c nanometer lithium battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dupu-11-1v-3300ma-35c-nanometer-lithium-battery_g201.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$38.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:10 GMT",
+   "url": "http://www.fpvmodel.com/dupu-11-1v-3300ma-35c-nanometer-lithium-battery_g201.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

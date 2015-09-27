@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "iMAX B6-AC B6AC Lipo NiMH 1-6cells 2S-6S RC Battery Balance Charger",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/imax-b6-ac-b6ac-lipo-nimh-1-6cells-2s-6s-rc-battery-balance-charger_g446.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$39.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:33 GMT",
+   "url": "http://www.fpvmodel.com/imax-b6-ac-b6ac-lipo-nimh-1-6cells-2s-6s-rc-battery-balance-charger_g446.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

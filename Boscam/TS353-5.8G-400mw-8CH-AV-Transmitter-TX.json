@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "TS353 5.8G 400mw 8CH AV Transmitter TX",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/ts353-5-8g-400mw-video-transmitter-tx_g138.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$41.40",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:00 GMT",
+   "url": "http://www.fpvmodel.com/ts353-5-8g-400mw-video-transmitter-tx_g138.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

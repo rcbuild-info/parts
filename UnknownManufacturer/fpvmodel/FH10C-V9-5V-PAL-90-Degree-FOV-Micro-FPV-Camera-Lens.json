@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FH10C V9 5V PAL 90 Degree FOV Micro FPV Camera Lens",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fh10c-v9-5v-pal-90-degree-fov-micro-fpv-camera-lens_g78.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:41 GMT",
+   "url": "http://www.fpvmodel.com/fh10c-v9-5v-pal-90-degree-fov-micro-fpv-camera-lens_g78.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

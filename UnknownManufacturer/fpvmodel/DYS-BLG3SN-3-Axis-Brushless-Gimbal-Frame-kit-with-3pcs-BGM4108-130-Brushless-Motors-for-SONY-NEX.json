@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DYS BLG3SN 3-Axis Brushless Gimbal Frame kit with 3pcs BGM4108-130 Brushless Motors for SONY NEX",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dys-blg3sn-3-axis-brushless-gimbal-frame-kit-with-3pcs-bgm4108-130-brushless-motors-for-sony-nex-_g451.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$191.27",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:35 GMT",
+   "url": "http://www.fpvmodel.com/dys-blg3sn-3-axis-brushless-gimbal-frame-kit-with-3pcs-bgm4108-130-brushless-motors-for-sony-nex-_g451.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

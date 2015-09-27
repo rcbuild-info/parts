@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "AS2208 kv1260",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-as2208-kv1260_g303.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:56:13 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-as2208-kv1260_g303.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ATG DJI Phantom Upgrade landing skid W/ Anti-vibration Shock Absorber Carbon/Glass Fiber Plate",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/atg-dji-phantom-upgrade-landing-skid-w-anti-vibration-shock-absorber-carbon-glass-fiber-plate_g246.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$20.72",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:30 GMT",
+   "url": "http://www.fpvmodel.com/atg-dji-phantom-upgrade-landing-skid-w-anti-vibration-shock-absorber-carbon-glass-fiber-plate_g246.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

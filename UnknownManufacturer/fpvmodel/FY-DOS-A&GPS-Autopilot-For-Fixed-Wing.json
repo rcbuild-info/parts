@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FY-DOS-A&GPS Autopilot For Fixed Wing",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fy-dos-a-gps-autopilot-for-fixed-wing_g168.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$125.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:56:22 GMT",
+   "url": "http://www.fpvmodel.com/fy-dos-a-gps-autopilot-for-fixed-wing_g168.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2014 skywalker 1800/2013 New Skywalker 1880 High loading efficiency power combo (Motor ESC Props and Servos kit)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/2014-skywalker-1800-2013-new-skywalker-high-loading-efficiency-power-combo-motor-esc-prop-and-servos-kit-_g21.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$131.12",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:40 GMT",
+   "url": "http://www.fpvmodel.com/2014-skywalker-1800-2013-new-skywalker-high-loading-efficiency-power-combo-motor-esc-prop-and-servos-kit-_g21.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

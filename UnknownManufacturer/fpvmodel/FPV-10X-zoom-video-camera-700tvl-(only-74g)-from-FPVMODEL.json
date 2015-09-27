@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV-10X zoom video camera 700tvl (only 74g) from FPVMODEL",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/new-fpv-10x-zoom-video-camera-700tvl-only-74g-from-fpvmodel_g90.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$149.93",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:58 GMT",
+   "url": "http://www.fpvmodel.com/new-fpv-10x-zoom-video-camera-700tvl-only-74g-from-fpvmodel_g90.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

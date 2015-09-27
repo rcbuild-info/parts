@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1.2G 1000mW 8Channel Wireless AV Tranmsitter and 12 Channel Receiver Set for long range FPV",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/wireless-video-tx-rx-1-2g-1000mw-suite-for-long-range-fpv_g149.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$94.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:08 GMT",
+   "url": "http://www.fpvmodel.com/wireless-video-tx-rx-1-2g-1000mw-suite-for-long-range-fpv_g149.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

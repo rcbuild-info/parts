@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FeelWorld PVR758-32CH 7 inch 5.8GHz LCD HD FPV Monitor builti-in DVR 5.8G 32CH Reveiver for Aerial Photography No Blue Screen",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/feelworld-7-inch-5-8ghz-lcd-wireless-fpv-monitor-for-aerial-photography-no-blue-screen_g98.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$219.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:42 GMT",
+   "url": "http://www.fpvmodel.com/feelworld-7-inch-5-8ghz-lcd-wireless-fpv-monitor-for-aerial-photography-no-blue-screen_g98.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

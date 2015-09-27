@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "7 inch LCD HD FPV Monitor  Built-in Lipo Battery and 5.8G Wireless AV Receiver",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/new-7-inch-lcd-hd-fpv-monitor-built-in-lipo-battery-and-5-8g-wireless-av-receiver_g107.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.52",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:44 GMT",
+   "url": "http://www.fpvmodel.com/new-7-inch-lcd-hd-fpv-monitor-built-in-lipo-battery-and-5-8g-wireless-av-receiver_g107.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

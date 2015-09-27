@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RMILEC T4047NB20 400-470MHZ 433mhz UHF LRS Long Range RC System",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/rmilec-t4047nb20-400-470mhz-rmilec-t4047nb20-uhf-long-range-rc-system_g477.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$446.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:52 GMT",
+   "url": "http://www.fpvmodel.com/rmilec-t4047nb20-400-470mhz-rmilec-t4047nb20-uhf-long-range-rc-system_g477.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

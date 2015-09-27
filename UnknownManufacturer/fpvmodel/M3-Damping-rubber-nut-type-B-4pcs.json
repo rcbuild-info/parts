@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 Damping rubber nut type B 4pcs",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/m3-damping-rubber-nut-type-b-4pcs_g228.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.98",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:56 GMT",
+   "url": "http://www.fpvmodel.com/m3-damping-rubber-nut-type-b-4pcs_g228.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "LPF1400 1.2Ghz Low Pass Filter for solving the issue with 2.4GHz RC Systems",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/lpf1400-1-2ghz-low-pass-filter-for-solving-the-issue-with-2-4ghz-rc-systems_g358.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$22.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:45 GMT",
+   "url": "http://www.fpvmodel.com/lpf1400-1-2ghz-low-pass-filter-for-solving-the-issue-with-2-4ghz-rc-systems_g358.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

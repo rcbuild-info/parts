@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skyhunter Belly Pan Protection Cover Kit",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skyhunter-belly-protection_g18.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:55:56 GMT",
+   "url": "http://www.fpvmodel.com/skyhunter-belly-protection_g18.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

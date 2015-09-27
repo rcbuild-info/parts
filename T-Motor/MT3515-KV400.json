@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT3515 KV400",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-mt3515-kv400-kv650_g316.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$67.43",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:11 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-mt3515-kv400-kv650_g316.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

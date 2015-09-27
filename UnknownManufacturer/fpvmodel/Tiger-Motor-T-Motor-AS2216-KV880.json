@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Tiger Motor T-Motor AS2216 KV880",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/tiger-motor-t-motor-as2216-kv800-kv880-kv900-kv1250_g299.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$22.43",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:55:56 GMT",
+   "url": "http://www.fpvmodel.com/tiger-motor-t-motor-as2216-kv800-kv880-kv900-kv1250_g299.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

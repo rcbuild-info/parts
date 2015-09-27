@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SanDisk Ultra 32G Class10 MicroSD High speed 30M/S 32G 200X Memory Card with Adapter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/sandisk-tf-32g-class10-microsd-high-speed-30m-s-32g-memory-card_g417.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$25.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:11 GMT",
+   "url": "http://www.fpvmodel.com/sandisk-tf-32g-class10-microsd-high-speed-30m-s-32g-memory-card_g417.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

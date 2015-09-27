@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini Mugin 2.6m UAV T tail/V tail platform carbon fiber tail(includes the engine and servos)ARF KIT",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/new-mini-mugin-2-6m-uav-t-tail-v-tail-platform-carbon-fiber-tail-include-the-engine-and-servos-arf-kit_g7.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1,789.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:56:12 GMT",
+   "url": "http://www.fpvmodel.com/new-mini-mugin-2-6m-uav-t-tail-v-tail-platform-carbon-fiber-tail-include-the-engine-and-servos-arf-kit_g7.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

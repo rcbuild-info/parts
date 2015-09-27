@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1280MHz 200mW Mini FPV video transmitter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/1280mhz-200mw-mini-fpv-video-transmitter_g68.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$33.07",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:02 GMT",
+   "url": "http://www.fpvmodel.com/1280mhz-200mw-mini-fpv-video-transmitter_g68.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

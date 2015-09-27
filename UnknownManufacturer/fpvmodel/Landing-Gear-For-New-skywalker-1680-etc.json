@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Landing Gear For New skywalker 1680 etc",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/landing-gear-for-new-skywalker-1680-etc_g461.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:03 GMT",
+   "url": "http://www.fpvmodel.com/landing-gear-for-new-skywalker-1680-etc_g461.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

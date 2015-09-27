@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "60A ESC(2-6s)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-60a-esc-2-6s-_g354.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:58 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-60a-esc-2-6s-_g354.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

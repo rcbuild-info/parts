@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hugin II Electric Powered UAV 2.6m platform",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/hugin-ii-uav-2-6m-platform_g46.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$499.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:32 GMT",
+   "url": "http://www.fpvmodel.com/hugin-ii-uav-2-6m-platform_g46.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

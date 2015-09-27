@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Spring RC SM-S4306R 360 Degree Continuous Rotation Robot Servo SMS4306R",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/spring-rc-sm-s4306r-360-degree-continuous-rotation-robot-servo-sms4306r_g373.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$11.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:49 GMT",
+   "url": "http://www.fpvmodel.com/spring-rc-sm-s4306r-360-degree-continuous-rotation-robot-servo-sms4306r_g373.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

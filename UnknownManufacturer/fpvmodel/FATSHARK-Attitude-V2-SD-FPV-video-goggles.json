@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FATSHARK Attitude V2 SD FPV video goggles",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fatshark-attitude-v2-sd-fpv-video-goggles_g402.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$449.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:39 GMT",
+   "url": "http://www.fpvmodel.com/fatshark-attitude-v2-sd-fpv-video-goggles_g402.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

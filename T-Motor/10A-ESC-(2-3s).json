@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "10A ESC (2-3s)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-10a-esc-2-3s-_g356.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$21.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:47 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-10a-esc-2-3s-_g356.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

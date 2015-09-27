@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DC 5.5MM 3.5MM to T connector plug Cable adapter for FPV TX RX system",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fpv-av-audio-video-tx-rx-system-dc-5-5mm-3-5mm-to-t-connector-plug-cable-adapter_g293.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:14 GMT",
+   "url": "http://www.fpvmodel.com/fpv-av-audio-video-tx-rx-system-dc-5-5mm-3-5mm-to-t-connector-plug-cable-adapter_g293.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

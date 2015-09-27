@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Skylark FPV",
  "name": "xis Geomagnetic Sensor Sky Eye Head Tracker",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skylark-3-axis-geomagnetic-sensor-sky-eye-head-tracker_g92.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$79.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:55:42 GMT",
+   "url": "http://www.fpvmodel.com/skylark-3-axis-geomagnetic-sensor-sky-eye-head-tracker_g92.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

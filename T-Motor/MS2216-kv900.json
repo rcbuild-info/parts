@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MS2216 kv900",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/tiger-motor-t-motor-ms2216-kv900-kv1100_g324.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:03 GMT",
+   "url": "http://www.fpvmodel.com/tiger-motor-t-motor-ms2216-kv900-kv1100_g324.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

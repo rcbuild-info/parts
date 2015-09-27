@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "six in one Hub group TL9607 For multirotor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/tarot-six-in-one-hub-group-tl9607-for-multirotor_g449.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.10",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:00 GMT",
+   "url": "http://www.fpvmodel.com/tarot-six-in-one-hub-group-tl9607-for-multirotor_g449.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

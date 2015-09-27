@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Power Mini Digital Fast accurate Servo HD 1810MG 3.9kg",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/power-mini-digital-fast-accurate-servo-hd-1810mg-3-9kg_g411.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$14.73",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:00 GMT",
+   "url": "http://www.fpvmodel.com/power-mini-digital-fast-accurate-servo-hd-1810mg-3-9kg_g411.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

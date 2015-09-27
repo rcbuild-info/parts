@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "T960 3K Carbon Fiber Folding Rack Frame Kit 6 Axis big Hexcopter HEX6",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/tarot-t960-3k-carbon-fiber-folding-rack-frame-kit-6-axis-big-hexcopter-hex6_g62.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$325.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:53 GMT",
+   "url": "http://www.fpvmodel.com/tarot-t960-3k-carbon-fiber-folding-rack-frame-kit-6-axis-big-hexcopter-hex6_g62.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

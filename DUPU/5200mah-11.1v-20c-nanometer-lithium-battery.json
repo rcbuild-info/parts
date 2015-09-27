@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DUPU",
  "name": "5200mah 11.1v 20c nanometer lithium battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dupu-5200mah-11-1v-20c-nanometer-lithium-battery_g193.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:47 GMT",
+   "url": "http://www.fpvmodel.com/dupu-5200mah-11-1v-20c-nanometer-lithium-battery_g193.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Firefly HexaCopter FY550 Airframe 550mm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/firefly-hexacopter-fy550-airframe-550mm_g56.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$28.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:45 GMT",
+   "url": "http://www.fpvmodel.com/firefly-hexacopter-fy550-airframe-550mm_g56.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

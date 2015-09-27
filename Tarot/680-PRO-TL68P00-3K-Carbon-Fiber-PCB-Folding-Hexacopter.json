@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "680 PRO TL68P00 3K Carbon Fiber PCB Folding Hexacopter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/new-tarot-680-pro-tl68p00-carbon-fiber-pcb-folding-hexacopter-_g447.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$128.26",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:56 GMT",
+   "url": "http://www.fpvmodel.com/new-tarot-680-pro-tl68p00-carbon-fiber-pcb-folding-hexacopter-_g447.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

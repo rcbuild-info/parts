@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "SKYWALKER 20A RC Brushless Speed Controller ESC (2S-3S)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/hobbywing-skywalker-20a-rc-brushless-speed-controller-esc-2s-3s-_g278.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.87",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:51 GMT",
+   "url": "http://www.fpvmodel.com/hobbywing-skywalker-20a-rc-brushless-speed-controller-esc-2s-3s-_g278.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

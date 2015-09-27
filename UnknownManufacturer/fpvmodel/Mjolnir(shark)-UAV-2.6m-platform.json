@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mjolnir(shark) UAV 2.6m platform",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/mjolnir-shark-uav-2-6m-platform_g45.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2,075.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:20 GMT",
+   "url": "http://www.fpvmodel.com/mjolnir-shark-uav-2-6m-platform_g45.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

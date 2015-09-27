@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Ace Lipo battery 4000mAh 11.1v 25c",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/ace-lipo-battery-4000mah-11-1v-25c_g218.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$42.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:50 GMT",
+   "url": "http://www.fpvmodel.com/ace-lipo-battery-4000mah-11-1v-25c_g218.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

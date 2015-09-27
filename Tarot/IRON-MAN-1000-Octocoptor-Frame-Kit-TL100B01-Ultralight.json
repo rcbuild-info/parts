@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "IRON MAN 1000 Octocoptor Frame Kit TL100B01 Ultralight",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/tarot-iron-man-1000-octocoptor-airframe-super-light_g58.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$393.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:55 GMT",
+   "url": "http://www.fpvmodel.com/tarot-iron-man-1000-octocoptor-airframe-super-light_g58.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

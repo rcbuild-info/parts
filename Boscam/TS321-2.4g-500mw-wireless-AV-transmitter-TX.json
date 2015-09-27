@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "TS321 2.4g 500mw wireless AV transmitter TX",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/ts321-2-4g-500mw-wireless-av-transmitter_g88.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$36.47",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:29 GMT",
+   "url": "http://www.fpvmodel.com/ts321-2-4g-500mw-wireless-av-transmitter_g88.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

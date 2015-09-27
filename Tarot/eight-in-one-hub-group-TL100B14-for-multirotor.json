@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "eight in one hub group TL100B14 for multirotor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/tarot-eight-in-one-hub-group-tl100b14-for-multirotor_g450.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.39",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:59 GMT",
+   "url": "http://www.fpvmodel.com/tarot-eight-in-one-hub-group-tl100b14-for-multirotor_g450.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

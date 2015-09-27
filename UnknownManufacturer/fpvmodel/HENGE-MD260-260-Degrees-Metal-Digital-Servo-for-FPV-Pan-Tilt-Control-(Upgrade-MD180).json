@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HENGE MD260 260 Degrees Metal Digital Servo for FPV Pan Tilt Control (Upgrade MD180)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/henge-md260-260-degrees-metal-digital-servo-for-fpv-pan-tilt-control-upgrade-md180-_g369.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$16.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:55 GMT",
+   "url": "http://www.fpvmodel.com/henge-md260-260-degrees-metal-digital-servo-for-fpv-pan-tilt-control-upgrade-md180-_g369.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

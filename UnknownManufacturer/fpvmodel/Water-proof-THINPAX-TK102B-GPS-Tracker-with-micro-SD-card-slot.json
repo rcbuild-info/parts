@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Water proof THINPAX TK102B GPS Tracker with micro SD card slot",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/water-proof-thinpax-tk102b-gps-tracker-with-micro-sd-card-slot_g181.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$36.79",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:55:44 GMT",
+   "url": "http://www.fpvmodel.com/water-proof-thinpax-tk102b-gps-tracker-with-micro-sd-card-slot_g181.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

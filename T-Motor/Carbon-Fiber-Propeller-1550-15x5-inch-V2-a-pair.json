@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "Carbon Fiber Propeller 1550 15x5 inch V2 a pair",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-carbon-fiber-propeller-1550-15x5-inch-v2-a-pair_g388.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$75.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:04 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-carbon-fiber-propeller-1550-15x5-inch-v2-a-pair_g388.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

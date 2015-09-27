@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV Clover-Leaf Circular Polarized Antennas RP-SMA for 5.8ghz FPV RX TX aerial",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fpv-clover-leaf-circular-polarized-antennas-for-5-8ghz-fpv-rx-tx-aerial-rp-sma_g111.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$38.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:34 GMT",
+   "url": "http://www.fpvmodel.com/fpv-clover-leaf-circular-polarized-antennas-for-5-8ghz-fpv-rx-tx-aerial-rp-sma_g111.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

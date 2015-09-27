@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skywalker Mounting Wooden Pan for Skywalker EPO Fuselage",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skywalker-mount-plywood-cover-for-skywalker-1680-1880-1900-platform_g362.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$7.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:01 GMT",
+   "url": "http://www.fpvmodel.com/skywalker-mount-plywood-cover-for-skywalker-1680-1880-1900-platform_g362.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

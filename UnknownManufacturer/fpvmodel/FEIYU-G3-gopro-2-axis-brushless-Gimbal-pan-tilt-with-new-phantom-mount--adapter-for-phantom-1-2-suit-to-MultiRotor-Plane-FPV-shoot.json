@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FEIYU G3 gopro 2-axis brushless Gimbal pan/tilt with new phantom mount  adapter for phantom 1/2 suit to MultiRotor/Plane FPV shoot",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/new-feiyu-g3-gopro-2-axis-brushless-gimbal-pan-tilt-with-phantom-mount-new-adapter-for-phantom-1-phantom-2-vision-_g473.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$160.65",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:38 GMT",
+   "url": "http://www.fpvmodel.com/new-feiyu-g3-gopro-2-axis-brushless-gimbal-pan-tilt-with-phantom-mount-new-adapter-for-phantom-1-phantom-2-vision-_g473.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV Battery and Receiver Glass Fiber  Mount Plate for Monitor on Transmitter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fpv-battery-and-receiver-fiber-glass-mount-plate-for-lcd-monitor-on-transmitter_g285.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.80",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:29 GMT",
+   "url": "http://www.fpvmodel.com/fpv-battery-and-receiver-fiber-glass-mount-plate-for-lcd-monitor-on-transmitter_g285.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Servo Connecting Cable OSD FH18C 520 Cable with FPV Camera 8g",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/new-servo-connecting-cable-osd-fh18c-520-cable-with-fpv-camera-for-quadcopters-8g_g77.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$34.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:16 GMT",
+   "url": "http://www.fpvmodel.com/new-servo-connecting-cable-osd-fh18c-520-cable-with-fpv-camera-for-quadcopters-8g_g77.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

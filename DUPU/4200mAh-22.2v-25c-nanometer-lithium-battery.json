@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DUPU",
  "name": "4200mAh 22.2v 25c nanometer lithium battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dupu-4200mah-22-2v-25c-nanometer-lithium-battery_g197.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$90.50",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:56:46 GMT",
+   "url": "http://www.fpvmodel.com/dupu-4200mah-22-2v-25c-nanometer-lithium-battery_g197.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

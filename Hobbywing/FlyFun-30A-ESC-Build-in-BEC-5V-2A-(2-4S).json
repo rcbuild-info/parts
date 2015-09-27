@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "FlyFun 30A ESC Build-in BEC 5V/2A (2-4S)",
@@ -7,9 +7,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/hobbywing-flyfun-30a-esc-2-4s-_g279.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$15.39",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:50 GMT",
+   "url": "http://www.fpvmodel.com/hobbywing-flyfun-30a-esc-2-4s-_g279.html"
+  },
+  {
+   "price": "$15.39",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:10 GMT",
+   "url": "http://www.fpvmodel.com/hobbywing-flyfun-30a-esc_g279.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

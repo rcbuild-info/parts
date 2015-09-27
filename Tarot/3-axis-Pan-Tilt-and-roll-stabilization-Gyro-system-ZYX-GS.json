@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "3-axis Pan Tilt and roll stabilization Gyro system ZYX-GS",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/tarot-3-axis-pan-tilt-and-roll-stabilization-gyro-system-zyx-gs_g170.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$135.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:43 GMT",
+   "url": "http://www.fpvmodel.com/tarot-3-axis-pan-tilt-and-roll-stabilization-gyro-system-zyx-gs_g170.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

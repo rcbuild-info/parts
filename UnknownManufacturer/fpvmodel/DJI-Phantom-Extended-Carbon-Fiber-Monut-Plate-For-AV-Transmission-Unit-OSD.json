@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI Phantom Extended Carbon Fiber Monut Plate For AV Transmission Unit OSD",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dji-phantom-extended-carbon-fiber-monut-plate-for-av-transmission-unit-osd_g322.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:34 GMT",
+   "url": "http://www.fpvmodel.com/dji-phantom-extended-carbon-fiber-monut-plate-for-av-transmission-unit-osd_g322.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

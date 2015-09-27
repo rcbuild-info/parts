@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SkyKnight Fixed X8-1100 Frame 25mm CF Tube/2.5mm CF Board",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skyknight-fixed-x8-1100-frame-25mm-cf-tube-2-5mm-cf-board_g63.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$666.40",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:58 GMT",
+   "url": "http://www.fpvmodel.com/skyknight-fixed-x8-1100-frame-25mm-cf-tube-2-5mm-cf-board_g63.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

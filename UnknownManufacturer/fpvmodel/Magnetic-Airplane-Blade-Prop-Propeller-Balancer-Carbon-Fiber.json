@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Magnetic Airplane Blade Prop Propeller Balancer Carbon Fiber",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/magnetic-airplane-blade-prop-propeller-balancer-carbon-fiber_g255.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$12.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:56:37 GMT",
+   "url": "http://www.fpvmodel.com/magnetic-airplane-blade-prop-propeller-balancer-carbon-fiber_g255.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

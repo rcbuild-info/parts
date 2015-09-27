@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "Platinum-30A-OPTO-PRO ESC (2-6s) for multi-rotor aircraft",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/hobbywing-platinum-30a-opto-pro-esc-2-6s-for-multi-rotor-aircraft_g469.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$21.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:05 GMT",
+   "url": "http://www.fpvmodel.com/hobbywing-platinum-30a-opto-pro-esc-2-6s-for-multi-rotor-aircraft_g469.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

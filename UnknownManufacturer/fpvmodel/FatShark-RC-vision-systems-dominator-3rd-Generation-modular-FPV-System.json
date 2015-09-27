@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FatShark RC vision systems dominator 3rd Generation modular FPV System",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fatshark-rc-vision-systems-dominator-3rd-generation-modular-fpv-system_g130.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$299.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:12 GMT",
+   "url": "http://www.fpvmodel.com/fatshark-rc-vision-systems-dominator-3rd-generation-modular-fpv-system_g130.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

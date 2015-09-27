@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3 Damping rubber nut 4pcs",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/m3-damping-rubber-nut-4pcs_g229.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.98",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:15 GMT",
+   "url": "http://www.fpvmodel.com/m3-damping-rubber-nut-4pcs_g229.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

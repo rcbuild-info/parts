@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "12A ESC (2-3s)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-12a-esc-2-3s-_g353.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$21.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:00 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-12a-esc-2-3s-_g353.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

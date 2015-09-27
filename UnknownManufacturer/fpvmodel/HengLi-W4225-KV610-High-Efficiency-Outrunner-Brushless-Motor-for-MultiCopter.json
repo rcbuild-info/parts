@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HengLi W4225 KV610 High Efficiency Outrunner Brushless Motor for MultiCopter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/hengli-w4225-kv610-high-efficiency-outrunner-brushless-motor-for-multicopter_g346.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$46.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:27 GMT",
+   "url": "http://www.fpvmodel.com/hengli-w4225-kv610-high-efficiency-outrunner-brushless-motor-for-multicopter_g346.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Detachable sunshade sun Visor(Hood) for 7 inch screen new version",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/detachable-sunshade-sun-visor-hood-for-7-inch-screen-new-version_g274.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$8.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:55:43 GMT",
+   "url": "http://www.fpvmodel.com/detachable-sunshade-sun-visor-hood-for-7-inch-screen-new-version_g274.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "iFlight iPower GBM5208-150t Brushless Gimbal Motor (GBM 5208) No External Shaft",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/iflight-ipower-gbm5208-150t-brushless-gimbal-motor-gbm-5208-no-external-shaft_g259.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$83.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:02 GMT",
+   "url": "http://www.fpvmodel.com/iflight-ipower-gbm5208-150t-brushless-gimbal-motor-gbm-5208-no-external-shaft_g259.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

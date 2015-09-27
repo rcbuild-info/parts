@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI Phantom 8045 8*4.5 Prop Propeller Self-locking Propeller White 1Pair",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dji-phantom-8045-8*4-5-prop-propeller-self-locking-propeller-white-1pair_g251.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.19",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:39 GMT",
+   "url": "http://www.fpvmodel.com/dji-phantom-8045-8*4-5-prop-propeller-self-locking-propeller-white-1pair_g251.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

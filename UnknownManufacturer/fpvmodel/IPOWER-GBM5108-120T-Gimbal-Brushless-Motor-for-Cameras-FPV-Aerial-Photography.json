@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "IPOWER GBM5108-120T Gimbal Brushless Motor for Cameras FPV Aerial Photography",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/ipower-gbm5108-120t-gimbal-brushless-motor-for-cameras-fpv-aerial-photography_g261.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$108.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:04 GMT",
+   "url": "http://www.fpvmodel.com/ipower-gbm5108-120t-gimbal-brushless-motor-for-cameras-fpv-aerial-photography_g261.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

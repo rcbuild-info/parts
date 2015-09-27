@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT2826 KV380/KV550/KV760",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-mt2826-kv380-kv550-kv760_g317.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$88.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:14 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-mt2826-kv380-kv550-kv760_g317.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

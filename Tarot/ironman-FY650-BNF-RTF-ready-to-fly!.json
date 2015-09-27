@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "ironman FY650 BNF RTF ready-to-fly!",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/tarot-ironman-650-bnf-rtf-ready-to-fly-_g48.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$983.92",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:35 GMT",
+   "url": "http://www.fpvmodel.com/tarot-ironman-650-bnf-rtf-ready-to-fly-_g48.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

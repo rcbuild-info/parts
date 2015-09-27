@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT2208 KV1100",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-mt2208-kv1100_g312.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$30.73",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:07 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-mt2208-kv1100_g312.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

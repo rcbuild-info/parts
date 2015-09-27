@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ACE Lipo battery 5000mAh 7.4V 40C",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/ace-lipo-battery-5000mah-7-4v-40c_g219.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:53 GMT",
+   "url": "http://www.fpvmodel.com/ace-lipo-battery-5000mah-7-4v-40c_g219.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

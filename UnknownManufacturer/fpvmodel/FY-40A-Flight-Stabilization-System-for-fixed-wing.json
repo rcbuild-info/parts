@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FY-40A Flight Stabilization System for fixed wing",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fy-40a-flight-stabilization-system_g383.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$55.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:55 GMT",
+   "url": "http://www.fpvmodel.com/fy-40a-flight-stabilization-system_g383.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

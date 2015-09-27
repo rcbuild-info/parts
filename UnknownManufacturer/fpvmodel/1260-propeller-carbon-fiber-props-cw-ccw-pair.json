@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1260 propeller carbon fiber props cw/ccw pair",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/1260-propeller-carbon-fiber-prop-cw-ccw-2-pairs_g288.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$19.12",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:18 GMT",
+   "url": "http://www.fpvmodel.com/1260-propeller-carbon-fiber-prop-cw-ccw-2-pairs_g288.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

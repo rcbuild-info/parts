@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DUPU",
  "name": "4200mah 14.8v 45c nanometer lithium battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dupu-4200mah-14-8v-45c-nanometer-lithium-battery_g196.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$66.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:43 GMT",
+   "url": "http://www.fpvmodel.com/dupu-4200mah-14-8v-45c-nanometer-lithium-battery_g196.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "skywalker 1680 1800mm wingspan FPV platform EPO RC Plane",
@@ -7,9 +7,22 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/new-skywalker-1680-1800mm-wingspan-fpv-platform_g438.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$99.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:50 GMT",
+   "url": "http://www.fpvmodel.com/new-skywalker-1680-1800mm-wingspan-fpv-platform-rc-plane_g438.html"
+  },
+  {
+   "price": "$99.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:04:07 GMT",
+   "url": "http://www.fpvmodel.com/new-skywalker-1680-1800mm-wingspan-fpv-platform_g438.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

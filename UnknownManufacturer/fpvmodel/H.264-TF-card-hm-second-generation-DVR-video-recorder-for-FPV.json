@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "H.264 TF card hm second generation DVR video recorder for FPV",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/h-264-tf-card-hm-second-generation-dvr-video-recorder-for-fpv_g410.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$51.61",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:46 GMT",
+   "url": "http://www.fpvmodel.com/h-264-tf-card-hm-second-generation-dvr-video-recorder-for-fpv_g410.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

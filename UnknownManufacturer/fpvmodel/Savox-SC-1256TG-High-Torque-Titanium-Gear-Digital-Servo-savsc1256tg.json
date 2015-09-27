@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Savox SC-1256TG High Torque Titanium Gear Digital Servo-savsc1256tg",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/savox-sc-1256tg-high-torque-titanium-gear-digital-servo-savsc1256tg_g230.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$62.69",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:42 GMT",
+   "url": "http://www.fpvmodel.com/savox-sc-1256tg-high-torque-titanium-gear-digital-servo-savsc1256tg_g230.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Feelworld 7",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/feelworld-7-hd-monitor-for-fpv-video-camera-rc-helicopter-multicopter-no-blue-screen-w-sun-shade_g84.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$84.92",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:09 GMT",
+   "url": "http://www.fpvmodel.com/feelworld-7-hd-monitor-for-fpv-video-camera-rc-helicopter-multicopter-no-blue-screen-w-sun-shade_g84.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

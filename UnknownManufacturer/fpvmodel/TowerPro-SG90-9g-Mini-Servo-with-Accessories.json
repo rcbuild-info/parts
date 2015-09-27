@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "TowerPro SG90 9g Mini Servo with Accessories",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/towerpro-sg90-9g-mini-servo-with-accessories_g368.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:49 GMT",
+   "url": "http://www.fpvmodel.com/towerpro-sg90-9g-mini-servo-with-accessories_g368.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tattu",
  "name": "8000mAh 22.2V 25C 6S1P Li-po Battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/ace-lipo-battery-8000mah-14-8v-25c_g205.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$189.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:52 GMT",
+   "url": "http://www.fpvmodel.com/ace-lipo-battery-8000mah-14-8v-25c_g205.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

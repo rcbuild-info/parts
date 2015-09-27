@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skyhunter Airplane Power Combo (Motor, ESC, Props and Servos kit)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skyhunter-airplane-power-combo-motor-esc-prop-and-servos-kit-_g24.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$116.91",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:44 GMT",
+   "url": "http://www.fpvmodel.com/skyhunter-airplane-power-combo-motor-esc-prop-and-servos-kit-_g24.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

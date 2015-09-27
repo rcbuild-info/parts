@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "FlyFun 60A ESC",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/hobbywing-flyfun-60a-esc_g349.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$43.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:51 GMT",
+   "url": "http://www.fpvmodel.com/hobbywing-flyfun-60a-esc_g349.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

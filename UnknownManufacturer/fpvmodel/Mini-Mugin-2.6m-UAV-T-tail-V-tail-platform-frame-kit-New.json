@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini Mugin 2.6m UAV T tail/V tail platform frame kit New",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/mini-mugin-2-6m-uav-t-tail-v-tail-platform-frame-kit-new_g15.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1,100.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:46 GMT",
+   "url": "http://www.fpvmodel.com/mini-mugin-2-6m-uav-t-tail-v-tail-platform-frame-kit-new_g15.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2~6S LiPo T-Plug Parallel Balanced Charging Plate/Charging adapter board",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/2~6s-lipo-t-plug-parallel-balanced-charging-plate-charging-adapter-board-_g471.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.35",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:32 GMT",
+   "url": "http://www.fpvmodel.com/2~6s-lipo-t-plug-parallel-balanced-charging-plate-charging-adapter-board-_g471.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DUPU",
  "name": "10400mAh 22.2v 12cell 20c nanometer lithium battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dupu-10400mah-22-2v-12cell-20c-nanometer-lithium-battery_g188.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$171.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:55:44 GMT",
+   "url": "http://www.fpvmodel.com/dupu-10400mah-22-2v-12cell-20c-nanometer-lithium-battery_g188.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

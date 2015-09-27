@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "AT2820 kv830 Brushless Motor",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-at2820-kv830_g330.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$67.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:03 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-at2820-kv830_g330.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

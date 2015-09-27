@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Real Time Video Output Cable Converter for Gopro/Gopro 2 FPV",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/real-time-video-output-cable-converter-for-gopro-gopro-2-fpv_g418.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$5.99",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:16 GMT",
+   "url": "http://www.fpvmodel.com/real-time-video-output-cable-converter-for-gopro-gopro-2-fpv_g418.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

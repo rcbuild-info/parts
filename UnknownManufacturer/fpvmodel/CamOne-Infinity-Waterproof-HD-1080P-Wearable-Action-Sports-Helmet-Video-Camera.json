@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "CamOne Infinity Waterproof HD 1080P Wearable Action Sports Helmet Video Camera",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/camone-infinity-waterproof-hd-1080p-wearable-action-sports-helmet-video-camera_g121.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$199.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:21 GMT",
+   "url": "http://www.fpvmodel.com/camone-infinity-waterproof-hd-1080p-wearable-action-sports-helmet-video-camera_g121.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

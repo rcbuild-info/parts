@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Boscam",
  "name": "2.4G 500MW AV TX/RX Set TS321+RC302",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/2-4g-500mw-video-tx-rx-for-fpv_g150.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$52.13",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:09 GMT",
+   "url": "http://www.fpvmodel.com/2-4g-500mw-video-tx-rx-for-fpv_g150.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

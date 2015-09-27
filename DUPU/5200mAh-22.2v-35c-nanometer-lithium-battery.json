@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "DUPU",
  "name": "5200mAh 22.2v 35c nanometer lithium battery",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dupu-5200mah-22-2v-35c-nanometer-lithium-battery_g195.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$110.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:26 GMT",
+   "url": "http://www.fpvmodel.com/dupu-5200mah-22-2v-35c-nanometer-lithium-battery_g195.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

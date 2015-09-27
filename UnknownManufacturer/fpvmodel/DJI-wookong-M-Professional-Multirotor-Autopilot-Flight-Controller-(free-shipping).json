@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DJI wookong-M Professional Multirotor Autopilot Flight Controller (free shipping)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dji-wookong-m-professional-multirotor-controller_g182.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$980.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:34 GMT",
+   "url": "http://www.fpvmodel.com/dji-wookong-m-professional-multirotor-controller_g182.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

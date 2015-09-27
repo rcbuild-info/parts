@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XAircraft X650 Pro quadcopter frame kit with Power Units(motors, ESCs and blades)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/xaircraft-x650-pro-quadcopter-frame-kit-with-power-units-motors-esc-s-and-blades-_g60.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$609.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:51 GMT",
+   "url": "http://www.fpvmodel.com/xaircraft-x650-pro-quadcopter-frame-kit-with-power-units-motors-esc-s-and-blades-_g60.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

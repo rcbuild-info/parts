@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skywarrior 2030mm UAV FPV Platform",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skywarrior-uav-plane_g28.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$209.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:09 GMT",
+   "url": "http://www.fpvmodel.com/skywarrior-uav-plane_g28.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Sunnysky",
  "name": "X4108S 480KV Outrunner Brushless Motor for Multi-rotor Aircraft",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/sunnysky-x4108s-480kv-outrunner-brushless-motor-for-multi-rotor-aircraft_g292.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$35.09",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:13 GMT",
+   "url": "http://www.fpvmodel.com/sunnysky-x4108s-480kv-outrunner-brushless-motor-for-multi-rotor-aircraft_g292.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

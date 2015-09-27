@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Orignal Amass XT60 plug Connectors Male/Female For RC lipo battery High Quality",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/orignal-amass-xt60-connectors-male-female-rc-lipo-battery-high-quality_g227.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$1.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:15 GMT",
+   "url": "http://www.fpvmodel.com/orignal-amass-xt60-connectors-male-female-rc-lipo-battery-high-quality_g227.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

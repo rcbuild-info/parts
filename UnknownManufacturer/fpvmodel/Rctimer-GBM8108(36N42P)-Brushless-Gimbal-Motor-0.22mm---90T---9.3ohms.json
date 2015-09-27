@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Rctimer GBM8108(36N42P) Brushless Gimbal Motor 0.22mm / 90T / 9.3ohms",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/rctimer-gbm8108-36n42p-brushless-gimbal-motor-0-22mm-90t-9-3ohms_g415.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$178.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:37 GMT",
+   "url": "http://www.fpvmodel.com/rctimer-gbm8108-36n42p-brushless-gimbal-motor-0-22mm-90t-9-3ohms_g415.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

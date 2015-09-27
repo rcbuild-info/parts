@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DYS HHG5D Eagle Eye Camera Mount/DSLR BL Handled Gimbal With ALEXMOS 32BIT Controller",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/dys-hhg5d-eagle-eye-camera-mount-dslr-bl-handled-gimbal_g393.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$679.77",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:30 GMT",
+   "url": "http://www.fpvmodel.com/dys-hhg5d-eagle-eye-camera-mount-dslr-bl-handled-gimbal_g393.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JVC GC-XA2 ADIXXION Full HD Action FPV Camera",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/jvc-gc-xa2-adixxion-full-hd-action-fpv-camera_g70.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$299.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:55:52 GMT",
+   "url": "http://www.fpvmodel.com/jvc-gc-xa2-adixxion-full-hd-action-fpv-camera_g70.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

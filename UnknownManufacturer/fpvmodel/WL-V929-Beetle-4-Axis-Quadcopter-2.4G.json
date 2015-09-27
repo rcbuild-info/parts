@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "WL V929 Beetle 4-Axis Quadcopter 2.4G",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/wl-v929-beetle-4-axis-quadcopter-helicopter-2-4g_g44.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$49.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:41 GMT",
+   "url": "http://www.fpvmodel.com/wl-v929-beetle-4-axis-quadcopter-helicopter-2-4g_g44.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

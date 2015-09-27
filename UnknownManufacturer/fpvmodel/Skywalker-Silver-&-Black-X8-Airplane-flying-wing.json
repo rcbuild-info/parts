@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skywalker Silver & Black X8 Airplane flying wing",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/skywalker-silver-black-x8-airplane-flying-wing_g40.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$299.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:10 GMT",
+   "url": "http://www.fpvmodel.com/skywalker-silver-black-x8-airplane-flying-wing_g40.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

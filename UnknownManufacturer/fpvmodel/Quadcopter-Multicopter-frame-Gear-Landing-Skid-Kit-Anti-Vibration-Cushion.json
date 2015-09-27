@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Quadcopter Multicopter frame Gear Landing Skid Kit Anti Vibration Cushion",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/quadcopter-multicopter-frame-gear-landing-skid-kit-anti-vibration-cushion_g398.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:37 GMT",
+   "url": "http://www.fpvmodel.com/quadcopter-multicopter-frame-gear-landing-skid-kit-anti-vibration-cushion_g398.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

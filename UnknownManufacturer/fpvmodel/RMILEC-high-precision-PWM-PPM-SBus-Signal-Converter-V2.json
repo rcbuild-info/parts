@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RMILEC high-precision PWM/PPM/SBus Signal Converter V2",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/rmilec-high-precision-pwm-ppm-sbus-signal-converter-v2_g478.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$9.65",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:09 GMT",
+   "url": "http://www.fpvmodel.com/rmilec-high-precision-pwm-ppm-sbus-signal-converter-v2_g478.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sponge Stand for RC Radio Control Model Scale GP EP Aircraft Plane Glider",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/sponge-stand-for-rc-radio-control-model-scale-gp-ep-aircraft-plane-glider_g254.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:55:40 GMT",
+   "url": "http://www.fpvmodel.com/sponge-stand-for-rc-radio-control-model-scale-gp-ep-aircraft-plane-glider_g254.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "AT2814 kv1000",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-at2814-kv1000_g329.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$59.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:01 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-at2814-kv1000_g329.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

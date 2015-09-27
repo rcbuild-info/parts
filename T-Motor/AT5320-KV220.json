@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "AT5320 KV220",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-at5320-kv220_g337.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$178.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:00:12 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-at5320-kv220_g337.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

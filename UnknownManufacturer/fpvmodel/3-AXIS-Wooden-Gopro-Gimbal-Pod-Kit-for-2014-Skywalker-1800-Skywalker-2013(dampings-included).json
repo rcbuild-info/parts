@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "3-AXIS Wooden Gopro Gimbal Pod Kit for 2014 Skywalker 1800/Skywalker 2013(dampings included)",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/2014-skywalker-1800-skywalker-2013-wooden-gimbal-for-gopro-camera-damp-included-_g108.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$18.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:59:35 GMT",
+   "url": "http://www.fpvmodel.com/2014-skywalker-1800-skywalker-2013-wooden-gimbal-for-gopro-camera-damp-included-_g108.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

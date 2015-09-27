@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Ace Lipo battery 3200mAH 22.2V 35C",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/ace-lipo-battery-3200mah-22-2v-35c_g211.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$70.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:40 GMT",
+   "url": "http://www.fpvmodel.com/ace-lipo-battery-3200mah-22-2v-35c_g211.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

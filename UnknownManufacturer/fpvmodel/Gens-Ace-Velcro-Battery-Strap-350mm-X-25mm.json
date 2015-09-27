@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Gens Ace Velcro Battery Strap 350mm X 25mm",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/gens-ace-velcro-battery-strap-350mm-x-25mm_g445.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.00",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:57:26 GMT",
+   "url": "http://www.fpvmodel.com/gens-ace-velcro-battery-strap-350mm-x-25mm_g445.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

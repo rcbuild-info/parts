@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MN4012 KV340/KV400/KV480",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-mn4012-kv340-kv400-kv480_g344.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$92.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:26 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-mn4012-kv340-kv400-kv480_g344.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

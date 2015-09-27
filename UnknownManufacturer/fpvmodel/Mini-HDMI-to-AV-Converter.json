@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini HDMI to AV Converter",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/mini-hdmi-to-av-converter_g120.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:14 GMT",
+   "url": "http://www.fpvmodel.com/mini-hdmi-to-av-converter_g120.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

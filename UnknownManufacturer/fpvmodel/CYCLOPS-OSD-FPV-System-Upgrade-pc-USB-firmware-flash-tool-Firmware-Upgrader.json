@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "CYCLOPS OSD FPV System Upgrade pc USB firmware flash tool Firmware Upgrader",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/cyclops-osd-fpv-system-upgrade-pc-usb-firmware-flash-tool-firmware-upgrader_g163.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$10.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:55:53 GMT",
+   "url": "http://www.fpvmodel.com/cyclops-osd-fpv-system-upgrade-pc-usb-firmware-flash-tool-firmware-upgrader_g163.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

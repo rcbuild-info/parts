@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "T-Motor",
  "name": "MT2814 kv710/KV770",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/t-motor-mt2814-kv710-kv770_g314.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$61.90",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:09 GMT",
+   "url": "http://www.fpvmodel.com/t-motor-mt2814-kv710-kv770_g314.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

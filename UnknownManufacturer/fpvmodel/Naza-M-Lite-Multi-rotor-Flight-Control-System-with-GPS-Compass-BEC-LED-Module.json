@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Naza-M Lite Multi-rotor Flight Control System with GPS Compass BEC LED Module",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/naza-m-lite-multi-rotor-flight-control-system-with-gps-compass-bec-led-module_g171.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$162.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:01:48 GMT",
+   "url": "http://www.fpvmodel.com/naza-m-lite-multi-rotor-flight-control-system-with-gps-compass-bec-led-module_g171.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

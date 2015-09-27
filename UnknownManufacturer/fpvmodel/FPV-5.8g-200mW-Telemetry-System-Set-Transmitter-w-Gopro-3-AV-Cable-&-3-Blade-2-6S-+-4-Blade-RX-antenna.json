@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FPV 5.8g 200mW Telemetry System Set Transmitter w/Gopro 3 AV Cable & 3 Blade 2-6S + 4 Blade RX antenna",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/fpv-5-8g-220mw-telemetry-system-set-transmitter-w-gopro-3-av-cable-3-blade-2-6s-4-blade-rx-antenna_g409.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$44.03",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:02:24 GMT",
+   "url": "http://www.fpvmodel.com/fpv-5-8g-220mw-telemetry-system-set-transmitter-w-gopro-3-av-cable-3-blade-2-6s-4-blade-rx-antenna_g409.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

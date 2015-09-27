@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "UNA9 Plus+ Intelligent Parallel Charger Set With Charging Nanny Protection",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/una9-plus-intelligent-parallel-charger-set-with-charging-nanny-_g460.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$140.06",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 03:03:22 GMT",
+   "url": "http://www.fpvmodel.com/una9-plus-intelligent-parallel-charger-set-with-charging-nanny-_g460.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

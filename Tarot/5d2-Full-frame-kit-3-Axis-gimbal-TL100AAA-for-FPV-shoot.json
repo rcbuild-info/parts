@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "5d2 Full frame kit 3-Axis gimbal TL100AAA for FPV shoot",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.fpvmodel.com/tarot-5d2-full-frame-kit-3-axis-gimbal-tl100aaa-for-fpv-shoot_g94.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$404.19",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:58:00 GMT",
+   "url": "http://www.fpvmodel.com/tarot-5d2-full-frame-kit-3-axis-gimbal-tl100aaa-for-fpv-shoot_g94.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
