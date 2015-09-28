@@ -1,0 +1,32 @@
+{
+ "categories": [
+  "fc"
+ ],
+ "equivalent": [],
+ "manufacturer": "AbuseMark",
+ "name": "Acro Naze32 rev6",
+ "replacement": [],
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$24.99",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
+   "timestamp": "Sat, 26 Sep 2015 03:43:58 GMT",
+   "url": "http://www.getfpv.com/acro-naze32-flight-controller-rev6-w-pin-headers.html"
+  },
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:39 GMT",
+   "url": "http://www.multirotorsuperstore.com/acro-naze-32.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
+}
