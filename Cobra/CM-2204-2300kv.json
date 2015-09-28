@@ -15,11 +15,25 @@
  },
  "variants": [
   {
+   "price": "A$29.40",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 06:40:35 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=724"
+  },
+  {
    "price": "$21.50",
    "stock_state": "out_of_stock",
    "stock_text": "Out Of Stock",
    "timestamp": "Sun, 27 Sep 2015 01:14:06 GMT",
    "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=109"
+  },
+  {
+   "price": "$20.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 20:54:24 GMT",
+   "url": "http://impulserc.com/cobra-2204-2300kv-brushless-motor"
   },
   {
    "price": "USD$21.99",
@@ -54,6 +68,18 @@
    "stock_text": "Out of stock",
    "timestamp": "Sat, 26 Sep 2015 02:46:32 GMT",
    "url": "http://www.multirotorsuperstore.com/cobra-2204-2300kv-brushless-motor.html"
+  },
+  {
+   "price": "US$21.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 02:06:16 GMT",
+   "url": "https://www.liftrc.com/cobra-cm-2204-28-2300kv"
+  },
+  {
+   "price": "\u20ac19.95",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:17:32 GMT",
+   "url": "https://www.multirotorparts.com/new-cobra-2204-2300kv-multirotor-editie-met-vaste-adapter.html"
   }
  ],
  "version": 2,

@@ -15,24 +15,18 @@
  },
  "variants": [
   {
-   "price": "$25.99",
-   "stock_state": "in_stock",
-   "stock_text": "In stock",
-   "timestamp": "Sat, 26 Sep 2015 02:46:33 GMT",
-   "url": "http://www.multirotorsuperstore.com/cobra-2208-2000kv-brushless-motor.html"
+   "price": "A$25.99",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
+   "timestamp": "Sun, 27 Sep 2015 04:49:55 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=639"
   },
   {
-   "price": "$25.99",
+   "price": "A$33.75",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:39:36 GMT",
-   "url": "http://www.getfpv.com/cobra-cm-2208-2000kv-motor.html"
-  },
-  {
-   "price": "US$25.99",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 23:13:48 GMT",
-   "url": "http://www.dronematters.com/cobra-2208-20-2000kv-2-3s-brushless-motor.html"
+   "timestamp": "Sun, 27 Sep 2015 06:41:17 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=726"
   },
   {
    "price": "USD$25.99",
@@ -47,6 +41,39 @@
    "stock_text": "Pre-Order",
    "timestamp": "Sun, 27 Sep 2015 00:51:12 GMT",
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=275"
+  },
+  {
+   "price": "US$25.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:13:48 GMT",
+   "url": "http://www.dronematters.com/cobra-2208-20-2000kv-2-3s-brushless-motor.html"
+  },
+  {
+   "price": "$25.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:39:36 GMT",
+   "url": "http://www.getfpv.com/cobra-cm-2208-2000kv-motor.html"
+  },
+  {
+   "price": "$25.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:46:33 GMT",
+   "url": "http://www.multirotorsuperstore.com/cobra-2208-2000kv-brushless-motor.html"
+  },
+  {
+   "price": "US$25.99",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
+   "timestamp": "Sun, 27 Sep 2015 02:06:32 GMT",
+   "url": "https://www.liftrc.com/cobra-cm-2208-20-2000kv-motor"
+  },
+  {
+   "price": "\u20ac24.75",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:17:27 GMT",
+   "url": "https://www.multirotorparts.com/new-cobra-2208-2000kv-multirotor-editie-met-vaste-adapter.html"
   }
  ],
  "version": 2,

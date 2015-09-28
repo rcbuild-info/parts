@@ -1,0 +1,37 @@
+{
+ "categories": [
+  "motor"
+ ],
+ "equivalent": [],
+ "manufacturer": "Cobra",
+ "name": "2217 950kv multirotor edition with integrated adapter",
+ "replacement": [],
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "USD$30.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 00:50:57 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=169"
+  },
+  {
+   "price": "US$30.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:13:45 GMT",
+   "url": "http://www.dronematters.com/cobra-2217-950kv-3-4s-brushless-motor.html"
+  },
+  {
+   "price": "\u20ac29.50",
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:17:24 GMT",
+   "url": "https://www.multirotorparts.com/new-cobra-2217-950kv-multirotor-editie-met-opschroefadapter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
+}
