@@ -15,13 +15,46 @@
  },
  "variants": [
   {
+   "price": "A$19.95",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 06:48:16 GMT",
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=1001"
+  },
+  {
    "price": "$14.50",
    "stock_state": "in_stock",
    "stock_text": "In stock",
    "timestamp": "Sat, 26 Sep 2015 20:54:24 GMT",
    "url": "http://impulserc.com/littlebee-20a-esc-blheli"
+  },
+  {
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:48:32 GMT",
+   "url": "http://www.multirotorsuperstore.com/fvt-littlebee-20a-esc.html"
+  },
+  {
+   "price": "USD14.99",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "timestamp": "Sun, 27 Sep 2015 21:34:28 GMT",
+   "url": "http://www.myrcmart.com/rcx-20a-fvt-little-bee-mini-blheli-multirotor-esc-p-9047.html"
+  },
+  {
+   "price": "$14.50",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:10 GMT",
+   "url": "http://www.readytoflyquads.com/20a-littlebee-esc"
+  },
+  {
+   "price": "\u20ac14.25",
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:32:14 GMT",
+   "url": "https://www.multirotorparts.com/favourite-littlebee-20a-blheli.html"
   }
  ],
  "version": 2,
- "weight": ""
+ "weight": "10g"
 }
