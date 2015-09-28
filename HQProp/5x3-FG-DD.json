@@ -13,15 +13,6 @@
  },
  "variants": [
   {
-   "url": "http://flyduino.net/HQProp-5030-2-bladed-Propeller-Set-Green-4-pcs-2-CW-and-2-CCW-GF"
-  },
-  {
-   "url": "http://flyduino.net/HQProp-5030-2-bladed-Propeller-Set-Orange-4-pcs-2-CW-and-2-CCW-GF"
-  },
-  {
-   "url": "http://flyduino.net/HQProp-5030B-2-bladed-Propeller-Set-black-4-pcs-2-CW-and-2-CCW-GF"
-  },
-  {
    "price": "4,20 \u20ac",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:16:22 GMT",
@@ -38,18 +29,6 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:16:22 GMT",
    "url": "http://flyduino.net/HQProp-5x3-127cm-Propeller-Set-Orange-4-pcs-Glass-reinforced"
-  },
-  {
-   "url": "http://flyduino.net/HQProp-5x3-127cm-Propeller-Set-black-4-pcs-Glass-reinforced"
-  },
-  {
-   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_19"
-  },
-  {
-   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_31"
-  },
-  {
-   "url": "http://flyduino.net/Multikopter-Propeller-CW-CCW_36"
   },
   {
    "price": "$2.38",
@@ -91,12 +70,6 @@
    "url": "http://www.dronematters.com/hqprop-5030-composite-propellers-2-cw.html"
   },
   {
-   "url": "http://www.dronematters.com/power-system/hqprop-5030-composite-propellers-2-cw.html"
-  },
-  {
-   "url": "http://www.getfpv.com/hqprop-5x3-ccw-propeller-2-blade-2-pack-black.html"
-  },
-  {
    "description": "Green",
    "price": "$2.99",
    "quantity": 2,
@@ -121,9 +94,6 @@
    "stock_text": "In Stock",
    "timestamp": "Sat, 26 Sep 2015 03:43:33 GMT",
    "url": "http://www.getfpv.com/hqprop-5x3-ccw-propeller-2-blade-2-pack.html"
-  },
-  {
-   "url": "http://www.getfpv.com/hqprop-5x3-cw-propeller-2-blade-2-pack-black.html"
   },
   {
    "description": "Green",
@@ -192,9 +162,6 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 02:45:10 GMT",
    "url": "http://www.multirotorsuperstore.com/hqprop-5030-glass-composite.html"
-  },
-  {
-   "url": "http://www.multirotorsuperstore.com/props/props-by-size/5-inch/hqprop-5030-glass-composite.html"
   },
   {
    "price": "$2.38",
@@ -269,9 +236,6 @@
    "stock_state": "in_stock",
    "timestamp": "Sun, 27 Sep 2015 00:29:59 GMT",
    "url": "https://www.multirotorparts.com/hqprop-5-x-3-glasvezel-versterkte-propeller-set-van-4-oranje.html"
-  },
-  {
-   "url": "https://www.multirotorparts.com/propellers/glasvezel-versterkte-propellers/hqprop-5-x-3-glasvezel-versterkte-propeller-set-van-4-groen.html"
   }
  ],
  "version": 2,
