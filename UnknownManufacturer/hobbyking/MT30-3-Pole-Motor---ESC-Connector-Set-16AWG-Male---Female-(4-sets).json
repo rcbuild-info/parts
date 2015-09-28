@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MT30 3 Pole Motor / ESC Connector Set 16AWG Male - Female (4 sets)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__77401__MT30_3_Pole_Motor_ESC_Connector_Set_16AWG_Male_Female_4_sets_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__77401__MT30_3_Pole_Motor_ESC_Connector_Set_16AWG_Male_Female_4_sets_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

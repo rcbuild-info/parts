@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "TGY-SM-3317SR 360? Analog Robot Servo 2.2kg / 86RPM / 19g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__41209__Turnigy_TGY_SM_3317SR_360_Analog_Robot_Servo_2_2kg_86RPM_19g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.98",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:15:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__41209__Turnigy_TGY_SM_3317SR_360_Analog_Robot_Servo_2_2kg_86RPM_19g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "19"
 }

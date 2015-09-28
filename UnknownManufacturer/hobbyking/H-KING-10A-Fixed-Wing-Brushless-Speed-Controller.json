@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "H-KING 10A Fixed Wing Brushless Speed Controller",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67168",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46732",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32468",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29635",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26491",
-   "http://www.hobbyking.com/hobbyking/store/__14870__H_KING_10A_Fixed_Wing_Brushless_Speed_Controller.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:44:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14870__H_KING_10A_Fixed_Wing_Brushless_Speed_Controller.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$6.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:42:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26491"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:42:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29635"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$7.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:42:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32468"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$6.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:42:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46732"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$6.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:42:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67168"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

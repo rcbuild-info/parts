@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Single Cell 3.2g / .16kg / .10sec Digital Ultra-Micro Servo",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29591",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30674",
-   "http://www.hobbyking.com/hobbyking/store/__9902__Single_Cell_3_2g_16kg_10sec_Digital_Ultra_Micro_Servo.html",
-   "http://www.hobbyking.com/hobbyking/store/__9901__Single_Cell_3_2g_16kg_10sec_Digital_Ultra_Micro_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9901__Single_Cell_3_2g_16kg_10sec_Digital_Ultra_Micro_Servo.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$7.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9902__Single_Cell_3_2g_16kg_10sec_Digital_Ultra_Micro_Servo.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$8.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:16:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29591"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$7.95",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:16:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30674"
+  }
+ ],
+ "version": 2,
+ "weight": "3.2"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dianmu FPV Flight Controller System OSD/GPS/RTH/Barometer",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__22327__Dianmu_FPV_Flight_Controller_System_OSD_GPS_RTH_Barometer.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$189.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:56:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22327__Dianmu_FPV_Flight_Controller_System_OSD_GPS_RTH_Barometer.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

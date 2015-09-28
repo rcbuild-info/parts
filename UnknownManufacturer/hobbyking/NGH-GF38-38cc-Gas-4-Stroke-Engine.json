@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "NGH GF38 38cc Gas 4 Stroke Engine",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73108",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62689",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62574",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53655",
-   "http://www.hobbyking.com/hobbyking/store/__46082__NGH_GF38_38cc_Gas_4_Stroke_Engine.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$289.98",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:09:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__46082__NGH_GF38_38cc_Gas_4_Stroke_Engine.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$319.42",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 00:09:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53655"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$314.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:09:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62574"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$300.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:09:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62689"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$342.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:09:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73108"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

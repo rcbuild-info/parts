@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Plush 6A /.8bec/6g Speed Controller",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68545",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44717",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31692",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30698",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28408",
-   "http://www.hobbyking.com/hobbyking/store/__4318__TURNIGY_Plush_6A_8bec_6g_Speed_Controller.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:40:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__4318__TURNIGY_Plush_6A_8bec_6g_Speed_Controller.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$8.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:39:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28408"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$8.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:39:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30698"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$10.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:39:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31692"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$8.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:39:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44717"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$8.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:39:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68545"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

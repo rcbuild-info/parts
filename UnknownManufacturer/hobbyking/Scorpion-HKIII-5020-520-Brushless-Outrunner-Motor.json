@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Scorpion HKIII-5020-520 Brushless Outrunner Motor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__17400__Scorpion_HKIII_5020_520_Brushless_Outrunner_Motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$259.99",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 01:33:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17400__Scorpion_HKIII_5020_520_Brushless_Outrunner_Motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": "468"
 }

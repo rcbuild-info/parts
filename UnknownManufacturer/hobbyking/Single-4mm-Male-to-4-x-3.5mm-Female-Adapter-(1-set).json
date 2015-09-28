@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Single 4mm Male to 4 x 3.5mm Female Adapter (1 set)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72119",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55200",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51205",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46534",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45768",
-   "http://www.hobbyking.com/hobbyking/store/__21734__Single_4mm_Male_to_4_x_3_5mm_Female_Adapter_1_set_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:03:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__21734__Single_4mm_Male_to_4_x_3_5mm_Female_Adapter_1_set_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$2.22",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45768"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.28",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46534"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$2.15",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:02:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51205"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$2.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55200"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72119"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

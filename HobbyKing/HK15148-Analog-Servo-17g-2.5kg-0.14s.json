@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "HK15148 Analog Servo 17g/2.5kg/0.14s",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71715",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36914",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31877",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31582",
-   "http://www.hobbyking.com/hobbyking/store/__16265__HobbyKing_8482_HK15148_Analog_Servo_17g_2_5kg_0_14s.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16265__HobbyKing_8482_HK15148_Analog_Servo_17g_2_5kg_0_14s.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31582"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31877"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$2.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36914"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71715"
+  }
+ ],
+ "version": 2,
+ "weight": "17"
 }

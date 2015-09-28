@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "L2855-2800 EDF Outrunner (630w)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71748",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41176",
-   "http://www.hobbyking.com/hobbyking/store/__18543__Turnigy_L2855_2800_EDF_Outrunner_630w_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$14.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18543__Turnigy_L2855_2800_EDF_Outrunner_630w_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$15.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41176"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$15.09",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 01:41:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71748"
+  }
+ ],
+ "version": 2,
+ "weight": "97"
 }

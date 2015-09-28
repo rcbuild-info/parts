@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "AXN Floater-Jet Glider EPO 1127mm (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67945",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67760",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31293",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25292",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21128",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20741",
-   "http://www.hobbyking.com/hobbyking/store/__8359__AXN_Floater_Jet_Glider_EPO_1127mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$65.22",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8359__AXN_Floater_Jet_Glider_EPO_1127mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$76.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20741"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$79.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21128"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$81.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25292"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$82.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31293"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$76.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67760"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$78.17",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:36:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67945"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

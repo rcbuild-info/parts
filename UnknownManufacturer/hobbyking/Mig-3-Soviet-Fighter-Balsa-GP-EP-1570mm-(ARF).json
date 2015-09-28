@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mig-3 Soviet Fighter Balsa GP/EP 1570mm (ARF)",
@@ -7,14 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71172",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70152",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53658",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53621",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52830",
-   "http://www.hobbyking.com/hobbyking/store/__47587__Mig_3_Soviet_Fighter_Balsa_GP_EP_1570mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$100.72",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 04:06:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__47587__Mig_3_Soviet_Fighter_Balsa_GP_EP_1570mm_ARF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$169.01",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 04:05:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52830"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$122.08",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:05:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53621"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$129.69",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53658"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$133.38",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54382"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$301.78",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:05:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70152"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$133.38",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:05:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71172"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

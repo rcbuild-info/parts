@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Plastic Gears for BMS-410STD",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11886__Plastic_Gears_for_BMS_410STD.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.08",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 00:14:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11886__Plastic_Gears_for_BMS_410STD.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "HK15138 Standard Analog Servo 38g/4.3kg/0.17s",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69379",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69047",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36570",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31576",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28688",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22528",
-   "http://www.hobbyking.com/hobbyking/store/__16269__HobbyKing_8482_HK15138_Standard_Analog_Servo_38g_4_3kg_0_17s.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16269__HobbyKing_8482_HK15138_Standard_Analog_Servo_38g_4_3kg_0_17s.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:33:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22528"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:33:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28688"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.88",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:33:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31576"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:33:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36570"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$4.38",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:33:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69047"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:33:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69379"
+  }
+ ],
+ "version": 2,
+ "weight": "38"
 }

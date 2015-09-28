@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini F-8 Crusader EDF Fighter Jet EPO (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42926",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29967",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18318",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16718",
-   "http://www.hobbyking.com/hobbyking/store/__18062__Mini_F_8_Crusader_EDF_Fighter_Jet_EPO_PNF_US_Warehouse_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18062",
-   "http://www.hobbyking.com/hobbyking/store/__16718__Mini_F_8_Crusader_EDF_Fighter_Jet_EPO_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Sun, 27 Sep 2015 23:22:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16718__Mini_F_8_Crusader_EDF_Fighter_Jet_EPO_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$69.04",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Sun, 27 Sep 2015 23:06:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18062__Mini_F_8_Crusader_EDF_Fighter_Jet_EPO_PNF_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Sun, 27 Sep 2015 23:05:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16718"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$69.04",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Sun, 27 Sep 2015 23:22:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18062"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$72.29",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Sun, 27 Sep 2015 23:22:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18318"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$76.15",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Sun, 27 Sep 2015 23:22:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29967"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$76.67",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:22:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42926"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

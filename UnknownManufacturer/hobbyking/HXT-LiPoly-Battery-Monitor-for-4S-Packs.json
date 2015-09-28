@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HXT LiPoly Battery Monitor for 4S Packs",
@@ -7,11 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80811",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80810",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65695"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 02:13:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__4176__HXT_LiPoly_Battery_Monitor_for_4S_Packs_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:12:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65695"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:12:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80810"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:12:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80811"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

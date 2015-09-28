@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech Ultimate 6600mah 2S2P 90C Hardcase Lipo Pack (ROAR & BRCA Approved)",
@@ -7,13 +9,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64930",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63785",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63083",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63005",
-   "http://www.hobbyking.com/hobbyking/store/__51837__Turnigy_nano_tech_Ultimate_6600mah_2S2P_90C_Hardcase_Lipo_Pack_ROAR_BRCA_Approved_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$58.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:31:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51837__Turnigy_nano_tech_Ultimate_6600mah_2S2P_90C_Hardcase_Lipo_Pack_ROAR_BRCA_Approved_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$60.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:30:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63005"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$60.62",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:30:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63083"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$60.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:30:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63785"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$61.38",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:30:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64930"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$60.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:30:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=88949"
+  }
+ ],
+ "version": 2,
+ "weight": "340"
 }

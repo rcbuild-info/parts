@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Light Aircraft 182 w/ ESC, Motor and Servos Plug-and-Fly Deluxe Version",
@@ -7,14 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67944",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30361",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29026",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16604",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16565",
-   "http://www.hobbyking.com/hobbyking/store/__6331__Light_Aircraft_182_w_ESC_Motor_and_Servos_Plug_and_Fly_Deluxe_Version.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$59.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6331__Light_Aircraft_182_w_ESC_Motor_and_Servos_Plug_and_Fly_Deluxe_Version.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$68.97",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:51:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16565"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$70.33",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:51:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16604"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$70.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29026"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$69.69",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:51:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30361"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$70.33",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67092"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$105.08",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:51:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67944"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

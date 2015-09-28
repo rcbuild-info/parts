@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Extra 300 Practice Stick Plane Laser Cut Wood Model (Kit)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60771",
-   "http://www.hobbyking.com/hobbyking/store/__43711__Extra_300_Practice_Stick_Plane_Laser_Cut_Wood_Model_Kit_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__43711__Extra_300_Practice_Stick_Plane_Laser_Cut_Wood_Model_Kit_.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$4.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60771"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

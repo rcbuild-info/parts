@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Losi Mini Plug Pigtail - Battery (2pcs/bag)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__16378__Losi_Mini_Plug_Pigtail_Battery_2pcs_bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:07:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16378__Losi_Mini_Plug_Pigtail_Battery_2pcs_bag_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

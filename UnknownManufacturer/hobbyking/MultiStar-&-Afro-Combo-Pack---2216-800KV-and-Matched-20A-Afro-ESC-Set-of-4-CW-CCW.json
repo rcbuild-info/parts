@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MultiStar & Afro Combo Pack - 2216-800KV and Matched 20A Afro ESC Set of 4 CW/CCW",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76075",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76074",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76073",
-   "http://www.hobbyking.com/hobbyking/store/__67039__MultiStar_Afro_Combo_Pack_2216_800KV_and_Matched_20A_Afro_ESC_Set_of_4_CW_CCW.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$118.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__67039__MultiStar_Afro_Combo_Pack_2216_800KV_and_Matched_20A_Afro_ESC_Set_of_4_CW_CCW.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$122.69",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76073"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$132.44",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76074"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$123.69",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76075"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

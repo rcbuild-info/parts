@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "High Performance Racer Series - Sbach 342 800mm (PNF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70486",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31050",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30722",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30559",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29222",
-   "http://www.hobbyking.com/hobbyking/store/__22856__HobbyKing_High_Performance_Racer_Series_Sbach_342_800mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$87.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:16:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22856__HobbyKing_High_Performance_Racer_Series_Sbach_342_800mm_PNF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$102.14",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:15:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29222"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$108.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:15:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30559"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$97.34",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:15:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30722"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$95.55",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:15:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31050"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$108.52",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:15:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70486"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

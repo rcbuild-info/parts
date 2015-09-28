@@ -1,0 +1,1 @@
+../../Zippy/Compact-4000mAh-10S-25C-Long-Lipo-Pack.json

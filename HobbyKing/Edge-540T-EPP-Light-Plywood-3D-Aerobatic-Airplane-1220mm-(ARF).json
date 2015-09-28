@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Edge 540T EPP/Light Plywood 3D Aerobatic Airplane 1220mm (ARF)",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42837",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39866",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37628",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37289",
-   "http://www.hobbyking.com/hobbyking/store/__29765__HobbyKing_Edge_540T_EPP_Light_Plywood_3D_Aerobatic_Airplane_1220mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$100.90",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:48:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__29765__HobbyKing_Edge_540T_EPP_Light_Plywood_3D_Aerobatic_Airplane_1220mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$121.48",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:48:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37289"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$116.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:48:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37628"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$122.44",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:48:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39866"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$118.75",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:48:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42837"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$118.75",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:48:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67806"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

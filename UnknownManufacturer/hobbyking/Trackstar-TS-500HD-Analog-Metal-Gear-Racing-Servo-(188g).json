@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Trackstar TS-500HD Analog Metal Gear Racing Servo (188g)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70147",
-   "http://www.hobbyking.com/hobbyking/store/__46989__Trackstar_TS_500HD_Analog_Metal_Gear_Racing_Servo_188g_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$24.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__46989__Trackstar_TS_500HD_Analog_Metal_Gear_Racing_Servo_188g_.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$33.82",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 00:24:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70147"
+  }
+ ],
+ "version": 2,
+ "weight": "188"
 }

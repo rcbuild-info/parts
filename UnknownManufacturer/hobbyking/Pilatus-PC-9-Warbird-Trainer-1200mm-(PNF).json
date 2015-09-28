@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Pilatus PC-9 Warbird Trainer 1200mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76701",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76700",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76699",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76698",
-   "http://www.hobbyking.com/hobbyking/store/__66494__Pilatus_PC_9_Warbird_Trainer_1200mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$149.51",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 04:06:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__66494__Pilatus_PC_9_Warbird_Trainer_1200mm_PNF_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$197.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76698"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$202.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76699"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$202.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76700"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$195.33",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76701"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

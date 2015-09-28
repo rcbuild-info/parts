@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RCG 20cc Gas engine w/ CD-Ignition 2.2HP/1.64kw",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70944",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42925",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31286",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18065",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17917",
-   "http://www.hobbyking.com/hobbyking/store/__15381__RCG_20cc_Gas_engine_w_CD_Ignition_2_2HP_1_64kw.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$160.65",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:09:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__15381__RCG_20cc_Gas_engine_w_CD_Ignition_2_2HP_1_64kw.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$193.20",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:08:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17917"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$193.20",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 00:08:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18065"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$203.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:08:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31286"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$190.16",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:08:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42925"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$193.20",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:08:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70944"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

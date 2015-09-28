@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "TrackStar 1/10 70A Waterproof Car ESC   (Sensored Only)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68100",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65423",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65126",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64526",
-   "http://www.hobbyking.com/hobbyking/store/__41929__Turnigy_TrackStar_1_10_70A_Waterproof_Car_ESC_Sensored_Only_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$32.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__41929__Turnigy_TrackStar_1_10_70A_Waterproof_Car_ESC_Sensored_Only_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$34.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64526"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$33.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65126"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$35.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65423"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$36.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68100"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

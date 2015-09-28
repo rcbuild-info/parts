@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Main blades POM washer for 425 size Heli 3x15x1mm (4pcs)",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__12293__Main_blades_POM_washer_for_425_size_Heli_3x15x1mm_4pcs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.67",
+   "stock_state": "backordered",
+   "timestamp": "Sun, 27 Sep 2015 23:23:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12293__Main_blades_POM_washer_for_425_size_Heli_3x15x1mm_4pcs_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-375DD Digital Servo 1.6kg / .11sec / 9.6g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__8754__BMS_375DD_Digital_Servo_1_6kg_11sec_9_6g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$11.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8754__BMS_375DD_Digital_Servo_1_6kg_11sec_9_6g.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

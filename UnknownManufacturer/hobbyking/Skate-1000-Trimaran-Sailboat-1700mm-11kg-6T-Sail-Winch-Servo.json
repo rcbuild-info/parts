@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skate 1000 Trimaran Sailboat 1700mm 11kg 6T Sail Winch Servo",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__81770__Skate_1000_Trimaran_Sailboat_1700mm_11kg_6T_Sail_Winch_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$15.52",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:35:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__81770__Skate_1000_Trimaran_Sailboat_1700mm_11kg_6T_Sail_Winch_Servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": "112"
 }

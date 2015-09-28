@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Q Brain 4 x 20A Brushless Quadcopter ESC 2-4S 3A SBEC",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70021",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69399",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44679",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44575",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42842",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42797",
-   "http://www.hobbyking.com/hobbyking/store/__36674__Q_Brain_4_x_20A_Brushless_Quadcopter_ESC_2_4S_3A_SBEC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__36674__Q_Brain_4_x_20A_Brushless_Quadcopter_ESC_2_4S_3A_SBEC.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$32.57",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:48:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42797"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$30.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:48:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42842"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$32.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:48:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44575"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$30.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:48:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44679"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$30.56",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:48:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69399"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$38.44",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:48:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70021"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

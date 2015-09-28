@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Trackstar GenII 120A 1/10th Scale Sensored Brushless Car ESC (ROAR/BRCA approved)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72316",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67253",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52745",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52343",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52308",
-   "http://www.hobbyking.com/hobbyking/store/__33973__Trackstar_GenII_120A_1_10th_Scale_Sensored_Brushless_Car_ESC_ROAR_BRCA_approved_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$69.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:52:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__33973__Trackstar_GenII_120A_1_10th_Scale_Sensored_Brushless_Car_ESC_ROAR_BRCA_approved_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$74.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52308"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$70.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52343"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$72.19",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52745"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$76.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67253"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$72.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72316"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

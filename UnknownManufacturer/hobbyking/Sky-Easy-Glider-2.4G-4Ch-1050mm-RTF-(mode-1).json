@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sky Easy Glider 2.4G 4Ch 1050mm RTF (mode 1)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__31674__Sky_Easy_Glider_2_4G_4Ch_1050mm_RTF_mode_1_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$91.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:41:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__31674__Sky_Easy_Glider_2_4G_4Ch_1050mm_RTF_mode_1_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

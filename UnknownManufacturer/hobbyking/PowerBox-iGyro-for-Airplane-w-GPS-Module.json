@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "PowerBox iGyro for Airplane w/GPS Module",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__65574__PowerBox_iGyro_for_Airplane_w_GPS_Module.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$529.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:56:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__65574__PowerBox_iGyro_for_Airplane_w_GPS_Module.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

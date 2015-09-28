@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-306G Ultra Fast/High Torque DS/MG Alloy Cased Servo 3kg / .06sec /",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71554",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38768",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38578",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36319",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34459"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$23.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22687__Turnigy_8482_TGY_306G_Ultra_Fast_High_Torque_DS_MG_Alloy_Cased_Servo_3kg_06sec_21g.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$23.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34459"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$23.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36319"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$23.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38578"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$23.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38768"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$23.83",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71554"
+  }
+ ],
+ "version": 2,
+ "weight": "21"
 }

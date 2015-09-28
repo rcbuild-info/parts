@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Trainstar Tough Electric Trainer 1.4m Ready To Fly (RTF) (Mode1)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__29647__Trainstar_Tough_Electric_Trainer_1_4m_Ready_To_Fly_RTF_Mode1_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$123.99",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:53:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__29647__Trainstar_Tough_Electric_Trainer_1_4m_Ready_To_Fly_RTF_Mode1_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

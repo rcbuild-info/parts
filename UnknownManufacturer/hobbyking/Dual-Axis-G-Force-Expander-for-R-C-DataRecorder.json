@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dual Axis G-Force Expander for R/C DataRecorder",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__4649__Dual_Axis_G_Force_Expander_for_R_C_DataRecorder.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:24:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__4649__Dual_Axis_G_Force_Expander_for_R_C_DataRecorder.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

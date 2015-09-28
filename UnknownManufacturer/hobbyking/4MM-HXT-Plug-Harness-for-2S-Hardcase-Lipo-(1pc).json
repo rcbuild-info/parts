@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4MM HXT Plug Harness for 2S Hardcase Lipo (1pc)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60767",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57472",
-   "http://www.hobbyking.com/hobbyking/store/__44710__4MM_HXT_Plug_Harness_for_2S_Hardcase_Lipo_1pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:07:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__44710__4MM_HXT_Plug_Harness_for_2S_Hardcase_Lipo_1pc_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57472"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$3.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60767"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

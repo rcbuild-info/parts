@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Super 3D flatform EPO R/C Plane w/ ESC and Brushless Motor",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63161",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55054",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40769",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31695",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30742",
-   "http://www.hobbyking.com/hobbyking/store/__11339__Super_3D_flatform_EPO_R_C_Plane_w_ESC_and_Brushless_Motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$38.87",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:10:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11339__Super_3D_flatform_EPO_R_C_Plane_w_ESC_and_Brushless_Motor.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$41.59",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30742"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$43.38",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31695"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$41.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40769"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$46.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55054"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$41.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:09:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63161"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

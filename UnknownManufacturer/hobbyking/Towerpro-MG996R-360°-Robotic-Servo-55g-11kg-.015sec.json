@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Towerpro MG996R 360\u00b0 Robotic Servo 55g/11kg/.015sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__84368__Towerpro_MG996R_360_Robotic_Servo_55g_11kg_015sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.69",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:15:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__84368__Towerpro_MG996R_360_Robotic_Servo_55g_11kg_015sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "55"
 }

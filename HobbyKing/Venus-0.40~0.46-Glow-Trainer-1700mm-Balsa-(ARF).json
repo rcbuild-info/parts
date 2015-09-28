@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Venus 0.40~0.46 Glow Trainer 1700mm Balsa (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69814",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30585",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28218",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27839",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26026",
-   "http://www.hobbyking.com/hobbyking/store/__20973__HobbyKing_174_8482_Venus_0_40_0_46_Glow_Trainer_1700mm_Balsa_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$74.75",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:54:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20973__HobbyKing_174_8482_Venus_0_40_0_46_Glow_Trainer_1700mm_Balsa_ARF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$93.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:54:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26026"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$86.23",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:54:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27839"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$87.49",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:54:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28218"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$94.02",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:53:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30585"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$158.57",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:53:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69814"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

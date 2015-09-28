@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Floater-Jet EPO with Motor (ARF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67956",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67079",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30447",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27093",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23987",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18916",
-   "http://www.hobbyking.com/hobbyking/store/__16568__Floater_Jet_EPO_with_Motor_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$48.98",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:37:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16568__Floater_Jet_EPO_with_Motor_ARF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$60.33",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:34:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18916"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$57.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:34:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23987"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$61.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:34:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27093"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$60.24",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:34:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30447"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$60.33",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:34:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67079"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$62.31",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:34:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67956"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

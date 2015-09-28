@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "SS Series 190-200A ESC (Opto only)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__64855__Hobbyking_8482_SS_Series_190_200A_ESC_Opto_only_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.88",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:45:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__64855__Hobbyking_8482_SS_Series_190_200A_ESC_Opto_only_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

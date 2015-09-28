@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Super Brain 40A Brushless ESC",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45886",
-   "http://www.hobbyking.com/hobbyking/store/__10941__Turnigy_Super_Brain_40A_Brushless_ESC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:41:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10941__Turnigy_Super_Brain_40A_Brushless_ESC.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$34.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:40:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45886"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

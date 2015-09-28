@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HK-450 Main rotor head assemply upgrade. (4MM FS)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__9790__HK_450_Main_rotor_head_assemply_upgrade_4MM_FS_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9790__HK_450_Main_rotor_head_assemply_upgrade_4MM_FS_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

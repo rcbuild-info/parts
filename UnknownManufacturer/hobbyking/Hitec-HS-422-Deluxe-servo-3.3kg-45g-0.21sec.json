@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hitec HS-422 Deluxe servo 3.3kg/45g/0.21sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__9812__Hitec_HS_422_Deluxe_servo_3_3kg_45g_0_21sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$14.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9812__Hitec_HS_422_Deluxe_servo_3_3kg_45g_0_21sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "45"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Bixler\u00ae 2 EPO 1500mm w/Optional Flaps (KIT)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67981",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65193",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32541",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31165",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31048",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29822",
-   "http://www.hobbyking.com/hobbyking/store/__27169__HobbyKing_174_Bixler_174_2_EPO_1500mm_w_Optional_Flaps_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$47.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__27169__HobbyKing_174_Bixler_174_2_EPO_1500mm_w_Optional_Flaps_KIT_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$56.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29822"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$69.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31048"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$57.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31165"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$59.44",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32541"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$69.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65193"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$60.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67981"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

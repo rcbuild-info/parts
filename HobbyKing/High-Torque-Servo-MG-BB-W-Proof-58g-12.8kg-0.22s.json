@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "High Torque Servo MG/BB W/Proof 58g/12.8kg/0.22s",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70191",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69456",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54625",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51179",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42835",
-   "http://www.hobbyking.com/hobbyking/store/__28972__HobbyKing_8482_High_Torque_Servo_MG_BB_W_Proof_58g_12_8kg_0_22s.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28972__HobbyKing_8482_High_Torque_Servo_MG_BB_W_Proof_58g_12_8kg_0_22s.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$8.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:30:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42835"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$8.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:30:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51179"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$8.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:30:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54625"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$8.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:30:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69456"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$10.45",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:30:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70191"
+  }
+ ],
+ "version": 2,
+ "weight": "58"
 }

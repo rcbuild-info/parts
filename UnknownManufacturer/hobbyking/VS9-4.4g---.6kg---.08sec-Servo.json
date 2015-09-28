@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "VS9 4.4g / .6kg / .08sec Servo",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__2151__VS9_4_4g_6kg_08sec_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__2151__VS9_4_4g_6kg_08sec_Servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": "4.4"
 }

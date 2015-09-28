@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Fury 3D Aerobatic EPP Airplane w/Motor 800mm (ARF)",
@@ -7,13 +7,61 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68911",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55832",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54438",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51675",
-   "http://www.hobbyking.com/hobbyking/store/__42245__HobbyKing_Fury_3D_Aerobatic_EPP_Airplane_w_Motor_800mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$55.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:00:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42245__HobbyKing_174_8482_Fury_3D_Aerobatic_EPP_Airplane_w_Motor_800mm_ARF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__42245__HobbyKing_Fury_3D_Aerobatic_EPP_Airplane_w_Motor_800mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$63.84",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:00:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51675"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$61.73",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:00:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54438"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$61.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:00:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55832"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$61.73",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:00:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67817"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$78.00",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 04:00:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68911"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

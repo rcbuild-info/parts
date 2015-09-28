@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "4500mAh 6S2P 30C LiFePo4 Pack",
@@ -7,14 +7,53 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59939",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59004",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36014",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17823",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14690",
-   "http://www.hobbyking.com/hobbyking/store/__10311__Turnigy_4500mAh_6S2P_30C_LiFePo4_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:26:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10311__Turnigy_4500mAh_6S2P_30C_LiFePo4_Pack.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:26:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14690"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:26:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17823"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36014"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:26:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59004"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:26:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59939"
+  }
+ ],
+ "version": 2,
+ "weight": "899"
 }

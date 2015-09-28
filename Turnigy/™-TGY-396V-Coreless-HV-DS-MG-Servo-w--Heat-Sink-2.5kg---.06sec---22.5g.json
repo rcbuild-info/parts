@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-396V Coreless HV/DS/MG Servo w/ Heat Sink 2.5kg / .06sec / 22.5g",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70504",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30900",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29339",
-   "http://www.hobbyking.com/hobbyking/store/__23472__Turnigy_8482_TGY_396V_Coreless_HV_DS_MG_Servo_w_Heat_Sink_2_5kg_06sec_22_5g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$21.70",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 00:21:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23472__Turnigy_8482_TGY_396V_Coreless_HV_DS_MG_Servo_w_Heat_Sink_2_5kg_06sec_22_5g.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$22.45",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:21:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29339"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$22.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:21:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30900"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$22.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:21:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70504"
+  }
+ ],
+ "version": 2,
+ "weight": "22.5"
 }

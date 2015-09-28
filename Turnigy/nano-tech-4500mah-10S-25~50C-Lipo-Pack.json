@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 4500mah 10S 25~50C Lipo Pack",
@@ -7,11 +9,24 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35488",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32663",
-   "http://www.hobbyking.com/hobbyking/store/__20550__Turnigy_nano_tech_4500mah_10S_25_50C_Lipo_Pack_US_Warehouse_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "USA West Warehouse",
+   "price": "$99.58",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:06:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20550__Turnigy_nano_tech_4500mah_10S_25_50C_Lipo_Pack_US_Warehouse_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32663"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35488"
+  }
+ ],
+ "version": 2,
+ "weight": "1157"
 }

@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 3000mAh 2S1P 20~40C LiFePo4 Receiver Pack",
@@ -7,15 +9,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60260",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59298",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35583",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34384",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33276",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32568",
-   "http://www.hobbyking.com/hobbyking/store/__23826__Turnigy_nano_tech_3000mAh_2S1P_20_40C_LiFePo4_Receiver_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:10:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23826__Turnigy_nano_tech_3000mAh_2S1P_20_40C_LiFePo4_Receiver_Pack.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$19.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:09:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32568"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$20.09",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:09:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33276"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$20.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:09:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34384"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$19.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:09:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35583"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$20.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:09:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59298"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$23.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:09:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60260"
+  }
+ ],
+ "version": 2,
+ "weight": "167"
 }

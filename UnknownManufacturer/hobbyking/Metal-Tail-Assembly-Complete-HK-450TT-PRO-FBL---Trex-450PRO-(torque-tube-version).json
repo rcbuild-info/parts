@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Metal Tail Assembly Complete HK-450TT PRO FBL / Trex 450PRO (torque tube version)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__23934__Metal_Tail_Assembly_Complete_HK_450TT_PRO_FBL_Trex_450PRO_torque_tube_version_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$17.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:26:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23934__Metal_Tail_Assembly_Complete_HK_450TT_PRO_FBL_Trex_450PRO_torque_tube_version_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

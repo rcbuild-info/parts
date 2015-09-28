@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Power HD Metal Gear Servo 60g/12.2kg/.16sec",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71698",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38029",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36725",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36559",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36272",
-   "http://www.hobbyking.com/hobbyking/store/__9618__Power_HD_Metal_Gear_Servo_60g_12_2kg_16sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$11.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:26:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9618__Power_HD_Metal_Gear_Servo_60g_12_2kg_16sec.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$12.50",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:25:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36272"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$12.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36559"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$11.91",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36725"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$12.57",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38029"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$11.91",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71698"
+  }
+ ],
+ "version": 2,
+ "weight": "60"
 }

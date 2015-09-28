@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "G110 Brushless Outrunner 295kv (1.10 Glow)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70666",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46824",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34441",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23368",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23307",
-   "http://www.hobbyking.com/hobbyking/store/__14407__Turnigy_G110_Brushless_Outrunner_295kv_1_10_Glow_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$69.62",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 01:28:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14407__Turnigy_G110_Brushless_Outrunner_295kv_1_10_Glow_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$74.61",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 01:26:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23307"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$75.01",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 01:26:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23368"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$75.09",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:26:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34441"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$73.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:26:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46824"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$74.61",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:26:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70666"
+  }
+ ],
+ "version": 2,
+ "weight": "485"
 }

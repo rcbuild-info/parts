@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-BLS805MG HV/DS/MG Servo w/Alloy Case (760us PWM) 7.5kg / .039sec / 68g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__50470__Turnigy_8482_TGY_BLS805MG_HV_DS_MG_Servo_w_Alloy_Case_760us_PWM_7_5kg_039sec_68g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$62.02",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:11:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__50470__Turnigy_8482_TGY_BLS805MG_HV_DS_MG_Servo_w_Alloy_Case_760us_PWM_7_5kg_039sec_68g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "68"
 }

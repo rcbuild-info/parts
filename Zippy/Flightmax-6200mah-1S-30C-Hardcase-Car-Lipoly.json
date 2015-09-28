@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "Flightmax 6200mah 1S 30C Hardcase Car Lipoly",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__19635__ZIPPY_Flightmax_6200mah_1S_30C_Hardcase_Car_Lipoly.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:31:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19635__ZIPPY_Flightmax_6200mah_1S_30C_Hardcase_Car_Lipoly.html"
+  }
+ ],
+ "version": 2,
+ "weight": "179"
 }

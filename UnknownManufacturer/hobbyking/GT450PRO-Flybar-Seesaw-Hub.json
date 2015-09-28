@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO Flybar Seesaw Hub",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11533__GT450PRO_Flybar_Seesaw_Hub.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.00",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Sun, 27 Sep 2015 23:26:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11533__GT450PRO_Flybar_Seesaw_Hub.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

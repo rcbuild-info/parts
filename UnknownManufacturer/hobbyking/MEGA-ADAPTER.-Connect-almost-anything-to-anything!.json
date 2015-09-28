@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MEGA-ADAPTER. Connect almost anything to anything!",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68281",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65310",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43762",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31457",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30940",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17477",
-   "http://www.hobbyking.com/hobbyking/store/__11756__MEGA_ADAPTER_Connect_almost_anything_to_anything_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.70",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 00:06:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11756__MEGA_ADAPTER_Connect_almost_anything_to_anything_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$6.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17477"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$5.76",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30940"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31457"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$6.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43762"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$6.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65310"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$7.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68281"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

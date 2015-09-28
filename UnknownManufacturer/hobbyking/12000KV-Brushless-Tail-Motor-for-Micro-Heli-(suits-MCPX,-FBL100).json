@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "12000KV Brushless Tail Motor for Micro Heli (suits MCPX, FBL100)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60829",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57246",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52199",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51093",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46012",
-   "http://www.hobbyking.com/hobbyking/store/__25436__12000KV_Brushless_Tail_Motor_for_Micro_Heli_suits_MCPX_FBL100_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:43:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25436__12000KV_Brushless_Tail_Motor_for_Micro_Heli_suits_MCPX_FBL100_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$19.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46012"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$19.35",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 01:42:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51093"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$19.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52199"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$19.32",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 01:42:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57246"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$22.77",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60829"
+  }
+ ],
+ "version": 2,
+ "weight": "3.2"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MXS-R Aerobatic 3D Airplane 20CC Balsa 1625mm (ARF)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56571",
-   "http://www.hobbyking.com/hobbyking/store/__41642__MXS_R_Aerobatic_3D_Airplane_20CC_Balsa_1625mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$199.16",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:10:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__41642__MXS_R_Aerobatic_3D_Airplane_20CC_Balsa_1625mm_ARF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$266.29",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:08:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56571"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

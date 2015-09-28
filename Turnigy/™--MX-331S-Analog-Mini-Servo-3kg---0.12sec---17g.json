@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122  MX-331S Analog Mini Servo 3kg / 0.12sec / 17g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__47387__Turnigy_8482_MX_331S_Analog_Mini_Servo_3kg_0_12sec_17g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.76",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__47387__Turnigy_8482_MX_331S_Analog_Mini_Servo_3kg_0_12sec_17g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "17"
 }

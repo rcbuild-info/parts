@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skywalker 1900 FPV Glider EPO 1900mm (Kit)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68914",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67407",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65909",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63236",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57914",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55321",
-   "http://www.hobbyking.com/hobbyking/store/__45498__Skywalker_1900_FPV_Glider_EPO_1900mm_Kit_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$90.06",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45498__Skywalker_1900_FPV_Glider_EPO_1900mm_Kit_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$106.68",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55321"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$111.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57914"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$106.68",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63236"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$108.42",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65909"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$98.84",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67407"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$135.12",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:35:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68914"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

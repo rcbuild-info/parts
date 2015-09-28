@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-661DMGplusHS Super Fast Digital Servo (MG) 6.4kg / .08sec / 46.5g",
@@ -7,11 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64704",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43505",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30679"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$22.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9442__BMS_661DMG_HS_Super_Fast_Digital_Servo_MG_6_4kg_08sec_46_5g.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$23.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30679"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$23.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43505"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$23.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64704"
+  }
+ ],
+ "version": 2,
+ "weight": "46.5"
 }

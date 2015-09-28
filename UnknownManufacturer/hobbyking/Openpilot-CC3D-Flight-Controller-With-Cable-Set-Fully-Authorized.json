@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Openpilot CC3D Flight Controller With Cable Set Fully Authorized",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__65885__Openpilot_CC3D_Flight_Controller_With_Cable_Set_Fully_Authorized.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:56:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__65885__Openpilot_CC3D_Flight_Controller_With_Cable_Set_Fully_Authorized.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

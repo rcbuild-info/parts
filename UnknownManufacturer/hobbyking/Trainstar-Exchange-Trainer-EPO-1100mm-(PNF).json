@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Trainstar Exchange Trainer EPO 1100mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67999",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67847",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67401",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67227",
-   "http://www.hobbyking.com/hobbyking/store/__61393__Trainstar_Exchange_Trainer_EPO_1100mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$87.64",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:53:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__61393__Trainstar_Exchange_Trainer_EPO_1100mm_PNF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$112.88",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:53:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67227"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$110.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:53:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67401"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$94.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:53:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67847"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$132.03",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:53:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67999"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

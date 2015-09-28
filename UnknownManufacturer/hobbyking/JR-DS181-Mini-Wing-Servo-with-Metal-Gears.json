@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JR DS181 Mini Wing Servo with Metal Gears",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__42271__JR_DS181_Mini_Wing_Servo_with_Metal_Gears.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$46.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42271__JR_DS181_Mini_Wing_Servo_with_Metal_Gears.html"
+  }
+ ],
+ "version": 2,
+ "weight": "22"
 }

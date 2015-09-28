@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "TGY-SM-S4562H 180? Analogue Servo 5.3kg / 0.17sec / 44g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__41222__Turnigy_TGY_SM_S4562H_180_Analogue_Servo_5_3kg_0_17sec_44g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$14.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__41222__Turnigy_TGY_SM_S4562H_180_Analogue_Servo_5_3kg_0_17sec_44g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "44"
 }

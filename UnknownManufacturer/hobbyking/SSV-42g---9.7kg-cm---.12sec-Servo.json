@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SSV 42g / 9.7kg-cm / .12sec Servo",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__5426__SSV_42g_9_7kg_cm_12sec_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:23:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5426__SSV_42g_9_7kg_cm_12sec_Servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": "42"
 }

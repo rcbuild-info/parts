@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Multistar 15A V2 ESC With BLHeli and 2A LBEC 2-3S",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__65152__Turnigy_Multistar_15A_V2_ESC_With_BLHeli_and_2A_LBEC_2_3S.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.51",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__65152__Turnigy_Multistar_15A_V2_ESC_With_BLHeli_and_2A_LBEC_2_3S.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

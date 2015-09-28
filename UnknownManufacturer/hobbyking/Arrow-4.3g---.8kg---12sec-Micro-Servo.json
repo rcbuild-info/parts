@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Arrow 4.3g / .8kg / 12sec Micro Servo",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71605",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46263",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39479",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31547",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29316",
-   "http://www.hobbyking.com/hobbyking/store/__3724__Arrow_4_3g_8kg_12sec_Micro_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__3724__Arrow_4_3g_8kg_12sec_Micro_Servo.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29316"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31547"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.71",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39479"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.74",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:32:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46263"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.71",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71605"
+  }
+ ],
+ "version": 2,
+ "weight": "4.3"
 }

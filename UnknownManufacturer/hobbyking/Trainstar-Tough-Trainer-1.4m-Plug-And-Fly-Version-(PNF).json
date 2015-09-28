@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Trainstar Tough Trainer 1.4m Plug And Fly Version (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67986",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63202",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54351",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39848",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37626",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37286",
-   "http://www.hobbyking.com/hobbyking/store/__28384__Trainstar_Tough_Trainer_1_4m_Plug_And_Fly_Version_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$92.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:53:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28384__Trainstar_Tough_Trainer_1_4m_Plug_And_Fly_Version_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$116.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:53:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37286"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$104.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:53:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37626"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$110.14",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:53:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39848"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$104.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:53:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54351"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$104.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:53:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63202"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$111.42",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:53:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67986"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

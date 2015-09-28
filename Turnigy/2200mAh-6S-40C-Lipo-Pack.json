@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "2200mAh 6S 40C Lipo Pack",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59877",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58949",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16205",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14709",
-   "http://www.hobbyking.com/hobbyking/store/__10281__Turnigy_2200mAh_6S_40C_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$34.95",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 01:53:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10281__Turnigy_2200mAh_6S_40C_Lipo_Pack.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$39.43",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 01:50:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14709"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:50:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16205"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:50:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58949"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$44.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:50:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59877"
+  }
+ ],
+ "version": 2,
+ "weight": "373"
 }

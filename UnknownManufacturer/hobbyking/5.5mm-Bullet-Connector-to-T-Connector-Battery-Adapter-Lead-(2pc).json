@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5.5mm Bullet Connector to T-Connector Battery Adapter Lead (2pc)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__40039__5_5mm_Bullet_Connector_to_T_Connector_Battery_Adapter_Lead_2pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__40039__5_5mm_Bullet_Connector_to_T_Connector_Battery_Adapter_Lead_2pc_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

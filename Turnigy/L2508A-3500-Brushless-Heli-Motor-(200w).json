@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "L2508A-3500 Brushless Heli Motor (200w)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71746",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42436",
-   "http://www.hobbyking.com/hobbyking/store/__14741__Turnigy_L2508A_3500_Brushless_Heli_Motor_200w_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.25",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 01:34:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14741__Turnigy_L2508A_3500_Brushless_Heli_Motor_200w_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$9.45",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 01:34:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42436"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$9.59",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:34:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71746"
+  }
+ ],
+ "version": 2,
+ "weight": "31"
 }

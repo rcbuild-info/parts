@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "SS Series 15-18A ESC",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__6456__Hobbyking_SS_Series_15_18A_ESC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:54:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6456__Hobbyking_SS_Series_15_18A_ESC.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

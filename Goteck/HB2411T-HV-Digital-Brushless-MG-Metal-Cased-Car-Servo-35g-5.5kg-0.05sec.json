@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Goteck",
  "name": "HB2411T HV Digital Brushless MG Metal Cased Car Servo 35g/5.5kg/0.05sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__66990__Goteck_HB2411T_HV_Digital_Brushless_MG_Metal_Cased_Car_Servo_35g_5_5kg_0_05sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$41.18",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__66990__Goteck_HB2411T_HV_Digital_Brushless_MG_Metal_Cased_Car_Servo_35g_5_5kg_0_05sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "35"
 }

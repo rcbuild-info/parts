@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "T1000FC Auto Pilot System With GPS and Return To Home",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68984",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60485",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60403",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56404",
-   "http://www.hobbyking.com/hobbyking/store/__48219__Turnigy_T1000FC_Auto_Pilot_System_With_GPS_and_Return_To_Home.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$70.14",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:56:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__48219__Turnigy_T1000FC_Auto_Pilot_System_With_GPS_and_Return_To_Home.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$74.76",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:55:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56404"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$75.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:55:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60403"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$70.64",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:55:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60485"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$91.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:46:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68984"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

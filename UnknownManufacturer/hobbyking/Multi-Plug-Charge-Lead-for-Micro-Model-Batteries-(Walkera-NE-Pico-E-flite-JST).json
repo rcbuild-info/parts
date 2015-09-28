@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Multi-Plug Charge Lead for Micro Model Batteries (Walkera/NE/Pico/E-flite/JST)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72128",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57257",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53674",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51215",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43876",
-   "http://www.hobbyking.com/hobbyking/store/__34078__Multi_Plug_Charge_Lead_for_Micro_Model_Batteries_Walkera_NE_Pico_E_flite_JST_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__34078__Multi_Plug_Charge_Lead_for_Micro_Model_Batteries_Walkera_NE_Pico_E_flite_JST_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.22",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:58:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43876"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 01:58:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51215"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.29",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:58:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53674"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.27",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:58:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57257"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:58:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72128"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

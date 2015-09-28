@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-1715 HV Coreless Digital MG Servo (7.4V High Voltage) 66g / 0.15sec / 28.2 kgs",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__16240__BMS_1715_HV_Coreless_Digital_MG_Servo_7_4V_High_Voltage_66g_0_15sec_28_2_kgs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$51.74",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:14:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16240__BMS_1715_HV_Coreless_Digital_MG_Servo_7_4V_High_Voltage_66g_0_15sec_28_2_kgs.html"
+  }
+ ],
+ "version": 2,
+ "weight": "66"
 }

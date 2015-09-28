@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SM-S8330M Heavy Duty Servo 137g / 30kg / .22 sec",
@@ -7,9 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63274"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:26:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__21821__SM_S8330M_137g_30kg_22_sec.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$20.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:26:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54656"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$20.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:26:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63274"
+  }
+ ],
+ "version": 2,
+ "weight": "137"
 }

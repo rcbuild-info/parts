@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XT60 to 2 x DC Jack Converter (1pc)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__55429__XT60_to_2_x_DC_Jack_Converter_1pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__55429__XT60_to_2_x_DC_Jack_Converter_1pc_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

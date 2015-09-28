@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4mm Male/Female Bullet Brushless Motor Extension Lead 250mm",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64762",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46524",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45754",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43869",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43436",
-   "http://www.hobbyking.com/hobbyking/store/__27068__4mm_Male_Female_Bullet_Brushless_Motor_Extension_Lead_250mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:07:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__27068__4mm_Male_Female_Bullet_Brushless_Motor_Extension_Lead_250mm.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43436"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.32",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:06:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43869"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45754"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.59",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46524"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.32",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64762"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

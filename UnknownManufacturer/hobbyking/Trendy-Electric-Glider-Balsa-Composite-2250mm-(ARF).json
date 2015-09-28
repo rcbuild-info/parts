@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Trendy Electric Glider Balsa/Composite 2250mm (ARF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72534",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68947",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68787",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56569",
-   "http://www.hobbyking.com/hobbyking/store/__40284__Trendy_Electric_Glider_Balsa_Composite_2250mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$122.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__40284__Trendy_Electric_Glider_Balsa_Composite_2250mm_ARF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$140.41",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:35:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56569"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$137.83",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68787"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$167.92",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:35:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68947"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$143.79",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:35:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72534"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

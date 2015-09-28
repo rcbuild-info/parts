@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MPX Connector Male/Female (10pairs/set)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64366",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45495",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44732",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43719",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26113",
-   "http://www.hobbyking.com/hobbyking/store/__9638__MPX_Connector_Male_Female_10pairs_set_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9638__MPX_Connector_Male_Female_10pairs_set_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$4.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26113"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$4.59",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:04:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43719"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$4.63",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44732"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.63",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:04:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45495"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.59",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:04:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64366"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

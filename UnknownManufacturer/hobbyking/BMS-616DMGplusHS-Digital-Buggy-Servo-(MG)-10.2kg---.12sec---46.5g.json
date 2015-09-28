@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-616DMGplusHS Digital Buggy Servo (MG) 10.2kg / .12sec / 46.5g",
@@ -7,12 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64705",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47516",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36267",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29594"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$21.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9443__BMS_616DMG_HS_Digital_Buggy_Servo_MG_10_2kg_12sec_46_5g.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$22.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29594"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$22.25",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:12:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33319"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$22.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36267"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$22.85",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:12:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47516"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$26.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60602"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$22.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64705"
+  }
+ ],
+ "version": 2,
+ "weight": "46.5"
 }

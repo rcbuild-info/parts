@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EPO 182 light aircraft With LED Lighting (RTF) (Mode 2)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__16659__EPO_182_light_aircraft_With_LED_Lighting_RTF_Mode_2_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$134.77",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:54:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16659__EPO_182_light_aircraft_With_LED_Lighting_RTF_Mode_2_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Matrix EPP F3P 3D Plane 830mm (ARF w/motor)",
@@ -7,13 +7,53 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66346",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63319",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24411",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23807",
-   "http://www.hobbyking.com/hobbyking/store/__20352__HobbyKing_Matrix_EPP_F3P_3D_Plane_830mm_ARF_w_motor_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$38.50",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:59:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20352__HobbyKing_174_8482_Matrix_EPP_F3P_3D_Plane_830mm_ARF_w_motor_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__20352__HobbyKing_Matrix_EPP_F3P_3D_Plane_830mm_ARF_w_motor_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$50.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:59:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23807"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$49.00",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:59:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24411"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$52.47",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:59:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63319"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$50.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:59:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66346"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

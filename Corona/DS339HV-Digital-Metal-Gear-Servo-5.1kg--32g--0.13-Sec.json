@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "DS339HV Digital Metal Gear Servo 5.1kg/ 32g/ 0.13 Sec",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63492",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48553",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31554",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29318",
-   "http://www.hobbyking.com/hobbyking/store/__20575__Corona_DS339HV_Digital_Metal_Gear_Servo_5_1kg_32g_0_13_Sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20575__Corona_DS339HV_Digital_Metal_Gear_Servo_5_1kg_32g_0_13_Sec.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$10.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:21:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29318"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$10.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:21:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31554"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$10.60",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:21:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48553"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$10.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:21:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63492"
+  }
+ ],
+ "version": 2,
+ "weight": "32"
 }

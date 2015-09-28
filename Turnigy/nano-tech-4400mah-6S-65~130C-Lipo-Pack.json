@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 4400mah 6S 65~130C Lipo Pack",
@@ -7,10 +9,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32762",
-   "http://www.hobbyking.com/hobbyking/store/__19148__Turnigy_nano_tech_4400mah_6S_65_130C_Lipo_Pack_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$102.70",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:04:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19148__Turnigy_nano_tech_4400mah_6S_65_130C_Lipo_Pack_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$99.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:01:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32762"
+  }
+ ],
+ "version": 2,
+ "weight": "763"
 }

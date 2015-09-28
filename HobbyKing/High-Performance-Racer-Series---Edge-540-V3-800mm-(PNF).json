@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "High Performance Racer Series - Edge 540 V3 800mm (PNF)",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63348",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63188",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44886",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30550",
-   "http://www.hobbyking.com/hobbyking/store/__22851__HobbyKing_174_8482_High_Performance_Racer_Series_Edge_540_V3_800mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$94.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:16:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22851__HobbyKing_174_8482_High_Performance_Racer_Series_Edge_540_V3_800mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$108.35",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:15:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30550"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$106.99",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:15:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39192"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$104.26",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:15:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44886"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$104.26",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:15:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63188"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$124.34",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:15:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63348"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

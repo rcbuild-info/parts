@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Cloud Dancer Trainer Balsa Laser Cut Airplane Kit 1300mm (KIT)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68943",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67805",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65385",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55829",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41992",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39068",
-   "http://www.hobbyking.com/hobbyking/store/__29301__Cloud_Dancer_Trainer_Balsa_Laser_Cut_Airplane_Kit_1300mm_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$31.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__29301__Cloud_Dancer_Trainer_Balsa_Laser_Cut_Airplane_Kit_1300mm_KIT_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$30.92",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:45:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39068"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$32.53",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41992"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$31.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55829"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$38.34",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:45:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65385"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$30.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67805"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$43.84",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:45:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68943"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

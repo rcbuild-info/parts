@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Multistar ESC Programming Card",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68294",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64416",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43918",
-   "http://www.hobbyking.com/hobbyking/store/__27135__Turnigy_Multistar_ESC_Programming_Card.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.24",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:54:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__27135__Turnigy_Multistar_ESC_Programming_Card.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$4.38",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43918"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.38",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:53:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64416"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$5.68",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68294"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

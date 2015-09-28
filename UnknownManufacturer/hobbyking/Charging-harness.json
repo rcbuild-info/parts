@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Charging harness",
@@ -7,14 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68296",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65293",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33326",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31465",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26203",
-   "http://www.hobbyking.com/hobbyking/store/__6697__Charging_harness.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6697__Charging_harness.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$4.73",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17475"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$4.26",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:00:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26203"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.89",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31465"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33326"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65293"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$4.69",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68296"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

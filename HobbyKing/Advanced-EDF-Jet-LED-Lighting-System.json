@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Advanced EDF Jet LED Lighting System",
@@ -7,11 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42974",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42017",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40686"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.20",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 04:14:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17865__HobbyKing_Advanced_EDF_Jet_LED_Lighting_System.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$12.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40686"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$14.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42017"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$13.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42974"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$12.74",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:13:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65558"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$12.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72278"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

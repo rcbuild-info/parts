@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Thrifty Pan & Tilt Mount set with Anti-Vibration for Mobius Camera",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__67546__Thrifty_Pan_Tilt_Mount_set_with_Anti_Vibration_for_Mobius_Camera.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__67546__Thrifty_Pan_Tilt_Mount_set_with_Anti_Vibration_for_Mobius_Camera.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

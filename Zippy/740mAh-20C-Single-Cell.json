@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "740mAh 20C Single Cell",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80799",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80798",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80797",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80796",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58522",
-   "http://www.hobbyking.com/hobbyking/store/__7573__ZIPPY_740mAh_20C_Single_Cell.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:42:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7573__ZIPPY_740mAh_20C_Single_Cell.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.17",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:40:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58522"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:40:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80796"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:40:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80797"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.59",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:40:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80798"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.17",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:40:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80799"
+  }
+ ],
+ "version": 2,
+ "weight": "20"
 }

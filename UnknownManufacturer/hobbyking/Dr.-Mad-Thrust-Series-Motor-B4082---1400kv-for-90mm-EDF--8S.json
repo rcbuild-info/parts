@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dr. Mad Thrust Series Motor B4082 - 1400kv for 90mm EDF /8S",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65414",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65121",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64520",
-   "http://www.hobbyking.com/hobbyking/store/__39831__Dr_Mad_Thrust_Series_Motor_B4082_1400kv_for_90mm_EDF_8S.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39831__Dr_Mad_Thrust_Series_Motor_B4082_1400kv_for_90mm_EDF_8S.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$82.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:40:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64520"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$79.63",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:40:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65121"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$84.35",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 01:40:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65414"
+  }
+ ],
+ "version": 2,
+ "weight": "446"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 MX-300S Standard Digital Servo 4.8kg / 0.14sec / 37g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__47390__Turnigy_8482_MX_300S_Standard_Digital_Servo_4_8kg_0_14sec_37g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.63",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:23:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__47390__Turnigy_8482_MX_300S_Standard_Digital_Servo_4_8kg_0_14sec_37g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "37"
 }

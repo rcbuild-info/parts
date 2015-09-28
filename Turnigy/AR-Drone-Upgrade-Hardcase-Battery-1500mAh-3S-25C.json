@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "AR Drone Upgrade Hardcase Battery 1500mAh 3S 25C",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68636",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68635",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68634",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68633",
-   "http://www.hobbyking.com/hobbyking/store/__68626__Turnigy_AR_Drone_Upgrade_Hardcase_Battery_1500mAh_3S_25C.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$14.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:20:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__68626__Turnigy_AR_Drone_Upgrade_Hardcase_Battery_1500mAh_3S_25C.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$15.36",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 02:19:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68633"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$15.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:19:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68634"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$15.42",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:19:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68635"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$15.42",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:19:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68636"
+  }
+ ],
+ "version": 2,
+ "weight": "20"
 }

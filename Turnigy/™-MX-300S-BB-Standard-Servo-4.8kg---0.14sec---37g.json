@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 MX-300S BB Standard Servo 4.8kg / 0.14sec / 37g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__47389__Turnigy_8482_MX_300S_BB_Standard_Servo_4_8kg_0_14sec_37g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__47389__Turnigy_8482_MX_300S_BB_Standard_Servo_4_8kg_0_14sec_37g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "37"
 }

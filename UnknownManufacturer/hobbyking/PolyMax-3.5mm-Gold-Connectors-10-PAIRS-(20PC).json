@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "PolyMax 3.5mm Gold Connectors 10 PAIRS (20PC)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68212",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64348",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47862",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40145",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36239",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30257",
-   "http://www.hobbyking.com/hobbyking/store/__68__PolyMax_3_5mm_Gold_Connectors_10_PAIRS_20PC_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.83",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__68__PolyMax_3_5mm_Gold_Connectors_10_PAIRS_20PC_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$2.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30257"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.06",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36239"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$2.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40145"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$1.97",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:59:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47862"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$1.97",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64348"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$2.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68212"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

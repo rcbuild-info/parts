@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "2700mAh 3S 20C Lipo Pack (Suitable for Quanum Nova, Phantom, QR X350)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80302",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80301",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80300",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80299",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80298",
-   "http://www.hobbyking.com/hobbyking/store/__56095__Turnigy_2700mAh_3S_20C_Lipo_Pack_Suitable_for_Quanum_Nova_Phantom_QR_X350_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:25:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__56095__Turnigy_2700mAh_3S_20C_Lipo_Pack_Suitable_for_Quanum_Nova_Phantom_QR_X350_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$18.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:24:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80298"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$19.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:24:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80299"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$19.29",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:24:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80300"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$18.97",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:24:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80301"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$18.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:24:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80302"
+  }
+ ],
+ "version": 2,
+ "weight": "198"
 }

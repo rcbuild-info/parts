@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Eagle Tree High G Gforce Micro Sensor (Stand Alone or E-Logger)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__19175__Eagle_Tree_High_G_Gforce_Micro_Sensor_Stand_Alone_or_E_Logger_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:23:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19175__Eagle_Tree_High_G_Gforce_Micro_Sensor_Stand_Alone_or_E_Logger_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

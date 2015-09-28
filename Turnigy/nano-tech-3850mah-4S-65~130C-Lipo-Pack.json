@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 3850mah 4S 65~130C Lipo Pack",
@@ -7,14 +9,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59206",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37504",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36214",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35136",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33246",
-   "http://www.hobbyking.com/hobbyking/store/__19140__Turnigy_nano_tech_3850mah_4S_65_130C_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$58.97",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:10:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19140__Turnigy_nano_tech_3850mah_4S_65_130C_Lipo_Pack.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$60.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:07:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33246"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$61.17",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:07:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35136"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$62.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:07:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36214"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$61.77",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:07:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37504"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$60.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:07:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59206"
+  }
+ ],
+ "version": 2,
+ "weight": "454"
 }

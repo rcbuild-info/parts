@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Fighter R/C Jet Grey EPO (KIT)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__14877__Fighter_R_C_Jet_Grey_EPO_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$37.44",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:14:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14877__Fighter_R_C_Jet_Grey_EPO_KIT_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

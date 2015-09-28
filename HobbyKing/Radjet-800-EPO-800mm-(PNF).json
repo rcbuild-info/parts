@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Radjet 800 EPO 800mm (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67775",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63370",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30556",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25064",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22508",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21832",
-   "http://www.hobbyking.com/hobbyking/store/__19690__Hobbyking_Radjet_800_EPO_800mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$57.40",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:49:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19690__Hobbyking_Radjet_800_EPO_800mm_PNF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$64.71",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:48:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21832"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$64.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:48:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22508"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$66.98",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:48:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25064"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$66.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:48:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30556"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$73.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:48:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63370"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$64.60",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:48:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67775"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Red Brick 80A Heli ESC",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__64844__HobbyKing_Red_Brick_80A_Heli_ESC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:50:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__64844__HobbyKing_Red_Brick_80A_Heli_ESC.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

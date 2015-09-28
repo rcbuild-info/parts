@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HXT 6mm Sprung Gold Connectors (10pair/20pc)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71594",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60585",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47634",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43704",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43143",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26215",
-   "http://www.hobbyking.com/hobbyking/store/__5281__HXT_6mm_Sprung_Gold_Connectors_10pair_20pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:03:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5281__HXT_6mm_Sprung_Gold_Connectors_10pair_20pc_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:01:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26215"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:01:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43143"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$6.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:01:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43704"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$5.75",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:01:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47634"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$7.22",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:01:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60585"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$6.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:01:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71594"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

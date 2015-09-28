@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Arkbird Autopilot Upgrade 2~6S Power Supply 12.6V@1.0A Output",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__52442__Arkbird_Autopilot_Upgrade_2_6S_Power_Supply_12_6V_1_0A_Output.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$22.70",
+   "stock_state": "backordered",
+   "timestamp": "Mon, 28 Sep 2015 03:56:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__52442__Arkbird_Autopilot_Upgrade_2_6S_Power_Supply_12_6V_1_0A_Output.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "35A Sensored/Sensorless Car ESC (1:10/1:12)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71711",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69733",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45155",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42459",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41748",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30285",
-   "http://www.hobbyking.com/hobbyking/store/__17228__HobbyKing_35A_Sensored_Sensorless_Car_ESC_1_10_1_12_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$23.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:52:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17228__HobbyKing_35A_Sensored_Sensorless_Car_ESC_1_10_1_12_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$24.60",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:51:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30285"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$25.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41748"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$24.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42459"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$27.35",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:51:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45155"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$32.59",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:51:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69733"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$24.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71711"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

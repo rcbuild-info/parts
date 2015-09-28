@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Fidget Funfly Aerobatic EPP Airplane w/Motor 840mm (ARF)",
@@ -7,12 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63290",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41997",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40900",
-   "http://www.hobbyking.com/hobbyking/store/__36753__HobbyKing_Fidget_Funfly_Aerobatic_EPP_Airplane_w_Motor_840mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$54.99",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:01:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__36753__HobbyKing_Fidget_Funfly_Aerobatic_EPP_Airplane_w_Motor_840mm_ARF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$64.82",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:00:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40900"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$59.98",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:00:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41939"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$81.13",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:00:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41997"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$73.96",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 04:00:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63290"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

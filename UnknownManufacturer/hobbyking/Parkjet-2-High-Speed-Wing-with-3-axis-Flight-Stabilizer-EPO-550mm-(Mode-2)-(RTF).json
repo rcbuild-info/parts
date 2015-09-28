@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Parkjet 2 High Speed Wing with 3-axis Flight Stabilizer EPO 550mm (Mode 2) (RTF)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__13763__Parkjet_2_High_Speed_Wing_with_3_axis_Flight_Stabilizer_EPO_550mm_Mode_2_RTF_.html",
-   "http://www.hobbyking.com/hobbyking/store/__36677__Parkjet_2_High_Speed_Wing_with_3_axis_Flight_Stabilizer_EPO_550mm_Mode_2_RTF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$54.60",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:24:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__13763__Parkjet_2_High_Speed_Wing_with_3_axis_Flight_Stabilizer_EPO_550mm_Mode_2_RTF_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$82.22",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:00:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__36677__Parkjet_2_High_Speed_Wing_with_3_axis_Flight_Stabilizer_EPO_550mm_Mode_2_RTF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

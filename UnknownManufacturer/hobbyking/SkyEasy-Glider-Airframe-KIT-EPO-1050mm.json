@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SkyEasy Glider Airframe KIT EPO 1050mm",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68942",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43061",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37237",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35414",
-   "http://www.hobbyking.com/hobbyking/store/__28701__SkyEasy_Glider_Airframe_KIT_EPO_1050mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$35.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28701__SkyEasy_Glider_Airframe_KIT_EPO_1050mm.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$47.99",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:35:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35414"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$45.10",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:35:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37237"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$46.57",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:35:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43061"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$57.77",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:35:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68942"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

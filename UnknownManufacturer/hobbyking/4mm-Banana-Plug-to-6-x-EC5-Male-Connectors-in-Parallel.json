@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4mm Banana Plug to 6 x EC5 Male Connectors in Parallel",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__14853__4mm_Banana_Plug_to_6_x_EC5_Male_Connectors_in_Parallel.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14853__4mm_Banana_Plug_to_6_x_EC5_Male_Connectors_in_Parallel.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

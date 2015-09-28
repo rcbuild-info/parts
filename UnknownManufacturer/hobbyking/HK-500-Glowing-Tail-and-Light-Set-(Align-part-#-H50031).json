@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HK-500 Glowing Tail and Light Set (Align part # H50031)",
@@ -7,14 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__30929__HK_500_Glowing_Tail_and_Light_Set_Align_part_H50031_US_Warehouse_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70746",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39927",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30929",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27875",
-   "http://www.hobbyking.com/hobbyking/store/__10979__HK_500_Glowing_Tail_and_Light_Set_Align_part_H50031_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:22:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10979__HK_500_Glowing_Tail_and_Light_Set_Align_part_H50031_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:21:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__30929__HK_500_Glowing_Tail_and_Light_Set_Align_part_H50031_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:21:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=10979"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:21:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27875"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:22:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30929"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.06",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:21:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39927"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:21:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70746"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

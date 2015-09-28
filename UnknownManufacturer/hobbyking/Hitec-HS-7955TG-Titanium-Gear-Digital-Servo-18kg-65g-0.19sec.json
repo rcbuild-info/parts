@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hitec HS-7955TG Titanium Gear Digital Servo 18kg/65g/0.19sec",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60618",
-   "http://www.hobbyking.com/hobbyking/store/__9809__Hitec_HS_7955TG_Titanium_Gear_Digital_Servo_18kg_65g_0_19sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$93.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9809__Hitec_HS_7955TG_Titanium_Gear_Digital_Servo_18kg_65g_0_19sec.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$112.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:10:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60618"
+  }
+ ],
+ "version": 2,
+ "weight": "65"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SkyFun Jet (Kit Only)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67955",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67083",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42377",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36736",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36396",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30739",
-   "http://www.hobbyking.com/hobbyking/store/__16337__SkyFun_Jet_Kit_Only_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$42.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:00:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16337__SkyFun_Jet_Kit_Only_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$55.99",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:59:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30739"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$55.01",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:59:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36396"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$55.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:59:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36736"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$58.73",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:59:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42377"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$58.73",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:59:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67083"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$59.87",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:59:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67955"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

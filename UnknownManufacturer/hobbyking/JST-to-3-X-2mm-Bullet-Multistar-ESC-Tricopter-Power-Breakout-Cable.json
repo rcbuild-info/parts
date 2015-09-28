@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JST to 3 X 2mm Bullet Multistar ESC Tricopter Power Breakout Cable",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__25476__JST_to_3_X_2mm_Bullet_Multistar_ESC_Tricopter_Power_Breakout_Cable.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:07:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25476__JST_to_3_X_2mm_Bullet_Multistar_ESC_Tricopter_Power_Breakout_Cable.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

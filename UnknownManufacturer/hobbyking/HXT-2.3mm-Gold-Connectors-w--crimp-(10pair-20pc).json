@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HXT 2.3mm Gold Connectors w/ crimp (10pair/20pc)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60720",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57441",
-   "http://www.hobbyking.com/hobbyking/store/__5282__HXT_2_3mm_Gold_Connectors_w_crimp_10pair_20pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5282__HXT_2_3mm_Gold_Connectors_w_crimp_10pair_20pc_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57441"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$5.51",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60720"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

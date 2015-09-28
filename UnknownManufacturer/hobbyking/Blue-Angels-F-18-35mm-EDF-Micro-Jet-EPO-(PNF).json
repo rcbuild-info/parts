@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Blue Angels F-18 35mm EDF Micro Jet EPO (PNF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__18878__Blue_Angels_F_18_35mm_EDF_Micro_Jet_EPO_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$60.45",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:59:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18878__Blue_Angels_F_18_35mm_EDF_Micro_Jet_EPO_PNF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

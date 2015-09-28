@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sbach 342 (Orange) EPO 1400mm (PNF)",
@@ -7,13 +7,40 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67965",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32384",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32307",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23585",
-   "http://www.hobbyking.com/hobbyking/store/__20703__Sbach_342_Orange_EPO_1400mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$136.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:10:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20703__Sbach_342_Orange_EPO_1400mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$170.05",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:08:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23585"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32307"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32384"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$173.43",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:08:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67965"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

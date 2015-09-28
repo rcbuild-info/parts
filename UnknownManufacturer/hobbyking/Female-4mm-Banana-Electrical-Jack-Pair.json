@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Female 4mm Banana Electrical Jack Pair",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69992",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64422",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46522",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45753",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42628",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42601",
-   "http://www.hobbyking.com/hobbyking/store/__31922__Female_4mm_Banana_Electrical_Jack_Pair.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:06:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__31922__Female_4mm_Banana_Electrical_Jack_Pair.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$1.27",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:05:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42601"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$1.27",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:05:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42628"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$0.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:05:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45753"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$1.27",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:04:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46522"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$1.27",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:04:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64422"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$1.53",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 02:04:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69992"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

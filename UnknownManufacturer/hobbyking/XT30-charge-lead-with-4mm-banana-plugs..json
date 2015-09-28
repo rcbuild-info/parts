@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XT30 charge lead with 4mm banana plugs.",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74600",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74599",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74598",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74597",
-   "http://www.hobbyking.com/hobbyking/store/__74596__XT30_charge_lead_with_4mm_banana_plugs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.91",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__74596__XT30_charge_lead_with_4mm_banana_plugs_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74597"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74598"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$2.13",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74599"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$2.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74600"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

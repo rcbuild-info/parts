@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini DLG Composite 1000mm (PNF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72535",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67820",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54724",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54659",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54396",
-   "http://www.hobbyking.com/hobbyking/store/__44321__Mini_DLG_Composite_1000mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$171.08",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:37:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__44321__Mini_DLG_Composite_1000mm_PNF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$175.05",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:34:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54396"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$187.25",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:34:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54659"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$193.98",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:34:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54724"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$187.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:34:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67820"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$201.17",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:34:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72535"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

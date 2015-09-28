@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech A-SPEC G2 1300mah 3S 60~90C Lipo Pack",
@@ -7,11 +9,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80292",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80290",
-   "http://www.hobbyking.com/hobbyking/store/__80287__Turnigy_nano_tech_A_SPEC_G2_1300mah_3S_60_90C_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$23.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:15:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__80287__Turnigy_nano_tech_A_SPEC_G2_1300mah_3S_60_90C_Lipo_Pack.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$24.03",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:15:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80288"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$22.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:15:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80289"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$22.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:15:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80290"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$24.03",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:15:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80292"
+  }
+ ],
+ "version": 2,
+ "weight": "119"
 }

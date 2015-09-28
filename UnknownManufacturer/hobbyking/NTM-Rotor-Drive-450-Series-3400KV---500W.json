@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "NTM Rotor Drive 450 Series 3400KV / 500W",
@@ -7,14 +7,53 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70560",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36433",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35727",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35677",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31655",
-   "http://www.hobbyking.com/hobbyking/store/__24434__NTM_Rotor_Drive_450_Series_3400KV_500W.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:43:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24434__NTM_Rotor_Drive_450_Series_3400KV_500W.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$23.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31655"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$22.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35677"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$22.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35727"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$23.55",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 01:42:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36433"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70560"
+  }
+ ],
+ "version": 2,
+ "weight": "96"
 }

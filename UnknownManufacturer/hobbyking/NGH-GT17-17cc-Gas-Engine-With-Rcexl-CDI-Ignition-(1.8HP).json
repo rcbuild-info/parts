@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "NGH GT17 17cc Gas Engine With Rcexl CDI Ignition (1.8HP)",
@@ -7,13 +7,49 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73113",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64175",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62579",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53652",
-   "http://www.hobbyking.com/hobbyking/store/__51471__NGH_GT17_17cc_Gas_Engine_With_Rcexl_CDI_Ignition_1_8HP_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$179.90",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:09:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51471__NGH_GT17_17cc_Gas_Engine_With_Rcexl_CDI_Ignition_1_8HP_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$179.90",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:08:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53652"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$179.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:08:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62579"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$170.91",
+   "stock_state": "backordered",
+   "timestamp": "Mon, 28 Sep 2015 00:08:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64175"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$179.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:08:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73113"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Programmable Lipo Battery Warmer Bag (12v DC)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72277",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68093",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56472",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56256",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44543",
-   "http://www.hobbyking.com/hobbyking/store/__33990__Turnigy_Programmable_Lipo_Battery_Warmer_Bag_12v_DC_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$16.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:13:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__33990__Turnigy_Programmable_Lipo_Battery_Warmer_Bag_12v_DC_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$16.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:12:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44543"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$15.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:12:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56256"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$16.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:12:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56472"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$19.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:12:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68093"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$15.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:12:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72277"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

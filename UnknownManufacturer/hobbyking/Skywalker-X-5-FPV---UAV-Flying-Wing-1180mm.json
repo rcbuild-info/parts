@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skywalker X-5 FPV / UAV Flying Wing 1180mm",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67980",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63197",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34052",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32425",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32086",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30833",
-   "http://www.hobbyking.com/hobbyking/store/__27131__Skywalker_X_5_FPV_UAV_Flying_Wing_1180mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$44.99",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:41:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__27131__Skywalker_X_5_FPV_UAV_Flying_Wing_1180mm.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$73.03",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:39:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30833"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$67.61",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:39:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32086"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$65.40",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:39:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32425"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$66.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:39:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34052"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$73.03",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:39:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63197"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$75.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:39:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67980"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

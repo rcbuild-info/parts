@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dragonfly 1800 EP Composite Glider w/Motor 1800mm (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67985",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63201",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56874",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49796",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39914",
-   "http://www.hobbyking.com/hobbyking/store/__28233__Dragonfly_1800_EP_Composite_Glider_w_Motor_1800mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:41:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28233__Dragonfly_1800_EP_Composite_Glider_w_Motor_1800mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$107.24",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:40:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39914"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$108.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:40:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49796"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$98.05",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:40:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56874"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$97.02",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:40:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63201"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$104.69",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:40:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67985"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

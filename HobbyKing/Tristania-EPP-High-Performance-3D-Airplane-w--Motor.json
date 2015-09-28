@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Tristania-EPP High-Performance 3D Airplane w/ Motor",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32322",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31322",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17110",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16623",
-   "http://www.hobbyking.com/hobbyking/store/__11343__HobbyKing_174_8482_Tristania_EPP_High_Performance_3D_Airplane_w_Motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$39.65",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:59:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11343__HobbyKing_174_8482_Tristania_EPP_High_Performance_3D_Airplane_w_Motor.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$43.42",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:59:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16623"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$42.64",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:59:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17110"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$47.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:59:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31322"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$45.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:59:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32322"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$43.42",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:59:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67765"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

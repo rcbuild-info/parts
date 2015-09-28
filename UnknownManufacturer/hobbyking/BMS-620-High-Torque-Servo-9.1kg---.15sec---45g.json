@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-620 High Torque Servo 9.1kg / .15sec / 45g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__8775__BMS_620_High_Torque_Servo_9_1kg_15sec_45g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:14:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8775__BMS_620_High_Torque_Servo_9_1kg_15sec_45g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "45"
 }

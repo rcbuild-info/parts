@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Typhoon 500H Heli Motor 1800kv (500 Class)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71067",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31617",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24531",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18923",
-   "http://www.hobbyking.com/hobbyking/store/__9258__Turnigy_Typhoon_500H_Heli_Motor_1800kv_500_Class_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$31.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:43:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9258__Turnigy_Typhoon_500H_Heli_Motor_1800kv_500_Class_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$32.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18923"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$33.95",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 01:42:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24531"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$33.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31617"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$32.99",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 01:42:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71067"
+  }
+ ],
+ "version": 2,
+ "weight": "170"
 }

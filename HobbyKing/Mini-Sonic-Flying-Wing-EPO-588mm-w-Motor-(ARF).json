@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Mini Sonic Flying Wing EPO 588mm w/Motor (ARF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__44779__HobbyKing_Mini_Sonic_Flying_Wing_EPO_588mm_w_Motor_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$52.86",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:01:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__44779__HobbyKing_Mini_Sonic_Flying_Wing_EPO_588mm_w_Motor_ARF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Goteck",
  "name": "HC1621S HV Digital MG High Torque STD Servo 53g/23kg/0.12sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__67006__Goteck_HC1621S_HV_Digital_MG_High_Torque_STD_Servo_53g_23kg_0_12sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$26.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:11:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__67006__Goteck_HC1621S_HV_Digital_MG_High_Torque_STD_Servo_53g_23kg_0_12sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "53"
 }

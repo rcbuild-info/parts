@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2 Pin 6 x Pico Plug Charging Set Eflite compatible.",
@@ -7,14 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70230",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69635",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42541",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31812",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31469",
-   "http://www.hobbyking.com/hobbyking/store/__10621__2_Pin_6_x_Pico_Plug_Charging_Set_Eflite_compatible_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.91",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10621__2_Pin_6_x_Pico_Plug_Charging_Set_Eflite_compatible_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17457"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.41",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31469"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$2.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31812"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$2.18",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:58:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42541"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$2.68",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:58:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69635"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.18",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:58:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70230"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

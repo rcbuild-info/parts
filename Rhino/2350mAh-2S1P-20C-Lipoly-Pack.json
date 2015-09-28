@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Rhino",
  "name": "2350mAh 2S1P 20C Lipoly Pack",
@@ -7,12 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59499",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51251",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50258",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50159"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:45:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7648__Rhino_2350mAh_2S1P_20C_Lipoly_Pack_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$9.33",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:43:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50159"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$8.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:43:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50258"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$8.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:43:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51251"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$12.93",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 02:43:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59499"
+  }
+ ],
+ "version": 2,
+ "weight": "144"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Old Fogey EPP Slow Flyer 1150mm (Kit)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78579",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78578",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78577",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78576",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78575",
-   "http://www.hobbyking.com/hobbyking/store/__78574__Old_Fogey_EPP_Slow_Flyer_1150mm_Kit_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$60.97",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:53:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__78574__Old_Fogey_EPP_Slow_Flyer_1150mm_Kit_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$76.03",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:52:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78575"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$77.66",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:52:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78576"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$78.38",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:52:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78577"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$70.15",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:52:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78578"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$85.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:52:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78579"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

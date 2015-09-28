@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Stearman PT-17 Biplane EPO 1200mm (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63362",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63211",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48036",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45683",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42971",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42735",
-   "http://www.hobbyking.com/hobbyking/store/__36082__HobbyKing_174_8482_Stearman_PT_17_Biplane_EPO_1200mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$129.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__36082__HobbyKing_174_8482_Stearman_PT_17_Biplane_EPO_1200mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$145.69",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:51:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42735"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$151.24",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:51:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42971"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$136.68",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45683"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$136.04",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:51:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48036"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$136.04",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:51:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63211"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$165.92",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:51:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63362"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

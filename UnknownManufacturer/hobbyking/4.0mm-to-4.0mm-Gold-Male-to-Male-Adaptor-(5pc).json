@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4.0mm to 4.0mm Gold Male to Male Adaptor (5pc)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60884",
-   "http://www.hobbyking.com/hobbyking/store/__43738__4_0mm_to_4_0mm_Gold_Male_to_Male_Adaptor_5pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:07:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__43738__4_0mm_to_4_0mm_Gold_Male_to_Male_Adaptor_5pc_.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$3.37",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60884"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

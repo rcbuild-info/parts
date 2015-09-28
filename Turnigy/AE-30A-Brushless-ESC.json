@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "AE-30A Brushless ESC",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64378",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32455",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30699",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28412",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25882",
-   "http://www.hobbyking.com/hobbyking/store/__11617__Turnigy_AE_30A_Brushless_ESC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:40:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11617__Turnigy_AE_30A_Brushless_ESC.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$12.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25882"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$12.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28412"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$12.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30699"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$13.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32455"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$12.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64378"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

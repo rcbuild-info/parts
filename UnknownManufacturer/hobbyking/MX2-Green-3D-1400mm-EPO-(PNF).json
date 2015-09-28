@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MX2 Green 3D 1400mm EPO (PNF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63168",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33621",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33399",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=19727",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18595",
-   "http://www.hobbyking.com/hobbyking/store/__17333__MX2_Green_3D_1400mm_EPO_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$143.65",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:48:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17333__MX2_Green_3D_1400mm_EPO_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$167.73",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:47:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18595"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$170.92",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:47:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=19727"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$183.02",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:47:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33399"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$172.03",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:47:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33621"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$167.73",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:47:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63168"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

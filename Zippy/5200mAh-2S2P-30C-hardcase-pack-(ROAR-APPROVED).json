@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "5200mAh 2S2P 30C hardcase pack (ROAR APPROVED)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59772",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58854",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38479",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38353",
-   "http://www.hobbyking.com/hobbyking/store/__21000__ZIPPY_5200mAh_2S2P_30C_hardcase_pack_ROAR_APPROVED_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$21.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:29:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__21000__ZIPPY_5200mAh_2S2P_30C_hardcase_pack_ROAR_APPROVED_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$23.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:29:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38353"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$22.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:29:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38479"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$22.11",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:29:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58854"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$28.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:29:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59772"
+  }
+ ],
+ "version": 2,
+ "weight": "314"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "TY-P1 25Amp HEXFET Brushless Speed Controller",
@@ -7,12 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60581",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57353",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44842",
-   "http://www.hobbyking.com/hobbyking/store/__17135__Turnigy_TY_P1_25Amp_HEXFET_Brushless_Speed_Controller.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:40:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17135__Turnigy_TY_P1_25Amp_HEXFET_Brushless_Speed_Controller.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$12.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:37:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26012"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$12.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:37:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30329"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$12.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:37:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33302"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$12.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:37:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44842"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$12.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:37:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57353"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$14.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:37:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60581"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

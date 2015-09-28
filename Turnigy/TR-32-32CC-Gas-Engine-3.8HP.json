@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "TR-32 32CC Gas Engine 3.8HP",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70098",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63689",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60519",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58374",
-   "http://www.hobbyking.com/hobbyking/store/__42065__Turnigy_TR_32_32CC_Gas_Engine_3_8HP.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$169.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:09:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42065__Turnigy_TR_32_32CC_Gas_Engine_3_8HP.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$188.57",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 00:09:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58374"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$178.44",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:09:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60519"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$192.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:09:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63689"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$267.66",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:09:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70098"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

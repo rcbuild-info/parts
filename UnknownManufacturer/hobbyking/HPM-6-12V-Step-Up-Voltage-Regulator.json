@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HPM-6 12V Step-Up Voltage Regulator",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__81599__HPM_6_12V_Step_Up_Voltage_Regulator.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.18",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:13:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__81599__HPM_6_12V_Step_Up_Voltage_Regulator.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

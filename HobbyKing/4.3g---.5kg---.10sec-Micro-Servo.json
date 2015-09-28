@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "4.3g / .5kg / .10sec Micro Servo",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__5458__Hobby_King_4_3g_5kg_10sec_Micro_Servo_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.50",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:17:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5458__Hobby_King_4_3g_5kg_10sec_Micro_Servo_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

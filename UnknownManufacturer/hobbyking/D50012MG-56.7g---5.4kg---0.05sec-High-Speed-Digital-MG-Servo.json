@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "D50012MG 56.7g / 5.4kg / 0.05sec High Speed Digital MG Servo",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__10967__D50012MG_56_7g_5_4kg_0_05sec_High_Speed_Digital_MG_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$26.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10967__D50012MG_56_7g_5_4kg_0_05sec_High_Speed_Digital_MG_Servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": "56.7"
 }

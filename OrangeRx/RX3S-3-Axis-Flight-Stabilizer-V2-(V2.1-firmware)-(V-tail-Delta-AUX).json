@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "OrangeRx",
  "name": "RX3S 3-Axis Flight Stabilizer V2 (V2.1 firmware) (V-tail/Delta/AUX)",
@@ -7,15 +7,65 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68097",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67199",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52413",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47670",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47353",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47095",
-   "http://www.hobbyking.com/hobbyking/store/__38543__OrangeRX_RX3S_3_Axis_Flight_Stabilizer_V2_V2_1_firmware_V_tail_Delta_AUX_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$17.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:57:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__38543__OrangeRX_RX3S_3_Axis_Flight_Stabilizer_V2_V2_1_firmware_V_tail_Delta_AUX_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$29.22",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:56:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47095"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$17.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:56:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47353"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$28.05",
+   "stock_state": "backordered",
+   "timestamp": "Mon, 28 Sep 2015 03:56:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47670"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$18.20",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:56:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52413"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$18.20",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:56:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67199"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$20.02",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:56:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68097"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sky Easy Glider EPO 1050mm (PNF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69428",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68905",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35413",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35095",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35018",
-   "http://www.hobbyking.com/hobbyking/store/__28700__Sky_Easy_Glider_EPO_1050mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$64.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:41:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28700__Sky_Easy_Glider_EPO_1050mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$76.12",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:38:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35018"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$75.02",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:38:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35095"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$84.99",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:38:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35413"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$95.17",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:38:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68905"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$76.12",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:38:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69428"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-706MG Low Profile High Speed Servo (Metal Gear) 4.6kg / .13sec / 32g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__8784__BMS_706MG_Low_Profile_High_Speed_Servo_Metal_Gear_4_6kg_13sec_32g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$15.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8784__BMS_706MG_Low_Profile_High_Speed_Servo_Metal_Gear_4_6kg_13sec_32g.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

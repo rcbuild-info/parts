@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sadler Vampire SV2 Glow Sport Model Balsa 1500mm (ARF)",
@@ -7,10 +7,21 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__36779__Sadler_Vampire_SV2_Glow_Sport_Model_Balsa_1500mm_ARF_.html",
-   "http://www.hobbyking.com/hobbyking/store/__17779__Sadler_Vampire_SV2_Glow_Sport_Model_Balsa_1500mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$100.36",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:24:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17779__Sadler_Vampire_SV2_Glow_Sport_Model_Balsa_1500mm_ARF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__36779__Sadler_Vampire_SV2_Glow_Sport_Model_Balsa_1500mm_ARF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

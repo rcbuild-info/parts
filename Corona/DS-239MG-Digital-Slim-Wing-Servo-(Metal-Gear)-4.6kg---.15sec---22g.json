@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "DS-239MG Digital Slim Wing Servo (Metal Gear) 4.6kg / .15sec / 22g",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71966",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56461",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55846",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55694",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43860",
-   "http://www.hobbyking.com/hobbyking/store/__23330__Corona_DS_239MG_Digital_Slim_Wing_Servo_Metal_Gear_4_6kg_15sec_22g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:11:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23330__Corona_DS_239MG_Digital_Slim_Wing_Servo_Metal_Gear_4_6kg_15sec_22g.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$10.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:10:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43860"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$9.95",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:10:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55694"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$10.85",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:10:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55846"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$10.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:10:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56461"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$10.01",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:10:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71966"
+  }
+ ],
+ "version": 2,
+ "weight": "22"
 }

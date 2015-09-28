@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Arcus F3A Aerobatic Biplane EPO 1000mm (PNF)",
@@ -7,13 +7,61 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63241",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54700",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54666",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54595",
-   "http://www.hobbyking.com/hobbyking/store/__51280__HobbyKing_Arcus_F3A_Aerobatic_Biplane_EPO_1000mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$131.66",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:50:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51280__HobbyKing_174_8482_Arcus_F3A_Aerobatic_Biplane_EPO_1000mm_PNF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__51280__HobbyKing_Arcus_F3A_Aerobatic_Biplane_EPO_1000mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$156.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:49:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54595"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$152.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:49:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54666"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$153.17",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:49:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54700"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$159.43",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:49:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55376"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$152.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:49:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63241"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

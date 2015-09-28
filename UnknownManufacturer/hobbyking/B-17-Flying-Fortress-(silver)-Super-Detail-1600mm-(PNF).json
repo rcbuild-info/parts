@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "B-17 Flying Fortress (silver) Super Detail 1600mm (PNF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63178",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28869",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25009",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22868",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22867",
-   "http://www.hobbyking.com/hobbyking/store/__18598__B_17_Flying_Fortress_silver_Super_Detail_1600mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$261.69",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:06:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18598__B_17_Flying_Fortress_silver_Super_Detail_1600mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$298.53",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:03:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22867"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$332.82",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:03:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22868"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$309.18",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:03:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25009"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$299.99",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:03:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28869"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$298.53",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:03:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63178"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

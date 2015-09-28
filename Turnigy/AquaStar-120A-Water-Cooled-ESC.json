@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "AquaStar 120A Water Cooled ESC",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69636",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29638",
-   "http://www.hobbyking.com/hobbyking/store/__10626__Turnigy_AquaStar_120A_Water_Cooled_ESC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$52.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:40:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10626__Turnigy_AquaStar_120A_Water_Cooled_ESC.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$53.36",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 00:37:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29638"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$70.92",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 00:37:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69636"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

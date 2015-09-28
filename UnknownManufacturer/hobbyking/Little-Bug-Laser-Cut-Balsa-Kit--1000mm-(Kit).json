@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Little Bug Laser Cut Balsa Kit  1000mm (Kit)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71109",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56877",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43062",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37288",
-   "http://www.hobbyking.com/hobbyking/store/__29649__Little_Bug_Laser_Cut_Balsa_Kit_1000mm_Kit_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__29649__Little_Bug_Laser_Cut_Balsa_Kit_1000mm_Kit_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$36.91",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:44:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37288"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$33.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:44:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43062"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$34.34",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:44:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56877"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$34.34",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:44:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71109"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

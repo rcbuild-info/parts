@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Durafly",
  "name": "T-28 Trojan w/flaps/retracts/lights/gear doors 1100mm (PNF)",
@@ -7,16 +7,64 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70506",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29980",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25891",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23983",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22858",
-   "http://www.hobbyking.com/hobbyking/store/__20850__Durafly_T_28_Trojan_w_flaps_retracts_lights_gear_doors_1100mm_PNF_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20850",
-   "http://www.hobbyking.com/hobbyking/store/__70506__Durafly_8482_T_28_Trojan_w_flaps_retracts_lights_gear_doors_1100mm_PNF_AR_Warehouse_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$149.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:06:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20850__Durafly_T_28_Trojan_w_flaps_retracts_lights_gear_doors_1100mm_PNF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__70506__Durafly_8482_T_28_Trojan_w_flaps_retracts_lights_gear_doors_1100mm_PNF_AR_Warehouse_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20850"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$164.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22858"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$167.99",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 04:05:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23983"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$171.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:05:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25891"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$173.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29980"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$164.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:05:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70506"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

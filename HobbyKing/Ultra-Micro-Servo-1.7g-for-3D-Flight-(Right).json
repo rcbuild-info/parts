@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Ultra Micro Servo 1.7g for 3D Flight (Right)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71720",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46382",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45313",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44744",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29495",
-   "http://www.hobbyking.com/hobbyking/store/__11735__HobbyKing_Ultra_Micro_Servo_1_7g_for_3D_Flight_Right_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.34",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11735__HobbyKing_Ultra_Micro_Servo_1_7g_for_3D_Flight_Right_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$4.48",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29495"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$4.48",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:16:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44744"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$4.48",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:16:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45313"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:16:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46382"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.48",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:16:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71720"
+  }
+ ],
+ "version": 2,
+ "weight": "1.7"
 }

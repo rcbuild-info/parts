@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Black XT60 Male and Female 5 Pairs/Bag",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70253",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68268",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52412",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52300",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51219",
-   "http://www.hobbyking.com/hobbyking/store/__44334__Black_XT60_Male_and_Female_5_Pairs_Bag.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__44334__Black_XT60_Male_and_Female_5_Pairs_Bag.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$5.05",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:59:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51219"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.81",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52300"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$4.77",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52412"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$6.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68268"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.77",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70253"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

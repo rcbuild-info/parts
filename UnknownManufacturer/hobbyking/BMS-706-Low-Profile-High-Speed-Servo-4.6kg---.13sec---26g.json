@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-706 Low Profile High Speed Servo 4.6kg / .13sec / 26g",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29584",
-   "http://www.hobbyking.com/hobbyking/store/__8783__BMS_706_Low_Profile_High_Speed_Servo_4_6kg_13sec_26g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.20",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:14:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8783__BMS_706_Low_Profile_High_Speed_Servo_4_6kg_13sec_26g.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$10.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29584"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

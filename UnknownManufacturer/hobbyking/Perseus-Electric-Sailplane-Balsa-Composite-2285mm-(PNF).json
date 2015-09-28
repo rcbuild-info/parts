@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Perseus Electric Sailplane Balsa Composite 2285mm (PNF)",
@@ -7,9 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__53618__Perseus_Electric_Sailplane_Balsa_Composite_2285mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$526.96",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:42:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__53618__Perseus_Electric_Sailplane_Balsa_Composite_2285mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$586.91",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:40:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64512"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$597.46",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:40:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64676"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$557.51",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:40:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65083"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

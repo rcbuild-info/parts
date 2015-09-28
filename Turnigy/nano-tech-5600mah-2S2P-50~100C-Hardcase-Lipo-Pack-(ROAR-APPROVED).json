@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 5600mah 2S2P 50~100C Hardcase Lipo Pack (ROAR APPROVED)",
@@ -7,15 +9,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60115",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59166",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32707",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29015",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25220",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24198",
-   "http://www.hobbyking.com/hobbyking/store/__17268__Turnigy_nano_tech_5600mah_2S2P_50_100C_Hardcase_Lipo_Pack_ROAR_APPROVED_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$37.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:24:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17268__Turnigy_nano_tech_5600mah_2S2P_50_100C_Hardcase_Lipo_Pack_ROAR_APPROVED_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$35.74",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:22:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24198"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$36.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:22:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25220"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$36.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:22:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29015"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$39.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:22:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32707"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$35.74",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:22:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59166"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$51.16",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:22:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60115"
+  }
+ ],
+ "version": 2,
+ "weight": "294"
 }

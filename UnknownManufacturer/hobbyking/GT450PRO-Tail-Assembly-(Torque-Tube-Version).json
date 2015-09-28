@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO Tail Assembly (Torque Tube Version)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11584__GT450PRO_Tail_Assembly_Torque_Tube_Version_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.70",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Sun, 27 Sep 2015 23:26:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11584__GT450PRO_Tail_Assembly_Torque_Tube_Version_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

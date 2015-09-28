@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-DS3509MG High Torque BB/DS/MG w/Alloy Case 40kg / .12sec / 78g",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77640",
-   "http://www.hobbyking.com/hobbyking/store/__50468__Turnigy_8482_TGY_DS3509MG_High_Torque_BB_DS_MG_w_Alloy_Case_40kg_12sec_78g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$50.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:11:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__50468__Turnigy_8482_TGY_DS3509MG_High_Torque_BB_DS_MG_w_Alloy_Case_40kg_12sec_78g.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$55.97",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:11:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77640"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

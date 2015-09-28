@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "1500mAh 3S 30C Lipo (E-flite Compatible EFLB15003S & Losi Mini 8ight)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73857",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73780",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73437",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72387",
-   "http://www.hobbyking.com/hobbyking/store/__64938__Turnigy_1500mAh_3S_30C_Lipo_E_flite_Compatible_EFLB15003S_Losi_Mini_8ight_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$13.84",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:50:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__64938__Turnigy_1500mAh_3S_30C_Lipo_E_flite_Compatible_EFLB15003S_Losi_Mini_8ight_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$15.09",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:48:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72387"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$14.80",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:48:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73437"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$14.70",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:48:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73780"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$14.51",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:48:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73857"
+  }
+ ],
+ "version": 2,
+ "weight": "118"
 }

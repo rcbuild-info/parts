@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Durafly",
  "name": "D.H.100 Vampire Mk6 EDF Jet w/retracts 1100mm (PNF)",
@@ -7,17 +7,72 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67964",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63183",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29998",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25002",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24336",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23580",
-   "http://www.hobbyking.com/hobbyking/store/__20580__Durafly_D_H_100_Vampire_Mk6_EDF_Jet_w_retracts_1100mm_PNF_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20580",
-   "http://www.hobbyking.com/hobbyking/store/__63183__Durafly_8482_D_H_100_Vampire_Mk6_EDF_Jet_w_retracts_1100mm_PNF_AR_Warehouse_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$119.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:14:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20580__Durafly_D_H_100_Vampire_Mk6_EDF_Jet_w_retracts_1100mm_PNF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__63183__Durafly_8482_D_H_100_Vampire_Mk6_EDF_Jet_w_retracts_1100mm_PNF_AR_Warehouse_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20580"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$133.53",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23580"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$134.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24336"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$139.46",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25002"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$149.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29998"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$133.53",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:13:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63183"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$143.01",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:13:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67964"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

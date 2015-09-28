@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Digital High Torque Ballraced Servo 26g/3.5kg/.12sec",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71162",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63679",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47653",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44435",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38929",
-   "http://www.hobbyking.com/hobbyking/store/__24431__Turnigy_Digital_High_Torque_Ballraced_Servo_26g_3_5kg_12sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:21:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24431__Turnigy_Digital_High_Torque_Ballraced_Servo_26g_3_5kg_12sec.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$5.91",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:21:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38929"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.19",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:21:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44435"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$5.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47653"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.24",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63679"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$5.75",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:20:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71162"
+  }
+ ],
+ "version": 2,
+ "weight": "26"
 }

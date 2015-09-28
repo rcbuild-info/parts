@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "450 PRO Heli Metal Anti-rotation Bracket",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__14943__450_PRO_Heli_Metal_Anti_rotation_Bracket.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14943__450_PRO_Heli_Metal_Anti_rotation_Bracket.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-955DMG Digital Low Profile High Speed Metal Gear Servo 5.2kg / 0.08sec / 45g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11622__BMS_955DMG_Digital_Low_Profile_High_Speed_Metal_Gear_Servo_5_2kg_0_08sec_45g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$38.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11622__BMS_955DMG_Digital_Low_Profile_High_Speed_Metal_Gear_Servo_5_2kg_0_08sec_45g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "45"
 }

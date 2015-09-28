@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "La Belle Dame 1180mm -  Fuselage",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41566",
-   "http://www.hobbyking.com/hobbyking/store/__31251__La_Belle_Dame_1180mm_Fuselage.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$23.40",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Sun, 27 Sep 2015 23:24:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__31251__La_Belle_Dame_1180mm_Fuselage.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$27.95",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Sun, 27 Sep 2015 23:24:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41566"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

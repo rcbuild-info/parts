@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-TS531A Analog Nano Servo 0.5kg / 0.12sec / 3.7g",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63681",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47120",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46727",
-   "http://www.hobbyking.com/hobbyking/store/__28280__Turnigy_8482_TGY_TS531A_Analog_Nano_Servo_0_5kg_0_12sec_3_7g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28280__Turnigy_8482_TGY_TS531A_Analog_Nano_Servo_0_5kg_0_12sec_3_7g.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$4.37",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:16:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46727"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:16:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47120"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$4.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:16:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63681"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

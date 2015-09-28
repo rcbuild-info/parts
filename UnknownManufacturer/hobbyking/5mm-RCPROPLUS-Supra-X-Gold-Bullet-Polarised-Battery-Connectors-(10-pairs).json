@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5mm RCPROPLUS Supra X Gold Bullet Polarised Battery Connectors (10 pairs)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__40787__5mm_RCPROPLUS_Supra_X_Gold_Bullet_Polarised_Battery_Connectors_10_pairs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$27.50",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:07:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__40787__5mm_RCPROPLUS_Supra_X_Gold_Bullet_Polarised_Battery_Connectors_10_pairs_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

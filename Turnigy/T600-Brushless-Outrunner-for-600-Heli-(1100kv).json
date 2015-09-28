@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "T600 Brushless Outrunner for 600 Heli (1100kv)",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71880",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42923",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42762",
-   "http://www.hobbyking.com/hobbyking/store/__11102__Turnigy_T600_Brushless_Outrunner_for_600_Heli_1100kv_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$61.86",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 01:34:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11102__Turnigy_T600_Brushless_Outrunner_for_600_Heli_1100kv_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$63.69",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 01:34:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42762"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$70.01",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 01:34:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42923"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$63.69",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:34:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71880"
+  }
+ ],
+ "version": 2,
+ "weight": "369"
 }

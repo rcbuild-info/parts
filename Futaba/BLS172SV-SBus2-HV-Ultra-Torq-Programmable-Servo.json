@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Futaba",
  "name": "BLS172SV SBus2 HV Ultra Torq Programmable Servo",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__46055__Futaba_BLS172SV_SBus2_HV_Ultra_Torq_Programmable_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$219.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:26:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__46055__Futaba_BLS172SV_SBus2_HV_Ultra_Torq_Programmable_Servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": "76"
 }

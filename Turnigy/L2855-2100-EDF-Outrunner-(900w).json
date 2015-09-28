@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "L2855-2100 EDF Outrunner (900w)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71747",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42442",
-   "http://www.hobbyking.com/hobbyking/store/__18541__Turnigy_L2855_2100_EDF_Outrunner_900w_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$14.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18541__Turnigy_L2855_2100_EDF_Outrunner_900w_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$14.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42442"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$14.88",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 01:41:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71747"
+  }
+ ],
+ "version": 2,
+ "weight": "94"
 }

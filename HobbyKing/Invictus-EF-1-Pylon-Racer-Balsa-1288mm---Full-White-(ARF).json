@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Invictus EF-1 Pylon Racer Balsa 1288mm - Full White (ARF)",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72026",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54941",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51697",
-   "http://www.hobbyking.com/hobbyking/store/__38080__HobbyKing_8482_Invictus_EF_1_Pylon_Racer_Balsa_1288mm_Full_White_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$129.99",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:16:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__38080__HobbyKing_8482_Invictus_EF_1_Pylon_Racer_Balsa_1288mm_Full_White_ARF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$170.17",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 04:15:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51697"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$151.28",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:15:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54941"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$170.17",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:15:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72026"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

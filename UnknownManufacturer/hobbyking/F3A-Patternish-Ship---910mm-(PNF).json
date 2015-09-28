@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F3A Patternish Ship - 910mm (PNF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__17381__F3A_Patternish_Ship_910mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:09:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17381__F3A_Patternish_Ship_910mm_PNF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

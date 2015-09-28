@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Rhino",
  "name": "3700mAh 4S 14.8v 20C Lipoly Pack",
@@ -7,12 +7,37 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58748",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51222",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50115",
-   "http://www.hobbyking.com/hobbyking/store/__7296__Rhino_3700mAh_4S_14_8v_20C_Lipoly_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$24.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:06:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7296__Rhino_3700mAh_4S_14_8v_20C_Lipoly_Pack.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50115"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$25.54",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:05:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51222"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$25.43",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:05:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58748"
+  }
+ ],
+ "version": 2,
+ "weight": "416"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dr. Mad Thrust 70mm 10-Blade Alloy EDF 2200kv Motor - 1900watt (6s)(Counter Rotating)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__45230__Dr_Mad_Thrust_70mm_10_Blade_Alloy_EDF_2200kv_Motor_1900watt_6s_Counter_Rotating_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$82.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45230__Dr_Mad_Thrust_70mm_10_Blade_Alloy_EDF_2200kv_Motor_1900watt_6s_Counter_Rotating_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "D50011MG 57.4g / 9.6kg / 0.08sec High Torque Digital Servo",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__10966__D50011MG_57_4g_9_6kg_0_08sec_High_Torque_Digital_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$22.85",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 00:26:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10966__D50011MG_57_4g_9_6kg_0_08sec_High_Torque_Digital_Servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": "57.4"
 }

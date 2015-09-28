@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Idle Pulley for 450 size Helicopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__9321__Idle_Pulley_for_450_size_Helicopter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:24:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9321__Idle_Pulley_for_450_size_Helicopter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

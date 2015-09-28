@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RotorBits TriCopter Kit With Modular Assembly System (KIT)",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62698",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60482",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55138",
-   "http://www.hobbyking.com/hobbyking/store/__51417__RotorBits_TriCopter_Kit_With_Modular_Assembly_System_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.00",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:46:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51417__RotorBits_TriCopter_Kit_With_Modular_Assembly_System_KIT_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$35.06",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:46:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55138"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$36.55",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:46:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60482"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$31.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:46:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62698"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

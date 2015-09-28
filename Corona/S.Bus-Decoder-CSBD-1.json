@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "S.Bus Decoder CSBD-1",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__39693__Corona_S_Bus_Decoder_CSBD_1.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$11.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39693__Corona_S_Bus_Decoder_CSBD_1.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

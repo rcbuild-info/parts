@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Turboraven 30cc Gas 1900mm w/Carbon Fiber Landing Gear (ARF)",
@@ -7,11 +7,45 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65184",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29895",
-   "http://www.hobbyking.com/hobbyking/store/__24834__Turboraven_30cc_Gas_1900mm_w_Carbon_Fiber_Landing_Gear_ARF_US_Warehouse_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$280.80",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:49:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18835__Turboraven_30cc_Gas_1900mm_w_Carbon_Fiber_Landing_Gear_ARF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__24834__Turboraven_30cc_Gas_1900mm_w_Carbon_Fiber_Landing_Gear_ARF_US_Warehouse_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$199.99",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:48:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24834"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$199.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:48:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29895"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$199.99",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:48:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65184"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "450 Series 3800KV Brushless Outrunner Helicopter Motor",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63731",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46695",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46578",
-   "http://www.hobbyking.com/hobbyking/store/__37457__Turnigy_450_Series_3800KV_Brushless_Outrunner_Helicopter_Motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$13.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:43:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__37457__Turnigy_450_Series_3800KV_Brushless_Outrunner_Helicopter_Motor.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$15.55",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 01:42:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46578"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$14.50",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 01:42:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46695"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$15.34",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63731"
+  }
+ ],
+ "version": 2,
+ "weight": "80"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "E6013 Tail gear case set",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__7493__E6013_Tail_gear_case_set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.14",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Sun, 27 Sep 2015 23:22:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7493__E6013_Tail_gear_case_set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

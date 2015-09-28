@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "S1 Servo Doctor w/ Gyro Sensor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__10572__Hobby_King_S1_Servo_Doctor_w_Gyro_Sensor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$32.94",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:35:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10572__Hobby_King_S1_Servo_Doctor_w_Gyro_Sensor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "250 Series 3600KV Brushless Outrunner Helicopter Motor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__37455__Turnigy_250_Series_3600KV_Brushless_Outrunner_Helicopter_Motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 00:59:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__37455__Turnigy_250_Series_3600KV_Brushless_Outrunner_Helicopter_Motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": "37"
 }

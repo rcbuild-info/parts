@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Phoenix 1600 EPO Composite R/C Glider (Kit)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70079",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63226",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49173",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48044",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47897",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47786",
-   "http://www.hobbyking.com/hobbyking/store/__40283__Phoenix_1600_EPO_Composite_R_C_Glider_Kit_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$48.02",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:41:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__40283__Phoenix_1600_EPO_Composite_R_C_Glider_Kit_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$57.65",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:39:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47786"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$59.39",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:39:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47897"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$58.18",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:39:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48044"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$57.62",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:39:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49173"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$58.18",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:39:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63226"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$99.45",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:39:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70079"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

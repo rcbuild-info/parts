@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "DS238MG Digital Metal Gear Servo 4.6kg/ 22g/ 0.14sec",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56456",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51892",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48552",
-   "http://www.hobbyking.com/hobbyking/store/__19959__Corona_DS238MG_Digital_Metal_Gear_Servo_4_6kg_22g_0_14sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19959__Corona_DS238MG_Digital_Metal_Gear_Servo_4_6kg_22g_0_14sec.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$9.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48552"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$9.15",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:32:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51892"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$9.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56456"
+  }
+ ],
+ "version": 2,
+ "weight": "22"
 }

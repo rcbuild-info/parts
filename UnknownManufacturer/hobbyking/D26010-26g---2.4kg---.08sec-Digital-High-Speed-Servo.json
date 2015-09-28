@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "D26010 26g / 2.4kg / .08sec Digital High Speed Servo",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__10968__D26010_26g_2_4kg_08sec_Digital_High_Speed_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.95",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 00:21:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10968__D26010_26g_2_4kg_08sec_Digital_High_Speed_Servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": "26.12"
 }

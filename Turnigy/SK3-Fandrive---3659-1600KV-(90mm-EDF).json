@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "SK3 Fandrive - 3659-1600KV (90mm EDF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71390",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46838",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42469",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31225",
-   "http://www.hobbyking.com/hobbyking/store/__25416__Turnigy_SK3_Fandrive_3659_1600KV_90mm_EDF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$50.44",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 01:19:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25416__Turnigy_SK3_Fandrive_3659_1600KV_90mm_EDF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$53.55",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:19:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31225"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$50.86",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 01:19:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42469"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$53.52",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 01:19:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46838"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$50.86",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:19:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71390"
+  }
+ ],
+ "version": 2,
+ "weight": "252"
 }

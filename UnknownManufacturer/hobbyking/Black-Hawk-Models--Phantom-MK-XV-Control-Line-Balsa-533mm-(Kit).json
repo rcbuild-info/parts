@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Black Hawk Models  Phantom MK XV Control Line Balsa 533mm (Kit)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67075",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56428",
-   "http://www.hobbyking.com/hobbyking/store/__43498__Black_Hawk_Models_Phantom_MK_XV_Control_Line_Balsa_533mm_Kit_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$55.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__43498__Black_Hawk_Models_Phantom_MK_XV_Control_Line_Balsa_533mm_Kit_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$62.26",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:44:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56428"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$62.26",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:44:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67075"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

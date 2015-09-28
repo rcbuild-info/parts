@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BLS-1004 HV(7.4V)Brushless Digital Servo w/Nanometer Alloy Gear 9.7kg/.048sec/66g",
@@ -7,9 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73266"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$54.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__64285__BLS_1004_High_Voltage_7_4V_Brushless_Digital_Servo_w_Nanometer_Alloy_Gear_9_7kg_048sec_66g.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$60.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73263"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$59.46",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73264"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$55.22",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73265"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$56.97",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73266"
+  }
+ ],
+ "version": 2,
+ "weight": "66"
 }

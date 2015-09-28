@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Glider Nose Tow-Line Release (11.7x42mm)",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36521",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36393",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32011",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31787",
-   "http://www.hobbyking.com/hobbyking/store/__13365__HobbyKing_Glider_Nose_Tow_Line_Release_11_7x42mm_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__13365__HobbyKing_Glider_Nose_Tow_Line_Release_11_7x42mm_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31787"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32011"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36393"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36521"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.29",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:36:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70647"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

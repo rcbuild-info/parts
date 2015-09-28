@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Battery Strap (5pcs/bag)",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66757",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64579",
-   "http://www.hobbyking.com/hobbyking/store/__12987__Battery_Strap_5pcs_bag_.html",
-   "http://www.hobbyking.com/hobbyking/store/__12984__Battery_Strap_5pcs_bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.28",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:14:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12984__Battery_Strap_5pcs_bag_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$2.06",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:14:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12987__Battery_Strap_5pcs_bag_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$4.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:13:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64579"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$4.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:13:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66757"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

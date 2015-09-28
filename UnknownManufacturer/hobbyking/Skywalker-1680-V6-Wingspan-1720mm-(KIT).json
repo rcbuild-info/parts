@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skywalker 1680 V6-Wingspan 1720mm (KIT)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__72947__Skywalker_1680_V6_Wingspan_1720mm_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$100.21",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:37:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__72947__Skywalker_1680_V6_Wingspan_1720mm_KIT_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

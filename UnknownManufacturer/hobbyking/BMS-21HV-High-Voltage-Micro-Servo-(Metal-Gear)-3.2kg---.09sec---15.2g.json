@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-21HV High Voltage Micro Servo (Metal Gear) 3.2kg / .09sec / 15.2g",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73246",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73245",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73244",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73243",
-   "http://www.hobbyking.com/hobbyking/store/__64287__BMS_21HV_High_Voltage_Micro_Servo_Metal_Gear_3_2kg_09sec_15_2g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$17.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__64287__BMS_21HV_High_Voltage_Micro_Servo_Metal_Gear_3_2kg_09sec_15_2g.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$19.68",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73243"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$19.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73244"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$18.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73245"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$18.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73246"
+  }
+ ],
+ "version": 2,
+ "weight": "15.2"
 }

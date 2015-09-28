@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Flybarless Head Assembly Trex 450 / HK450",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57488",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45853",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42695",
-   "http://www.hobbyking.com/hobbyking/store/__14923__Flybarless_Head_Assembly_Trex_450_HK450.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14923__Flybarless_Head_Assembly_Trex_450_HK450.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$11.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42695"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$12.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45853"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$11.35",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Sun, 27 Sep 2015 23:22:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57488"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

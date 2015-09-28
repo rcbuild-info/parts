@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Scorpion HK-2206-3900kv Brushless Outrunner",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__17371__Scorpion_HK_2206_3900kv_Brushless_Outrunner.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$49.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:33:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17371__Scorpion_HK_2206_3900kv_Brushless_Outrunner.html"
+  }
+ ],
+ "version": 2,
+ "weight": "32"
 }

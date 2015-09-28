@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "15346 Analog Servo 37g/3.0kg/0.12sec",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61174",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57764",
-   "http://www.hobbyking.com/hobbyking/store/__42490__HobbyKing_8482_15346_Analog_Servo_37g_3_0kg_0_12sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:30:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42490__HobbyKing_8482_15346_Analog_Servo_37g_3_0kg_0_12sec.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57764"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$6.31",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:29:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61174"
+  }
+ ],
+ "version": 2,
+ "weight": "37"
 }

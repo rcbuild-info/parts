@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XT90 Battery Harness 10AWG for 2 Packs in Parallel",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68292",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63485",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32159",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31816",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31476",
-   "http://www.hobbyking.com/hobbyking/store/__25662__XT90_Battery_Harness_10AWG_for_2_Packs_in_Parallel.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25662__XT90_Battery_Harness_10AWG_for_2_Packs_in_Parallel.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$7.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31476"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$7.65",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 00:04:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31816"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$7.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32159"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$6.69",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:04:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63485"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$8.89",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68292"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

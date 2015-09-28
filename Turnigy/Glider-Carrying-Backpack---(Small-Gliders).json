@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Glider Carrying Backpack - (Small Gliders)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71449",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69083",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52326",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45631",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35333",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30357",
-   "http://www.hobbyking.com/hobbyking/store/__24877__Turnigy_Glider_Carrying_Backpack_Small_Gliders_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:41:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24877__Turnigy_Glider_Carrying_Backpack_Small_Gliders_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$12.67",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:39:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30357"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$12.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:39:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35333"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$11.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:39:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45631"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$10.85",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:39:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52326"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$15.33",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:39:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69083"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$10.85",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:39:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71449"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

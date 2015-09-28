@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TSS-9S Slow Flap Servo 1.2kg / 2.0s / 9g",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56183",
-   "http://www.hobbyking.com/hobbyking/store/__36009__Turnigy_8482_TSS_9S_Slow_Flap_Servo_1_2kg_2_0s_9g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.11",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:19:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__36009__Turnigy_8482_TSS_9S_Slow_Flap_Servo_1_2kg_2_0s_9g.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.41",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:18:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56183"
+  }
+ ],
+ "version": 2,
+ "weight": "9"
 }

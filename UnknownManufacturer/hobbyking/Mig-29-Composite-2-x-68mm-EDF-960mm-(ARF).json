@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mig-29 Composite 2 x 68mm EDF 960mm (ARF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__15526__Mig_29_Composite_2_x_68mm_EDF_960mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$167.23",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:24:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__15526__Mig_29_Composite_2_x_68mm_EDF_960mm_ARF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

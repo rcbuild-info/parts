@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F9F-2 Panther 70mm EDF Jet BRY Color Scheme 1050mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71139",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57910",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50346",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50292",
-   "http://www.hobbyking.com/hobbyking/store/__39822__F9F_2_Panther_70mm_EDF_Jet_BRY_Color_Scheme_1050mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$227.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:14:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39822__F9F_2_Panther_70mm_EDF_Jet_BRY_Color_Scheme_1050mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$279.28",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:13:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50292"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$236.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:13:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50346"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$273.74",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:13:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57910"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$274.99",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:13:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71139"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Bushmaster Sport Plane EPO 1550mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58055",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58009",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57920",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56883",
-   "http://www.hobbyking.com/hobbyking/store/__51516__HobbyKing_Bushmaster_Sport_Plane_EPO_1550mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$138.49",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:47:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51516__HobbyKing_Bushmaster_Sport_Plane_EPO_1550mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$152.73",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:47:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56883"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$165.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:47:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57920"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$160.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:47:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58009"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$156.91",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:47:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58055"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

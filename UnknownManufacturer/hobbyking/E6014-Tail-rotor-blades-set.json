@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "E6014 Tail rotor blades set",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__7494__E6014_Tail_rotor_blades_set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Sun, 27 Sep 2015 23:24:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7494__E6014_Tail_rotor_blades_set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

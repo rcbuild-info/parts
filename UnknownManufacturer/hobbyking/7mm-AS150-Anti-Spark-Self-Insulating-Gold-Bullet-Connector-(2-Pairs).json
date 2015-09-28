@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "7mm AS150 Anti Spark Self Insulating Gold Bullet Connector (2 Pairs)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60555",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58437",
-   "http://www.hobbyking.com/hobbyking/store/__42825__7mm_AS150_Anti_Spark_Self_Insulating_Gold_Bullet_Connector_2_Pairs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42825__7mm_AS150_Anti_Spark_Self_Insulating_Gold_Bullet_Connector_2_Pairs_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$9.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:57:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58437"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$11.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:57:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60555"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

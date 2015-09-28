@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FY-DoS Inertial Attitude Stabiliser with GPS (Aircraft)",
@@ -7,11 +7,33 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77487",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70082",
-   "http://www.hobbyking.com/hobbyking/store/__40290__FY_DoS_Inertial_Attitude_Stabiliser_with_GPS_Aircraft_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$119.99",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:56:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__40290__FY_DoS_Inertial_Attitude_Stabiliser_with_GPS_Aircraft_.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$163.24",
+   "stock_state": "backordered",
+   "timestamp": "Mon, 28 Sep 2015 03:55:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70082"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$149.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:55:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77487"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

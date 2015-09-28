@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 120mAh 2S 25C Lipo Pack (E-flite Compatible EFLB1202S20)",
@@ -7,14 +9,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59066",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35536",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32665",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29018",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24217",
-   "http://www.hobbyking.com/hobbyking/store/__19422__Turnigy_nano_tech_120mAh_2S_25C_Lipo_Pack_E_flite_Compatible_EFLB1202S20_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.19",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:21:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19422__Turnigy_nano_tech_120mAh_2S_25C_Lipo_Pack_E_flite_Compatible_EFLB1202S20_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$4.23",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:21:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24217"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:21:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29018"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.28",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:21:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32665"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:21:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35536"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.23",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:21:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59066"
+  }
+ ],
+ "version": 2,
+ "weight": "9"
 }

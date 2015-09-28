@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini A-6 Intruder EDF Fighter Jet EPO (PNF)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32320",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18317",
-   "http://www.hobbyking.com/hobbyking/store/__16717__Mini_A_6_Intruder_EDF_Fighter_Jet_EPO_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$67.06",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:14:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16717__Mini_A_6_Intruder_EDF_Fighter_Jet_EPO_PNF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$69.51",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:12:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18317"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$61.01",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32320"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

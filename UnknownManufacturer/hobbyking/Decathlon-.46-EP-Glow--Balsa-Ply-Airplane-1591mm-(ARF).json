@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Decathlon .46 EP/Glow  Balsa/Ply Airplane 1591mm (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68501",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45684",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45189",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45016",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44912",
-   "http://www.hobbyking.com/hobbyking/store/__37317__Decathlon_46_EP_Glow_Balsa_Ply_Airplane_1591mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$114.40",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__37317__Decathlon_46_EP_Glow_Balsa_Ply_Airplane_1591mm_ARF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$136.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44912"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$143.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45016"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$136.95",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:51:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45189"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$141.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45684"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$136.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68501"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

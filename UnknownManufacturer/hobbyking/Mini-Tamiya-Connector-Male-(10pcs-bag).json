@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini Tamiya Connector Male (10pcs/bag)",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64714",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51081",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46245",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43510",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43145"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.57",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:03:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9726__Mini_Tamiya_Connector_Male_10pcs_bag_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$1.74",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43145"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$1.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43510"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$1.78",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 00:02:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46245"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$1.62",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51081"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$1.62",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64714"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Trackstar 80A Turbo Sensored Brushless 1/12th 1/10th ESC (ROAR approved)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49610",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46735",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42957",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42703",
-   "http://www.hobbyking.com/hobbyking/store/__22401__Turnigy_Trackstar_80A_Turbo_Sensored_Brushless_1_12th_1_10th_ESC_ROAR_approved_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$37.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22401__Turnigy_Trackstar_80A_Turbo_Sensored_Brushless_1_12th_1_10th_ESC_ROAR_approved_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$37.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42703"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$36.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42957"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$38.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46735"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$39.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49610"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

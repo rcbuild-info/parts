@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mercury 3D Flat Foam Depron 900mm (Kit)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68516",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54596",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54404",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54355",
-   "http://www.hobbyking.com/hobbyking/store/__50336__Mercury_3D_Flat_Foam_Depron_900mm_Kit_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$26.25",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:59:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__50336__Mercury_3D_Flat_Foam_Depron_900mm_Kit_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$28.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54355"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$27.75",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:58:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54404"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$30.02",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:58:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54596"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$28.65",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:58:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68516"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

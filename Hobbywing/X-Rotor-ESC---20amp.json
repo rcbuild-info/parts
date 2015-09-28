@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "X-Rotor ESC - 20amp",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73088",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73087",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73086",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73085",
-   "http://www.hobbyking.com/hobbyking/store/__73079__Hobbywing_X_Rotor_ESC_20amp.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.81",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:48:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__73079__Hobbywing_X_Rotor_ESC_20amp.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$12.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:48:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73085"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$11.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:48:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73086"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$11.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:45:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73087"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$12.46",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:45:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73088"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

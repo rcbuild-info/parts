@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "DS929HV (7.4v) MG Digital Servo 2.4kg/ 12.5g/ 0.09sec",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70649",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42956",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33311",
-   "http://www.hobbyking.com/hobbyking/store/__19961__Corona_DS929HV_7_4v_MG_Digital_Servo_2_4kg_12_5g_0_09sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:19:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19961__Corona_DS929HV_7_4v_MG_Digital_Servo_2_4kg_12_5g_0_09sec.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$8.19",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 00:19:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33311"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$8.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:19:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42956"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$8.19",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:19:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70649"
+  }
+ ],
+ "version": 2,
+ "weight": "12.5"
 }

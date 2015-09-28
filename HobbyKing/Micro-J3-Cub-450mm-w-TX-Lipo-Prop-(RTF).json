@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Micro J3 Cub 450mm w/TX/Lipo/Prop (RTF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__18872__HobbyKing_174_8482_Micro_J3_Cub_450mm_w_TX_Lipo_Prop_RTF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$46.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18872__HobbyKing_174_8482_Micro_J3_Cub_450mm_w_TX_Lipo_Prop_RTF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

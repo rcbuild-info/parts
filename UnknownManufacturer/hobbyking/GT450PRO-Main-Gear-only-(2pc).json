@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO Main Gear only (2pc)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11571__GT450PRO_Main_Gear_only_2pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.18",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11571__GT450PRO_Main_Gear_only_2pc_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

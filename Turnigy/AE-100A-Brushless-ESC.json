@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "AE-100A Brushless ESC",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__28888__Turnigy_AE_100A_Brushless_ESC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$42.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:40:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28888__Turnigy_AE_100A_Brushless_ESC.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

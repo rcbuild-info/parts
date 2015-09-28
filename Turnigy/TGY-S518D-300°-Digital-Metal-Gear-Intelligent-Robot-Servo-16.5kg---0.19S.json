@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "TGY-S518D 300\u00b0 Digital Metal Gear Intelligent Robot Servo 16.5kg / 0.19S",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__41219__Turnigy_TGY_S518D_300_Digital_Metal_Gear_Intelligent_Robot_Servo_16_5kg_0_19S.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$33.61",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:15:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__41219__Turnigy_TGY_S518D_300_Digital_Metal_Gear_Intelligent_Robot_Servo_16_5kg_0_19S.html"
+  }
+ ],
+ "version": 2,
+ "weight": "70"
 }

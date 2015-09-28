@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "HK15318B Low Voltage Micro Servo 2.2g/11kg/.08sec",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71425",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44056",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43342",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43084",
-   "http://www.hobbyking.com/hobbyking/store/__29547__HobbyKing_8482_HK15318B_Low_Voltage_Micro_Servo_2_2g_11kg_08sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:30:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__29547__HobbyKing_8482_HK15318B_Low_Voltage_Micro_Servo_2_2g_11kg_08sec.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43084"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43342"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.82",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:29:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44056"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71425"
+  }
+ ],
+ "version": 2,
+ "weight": "2.2"
 }

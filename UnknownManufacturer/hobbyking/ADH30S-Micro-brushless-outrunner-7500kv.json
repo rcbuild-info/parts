@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ADH30S Micro brushless outrunner 7500kv",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__9997__ADH30S_Micro_brushless_outrunner_7500kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.20",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 01:43:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9997__ADH30S_Micro_brushless_outrunner_7500kv.html"
+  }
+ ],
+ "version": 2,
+ "weight": "2.6"
 }

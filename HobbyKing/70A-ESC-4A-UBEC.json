@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "70A ESC 4A UBEC",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70573",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44041",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38593",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31989",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29562",
-   "http://www.hobbyking.com/hobbyking/store/__24564__HobbyKing_70A_ESC_4A_UBEC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:44:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24564__HobbyKing_70A_ESC_4A_UBEC.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$31.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:41:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29562"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$31.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:41:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31989"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$31.44",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:41:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38593"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$33.71",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:41:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44041"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$30.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:41:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70573"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dr. Mad Thrust 90mm 12 Blade Alloy EDF w/Metal Rotor1600kv - 2800w (6S)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72986",
-   "http://www.hobbyking.com/hobbyking/store/__51644__Dr_Mad_Thrust_90mm_12_Blade_Alloy_EDF_w_Metal_Rotor1600kv_2800w_6S_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$158.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51644__Dr_Mad_Thrust_90mm_12_Blade_Alloy_EDF_w_Metal_Rotor1600kv_2800w_6S_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$169.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:40:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72986"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

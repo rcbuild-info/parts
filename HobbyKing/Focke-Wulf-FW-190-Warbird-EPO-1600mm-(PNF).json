@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Focke Wulf FW-190 Warbird EPO 1600mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58210",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58056",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57922",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56884",
-   "http://www.hobbyking.com/hobbyking/store/__51643__HobbyKing_8482_Focke_Wulf_FW_190_Warbird_EPO_1600mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$289.38",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 04:06:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51643__HobbyKing_8482_Focke_Wulf_FW_190_Warbird_EPO_1600mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$329.13",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56884"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$353.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57922"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$336.63",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 04:05:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58056"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$342.23",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58210"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

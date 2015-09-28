@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Multistar 40A V2 Slim BLHeli Multi-Rotor Brushless OPTO ESC 2-6S",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__65158__Turnigy_Multistar_40A_V2_Slim_BLHeli_Multi_Rotor_Brushless_OPTO_ESC_2_6S.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:50:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__65158__Turnigy_Multistar_40A_V2_Slim_BLHeli_Multi_Rotor_Brushless_OPTO_ESC_2_6S.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

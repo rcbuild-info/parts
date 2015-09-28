@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "10 in 1 Multi Charge Plug Adapter Set (1pc)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__55432__10_in_1_Multi_Charge_Plug_Adapter_Set_1pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__55432__10_in_1_Multi_Charge_Plug_Adapter_Set_1pc_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

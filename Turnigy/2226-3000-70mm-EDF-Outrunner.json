@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "2226-3000 70mm EDF Outrunner",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71745",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41174",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37002",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36653",
-   "http://www.hobbyking.com/hobbyking/store/__17231__Turnigy_2226_3000_70mm_EDF_Outrunner_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$11.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17231__Turnigy_2226_3000_70mm_EDF_Outrunner_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$12.20",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 01:40:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36653"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$12.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:40:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37002"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$11.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:40:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41174"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$11.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:40:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71745"
+  }
+ ],
+ "version": 2,
+ "weight": "98"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Center Hub for 450 Size Heli",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__12135__Center_Hub_for_450_Size_Heli.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.90",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Sun, 27 Sep 2015 23:23:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12135__Center_Hub_for_450_Size_Heli.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

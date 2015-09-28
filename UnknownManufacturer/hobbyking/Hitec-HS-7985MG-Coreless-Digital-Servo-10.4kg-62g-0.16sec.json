@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hitec HS-7985MG Coreless Digital Servo 10.4kg/62g/0.16sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__9765__Hitec_HS_7985MG_Coreless_Digital_Servo_10_4kg_62g_0_16sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$72.67",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:14:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9765__Hitec_HS_7985MG_Coreless_Digital_Servo_10_4kg_62g_0_16sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "62"
 }

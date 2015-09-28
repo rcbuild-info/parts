@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "YAK 12 Airplane EPO 950mm w/Flaps (RTF) (Mode 2)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__31670__YAK_12_Airplane_EPO_950mm_w_Flaps_RTF_Mode_2_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$99.99",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 04:03:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__31670__YAK_12_Airplane_EPO_950mm_w_Flaps_RTF_Mode_2_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

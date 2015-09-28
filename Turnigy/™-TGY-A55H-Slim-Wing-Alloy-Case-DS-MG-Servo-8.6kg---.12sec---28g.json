@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-A55H Slim Wing Alloy Case DS/MG Servo 8.6kg / .12sec / 28g",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71090",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70182",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48567",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48142",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30677",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29322",
-   "http://www.hobbyking.com/hobbyking/store/__18254__Turnigy_8482_TGY_A55H_Slim_Wing_Alloy_Case_DS_MG_Servo_8_6kg_12sec_28g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$37.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:11:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18254__Turnigy_8482_TGY_A55H_Slim_Wing_Alloy_Case_DS_MG_Servo_8_6kg_12sec_28g.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$37.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:11:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29322"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$38.30",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 00:11:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30677"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$38.71",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:10:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48142"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$37.93",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 00:10:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48567"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$51.81",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 00:10:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70182"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$38.47",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:10:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71090"
+  }
+ ],
+ "version": 2,
+ "weight": "28"
 }

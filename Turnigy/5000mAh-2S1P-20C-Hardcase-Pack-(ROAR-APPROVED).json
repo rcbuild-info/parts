@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "5000mAh 2S1P 20C Hardcase Pack (ROAR APPROVED)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59978",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59038",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36050",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29001",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25670",
-   "http://www.hobbyking.com/hobbyking/store/__21001__Turnigy_5000mAh_2S1P_20C_Hardcase_Pack_ROAR_APPROVED_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:25:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__21001__Turnigy_5000mAh_2S1P_20C_Hardcase_Pack_ROAR_APPROVED_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$24.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:22:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25670"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$22.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:22:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29001"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$22.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:22:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36050"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$24.77",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:22:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59038"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$28.37",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:22:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59978"
+  }
+ ],
+ "version": 2,
+ "weight": "276"
 }

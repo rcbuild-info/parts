@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Slow Stick Brushless Powered Airplane EPO/Carbon Fiber 1160mm (PNF)",
@@ -7,12 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47715",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47438",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47340",
-   "http://www.hobbyking.com/hobbyking/store/__39819__HobbyKing_174_8482_Slow_Stick_Brushless_Powered_Airplane_EPO_Carbon_Fiber_1160mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$78.03",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39819__HobbyKing_174_8482_Slow_Stick_Brushless_Powered_Airplane_EPO_Carbon_Fiber_1160mm_PNF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$89.52",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:57:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47340"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$84.50",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:57:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47438"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$95.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47715"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$84.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48224"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$84.92",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:57:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67816"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

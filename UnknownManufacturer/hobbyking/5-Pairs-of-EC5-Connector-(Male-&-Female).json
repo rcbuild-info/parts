@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5 Pairs of EC5 Connector (Male & Female)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__56997__5_Pairs_of_EC5_Connector_Male_Female_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__56997__5_Pairs_of_EC5_Connector_Male_Female_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

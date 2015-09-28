@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Yak 54 3D Profile EPP 960mm (ARF)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72538",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72514",
-   "http://www.hobbyking.com/hobbyking/store/__54904__HobbyKing_8482_Yak_54_3D_Profile_EPP_960mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$48.83",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 04:11:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__54904__HobbyKing_8482_Yak_54_3D_Profile_EPP_960mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$57.67",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:11:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72514"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$60.40",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:11:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72538"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

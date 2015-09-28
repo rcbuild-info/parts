@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Firstar 2000 V2 FPV Glider EPO 2000mm (PNF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68000",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67940",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67846",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67400",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67226",
-   "http://www.hobbyking.com/hobbyking/store/__61392__Firstar_2000_V2_FPV_Glider_EPO_2000mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$144.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__61392__Firstar_2000_V2_FPV_Glider_EPO_2000mm_PNF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$171.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67226"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$184.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67400"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$184.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67846"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$166.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67940"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$170.03",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:35:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68000"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

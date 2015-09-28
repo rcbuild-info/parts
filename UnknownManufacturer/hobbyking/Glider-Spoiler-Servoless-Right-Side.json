@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Glider Spoiler Servoless Right Side",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44998",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44660",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38764",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31606",
-   "http://www.hobbyking.com/hobbyking/store/__24722__Glider_Spoiler_Servoless_Right_Side.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$15.20",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:37:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24722__Glider_Spoiler_Servoless_Right_Side.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$15.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:34:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31606"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$15.39",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:34:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38764"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$16.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:34:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44660"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$16.45",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:34:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44998"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

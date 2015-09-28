@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SkyFun Airplane v1.1 w/ 2500kv Brushless Motor 875mm EPS (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63349",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63195",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41149",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39845",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37623",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37285",
-   "http://www.hobbyking.com/hobbyking/store/__25941__SkyFun_Airplane_v1_1_w_2500kv_Brushless_Motor_875mm_EPS_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$55.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25941__SkyFun_Airplane_v1_1_w_2500kv_Brushless_Motor_875mm_EPS_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$85.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:50:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37285"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$74.54",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:50:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37623"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$79.45",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:50:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39845"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$75.55",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:50:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41149"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$75.55",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:50:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63195"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$75.13",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:50:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63349"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

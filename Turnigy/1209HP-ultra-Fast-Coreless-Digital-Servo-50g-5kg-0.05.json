@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "1209HP ultra-Fast Coreless Digital Servo 50g/5kg/0.05",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71021",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30877",
-   "http://www.hobbyking.com/hobbyking/store/__23154__Turnigy_1209HP_ultra_Fast_Coreless_Digital_Servo_50g_5kg_0_05.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$20.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:27:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23154__Turnigy_1209HP_ultra_Fast_Coreless_Digital_Servo_50g_5kg_0_05.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$21.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:26:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30877"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$21.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:26:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71021"
+  }
+ ],
+ "version": 2,
+ "weight": "50"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "Traxxas compatible 6000mAh 2S1P 30C Lipo Pack (Suits TRA2843)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44337",
-   "http://www.hobbyking.com/hobbyking/store/__37350__ZIPPY_Traxxas_compatible_6000mAh_2S1P_30C_Lipo_Pack_Suits_TRA2843_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$24.75",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:11:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__37350__ZIPPY_Traxxas_compatible_6000mAh_2S1P_30C_Lipo_Pack_Suits_TRA2843_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$26.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:18:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44337"
+  }
+ ],
+ "version": 2,
+ "weight": "329"
 }

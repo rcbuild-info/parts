@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Durafly",
  "name": "SkyMule Twin FPV Sports Model EPO 1500mm (PNF)",
@@ -7,17 +7,72 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67996",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65200",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54600",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54402",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54352",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54279",
-   "http://www.hobbyking.com/hobbyking/store/__42644__Durafly_8482_SkyMule_Twin_FPV_Sports_Model_EPO_1500mm_PNF_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42644",
-   "http://www.hobbyking.com/hobbyking/store/__65200__Durafly_8482_SkyMule_Twin_FPV_Sports_Model_EPO_1500mm_PNF_AR_Warehouse_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$162.51",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:55:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42644__Durafly_8482_SkyMule_Twin_FPV_Sports_Model_EPO_1500mm_PNF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__65200__Durafly_8482_SkyMule_Twin_FPV_Sports_Model_EPO_1500mm_PNF_AR_Warehouse_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42644"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$200.23",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:55:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54279"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$192.57",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:55:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54352"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$190.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:55:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54402"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$194.05",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:54:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54600"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$192.57",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:54:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65200"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$199.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:54:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67996"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F9F-2 Panther 70mm EDF Jet TB Color Scheme Polycarbonate Coated (PNF)",
@@ -7,10 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71140",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51281"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$395.85",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:14:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39826__F9F_2_Panther_70mm_EDF_Jet_TB_Color_Scheme_Polycarbonate_Coated_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$426.93",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:12:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51281"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$426.93",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:12:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71140"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4mm RCPROPLUS Supra X Gold Bullet Polarised Connectors (6 pairs)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__40781__4mm_RCPROPLUS_Supra_X_Gold_Bullet_Polarised_Connectors_6_pairs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$14.80",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:07:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__40781__4mm_RCPROPLUS_Supra_X_Gold_Bullet_Polarised_Connectors_6_pairs_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

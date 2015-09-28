@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO Metal Swashplate",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11538__GT450PRO_Metal_Swashplate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11538__GT450PRO_Metal_Swashplate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

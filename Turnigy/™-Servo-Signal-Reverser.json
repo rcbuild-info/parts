@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 Servo Signal Reverser",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61465",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60637",
-   "http://www.hobbyking.com/hobbyking/store/__45690__Turnigy_8482_Servo_Signal_Reverser.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.66",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45690__Turnigy_8482_Servo_Signal_Reverser.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$3.43",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:35:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60637"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.83",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61465"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

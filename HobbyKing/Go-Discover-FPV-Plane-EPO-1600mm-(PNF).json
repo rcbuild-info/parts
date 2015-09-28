@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Go Discover FPV Plane EPO 1600mm (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64842",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63216",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51695",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51650",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51559",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51528",
-   "http://www.hobbyking.com/hobbyking/store/__38072__HobbyKing_174_8482_Go_Discover_FPV_Plane_EPO_1600mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$128.71",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:42:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__38072__HobbyKing_174_8482_Go_Discover_FPV_Plane_EPO_1600mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$151.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:42:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51528"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$149.42",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:42:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51559"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$158.53",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:42:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51650"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$153.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:42:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51695"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$147.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:42:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63216"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$170.84",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:38:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64842"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

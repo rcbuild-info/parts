@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Mini X6 Micro Hexa-copter Replacement Battery 3.7V 500mAh (1pc)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__53847__HobbyKing_8482_Mini_X6_Micro_Hexa_copter_Replacement_Battery_3_7V_500mAh_1pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.56",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 02:53:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__53847__HobbyKing_8482_Mini_X6_Micro_Hexa_copter_Replacement_Battery_3_7V_500mAh_1pc_.html"
+  }
+ ],
+ "version": 2,
+ "weight": "13"
 }

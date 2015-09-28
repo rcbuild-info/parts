@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 750mAh 1S 35-70C Lipo Pack(Walkera V120D02S/QR Infra X/QR W100S)",
@@ -7,9 +9,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59368"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:20:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__41271__Turnigy_nano_tech_750mAh_1S_35_70C_Lipo_Pack_Walkera_V120D02S_QR_Infra_X_QR_W100S_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.18",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:18:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43949"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:18:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44082"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.16",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:18:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44093"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:18:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44346"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:18:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59368"
+  }
+ ],
+ "version": 2,
+ "weight": "20"
 }

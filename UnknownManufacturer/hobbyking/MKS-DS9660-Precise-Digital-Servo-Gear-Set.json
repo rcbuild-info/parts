@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MKS DS9660 Precise Digital Servo Gear Set",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__6757__MKS_DS9660_Precise_Digital_Servo_Gear_Set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.49",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:10:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6757__MKS_DS9660_Precise_Digital_Servo_Gear_Set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

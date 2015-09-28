@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sbach 342 1000mm (ARF)",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31734",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29037",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22578",
-   "http://www.hobbyking.com/hobbyking/store/__18652__Sbach_342_1000mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$85.80",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:49:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18652__Sbach_342_1000mm_ARF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$100.23",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:48:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22578"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$102.48",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:48:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29037"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$100.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:48:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31734"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

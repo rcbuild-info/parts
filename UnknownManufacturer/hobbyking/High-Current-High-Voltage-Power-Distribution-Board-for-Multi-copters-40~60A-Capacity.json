@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "High Current/High Voltage Power Distribution Board for Multi-copters 40~60A Capacity",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__77400__High_Current_High_Voltage_Power_Distribution_Board_for_Multi_copters_40_60A_Capacity.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$17.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:05:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__77400__High_Current_High_Voltage_Power_Distribution_Board_for_Multi_copters_40_60A_Capacity.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

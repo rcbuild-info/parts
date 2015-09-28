@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Goteck",
  "name": "HC2627S HV Digital Metal Cased MG High Torque STD Servo 77g/29kg/0.14sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__67011__Goteck_HC2627S_HV_Digital_Metal_Cased_MG_High_Torque_STD_Servo_77g_29kg_0_14sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$37.70",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 00:11:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__67011__Goteck_HC2627S_HV_Digital_Metal_Cased_MG_High_Torque_STD_Servo_77g_29kg_0_14sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "77"
 }

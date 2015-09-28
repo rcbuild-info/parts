@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-589MG High Torque HV/BB/DS/MG Servo w/Alloy Case 8kg / 0.09sec / 40g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__62609__Turnigy_8482_TGY_589MG_High_Torque_HV_BB_DS_MG_Servo_w_Alloy_Case_8kg_0_09sec_40g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$43.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:23:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__62609__Turnigy_8482_TGY_589MG_High_Torque_HV_BB_DS_MG_Servo_w_Alloy_Case_8kg_0_09sec_40g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40"
 }

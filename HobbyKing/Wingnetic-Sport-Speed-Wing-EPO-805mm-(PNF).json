@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Wingnetic Sport Speed Wing EPO 805mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72585",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72543",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72410",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72392",
-   "http://www.hobbyking.com/hobbyking/store/__56560__HobbyKing_8482_Wingnetic_Sport_Speed_Wing_EPO_805mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$64.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:10:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__56560__HobbyKing_8482_Wingnetic_Sport_Speed_Wing_EPO_805mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:08:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72392"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:08:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72410"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:08:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72543"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$74.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:08:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72585"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

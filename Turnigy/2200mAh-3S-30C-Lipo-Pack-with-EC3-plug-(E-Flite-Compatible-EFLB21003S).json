@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "2200mAh 3S 30C Lipo Pack with EC3 plug (E-Flite Compatible EFLB21003S)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71872",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61354",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58033",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56089",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55568",
-   "http://www.hobbyking.com/hobbyking/store/__54360__Turnigy_2200mAh_3S_30C_Lipo_Pack_with_EC3_plug_E_Flite_Compatible_EFLB21003S_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$13.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:25:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__54360__Turnigy_2200mAh_3S_30C_Lipo_Pack_with_EC3_plug_E_Flite_Compatible_EFLB21003S_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$14.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:21:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55568"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$14.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:21:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56089"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$14.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:21:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58033"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$14.41",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:21:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61354"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$14.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:21:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71872"
+  }
+ ],
+ "version": 2,
+ "weight": "197"
 }

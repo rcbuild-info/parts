@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "TrackStar TS-411MG Digital 1/10 Scale Short Course Steering Servo 57g / 11.1kg / 0.09sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__62702__TrackStar_TS_411MG_Digital_1_10_Scale_Short_Course_Steering_Servo_57g_11_1kg_0_09sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$16.32",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__62702__TrackStar_TS_411MG_Digital_1_10_Scale_Short_Course_Steering_Servo_57g_11_1kg_0_09sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "57"
 }

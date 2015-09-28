@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-385DMAX Digital Servo (Metal Gear) 4.2kg / .15sec / 16.5g",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60571",
-   "http://www.hobbyking.com/hobbyking/store/__8761__BMS_385DMAX_Digital_Servo_Metal_Gear_4_2kg_15sec_16_5g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$20.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8761__BMS_385DMAX_Digital_Servo_Metal_Gear_4_2kg_15sec_16_5g.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$24.57",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60571"
+  }
+ ],
+ "version": 2,
+ "weight": "16.5"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "450 Series 1700KV Brushless Outrunner Helicopter Motor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__37456__Turnigy_450_Series_1700KV_Brushless_Outrunner_Helicopter_Motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$13.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:08:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__37456__Turnigy_450_Series_1700KV_Brushless_Outrunner_Helicopter_Motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": "78"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-617MG+HS Super Fast Servo (Mos-FET) for Competition 6.8kg / .10sec / 46g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__8772__BMS_617MG_HS_Super_Fast_Servo_Mos_FET_for_Competition_6_8kg_10sec_46g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$44.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8772__BMS_617MG_HS_Super_Fast_Servo_Mos_FET_for_Competition_6_8kg_10sec_46g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "46"
 }

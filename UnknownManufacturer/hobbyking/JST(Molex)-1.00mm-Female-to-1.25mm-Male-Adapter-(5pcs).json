@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JST(Molex) 1.00mm Female to 1.25mm Male Adapter (5pcs)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__43728__JST_Molex_1_00mm_Female_to_1_25mm_Male_Adapter_5pcs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.32",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__43728__JST_Molex_1_00mm_Female_to_1_25mm_Male_Adapter_5pcs_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sbach 300 EP 3D Balsa 1400mm (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71161",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63337",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56881",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53816",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52798",
-   "http://www.hobbyking.com/hobbyking/store/__45296__Sbach_300_EP_3D_Balsa_1400mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$169.61",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:50:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45296__Sbach_300_EP_3D_Balsa_1400mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$202.89",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:49:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52798"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$195.83",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:49:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53816"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$227.09",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:49:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56881"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$217.61",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:49:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63337"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$227.09",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:49:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71161"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

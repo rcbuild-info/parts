@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini T-33 Blue Angels EDF Fighter Jet EPO Plug-n-Fly",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68507",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56105",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32465",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16609",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16556",
-   "http://www.hobbyking.com/hobbyking/store/__14618__Mini_T_33_Blue_Angels_EDF_Fighter_Jet_EPO_Plug_n_Fly.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$64.87",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:14:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14618__Mini_T_33_Blue_Angels_EDF_Fighter_Jet_EPO_Plug_n_Fly.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$64.49",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:10:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16556"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$75.43",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:10:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16609"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$78.60",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:10:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32465"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$79.69",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:10:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56105"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$75.43",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:10:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68507"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

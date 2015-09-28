@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "600 H37404 Brushless Outrunner 910kv",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11188__Turnigy_600_H37404_Brushless_Outrunner_910kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$48.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:43:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11188__Turnigy_600_H37404_Brushless_Outrunner_910kv.html"
+  }
+ ],
+ "version": 2,
+ "weight": "390"
 }

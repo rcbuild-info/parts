@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Nylon T-Connectors Female (10pcs/Bag)",
@@ -7,15 +7,61 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68289",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64380",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43164",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42543",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34437",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17478",
-   "http://www.hobbyking.com/hobbyking/store/__11962__Nylon_T_Connectors_Female_10pcs_Bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11962__Nylon_T_Connectors_Female_10pcs_Bag_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$1.97",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17478"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34437"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$1.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42543"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$1.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43164"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$1.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64380"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$2.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68289"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

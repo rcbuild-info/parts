@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "40A ESC 4A UBEC",
@@ -7,13 +7,98 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65961",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32513",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29553",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27883",
-   "http://www.hobbyking.com/hobbyking/store/__18966__Hobby_King_40A_ESC_4A_UBEC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:45:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18966__Hobby_King_40A_ESC_4A_UBEC.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$16.69",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:45:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24562__HobbyKing_40A_ESC_4A_UBEC.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$18.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27883"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$19.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29553"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$19.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32513"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$17.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35729"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$17.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36686"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$17.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36846"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$17.03",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:43:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42437"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$18.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65961"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$17.18",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71445"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

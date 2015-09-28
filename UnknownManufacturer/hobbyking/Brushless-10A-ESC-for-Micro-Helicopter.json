@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Brushless 10A ESC for Micro Helicopter",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__25432__Brushless_10A_ESC_for_Micro_Helicopter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$15.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:52:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25432__Brushless_10A_ESC_for_Micro_Helicopter.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

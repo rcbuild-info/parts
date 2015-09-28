@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "TrackStar TS-940HG Brushless Helical Gear High Torque Servo 72g / 25kg / 0.1sec",
@@ -7,10 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77256",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77255"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$73.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__58097__TrackStar_TS_940HG_Brushless_Digital_Helical_Gear_High_Torque_Servo_72g_25kg_0_1sec.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$69.16",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:23:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76428"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$81.67",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:23:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77254"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$77.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:23:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77255"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$81.67",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:23:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77256"
+  }
+ ],
+ "version": 2,
+ "weight": "72"
 }

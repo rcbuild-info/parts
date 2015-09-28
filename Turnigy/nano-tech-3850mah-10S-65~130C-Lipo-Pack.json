@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 3850mah 10S 65~130C Lipo Pack",
@@ -7,13 +9,40 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37508",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36217",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35139",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27183",
-   "http://www.hobbyking.com/hobbyking/store/__19143__Turnigy_nano_tech_3850mah_10S_65_130C_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:00:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19143__Turnigy_nano_tech_3850mah_10S_65_130C_Lipo_Pack.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 02:58:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27183"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 02:58:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35139"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36217"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37508"
+  }
+ ],
+ "version": 2,
+ "weight": "136"
 }

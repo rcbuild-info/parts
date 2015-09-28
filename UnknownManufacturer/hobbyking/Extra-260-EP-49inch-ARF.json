@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Extra-260 EP 49inch ARF",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67103",
-   "http://www.hobbyking.com/hobbyking/store/__7726__Extra_260_EP_49inch_ARF.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$86.36",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:48:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7726__Extra_260_EP_49inch_ARF.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$109.55",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:47:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67103"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

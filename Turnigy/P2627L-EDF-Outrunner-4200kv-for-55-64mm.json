@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "P2627L EDF Outrunner 4200kv for 55/64mm",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70923",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46523",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34446",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23374",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23333",
-   "http://www.hobbyking.com/hobbyking/store/__14555__Turnigy_P2627L_EDF_Outrunner_4200kv_for_55_64mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14555__Turnigy_P2627L_EDF_Outrunner_4200kv_for_55_64mm.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$11.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23333"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$10.95",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 01:41:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23374"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$9.53",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34446"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$11.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46523"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$11.95",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 01:41:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70923"
+  }
+ ],
+ "version": 2,
+ "weight": "53"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Sbach 342 Gas 30cc 1850mm (ARF",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29902",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29085",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20603",
-   "http://www.hobbyking.com/hobbyking/store/__18391__Hobbyking_Sbach_342_Gas_30cc_1850mm_ARF.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$236.17",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18391__Hobbyking_Sbach_342_Gas_30cc_1850mm_ARF.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$289.63",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:50:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20603"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$288.22",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:50:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29085"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$305.71",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:50:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29902"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

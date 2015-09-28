@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "J-3 Laser Cut Kit 1180mm inc glazing/cowl (KIT)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68933",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67063",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66359",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56566",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56229",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54721",
-   "http://www.hobbyking.com/hobbyking/store/__22527__J_3_Laser_Cut_Kit_1180mm_inc_glazing_cowl_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$26.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22527__J_3_Laser_Cut_Kit_1180mm_inc_glazing_cowl_KIT_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$29.69",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54721"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$29.37",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:45:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56229"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$31.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56566"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$32.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66359"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$29.37",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67063"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$35.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68933"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

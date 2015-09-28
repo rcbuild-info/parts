@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Spirit Mini Sport Glider 815mm EPO (PNF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70404",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32575",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31221",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31184",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30777",
-   "http://www.hobbyking.com/hobbyking/store/__25474__Spirit_Mini_Sport_Glider_815mm_EPO_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$66.92",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:37:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25474__Spirit_Mini_Sport_Glider_815mm_EPO_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$74.42",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30777"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$77.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31184"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$76.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31221"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$73.87",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32575"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$74.42",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:35:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70404"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

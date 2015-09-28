@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Durafly",
  "name": "Messerschmitt Bf.110 - 1200mm (ARF)",
@@ -7,13 +7,45 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46913",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46811",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46672",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46557",
-   "http://www.hobbyking.com/hobbyking/store/__35740__Durafly_8482_Messerschmitt_Bf_110_1200mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$90.26",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:47:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__35740__Durafly_8482_Messerschmitt_Bf_110_1200mm_ARF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$109.12",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:47:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46557"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$105.53",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:47:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46672"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46811"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$108.42",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:47:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46913"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

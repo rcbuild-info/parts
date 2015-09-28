@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Big E-Fair Electric Glider Balsa 2500mm (ARF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66364",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66274",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65978",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65905",
-   "http://www.hobbyking.com/hobbyking/store/__51185__Big_E_Fair_Electric_Glider_Balsa_2500mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$103.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:41:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51185__Big_E_Fair_Electric_Glider_Balsa_2500mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$119.70",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:38:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65905"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$114.24",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:38:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65978"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$113.12",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:38:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66274"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$124.67",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:38:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66364"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

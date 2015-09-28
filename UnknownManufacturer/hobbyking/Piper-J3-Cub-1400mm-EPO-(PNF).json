@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Piper J3 Cub 1400mm EPO (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70771",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69735",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35384",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29027",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18951",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18597",
-   "http://www.hobbyking.com/hobbyking/store/__17335__Piper_J3_Cub_1400mm_EPO_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$123.90",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:03:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17335__Piper_J3_Cub_1400mm_EPO_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$140.18",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:02:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18597"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$143.89",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:02:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18951"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$146.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:02:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29027"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$144.62",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 04:02:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35384"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$177.20",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:01:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69735"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$146.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:01:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70771"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

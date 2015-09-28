@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 T541BBD High Torque DS Nano Servo 0.7kg / 4.7g / 0.09Sec",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68168",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46390",
-   "http://www.hobbyking.com/hobbyking/store/__28284__Turnigy_8482_T541BBD_High_Torque_DS_Nano_Servo_0_7kg_4_7g_0_09Sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28284__Turnigy_8482_T541BBD_High_Torque_DS_Nano_Servo_0_7kg_4_7g_0_09Sec.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.67",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 00:16:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46390"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$8.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:16:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68168"
+  }
+ ],
+ "version": 2,
+ "weight": "4.7"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Scorpion HKII-2221-10 Brushless Outrunner (Suits 450 Class Helis)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__17385__Scorpion_HKII_2221_10_Brushless_Outrunner_Suits_450_Class_Helis_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$79.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:33:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17385__Scorpion_HKII_2221_10_Brushless_Outrunner_Suits_450_Class_Helis_.html"
+  }
+ ],
+ "version": 2,
+ "weight": "81"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Quanum Observer FPV Plane Plastic/EPO 1980mm (PNF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78898",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78897",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78896",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78895",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78894",
-   "http://www.hobbyking.com/hobbyking/store/__58037__Quanum_Observer_FPV_Plane_Plastic_EPO_1980mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$199.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:55:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__58037__Quanum_Observer_FPV_Plane_Plastic_EPO_1980mm_PNF_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$224.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:53:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78894"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$224.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:53:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78895"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$246.34",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:53:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78896"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$239.32",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:53:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78897"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$246.34",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:53:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78898"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

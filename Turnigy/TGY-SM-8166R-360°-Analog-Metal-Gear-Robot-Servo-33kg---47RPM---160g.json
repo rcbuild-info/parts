@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "TGY-SM-8166R 360\u00b0 Analog Metal Gear Robot Servo 33kg / 47RPM / 160g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__41214__Turnigy_TGY_SM_8166R_360_Analog_Metal_Gear_Robot_Servo_33kg_47RPM_160g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$26.63",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:15:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__41214__Turnigy_TGY_SM_8166R_360_Analog_Metal_Gear_Robot_Servo_33kg_47RPM_160g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "160"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "G110 Brushless Outrunner 210kv (1.10 Glow)",
@@ -7,10 +7,21 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29501",
-   "http://www.hobbyking.com/hobbyking/store/__19039__Turnigy_G110_Brushless_Outrunner_210kv_1_10_Glow_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$73.45",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 01:28:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19039__Turnigy_G110_Brushless_Outrunner_210kv_1_10_Glow_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29501"
+  }
+ ],
+ "version": 2,
+ "weight": "475"
 }

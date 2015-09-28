@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-821DMGplusHS High Performance Digital Servo (Metal Gear) 6.4kg / .11sec / 45g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__8769__BMS_821DMGplusHS_High_Performance_Digital_Servo_Metal_Gear_6_4kg_11sec_45g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$28.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8769__BMS_821DMGplusHS_High_Performance_Digital_Servo_Metal_Gear_6_4kg_11sec_45g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "45"
 }

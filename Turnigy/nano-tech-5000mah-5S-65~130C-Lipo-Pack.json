@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 5000mah 5S 65~130C Lipo Pack",
@@ -7,13 +9,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59232",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35527",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33255",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32769",
-   "http://www.hobbyking.com/hobbyking/store/__19155__Turnigy_nano_tech_5000mah_5S_65_130C_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$88.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:42:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19155__Turnigy_nano_tech_5000mah_5S_65_130C_Lipo_Pack.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$92.52",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 02:40:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32769"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$91.14",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:40:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33255"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$92.05",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 02:40:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35527"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$91.14",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:40:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59232"
+  }
+ ],
+ "version": 2,
+ "weight": "712"
 }

@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech Ultimate 4600mah 2S2P 90C Hardcase Lipo Short Pack (ROAR & BRCA)",
@@ -7,11 +9,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64933",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63788",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63086"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$41.02",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:20:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51840__Turnigy_nano_tech_Ultimate_4600mah_2S2P_90C_Hardcase_Lipo_Short_Pack_ROAR_BRCA_Approved_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$41.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:17:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63008"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$42.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:17:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63086"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$42.51",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:17:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63788"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$42.77",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:17:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64933"
+  }
+ ],
+ "version": 2,
+ "weight": "237"
 }

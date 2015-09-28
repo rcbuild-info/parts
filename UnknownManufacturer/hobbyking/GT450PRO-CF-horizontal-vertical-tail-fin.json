@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO CF horizontal/vertical tail fin",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__12880__GT450PRO_CF_horizontal_vertical_tail_fin.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12880__GT450PRO_CF_horizontal_vertical_tail_fin.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

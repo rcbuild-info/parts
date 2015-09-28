@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dolphin Micro Sport EPO, 555mm (PNF)",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69430",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68904",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18057",
-   "http://www.hobbyking.com/hobbyking/store/__16286__Dolphin_Micro_Sport_EPO_555mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$49.14",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16286__Dolphin_Micro_Sport_EPO_555mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$53.88",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:57:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18057"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$68.14",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68904"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$53.88",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:57:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69430"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

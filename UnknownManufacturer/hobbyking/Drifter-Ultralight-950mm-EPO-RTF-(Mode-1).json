@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Drifter Ultralight 950mm EPO RTF (Mode 1)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__31673__Drifter_Ultralight_950mm_EPO_RTF_Mode_1_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$104.99",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:02:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__31673__Drifter_Ultralight_950mm_EPO_RTF_Mode_1_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

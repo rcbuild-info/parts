@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "4000mAh 3S 20C Lipo pack (Perfect for QRF400)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59856",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58929",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36019",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31943",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16188",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15372",
-   "http://www.hobbyking.com/hobbyking/store/__11612__Turnigy_4000mAh_3S_20C_Lipo_pack_Perfect_for_QRF400_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$22.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:24:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11612__Turnigy_4000mAh_3S_20C_Lipo_pack_Perfect_for_QRF400_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$23.66",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:23:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15372"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$23.22",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:23:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16188"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$24.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:23:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31943"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$24.34",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:23:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36019"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$23.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:23:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58929"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$30.69",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:23:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59856"
+  }
+ ],
+ "version": 2,
+ "weight": "340"
 }

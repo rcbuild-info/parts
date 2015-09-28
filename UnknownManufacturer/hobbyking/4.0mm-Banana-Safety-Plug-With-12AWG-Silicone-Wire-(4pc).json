@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4.0mm Banana Safety Plug With 12AWG Silicone Wire (4pc)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77414",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77413",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77412",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77411",
-   "http://www.hobbyking.com/hobbyking/store/__77404__4_0mm_Banana_Safety_Plug_With_12AWG_Silicone_Wire_4pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__77404__4_0mm_Banana_Safety_Plug_With_12AWG_Silicone_Wire_4pc_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$5.02",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:01:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77411"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$5.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:01:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77412"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$5.34",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:01:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77413"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$5.17",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:01:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77414"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

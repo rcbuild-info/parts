@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Invictus EF-1 Pylon Racer Balsa 1288mm - Red (ARF)",
@@ -7,13 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57906",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54832",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54434",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51427",
-   "http://www.hobbyking.com/hobbyking/store/__38075__HobbyKing_174_Invictus_EF_1_Pylon_Racer_Balsa_1288mm_Red_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$129.99",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 04:16:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__38075__HobbyKing_174_Invictus_EF_1_Pylon_Racer_Balsa_1288mm_Red_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$152.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:15:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51427"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$148.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:15:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54434"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$151.08",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 04:15:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54832"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$159.47",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:15:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57906"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$148.86",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:15:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63217"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$169.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:15:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63346"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

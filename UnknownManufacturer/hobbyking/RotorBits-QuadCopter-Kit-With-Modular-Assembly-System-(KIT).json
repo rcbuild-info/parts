@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RotorBits QuadCopter Kit With Modular Assembly System (KIT)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65283",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61711",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57259",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55216",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55137",
-   "http://www.hobbyking.com/hobbyking/store/__51416__RotorBits_QuadCopter_Kit_With_Modular_Assembly_System_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$30.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:46:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51416__RotorBits_QuadCopter_Kit_With_Modular_Assembly_System_KIT_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$37.61",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:46:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55137"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$36.57",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:46:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55216"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$38.63",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:46:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57259"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$39.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:46:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61711"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$36.57",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:46:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65283"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

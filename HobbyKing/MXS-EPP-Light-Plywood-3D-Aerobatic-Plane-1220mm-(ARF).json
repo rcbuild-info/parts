@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "MXS EPP/Light Plywood 3D Aerobatic Plane 1220mm (ARF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63316",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51702",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51652",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51563",
-   "http://www.hobbyking.com/hobbyking/store/__48429__HobbyKing_174_8482_MXS_EPP_Light_Plywood_3D_Aerobatic_Plane_1220mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$97.37",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:09:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__48429__HobbyKing_174_8482_MXS_EPP_Light_Plywood_3D_Aerobatic_Plane_1220mm_ARF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$105.04",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:07:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51563"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$108.57",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:07:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51652"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$109.17",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:07:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51702"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$126.92",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:07:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63316"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

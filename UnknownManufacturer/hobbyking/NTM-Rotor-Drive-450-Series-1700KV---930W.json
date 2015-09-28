@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "NTM Rotor Drive 450 Series 1700KV / 930W",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70559",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35726",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30933",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30431",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28431",
-   "http://www.hobbyking.com/hobbyking/store/__24433__NTM_Rotor_Drive_450_Series_1700KV_930W.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:43:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24433__NTM_Rotor_Drive_450_Series_1700KV_930W.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$23.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28431"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$22.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30431"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$18.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30933"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$18.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35726"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$18.80",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 01:42:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70559"
+  }
+ ],
+ "version": 2,
+ "weight": "96"
 }

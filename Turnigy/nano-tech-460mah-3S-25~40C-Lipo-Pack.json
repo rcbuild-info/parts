@@ -13,21 +13,51 @@
  },
  "variants": [
   {
+   "location": "International Warehouse",
+   "price": "$6.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:20:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__11897__Turnigy_nano_tech_460mah_3S_25_40C_Lipo_Pack.html"
   },
   {
+   "location": "USA West Warehouse",
+   "price": "$6.62",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:17:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20415"
   },
   {
+   "location": "Australia Warehouse",
+   "price": "$6.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:17:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25209"
   },
   {
+   "location": "UK Warehouse",
+   "price": "$6.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:17:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32280"
   },
   {
+   "location": "European Warehouse",
+   "price": "$6.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:17:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32547"
   },
   {
+   "location": "USA East Warehouse",
+   "price": "$6.62",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:17:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59081"
   },
   {
@@ -39,5 +69,5 @@
   }
  ],
  "version": 2,
- "weight": ""
+ "weight": "45"
 }

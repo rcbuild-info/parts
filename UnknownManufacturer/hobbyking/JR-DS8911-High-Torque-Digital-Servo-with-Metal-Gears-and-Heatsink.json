@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JR DS8911 High Torque Digital Servo with Metal Gears and Heatsink",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__42268__JR_DS8911_High_Torque_Digital_Servo_with_Metal_Gears_and_Heatsink.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$115.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:16:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42268__JR_DS8911_High_Torque_Digital_Servo_with_Metal_Gears_and_Heatsink.html"
+  }
+ ],
+ "version": 2,
+ "weight": "66"
 }

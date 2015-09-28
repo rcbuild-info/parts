@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "DT236HV High Voltage Digital Metal Gear Park Servo 6kg/27g/0.15sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__76250__Corona_DT236HV_High_Voltage_Digital_Metal_Gear_Park_Servo_6kg_27g_0_15sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:11:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__76250__Corona_DT236HV_High_Voltage_Digital_Metal_Gear_Park_Servo_6kg_27g_0_15sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "27"
 }

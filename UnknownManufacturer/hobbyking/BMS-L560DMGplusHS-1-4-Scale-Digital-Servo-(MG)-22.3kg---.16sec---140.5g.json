@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-L560DMGplusHS 1/4 Scale Digital Servo (MG) 22.3kg / .16sec / 140.5g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__9038__BMS_L560DMGplusHS_1_4_Scale_Digital_Servo_MG_22_3kg_16sec_140_5g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$42.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9038__BMS_L560DMGplusHS_1_4_Scale_Digital_Servo_MG_22_3kg_16sec_140_5g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "141"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Voltage Booster for Servo & Rx (1S to 5v 1A)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71646",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68031",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45986",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40252",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38030",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37813",
-   "http://www.hobbyking.com/hobbyking/store/__11784__TURNIGY_Voltage_Booster_for_Servo_Rx_1S_to_5v_1A_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:40:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11784__TURNIGY_Voltage_Booster_for_Servo_Rx_1S_to_5v_1A_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.37",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37813"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.37",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38030"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.37",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40252"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.37",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45986"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$3.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68031"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.37",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:38:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71646"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "929MG Metal Gear Servo 12.5g/2.2k/0.10sec",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69411",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40944",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39344",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38937",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38569",
-   "http://www.hobbyking.com/hobbyking/store/__11856__HobbyKing_8482_929MG_Metal_Gear_Servo_12_5g_2_2k_0_10sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:20:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11856__HobbyKing_8482_929MG_Metal_Gear_Servo_12_5g_2_2k_0_10sec.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$6.09",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:20:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38569"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$6.05",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 00:20:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38937"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39344"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40944"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$6.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69411"
+  }
+ ],
+ "version": 2,
+ "weight": "12.5"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DHC-2 Beaver Balsa Super Scale 1800mm (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70406",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30511",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29075",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28841",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28260",
-   "http://www.hobbyking.com/hobbyking/store/__24703__DHC_2_Beaver_Balsa_Super_Scale_1800mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$167.09",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:50:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24703__DHC_2_Beaver_Balsa_Super_Scale_1800mm_ARF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$196.55",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:49:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28260"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$199.02",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:49:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28841"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$206.59",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:49:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29075"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$218.60",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:49:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30511"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$167.09",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:49:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70406"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

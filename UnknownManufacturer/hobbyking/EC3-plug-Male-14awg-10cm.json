@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EC3 plug Male 14awg 10cm",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60821",
-   "http://www.hobbyking.com/hobbyking/store/__8327__EC3_plug_Male_14awg_10cm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:07:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8327__EC3_plug_Male_14awg_10cm.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$2.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60821"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Futaba",
  "name": "BLS172SV S.Bus 2 Ultra High Torque Brushless Servo 37kg 0.11sec/60deg",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__54763__Futaba_BLS172SV_S_Bus_2_Ultra_High_Torque_Brushless_Servo_37kg_0_11sec_60deg.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$199.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:31:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__54763__Futaba_BLS172SV_S_Bus_2_Ultra_High_Torque_Brushless_Servo_37kg_0_11sec_60deg.html"
+  }
+ ],
+ "version": 2,
+ "weight": "74"
 }

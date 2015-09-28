@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Towerpro MG996R 10kg Servo 55g / 10kg / .20sec",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70878",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68011",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36555",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33314",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31626",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29803",
-   "http://www.hobbyking.com/hobbyking/store/__6221__Towerpro_MG996R_10kg_Servo_55g_10kg_20sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6221__Towerpro_MG996R_10kg_Servo_55g_10kg_20sec.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$11.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29803"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$10.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31626"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$10.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33314"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$10.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36555"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$12.01",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68011"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$10.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70878"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Digital high torque bearing servo 12g/2.6kg/.16sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__6339__Digital_high_torque_bearing_servo_12g_2_6kg_16sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6339__Digital_high_torque_bearing_servo_12g_2_6kg_16sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "12"
 }

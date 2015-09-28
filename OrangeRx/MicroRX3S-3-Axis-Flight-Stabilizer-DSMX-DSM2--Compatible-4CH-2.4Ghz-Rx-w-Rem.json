@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "OrangeRx",
  "name": "MicroRX3S 3-Axis Flight Stabilizer DSMX/DSM2  Compatible 4CH 2.4Ghz Rx w/Rem",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78150",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78149",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78148",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78140",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78139"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$24.63",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__63449__OrangeRX_MicroRX3S_3_Axis_Flight_Stabilizer_DSMX_DSM2_Compatible_4CH_2_4Ghz_Rx_w_Rem_Gain_Control.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$22.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:56:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78139"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$22.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:56:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78140"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$24.63",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:56:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78148"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$24.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:56:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78149"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$23.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:56:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78150"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

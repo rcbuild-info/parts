@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 1300mAh 6S1P 25~50C Lipo Pack (450 helicopter HK/Trex/Rave/E4)",
@@ -7,10 +9,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60338",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59372"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$22.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:11:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23918__Turnigy_nano_tech_1300mAh_6S1P_25_50C_Lipo_Pack_450_helicopter_HK_Trex_Rave_E4_etc_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$24.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:11:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32606"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$23.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:11:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33277"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$24.20",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:11:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35587"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$24.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:11:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40131"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$23.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:11:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59372"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$29.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:11:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60338"
+  }
+ ],
+ "version": 2,
+ "weight": "206"
 }

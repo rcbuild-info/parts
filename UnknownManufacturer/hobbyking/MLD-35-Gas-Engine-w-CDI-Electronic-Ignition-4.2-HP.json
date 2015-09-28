@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MLD-35 Gas Engine w/CDI Electronic Ignition 4.2 HP",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73109",
-   "http://www.hobbyking.com/hobbyking/store/__48640__MLD_35_Gas_Engine_w_CDI_Electronic_Ignition_4_2_HP.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$244.72",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 00:09:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__48640__MLD_35_Gas_Engine_w_CDI_Electronic_Ignition_4_2_HP.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$267.08",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 00:08:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73109"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

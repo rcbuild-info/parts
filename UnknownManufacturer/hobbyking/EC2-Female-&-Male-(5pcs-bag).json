@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EC2 Female & Male (5pcs/bag)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67198",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45621",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44036",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30668",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26211",
-   "http://www.hobbyking.com/hobbyking/store/__21756__EC2_Female_Male_5pcs_bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:07:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__21756__EC2_Female_Male_5pcs_bag_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26211"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30668"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44036"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45621"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67198"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

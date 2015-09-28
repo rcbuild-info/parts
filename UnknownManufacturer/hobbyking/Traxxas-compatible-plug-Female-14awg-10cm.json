@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Traxxas compatible plug Female 14awg 10cm",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43467",
-   "http://www.hobbyking.com/hobbyking/store/__8323__Traxxas_compatible_plug_Female_14awg_10cm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.59",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:03:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8323__Traxxas_compatible_plug_Female_14awg_10cm.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$1.81",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 00:02:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43467"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

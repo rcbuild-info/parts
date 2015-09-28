@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Gee Bee-R3 1400mm EPO (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68938",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63190",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39193",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37644",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35400",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29060",
-   "http://www.hobbyking.com/hobbyking/store/__24673__Gee_Bee_R3_1400mm_EPO_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$118.69",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:50:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24673__Gee_Bee_R3_1400mm_EPO_PNF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$149.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:49:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29060"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$157.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:49:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35400"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$144.61",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:49:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37644"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$146.98",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:49:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39193"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$144.61",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:49:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63190"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$182.07",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:49:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68938"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

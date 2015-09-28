@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Racer Cat 60 Balsa 1600mm Glow (Yellow) (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71803",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54433",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33622",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32490",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32073",
-   "http://www.hobbyking.com/hobbyking/store/__17470__Racer_Cat_60_Balsa_1600mm_Glow_Yellow_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$121.55",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:16:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17470__Racer_Cat_60_Balsa_1600mm_Glow_Yellow_ARF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$142.58",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:15:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32073"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$160.82",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:15:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32490"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$146.07",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:15:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33622"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$169.73",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:15:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54433"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$169.73",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:15:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71803"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

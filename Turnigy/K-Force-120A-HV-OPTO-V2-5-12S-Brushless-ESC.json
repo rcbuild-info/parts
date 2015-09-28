@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "K-Force 120A-HV OPTO V2 5-12S Brushless ESC",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62679",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49602",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46565",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46189",
-   "http://www.hobbyking.com/hobbyking/store/__38782__TURNIGY_K_Force_120A_HV_OPTO_V2_5_12S_Brushless_ESC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$114.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:40:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__38782__TURNIGY_K_Force_120A_HV_OPTO_V2_5_12S_Brushless_ESC.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$125.03",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:37:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46189"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$123.04",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:37:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46565"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$139.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:37:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49602"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$121.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:37:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62679"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

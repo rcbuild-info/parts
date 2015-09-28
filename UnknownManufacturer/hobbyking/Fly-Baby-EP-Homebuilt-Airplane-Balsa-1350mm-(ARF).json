@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Fly Baby EP Homebuilt Airplane Balsa 1350mm (ARF)",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63300",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54723",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54663",
-   "http://www.hobbyking.com/hobbyking/store/__44758__Fly_Baby_EP_Homebuilt_Airplane_Balsa_1350mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$110.88",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:02:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__44758__Fly_Baby_EP_Homebuilt_Airplane_Balsa_1350mm_ARF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$122.54",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:58:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54663"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$126.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54723"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$149.89",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:46:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63300"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

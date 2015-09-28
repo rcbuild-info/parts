@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-SM-4482M All-purpose DS/MG Servo 13.5kg / 0.15 Sec / 63g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__41225__Turnigy_8482_TGY_SM_4482M_All_purpose_DS_MG_Servo_13_5kg_0_15_Sec_63g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__41225__Turnigy_8482_TGY_SM_4482M_All_purpose_DS_MG_Servo_13_5kg_0_15_Sec_63g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "63"
 }

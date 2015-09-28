@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-35A High Voltage (7.4V) Coreless Digital Servo w/Titanium Alloy Gear 35.5kg / .14sec / 74g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__16245__BMS_35A_High_Voltage_7_4V_Coreless_Digital_Servo_w_Titanium_Alloy_Gear_35_5kg_14sec_74g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$61.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16245__BMS_35A_High_Voltage_7_4V_Coreless_Digital_Servo_w_Titanium_Alloy_Gear_35_5kg_14sec_74g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "74"
 }

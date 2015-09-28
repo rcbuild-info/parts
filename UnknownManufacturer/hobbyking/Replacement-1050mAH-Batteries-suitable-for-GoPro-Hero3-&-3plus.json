@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Replacement 1050mAH Batteries suitable for GoPro Hero3 & 3plus",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=79432",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=79431",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=79430",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=79429",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=79428",
-   "http://www.hobbyking.com/hobbyking/store/__79394__Replacement_1050mAH_Batteries_suitable_for_GoPro_Hero3_3plus.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.89",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:20:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__79394__Replacement_1050mAH_Batteries_suitable_for_GoPro_Hero3_3plus.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$6.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:19:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=79428"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:19:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=79429"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:19:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=79430"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$6.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:19:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=79431"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$6.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:19:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=79432"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

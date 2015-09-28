@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Aquastar AS26BD 26cc Watercooled Marine Gas Racing Engine with Coil Ignition",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__68406__Aquastar_AS26BD_26cc_Watercooled_Marine_Gas_Racing_Engine_with_Coil_Ignition.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$161.99",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 00:09:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__68406__Aquastar_AS26BD_26cc_Watercooled_Marine_Gas_Racing_Engine_with_Coil_Ignition.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

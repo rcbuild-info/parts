@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "T Plug Battery Harness 14AWG for 3 Packs in Series",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__7181__T_Plug_Battery_Harness_14AWG_for_3_Packs_in_Series.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7181__T_Plug_Battery_Harness_14AWG_for_3_Packs_in_Series.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

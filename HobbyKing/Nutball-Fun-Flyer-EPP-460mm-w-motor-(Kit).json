@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Nutball Fun Flyer EPP 460mm w/motor (Kit)",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78917",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78911",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78910",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78909",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78908"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$36.89",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:00:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__55100__HobbyKing_Nutball_Fun_Flyer_EPP_460mm_w_motor_Kit_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$41.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:00:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78908"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$44.77",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:00:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78909"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$41.97",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:00:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78910"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$41.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:00:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78911"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$44.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:00:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78917"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

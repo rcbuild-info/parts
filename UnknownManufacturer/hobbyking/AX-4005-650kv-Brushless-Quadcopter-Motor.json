@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "AX-4005-650kv Brushless Quadcopter Motor",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71759",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58381",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57203",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56065",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53921",
-   "http://www.hobbyking.com/hobbyking/store/__17922__AX_4005_650kv_Brushless_Quadcopter_Motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$30.81",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:43:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17922__AX_4005_650kv_Brushless_Quadcopter_Motor.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$32.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53921"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$31.06",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 01:42:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56065"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$33.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57203"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$31.73",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58381"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$32.30",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 01:42:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71759"
+  }
+ ],
+ "version": 2,
+ "weight": "56"
 }

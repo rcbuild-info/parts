@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Multistar High Capacity 4S 6600mAh Multi-Rotor Lipo Pack",
@@ -7,15 +7,64 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68120",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66484",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65583",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65276",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64798",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64442",
-   "http://www.hobbyking.com/hobbyking/store/__56848__Multistar_High_Capacity_4S_6600mAh_Multi_Rotor_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$42.75",
+   "stock_state": "backordered",
+   "timestamp": "Mon, 28 Sep 2015 03:06:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__56848__Multistar_High_Capacity_4S_6600mAh_Multi_Rotor_Lipo_Pack.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$42.75",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:05:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64442"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$42.75",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:05:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64798"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$42.75",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:05:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65276"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$42.75",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:05:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65583"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$42.75",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:05:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66484"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$49.95",
+   "stock_state": "backordered",
+   "timestamp": "Mon, 28 Sep 2015 03:05:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68120"
+  }
+ ],
+ "version": 2,
+ "weight": "537"
 }

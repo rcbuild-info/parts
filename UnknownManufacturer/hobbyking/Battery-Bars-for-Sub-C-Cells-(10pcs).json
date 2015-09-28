@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Battery Bars for Sub-C Cells (10pcs)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57685",
-   "http://www.hobbyking.com/hobbyking/store/__51183__Battery_Bars_for_Sub_C_Cells_10pcs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51183__Battery_Bars_for_Sub_C_Cells_10pcs_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.47",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 00:04:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57685"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

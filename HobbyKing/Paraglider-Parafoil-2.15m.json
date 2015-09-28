@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Paraglider Parafoil 2.15m",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70726",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33387",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32068",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31666",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30801",
-   "http://www.hobbyking.com/hobbyking/store/__14284__HobbyKing_Paraglider_Parafoil_2_15m.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$17.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:38:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14284__HobbyKing_Paraglider_Parafoil_2_15m.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$20.40",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:37:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30801"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$20.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31666"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$18.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32068"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$19.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33387"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$20.40",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:37:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70726"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

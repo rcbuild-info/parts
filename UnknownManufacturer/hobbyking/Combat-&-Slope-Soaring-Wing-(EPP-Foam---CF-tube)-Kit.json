@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Combat & Slope Soaring Wing (EPP Foam / CF tube) Kit",
@@ -7,14 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67948",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63163",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37186",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32452",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30973",
-   "http://www.hobbyking.com/hobbyking/store/__11440__Combat_Slope_Soaring_Wing_EPP_Foam_CF_tube_Kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$23.99",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:37:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11440__Combat_Slope_Soaring_Wing_EPP_Foam_CF_tube_Kit.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$25.00",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:35:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30973"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$25.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32452"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$26.40",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:35:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37186"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$26.07",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:35:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38875"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$26.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63163"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$28.41",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67948"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

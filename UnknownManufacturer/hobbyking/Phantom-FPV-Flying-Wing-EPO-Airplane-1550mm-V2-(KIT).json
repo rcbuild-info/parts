@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Phantom FPV Flying Wing EPO Airplane 1550mm V2 (KIT)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68924",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60453",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58209",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58060",
-   "http://www.hobbyking.com/hobbyking/store/__53815__Phantom_FPV_Flying_Wing_EPO_Airplane_1550mm_V2_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$83.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:55:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__53815__Phantom_FPV_Flying_Wing_EPO_Airplane_1550mm_V2_KIT_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$100.91",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:55:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58060"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$100.70",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:55:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58209"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$98.34",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:55:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60453"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$127.83",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:55:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68924"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

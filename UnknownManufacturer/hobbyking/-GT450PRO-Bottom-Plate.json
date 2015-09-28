@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": " GT450PRO Bottom Plate",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11552___GT450PRO_Bottom_Plate.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.80",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Sun, 27 Sep 2015 23:26:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11552___GT450PRO_Bottom_Plate.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

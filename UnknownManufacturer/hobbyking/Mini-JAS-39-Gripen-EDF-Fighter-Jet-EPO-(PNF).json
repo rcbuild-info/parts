@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini JAS-39 Gripen EDF Fighter Jet EPO (PNF)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25865",
-   "http://www.hobbyking.com/hobbyking/store/__20349__Mini_JAS_39_Gripen_EDF_Fighter_Jet_EPO_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$67.21",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:14:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20349__Mini_JAS_39_Gripen_EDF_Fighter_Jet_EPO_PNF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$75.47",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:10:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25865"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

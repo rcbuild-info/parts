@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Binary 900 V2.0 DLG Glider Kit (900mm)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70663",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29990",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25052",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22879",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17091",
-   "http://www.hobbyking.com/hobbyking/store/__15183__Binary_900_V2_0_DLG_Glider_Kit_900mm_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$157.30",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:41:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__15183__Binary_900_V2_0_DLG_Glider_Kit_900mm_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$170.88",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:40:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17091"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$176.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:40:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22879"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$190.60",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:40:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25052"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$189.56",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:40:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29990"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$176.98",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:40:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70663"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

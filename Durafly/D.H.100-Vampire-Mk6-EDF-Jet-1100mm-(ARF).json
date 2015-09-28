@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Durafly",
  "name": "D.H.100 Vampire Mk6 EDF Jet 1100mm (ARF)",
@@ -7,13 +7,43 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63184",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28846",
-   "http://www.hobbyking.com/hobbyking/store/__20582__Durafly_D_H_100_Vampire_Mk6_EDF_Jet_1100mm_ARF_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20582",
-   "http://www.hobbyking.com/hobbyking/store/__63184__Durafly_D_H_100_Vampire_Mk6_EDF_Jet_1100mm_ARF_AR_Warehouse_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$57.43",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20582__Durafly_D_H_100_Vampire_Mk6_EDF_Jet_1100mm_ARF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__63184__Durafly_D_H_100_Vampire_Mk6_EDF_Jet_1100mm_ARF_AR_Warehouse_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20582"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28846"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$69.84",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:50:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36506"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$69.84",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:47:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63184"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

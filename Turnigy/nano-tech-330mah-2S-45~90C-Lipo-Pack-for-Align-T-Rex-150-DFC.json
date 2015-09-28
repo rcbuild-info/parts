@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 330mah 2S 45~90C Lipo Pack for Align T-Rex 150 DFC",
@@ -7,14 +9,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59261",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56090",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55690",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54712",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54710",
-   "http://www.hobbyking.com/hobbyking/store/__52790__Turnigy_nano_tech_330mah_2S_45_90C_Lipo_Pack_for_Align_T_Rex_150_DFC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:31:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__52790__Turnigy_nano_tech_330mah_2S_45_90C_Lipo_Pack_for_Align_T_Rex_150_DFC.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$6.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:30:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54710"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:30:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54712"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:30:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55690"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$6.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:29:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56090"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$6.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:29:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59261"
+  }
+ ],
+ "version": 2,
+ "weight": "19"
 }

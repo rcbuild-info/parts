@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "182 Civil Aircraft 500 Class Airplane 1300mm (PNF)",
@@ -7,13 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67997",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54922",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39754",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39532",
-   "http://www.hobbyking.com/hobbyking/store/__33607__HobbyKing_182_Civil_Aircraft_500_Class_Airplane_1300mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$138.78",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:53:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__33607__HobbyKing_182_Civil_Aircraft_500_Class_Airplane_1300mm_PNF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$157.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:47:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39363"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$169.02",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:47:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39532"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$161.97",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:46:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39754"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$175.22",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:46:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54922"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$161.97",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:46:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67091"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$175.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:46:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67997"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

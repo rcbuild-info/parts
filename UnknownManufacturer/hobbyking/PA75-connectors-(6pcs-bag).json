@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "PA75 connectors (6pcs/bag)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__15422__PA75_connectors_6pcs_bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:07:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__15422__PA75_connectors_6pcs_bag_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

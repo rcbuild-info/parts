@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "EasyMatch G10 Series - Replacement Shaft",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__22637__Turnigy_EasyMatch_G10_Series_Replacement_Shaft.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:28:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22637__Turnigy_EasyMatch_G10_Series_Replacement_Shaft.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

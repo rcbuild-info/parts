@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "TGY-S401P 180\u00b0 Digital Robot Servo 5kg / 0.16sec / 46g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__41199__Turnigy_TGY_S401P_180_Digital_Robot_Servo_5kg_0_16sec_46g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.03",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:15:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__41199__Turnigy_TGY_S401P_180_Digital_Robot_Servo_5kg_0_16sec_46g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "46"
 }

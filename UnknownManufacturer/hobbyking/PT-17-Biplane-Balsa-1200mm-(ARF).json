@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "PT-17 Biplane Balsa 1200mm (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63312",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63221",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55831",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54442",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52796",
-   "http://www.hobbyking.com/hobbyking/store/__39714__PT_17_Biplane_Balsa_1200mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$132.58",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:02:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39714__PT_17_Biplane_Balsa_1200mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$155.69",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52796"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$148.60",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:58:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54442"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$149.83",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:58:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55831"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$148.60",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:58:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63221"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$180.99",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:58:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63312"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

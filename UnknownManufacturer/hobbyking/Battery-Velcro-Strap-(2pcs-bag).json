@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Battery Velcro Strap (2pcs/bag)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__12985__Battery_Velcro_Strap_2pcs_bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:14:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12985__Battery_Velcro_Strap_2pcs_bag_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

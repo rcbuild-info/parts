@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-631MG Super Fast Servo (Metal Gear) 5.0kg / .10sec / 46g",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60597",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43500",
-   "http://www.hobbyking.com/hobbyking/store/__8780__BMS_631MG_Super_Fast_Servo_Metal_Gear_5_0kg_10sec_46g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$16.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8780__BMS_631MG_Super_Fast_Servo_Metal_Gear_5_0kg_10sec_46g.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$17.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43500"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$20.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60597"
+  }
+ ],
+ "version": 2,
+ "weight": "46"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "D26012MG 29.7g/ 5kg / .11sec High Torque Digital MG Servo",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__10969__D26012MG_29_7g_5kg_11sec_High_Torque_Digital_MG_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$22.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10969__D26012MG_29_7g_5kg_11sec_High_Torque_Digital_MG_Servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": "28"
 }

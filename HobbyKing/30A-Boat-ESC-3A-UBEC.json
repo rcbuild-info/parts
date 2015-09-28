@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "30A Boat ESC 3A UBEC",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70576",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68193",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45478",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33334",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32150",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29430",
-   "http://www.hobbyking.com/hobbyking/store/__24567__HobbyKing_30A_Boat_ESC_3A_UBEC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:45:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24567__HobbyKing_30A_Boat_ESC_3A_UBEC.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$13.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29430"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$13.30",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 00:43:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32150"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$13.20",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:43:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33334"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$13.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45478"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$17.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68193"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$13.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70576"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

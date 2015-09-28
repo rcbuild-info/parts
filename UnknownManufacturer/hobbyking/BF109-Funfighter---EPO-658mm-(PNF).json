@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BF109 Funfighter - EPO 658mm (PNF)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63334",
-   "http://www.hobbyking.com/hobbyking/store/__18485__BF109_Funfighter_EPO_658mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$79.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:06:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18485__BF109_Funfighter_EPO_658mm_PNF_.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$106.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:03:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63334"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

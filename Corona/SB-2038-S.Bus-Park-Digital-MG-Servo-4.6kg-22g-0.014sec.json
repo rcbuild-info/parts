@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "SB-2038 S.Bus Park Digital MG Servo 4.6kg/22g/0.014sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__39690__Corona_SB_2038_S_Bus_Park_Digital_MG_Servo_4_6kg_22g_0_014sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:21:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39690__Corona_SB_2038_S_Bus_Park_Digital_MG_Servo_4_6kg_22g_0_014sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "22"
 }

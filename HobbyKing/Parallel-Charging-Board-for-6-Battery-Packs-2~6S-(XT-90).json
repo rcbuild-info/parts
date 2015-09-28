@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Parallel Charging Board for 6 Battery Packs 2~6S (XT-90)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__31676__Hobbyking_Parallel_Charging_Board_for_6_Battery_Packs_2_6S_XT_90_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__31676__Hobbyking_Parallel_Charging_Board_for_6_Battery_Packs_2_6S_XT_90_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

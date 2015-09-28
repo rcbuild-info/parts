@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Female JST battery pigtail 12cm length (10pcs/bag)",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64367",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50017",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46169",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40169",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36275"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9683__Female_JST_battery_pigtail_12cm_length_10pcs_bag_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.20",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:57:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36275"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$2.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:57:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40169"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$2.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:57:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46169"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$2.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:57:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50017"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:57:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64367"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

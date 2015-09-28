@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech Ultimate 6400mah 1S2P 90C Hardcase Pack (ROAR & BRCA Approved)",
@@ -7,12 +9,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64934",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63087",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63009",
-   "http://www.hobbyking.com/hobbyking/store/__51841__Turnigy_nano_tech_Ultimate_6400mah_1S2P_90C_Hardcase_Pack_ROAR_BRCA_Approved_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$28.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:38:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51841__Turnigy_nano_tech_Ultimate_6400mah_1S2P_90C_Hardcase_Pack_ROAR_BRCA_Approved_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$29.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:36:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63009"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$29.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:36:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63087"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$29.74",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:36:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64934"
+  }
+ ],
+ "version": 2,
+ "weight": "170"
 }

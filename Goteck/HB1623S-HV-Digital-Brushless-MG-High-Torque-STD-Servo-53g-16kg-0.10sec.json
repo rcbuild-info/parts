@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Goteck",
  "name": "HB1623S HV Digital Brushless MG High Torque STD Servo 53g/16kg/0.10sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__67009__Goteck_HB1623S_HV_Digital_Brushless_MG_High_Torque_STD_Servo_53g_16kg_0_10sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$33.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:11:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__67009__Goteck_HB1623S_HV_Digital_Brushless_MG_High_Torque_STD_Servo_53g_16kg_0_10sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "53"
 }

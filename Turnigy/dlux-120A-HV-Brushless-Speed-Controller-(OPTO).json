@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "dlux 120A HV Brushless Speed Controller (OPTO)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71907",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36816",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36515",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35386",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35066",
-   "http://www.hobbyking.com/hobbyking/store/__17982__Turnigy_dlux_120A_HV_Brushless_Speed_Controller_OPTO_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$110.57",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:39:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17982__Turnigy_dlux_120A_HV_Brushless_Speed_Controller_OPTO_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$99.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:36:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35066"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$126.31",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:36:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35386"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$111.23",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:36:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36515"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$117.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:36:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36816"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$122.22",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:36:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71907"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

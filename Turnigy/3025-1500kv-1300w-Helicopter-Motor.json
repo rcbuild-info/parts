@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "3025-1500kv 1300w Helicopter Motor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__17229__Turnigy_3025_1500kv_1300w_Helicopter_Motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.85",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:34:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17229__Turnigy_3025_1500kv_1300w_Helicopter_Motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": "180"
 }

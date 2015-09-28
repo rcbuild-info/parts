@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "EasyMatch Park480 Series - Replacement Shaft",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57938",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52304",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46001",
-   "http://www.hobbyking.com/hobbyking/store/__22636__Turnigy_EasyMatch_Park480_Series_Replacement_Shaft.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:29:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22636__Turnigy_EasyMatch_Park480_Series_Replacement_Shaft.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$1.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:28:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46001"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$1.01",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:28:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52304"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$1.01",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 01:28:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57938"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

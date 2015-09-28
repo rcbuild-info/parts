@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JWT connectors, 1 pin - 5set/bag",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__29277__JWT_connectors_1_pin_5set_bag.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:06:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__29277__JWT_connectors_1_pin_5set_bag.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

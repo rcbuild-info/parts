@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Slick 360 3D 1300mm (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68487",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47672",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25299",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24737",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24554",
-   "http://www.hobbyking.com/hobbyking/store/__20133__Hobbyking_Slick_360_3D_1300mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$128.05",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20133__Hobbyking_Slick_360_3D_1300mm_ARF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$149.64",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:50:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24554"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$157.38",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:50:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24737"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$154.77",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:50:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25299"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$153.44",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:50:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47672"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$157.38",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:50:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68487"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Firstar 1600 EPO/Plastic 1600mm (PNF)",
@@ -7,10 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72517",
-   "http://www.hobbyking.com/hobbyking/store/__56430__Firstar_1600_EPO_Plastic_1600mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$93.94",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:55:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__56430__Firstar_1600_EPO_Plastic_1600mm_PNF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$131.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:54:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63752"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$120.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:54:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63753"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$109.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:54:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72517"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

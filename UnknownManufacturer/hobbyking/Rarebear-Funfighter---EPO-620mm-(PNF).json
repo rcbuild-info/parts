@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Rarebear Funfighter - EPO 620mm (PNF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70940",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29959",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25285",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24406",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20564",
-   "http://www.hobbyking.com/hobbyking/store/__18477__Rarebear_Funfighter_EPO_620mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$91.52",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 04:16:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18477__Rarebear_Funfighter_EPO_620mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$104.20",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 04:15:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20564"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$99.44",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:15:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24406"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$106.90",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:15:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25285"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$112.11",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:15:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29959"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$104.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:15:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70940"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Polymax 4mm Gold Connectors (10pairs/set)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64727",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46822",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42542",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26126",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18663",
-   "http://www.hobbyking.com/hobbyking/store/__11757__Polymax_4mm_Gold_Connectors_10pairs_set_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11757__Polymax_4mm_Gold_Connectors_10pairs_set_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18663"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26126"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42542"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46822"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64727"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

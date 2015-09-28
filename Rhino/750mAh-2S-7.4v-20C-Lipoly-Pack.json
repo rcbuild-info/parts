@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Rhino",
  "name": "750mAh 2S 7.4v 20C Lipoly Pack",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59416",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58543",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51348",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51225",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50276",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50123",
-   "http://www.hobbyking.com/hobbyking/store/__7306__Rhino_750mAh_2S_7_4v_20C_Lipoly_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.46",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 02:53:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7306__Rhino_750mAh_2S_7_4v_20C_Lipoly_Pack.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$5.03",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:51:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50123"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$4.67",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:51:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50276"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$4.96",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:51:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51225"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$5.11",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:51:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51348"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.67",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 02:51:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58543"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$8.19",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 02:51:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59416"
+  }
+ ],
+ "version": 2,
+ "weight": "45"
 }

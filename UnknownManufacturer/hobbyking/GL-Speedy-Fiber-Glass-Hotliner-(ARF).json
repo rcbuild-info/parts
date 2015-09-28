@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GL-Speedy Fiber Glass Hotliner (ARF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70683",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29927",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27025",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24341",
-   "http://www.hobbyking.com/hobbyking/store/__14896__GL_Speedy_Fiber_Glass_Hotliner_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$83.20",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:42:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14896__GL_Speedy_Fiber_Glass_Hotliner_ARF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$88.55",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:41:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24341"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$98.36",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:41:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27025"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$96.48",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:41:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29927"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$99.45",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:41:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70683"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

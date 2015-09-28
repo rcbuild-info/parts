@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-505BL Brushless HV/DS/MG Servo w/Alloy Case 40g/6.2kg/0.08sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__62611__Turnigy_8482_TGY_505BL_Brushless_HV_DS_MG_Servo_w_Alloy_Case_40g_6_2kg_0_08sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$56.80",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:23:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__62611__Turnigy_8482_TGY_505BL_Brushless_HV_DS_MG_Servo_w_Alloy_Case_40g_6_2kg_0_08sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "40"
 }

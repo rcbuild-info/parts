@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "2627 Brushless 300-Size Heli Motor 4200kv",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39951",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29661",
-   "http://www.hobbyking.com/hobbyking/store/__8144__Turnigy_2627_Brushless_300_Size_Heli_Motor_4200kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$14.66",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:43:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8144__Turnigy_2627_Brushless_300_Size_Heli_Motor_4200kv.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$15.40",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 01:42:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29661"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$15.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39951"
+  }
+ ],
+ "version": 2,
+ "weight": "39"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "X-CAR 80A Brushless ESC (sensored/sensorless)",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77724",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70038",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49225",
-   "http://www.hobbyking.com/hobbyking/store/__37948__Hobbyking_X_CAR_80A_Brushless_ESC_sensored_sensorless_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:54:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__37948__Hobbyking_X_CAR_80A_Brushless_ESC_sensored_sensorless_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$30.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49225"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$38.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70038"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$33.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77724"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

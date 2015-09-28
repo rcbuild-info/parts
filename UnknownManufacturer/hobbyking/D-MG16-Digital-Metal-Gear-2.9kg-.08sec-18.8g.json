@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "D-MG16 Digital Metal Gear 2.9kg/.08sec/18.8g",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68016",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67186",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46723",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39341",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28416",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23595",
-   "http://www.hobbyking.com/hobbyking/store/__6608__D_MG16_Digital_Metal_Gear_2_9kg_08sec_18_8g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:15:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6608__D_MG16_Digital_Metal_Gear_2_9kg_08sec_18_8g.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$10.22",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:15:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23595"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$10.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:15:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28416"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$10.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39341"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$10.44",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46723"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$10.22",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:10:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67186"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$11.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:10:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68016"
+  }
+ ],
+ "version": 2,
+ "weight": "18.8"
 }

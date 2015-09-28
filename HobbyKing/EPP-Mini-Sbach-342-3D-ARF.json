@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "EPP Mini Sbach 342 3D ARF",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77287",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77286",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77285",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77284",
-   "http://www.hobbyking.com/hobbyking/store/__77278__Hobbyking_8482_EPP_Mini_Sbach_342_3D_ARF.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$69.76",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:10:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__77278__Hobbyking_8482_EPP_Mini_Sbach_342_3D_ARF.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$88.14",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:08:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77284"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$93.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:08:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77285"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$90.31",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 04:08:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77286"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$90.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:08:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77287"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

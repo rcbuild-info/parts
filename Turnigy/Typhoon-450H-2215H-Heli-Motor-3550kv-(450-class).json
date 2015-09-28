@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Typhoon 450H 2215H Heli Motor 3550kv (450 class)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71065",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30673",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30597",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30270",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29664",
-   "http://www.hobbyking.com/hobbyking/store/__9021__Turnigy_Typhoon_450H_2215H_Heli_Motor_3550kv_450_class_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$15.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:43:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9021__Turnigy_Typhoon_450H_2215H_Heli_Motor_3550kv_450_class_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$16.15",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:42:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29664"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$15.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30270"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$14.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30597"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$15.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30673"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$15.76",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71065"
+  }
+ ],
+ "version": 2,
+ "weight": "63"
 }

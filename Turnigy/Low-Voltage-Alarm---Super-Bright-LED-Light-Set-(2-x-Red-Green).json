@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Low Voltage Alarm - Super Bright LED Light Set (2 x Red/Green)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__68815__Turnigy_Low_Voltage_Alarm_Super_Bright_LED_Light_Set_2_x_Red_Green_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$13.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:14:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__68815__Turnigy_Low_Voltage_Alarm_Super_Bright_LED_Light_Set_2_x_Red_Green_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

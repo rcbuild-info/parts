@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Spitfire Balsa 1234mm EP w/Retracts (ARF)",
@@ -7,11 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39816",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32379",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30870"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$122.20",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:06:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5287__Hobbyking_Spitfire_Balsa_1234mm_EP_w_Retracts_ARF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$139.53",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:03:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30870"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$160.22",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:03:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32379"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$135.54",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:03:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39187"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$141.34",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:03:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39816"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$139.53",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:03:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63154"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$164.11",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 04:03:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63313"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

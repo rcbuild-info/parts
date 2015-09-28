@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 750mah 1S 35~70C Lipo Pack (Fits Nine Eagles Solo-Pro 180)",
@@ -7,14 +9,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59260",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35546",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34872",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33260",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32783",
-   "http://www.hobbyking.com/hobbyking/store/__20386__Turnigy_nano_tech_750mah_1S_35_70C_Lipo_Pack_Fits_Nine_Eagles_Solo_Pro_180_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:20:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20386__Turnigy_nano_tech_750mah_1S_35_70C_Lipo_Pack_Fits_Nine_Eagles_Solo_Pro_180_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32783"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33260"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.32",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34872"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35546"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59260"
+  }
+ ],
+ "version": 2,
+ "weight": "18"
 }

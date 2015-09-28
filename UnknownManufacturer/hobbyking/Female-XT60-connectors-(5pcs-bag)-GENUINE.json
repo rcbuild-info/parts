@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Female XT60 connectors (5pcs/bag) GENUINE",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68215",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64392",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43459",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42554",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36304",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26050",
-   "http://www.hobbyking.com/hobbyking/store/__18448__Female_XT60_connectors_5pcs_bag_GENUINE.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18448__Female_XT60_connectors_5pcs_bag_GENUINE.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26050"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36304"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42554"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.34",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43459"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64392"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$3.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68215"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

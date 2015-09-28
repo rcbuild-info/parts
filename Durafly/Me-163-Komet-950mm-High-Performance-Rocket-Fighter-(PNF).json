@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Durafly",
  "name": "Me-163 Komet 950mm High Performance Rocket Fighter (PNF)",
@@ -7,15 +7,61 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77998",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77997",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77996",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77995",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77994",
-   "http://www.hobbyking.com/hobbyking/store/__63641__Durafly_8482_Me_163_Komet_950mm_High_Performance_Rocket_Fighter_PNF_.html",
-   "http://www.hobbyking.com/hobbyking/store/__77994__Durafly_8482_Me_163_Komet_950mm_High_Performance_Rocket_Fighter_PNF_AR_Warehouse_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$141.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:06:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__63641__Durafly_8482_Me_163_Komet_950mm_High_Performance_Rocket_Fighter_PNF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__77994__Durafly_8482_Me_163_Komet_950mm_High_Performance_Rocket_Fighter_PNF_AR_Warehouse_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$169.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77994"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$169.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77995"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$169.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77996"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$169.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77997"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$169.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:05:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77998"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

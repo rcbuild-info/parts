@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HXT Simple Lipoly Monitor 2S~3S. A must have for all lipo users!",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68252",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65694",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64557",
-   "http://www.hobbyking.com/hobbyking/store/__4175__HXT_Simple_Lipoly_Monitor_2S_3S_A_must_have_for_all_lipo_users_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:14:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__4175__HXT_Simple_Lipoly_Monitor_2S_3S_A_must_have_for_all_lipo_users_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$2.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:13:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64557"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$2.32",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 02:13:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65694"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$2.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:13:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68252"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

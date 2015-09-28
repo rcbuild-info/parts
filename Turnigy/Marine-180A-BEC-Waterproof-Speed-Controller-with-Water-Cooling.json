@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Marine 180A BEC Waterproof Speed Controller with Water Cooling",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74089",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74085",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74084",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74083",
-   "http://www.hobbyking.com/hobbyking/store/__74074__Turnigy_Marine_180A_BEC_Waterproof_Speed_Controller_with_Water_Cooling.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$89.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:40:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__74074__Turnigy_Marine_180A_BEC_Waterproof_Speed_Controller_with_Water_Cooling.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$89.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74083"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$105.24",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:38:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74084"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$99.73",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74085"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$105.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74089"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "DS-319MG Digital Metal Gear Servo 4kg / 34g / 0.06s",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__23920__Corona_DS_319MG_Digital_Metal_Gear_Servo_4kg_34g_0_06s.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23920__Corona_DS_319MG_Digital_Metal_Gear_Servo_4kg_34g_0_06s.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

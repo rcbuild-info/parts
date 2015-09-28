@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Goteck",
  "name": "DA2312T Digital MG Metal Cased Park Servo 23g/6.4kg/0.16sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__66987__Goteck_DA2312T_Digital_MG_Metal_Cased_Park_Servo_23g_6_4kg_0_16sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$17.75",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:22:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__66987__Goteck_DA2312T_Digital_MG_Metal_Cased_Park_Servo_23g_6_4kg_0_16sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "23"
 }

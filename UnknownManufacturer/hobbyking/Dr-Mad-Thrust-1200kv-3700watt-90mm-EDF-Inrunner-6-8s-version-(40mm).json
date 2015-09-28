@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dr Mad Thrust 1200kv 3700watt 90mm EDF Inrunner 6-8s version (40mm)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72051",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49810",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47911",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47800",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45260",
-   "http://www.hobbyking.com/hobbyking/store/__29357__Dr_Mad_Thrust_1200kv_3700watt_90mm_EDF_Inrunner_6_8s_version_40mm_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 01:41:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__29357__Dr_Mad_Thrust_1200kv_3700watt_90mm_EDF_Inrunner_6_8s_version_40mm_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$74.10",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 01:38:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45260"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$80.93",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 01:38:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47800"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 01:38:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47911"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:38:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49810"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 01:38:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72051"
+  }
+ ],
+ "version": 2,
+ "weight": "380"
 }

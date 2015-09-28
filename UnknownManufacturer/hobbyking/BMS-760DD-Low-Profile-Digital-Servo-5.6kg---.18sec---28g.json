@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-760DD Low Profile Digital Servo 5.6kg / .18sec / 28g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__8762__BMS_760DD_Low_Profile_Digital_Servo_5_6kg_18sec_28g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$16.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8762__BMS_760DD_Low_Profile_Digital_Servo_5_6kg_18sec_28g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "28"
 }

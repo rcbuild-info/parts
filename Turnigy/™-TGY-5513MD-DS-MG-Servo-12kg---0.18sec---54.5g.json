@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-5513MD DS/MG Servo 12kg / 0.18sec / 54.5g",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69874",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66378",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65747",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49416",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47742",
-   "http://www.hobbyking.com/hobbyking/store/__24575__Turnigy_8482_TGY_5513MD_DS_MG_Servo_12kg_0_18sec_54_5g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24575__Turnigy_8482_TGY_5513MD_DS_MG_Servo_12kg_0_18sec_54_5g.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$10.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47742"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$11.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49416"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$10.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65747"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$10.88",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66378"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$12.89",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69874"
+  }
+ ],
+ "version": 2,
+ "weight": "54.5"
 }

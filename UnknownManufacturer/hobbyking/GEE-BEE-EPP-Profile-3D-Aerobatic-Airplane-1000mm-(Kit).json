@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GEE BEE EPP Profile 3D Aerobatic Airplane 1000mm (Kit)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63345",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53700",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43063",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37290",
-   "http://www.hobbyking.com/hobbyking/store/__31686__GEE_BEE_EPP_Profile_3D_Aerobatic_Airplane_1000mm_Kit_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$25.99",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:50:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__31686__GEE_BEE_EPP_Profile_3D_Aerobatic_Airplane_1000mm_Kit_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$35.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:49:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37290"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$32.82",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:49:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43063"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$36.40",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:49:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53700"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$37.59",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:49:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63345"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

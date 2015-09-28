@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RCG 55cc Gas Engine w/ CD-Ignition 5.2HP@7500rpm",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78168",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78167",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78166",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78165",
-   "http://www.hobbyking.com/hobbyking/store/__78164__RCG_55cc_Gas_Engine_w_CD_Ignition_5_2HP_7500rpm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$254.10",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 00:09:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__78164__RCG_55cc_Gas_Engine_w_CD_Ignition_5_2HP_7500rpm.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$269.44",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:08:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78165"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$283.13",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 00:08:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78166"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$286.63",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 00:08:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78167"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$272.33",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 00:08:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78168"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

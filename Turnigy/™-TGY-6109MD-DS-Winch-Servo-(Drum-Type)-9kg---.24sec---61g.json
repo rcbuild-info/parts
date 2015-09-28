@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-6109MD DS Winch Servo (Drum Type) 9kg / .24sec / 61g",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78347",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70109",
-   "http://www.hobbyking.com/hobbyking/store/__42641__Turnigy_8482_TGY_6109MD_DS_Winch_Servo_Drum_Type_9kg_24sec_61g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$39.97",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42641__Turnigy_8482_TGY_6109MD_DS_Winch_Servo_Drum_Type_9kg_24sec_61g.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$52.53",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 00:24:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70109"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$48.73",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78347"
+  }
+ ],
+ "version": 2,
+ "weight": "61"
 }

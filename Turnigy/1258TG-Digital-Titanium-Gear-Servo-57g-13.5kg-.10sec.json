@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "1258TG Digital Titanium Gear Servo 57g/13.5kg/.10sec",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71023",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60368",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51895",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30872",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30281",
-   "http://www.hobbyking.com/hobbyking/store/__13809__Turnigy_1258TG_Digital_Titanium_Gear_Servo_57g_13_5kg_10sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$32.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__13809__Turnigy_1258TG_Digital_Titanium_Gear_Servo_57g_13_5kg_10sec.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$33.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30281"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$33.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30872"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$34.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51895"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$35.23",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60368"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$33.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71023"
+  }
+ ],
+ "version": 2,
+ "weight": "57"
 }

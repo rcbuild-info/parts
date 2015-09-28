@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Slider Holder Set (Shark)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__7115__Slider_Holder_Set_Shark_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.90",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Sun, 27 Sep 2015 23:24:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7115__Slider_Holder_Set_Shark_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

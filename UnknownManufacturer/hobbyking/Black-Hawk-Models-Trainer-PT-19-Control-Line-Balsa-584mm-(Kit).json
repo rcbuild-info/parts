@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Black Hawk Models Trainer PT-19 Control Line Balsa 584mm (Kit)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67071",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56425",
-   "http://www.hobbyking.com/hobbyking/store/__43491__Black_Hawk_Models_Trainer_PT_19_Control_Line_Balsa_584mm_Kit_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$30.00",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:45:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__43491__Black_Hawk_Models_Trainer_PT_19_Control_Line_Balsa_584mm_Kit_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$35.68",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:44:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56425"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$35.68",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:44:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67071"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

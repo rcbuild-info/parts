@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Apollo 1550 Composite DLG Glider Airplane 1550mm (ARF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67984",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63200",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56872",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45678",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41493",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39815",
-   "http://www.hobbyking.com/hobbyking/store/__28231__Apollo_1550_Composite_DLG_Glider_Airplane_1550mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$67.99",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:37:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28231__Apollo_1550_Composite_DLG_Glider_Airplane_1550mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$83.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:34:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39815"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$77.91",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:34:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41493"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$80.71",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:34:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45678"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$74.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:34:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56872"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$73.54",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:34:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63200"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$93.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:34:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67984"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

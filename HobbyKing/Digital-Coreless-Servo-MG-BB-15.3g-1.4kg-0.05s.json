@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Digital Coreless Servo MG/BB 15.3g/1.4kg/0.05s",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__42486__HobbyKing_8482_Digital_Coreless_Servo_MG_BB_15_3g_1_4kg_0_05s.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.88",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:30:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42486__HobbyKing_8482_Digital_Coreless_Servo_MG_BB_15_3g_1_4kg_0_05s.html"
+  }
+ ],
+ "version": 2,
+ "weight": "15.3"
 }

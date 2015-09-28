@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "8mm Silicon Rubber Bungee Hi-Start Cord",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68210",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47674",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44457",
-   "http://www.hobbyking.com/hobbyking/store/__10609__HobbyKing_8mm_Silicon_Rubber_Bungee_Hi_Start_Cord.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10609__HobbyKing_8mm_Silicon_Rubber_Bungee_Hi_Start_Cord.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$7.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44457"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$7.10",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:37:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47674"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$8.97",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:37:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68210"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "Digital Servo 9g / 1.8kg / .12sec",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71647",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39077",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37243",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30258",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29810",
-   "http://www.hobbyking.com/hobbyking/store/__4167__Corona_Digital_Servo_9g_1_8kg_12sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:18:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__4167__Corona_Digital_Servo_9g_1_8kg_12sec.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$7.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29810"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$7.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30258"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$7.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37243"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$7.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39077"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$7.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71647"
+  }
+ ],
+ "version": 2,
+ "weight": "9"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Electric Fiberglass Pylon Racer 930mm Blue (ARF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__14417__Electric_Fiberglass_Pylon_Racer_930mm_Blue_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$79.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:16:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14417__Electric_Fiberglass_Pylon_Racer_930mm_Blue_ARF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

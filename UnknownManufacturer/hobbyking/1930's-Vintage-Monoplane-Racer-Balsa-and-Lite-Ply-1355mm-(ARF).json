@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "1930's Vintage Monoplane Racer Balsa and Lite Ply 1355mm (ARF)",
@@ -7,12 +7,37 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48030",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39027",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38596",
-   "http://www.hobbyking.com/hobbyking/store/__25554__1930_39_s_Vintage_Monoplane_Racer_Balsa_and_Lite_Ply_1355mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$93.28",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:11:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25554__1930_39_s_Vintage_Monoplane_Racer_Balsa_and_Lite_Ply_1355mm_ARF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$126.05",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:10:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38596"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$137.83",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:10:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39027"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48030"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

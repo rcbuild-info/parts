@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "YAK 54 Profile 3D Balsa 780mm (ARF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__17460__YAK_54_Profile_3D_Balsa_780mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$39.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:10:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17460__YAK_54_Profile_3D_Balsa_780mm_ARF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

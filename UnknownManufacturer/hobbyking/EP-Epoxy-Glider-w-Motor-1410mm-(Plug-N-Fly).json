@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EP Epoxy Glider w/Motor 1410mm (Plug N Fly)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77429",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77428",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77427",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72530",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68650",
-   "http://www.hobbyking.com/hobbyking/store/__24654__EP_Epoxy_Glider_w_Motor_1410mm_Plug_N_Fly_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$139.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:42:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24654__EP_Epoxy_Glider_w_Motor_1410mm_Plug_N_Fly_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$178.97",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:42:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68650"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$162.43",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:42:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72530"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$189.02",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:42:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77427"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$186.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:42:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77428"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$217.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:42:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77429"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

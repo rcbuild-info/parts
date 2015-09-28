@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Black Hawk Models Raven Control Line Balsa 457mm (Kit)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56422",
-   "http://www.hobbyking.com/hobbyking/store/__43494__Black_Hawk_Models_Raven_Control_Line_Balsa_457mm_Kit_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$30.00",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:45:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__43494__Black_Hawk_Models_Raven_Control_Line_Balsa_457mm_Kit_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$34.82",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:44:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56422"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

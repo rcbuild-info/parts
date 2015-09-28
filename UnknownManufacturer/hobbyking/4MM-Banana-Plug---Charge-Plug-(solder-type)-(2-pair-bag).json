@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4MM Banana Plug / Charge Plug (solder type) (2 pair/bag)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68255",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64391",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46569",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43435",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42553",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31477",
-   "http://www.hobbyking.com/hobbyking/store/__18095__4MM_Banana_Plug_Charge_Plug_solder_type_2_pair_bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18095__4MM_Banana_Plug_Charge_Plug_solder_type_2_pair_bag_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.38",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31477"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$1.92",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:59:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42553"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$2.38",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:59:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43435"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$2.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46569"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$1.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64391"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$2.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68255"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

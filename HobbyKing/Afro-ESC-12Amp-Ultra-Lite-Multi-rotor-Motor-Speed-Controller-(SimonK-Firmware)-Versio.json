@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Afro ESC 12Amp OPTO Ultra Lite Multi-rotor Motor Speed Controller (SimonK Firmware) Version 3",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__64209__Afro_ESC_12Amp_OPTO_Ultra_Lite_Multi_rotor_Motor_Speed_Controller_SimonK_Firmware_Version_3.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68684",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65788",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63037",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62955"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:49:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__55241__Afro_ESC_12Amp_Ultra_Lite_Multi_rotor_Motor_Speed_Controller_SimonK_Firmware_Version_3.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__64209__Afro_ESC_12Amp_OPTO_Ultra_Lite_Multi_rotor_Motor_Speed_Controller_SimonK_Firmware_Version_3.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$9.99",
+   "stock_state": "backordered",
+   "timestamp": "Mon, 28 Sep 2015 00:48:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62955"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$11.00",
+   "stock_state": "backordered",
+   "timestamp": "Mon, 28 Sep 2015 00:48:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63037"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$10.11",
+   "stock_state": "backordered",
+   "timestamp": "Mon, 28 Sep 2015 00:48:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65788"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:48:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68684"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

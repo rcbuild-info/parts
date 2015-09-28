@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Cri-Cri Twin EPO 1050mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58054",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58032",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57919",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56882",
-   "http://www.hobbyking.com/hobbyking/store/__51515__HobbyKing_Cri_Cri_Twin_EPO_1050mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$129.09",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:50:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51515__HobbyKing_Cri_Cri_Twin_EPO_1050mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$139.14",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:49:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56882"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$151.92",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:49:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57919"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$147.06",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:49:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58032"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$142.87",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:49:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58054"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

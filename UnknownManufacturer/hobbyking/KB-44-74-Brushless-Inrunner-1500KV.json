@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "KB 44-74 Brushless Inrunner 1500KV",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__51847__KB_44_74_Brushless_Inrunner_1500KV.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$45.08",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:19:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51847__KB_44_74_Brushless_Inrunner_1500KV.html"
+  }
+ ],
+ "version": 2,
+ "weight": "595"
 }

@@ -1,0 +1,47 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "Turnigy",
+ "name": "A1405-3000KV Indoor Brushless Motor",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.45",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:58:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25676__Turnigy_A1405_3000KV_Indoor_Brushless_Motor.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$11.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:58:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56828"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$10.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:58:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57433"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$13.28",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:58:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60707"
+  }
+ ],
+ "version": 2,
+ "weight": "5"
+}

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BLS-3114 Brushless Digital Alloy Gear Servo - 33.5kg / 0.14s / 7.4V (High Voltage)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29511",
-   "http://www.hobbyking.com/hobbyking/store/__16247__BLS_3114_Brushless_Digital_Alloy_Gear_Servo_33_5kg_0_14s_7_4V_High_Voltage_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16247__BLS_3114_Brushless_Digital_Alloy_Gear_Servo_33_5kg_0_14s_7_4V_High_Voltage_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$79.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29511"
+  }
+ ],
+ "version": 2,
+ "weight": "71"
 }

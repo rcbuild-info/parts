@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Walkera",
  "name": "3.7V 1600mAh LiPoly Replacement Battery for QR Y100",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__57282__Walkera_3_7V_1600mAh_LiPoly_Replacement_Battery_for_QR_Y100.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.35",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:10:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__57282__Walkera_3_7V_1600mAh_LiPoly_Replacement_Battery_for_QR_Y100.html"
+  }
+ ],
+ "version": 2,
+ "weight": "38"
 }

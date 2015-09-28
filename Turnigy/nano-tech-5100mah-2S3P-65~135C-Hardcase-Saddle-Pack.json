@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 5100mah 2S3P 65~135C Hardcase Saddle Pack",
@@ -7,11 +9,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60119",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59169",
-   "http://www.hobbyking.com/hobbyking/store/__17266__Turnigy_nano_tech_5100mah_2S3P_65_135C_Hardcase_Saddle_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$37.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:39:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17266__Turnigy_nano_tech_5100mah_2S3P_65_135C_Hardcase_Saddle_Pack.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$38.91",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:38:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24197"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$39.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:38:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25222"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$39.91",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:38:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29014"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$39.97",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:38:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32705"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$38.91",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:38:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59169"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$52.18",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 02:38:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60119"
+  }
+ ],
+ "version": 2,
+ "weight": "290"
 }

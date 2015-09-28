@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Futaba",
  "name": "BLS352 Brushless Servo with Heatsink 18.0kg 0.15sec/60deg",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__54773__Futaba_BLS352_Brushless_Servo_with_Heatsink_18_0kg_0_15sec_60deg.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$159.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:31:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__54773__Futaba_BLS352_Brushless_Servo_with_Heatsink_18_0kg_0_15sec_60deg.html"
+  }
+ ],
+ "version": 2,
+ "weight": "63"
 }

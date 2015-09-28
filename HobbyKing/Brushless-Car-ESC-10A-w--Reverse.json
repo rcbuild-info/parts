@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Brushless Car ESC 10A w/ Reverse",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72294",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45250",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44887",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29557",
-   "http://www.hobbyking.com/hobbyking/store/__23766__HobbyKing_Brushless_Car_ESC_10A_w_Reverse.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$11.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:45:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23766__HobbyKing_Brushless_Car_ESC_10A_w_Reverse.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$12.20",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:43:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29557"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$12.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44887"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$12.35",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 00:43:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44942"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$13.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45250"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$12.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72294"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

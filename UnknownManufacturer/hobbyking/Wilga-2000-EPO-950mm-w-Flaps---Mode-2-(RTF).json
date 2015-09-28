@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Wilga 2000 EPO 950mm w/Flaps - Mode 2 (RTF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__27974__Wilga_2000_EPO_950mm_w_Flaps_Mode_2_RTF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$98.32",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:50:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__27974__Wilga_2000_EPO_950mm_w_Flaps_Mode_2_RTF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HK2836 EDF Outrunner 3800kv for 64mm",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11161__HK2836_EDF_Outrunner_3800kv_for_64mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:42:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11161__HK2836_EDF_Outrunner_3800kv_for_64mm.html"
+  }
+ ],
+ "version": 2,
+ "weight": "97"
 }

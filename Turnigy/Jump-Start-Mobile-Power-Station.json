@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Jump Start Mobile Power Station",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73788",
-   "http://www.hobbyking.com/hobbyking/store/__63791__Turnigy_Jump_Start_Mobile_Power_Station.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$49.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:14:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__63791__Turnigy_Jump_Start_Mobile_Power_Station.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$52.99",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 02:12:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73788"
+  }
+ ],
+ "version": 2,
+ "weight": "387"
 }

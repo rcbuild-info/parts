@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "9306MG Metal Gear Servo 7.4g / 1.1kg / .16sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__8610__9306MG_Metal_Gear_Servo_7_4g_1_1kg_16sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.50",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:19:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8610__9306MG_Metal_Gear_Servo_7_4g_1_1kg_16sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "10"
 }

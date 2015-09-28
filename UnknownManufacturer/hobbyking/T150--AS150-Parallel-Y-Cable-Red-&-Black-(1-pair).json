@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "T150/ AS150 Parallel Y Cable Red & Black (1 pair)",
@@ -7,11 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75569",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75448",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74602"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__63514__XT150_AS150_Parallel_Y_Cable_Red_Black_1_pair_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.03",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74602"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$5.68",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75448"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.03",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 02:02:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75569"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

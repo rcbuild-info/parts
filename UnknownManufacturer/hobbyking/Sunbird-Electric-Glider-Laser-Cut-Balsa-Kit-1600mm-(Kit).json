@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sunbird Electric Glider Laser Cut Balsa Kit 1600mm (Kit)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67987",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67116",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56567",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44474",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43357",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37287",
-   "http://www.hobbyking.com/hobbyking/store/__29302__Sunbird_Electric_Glider_Laser_Cut_Balsa_Kit_1600mm_Kit_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__29302__Sunbird_Electric_Glider_Laser_Cut_Balsa_Kit_1600mm_Kit_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$38.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:44:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37287"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$32.84",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:44:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43357"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$37.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:44:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44474"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$36.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:44:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56567"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$32.84",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:44:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67116"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$39.38",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:44:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67987"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

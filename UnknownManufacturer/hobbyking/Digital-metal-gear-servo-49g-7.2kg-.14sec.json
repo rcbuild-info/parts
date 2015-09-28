@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Digital metal gear servo 49g/7.2kg/.14sec",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42456",
-   "http://www.hobbyking.com/hobbyking/store/__6335__Digital_metal_gear_servo_49g_7_2kg_14sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$24.05",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6335__Digital_metal_gear_servo_49g_7_2kg_14sec.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$24.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42456"
+  }
+ ],
+ "version": 2,
+ "weight": "49"
 }

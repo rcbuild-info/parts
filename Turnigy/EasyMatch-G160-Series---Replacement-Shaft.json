@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "EasyMatch G160 Series - Replacement Shaft",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__22644__Turnigy_EasyMatch_G160_Series_Replacement_Shaft.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.65",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 01:28:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22644__Turnigy_EasyMatch_G160_Series_Replacement_Shaft.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

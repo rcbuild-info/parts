@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Drifter Ultralight EPO 950mm  KIT",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39849",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39200",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35412",
-   "http://www.hobbyking.com/hobbyking/store/__28698__Drifter_Ultralight_EPO_950mm_KIT.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$46.99",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:57:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28698__Drifter_Ultralight_EPO_950mm_KIT.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$63.70",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:57:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35412"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$56.84",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:57:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39200"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$58.95",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:57:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39849"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

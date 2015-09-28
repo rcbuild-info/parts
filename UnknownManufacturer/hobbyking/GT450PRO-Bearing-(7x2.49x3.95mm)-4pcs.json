@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO Bearing (7x2.49x3.95mm) 4pcs",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11592__GT450PRO_Bearing_7x2_49x3_95mm_4pcs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.37",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Sun, 27 Sep 2015 23:26:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11592__GT450PRO_Bearing_7x2_49x3_95mm_4pcs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

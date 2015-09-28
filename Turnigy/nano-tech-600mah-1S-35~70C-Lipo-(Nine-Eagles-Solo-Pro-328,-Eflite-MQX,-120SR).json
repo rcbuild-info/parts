@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 600mah 1S 35~70C Lipo (Nine Eagles Solo Pro 328, Eflite MQX, 120SR)",
@@ -7,15 +9,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60337",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59370",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35544",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34871",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33259",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32782",
-   "http://www.hobbyking.com/hobbyking/store/__20385__Turnigy_nano_tech_600mah_1S_35_70C_Lipo_Nine_Eagles_Solo_Pro_328_Eflite_MQX_120SR_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:20:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20385__Turnigy_nano_tech_600mah_1S_35_70C_Lipo_Nine_Eagles_Solo_Pro_328_Eflite_MQX_120SR_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:18:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32782"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:18:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33259"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:18:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34871"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.02",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:18:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35544"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:18:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59370"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$3.98",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:18:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60337"
+  }
+ ],
+ "version": 2,
+ "weight": "16"
 }

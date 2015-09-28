@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-410STD Standard Servo 4.4kg / .22sec / 42g",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60769",
-   "http://www.hobbyking.com/hobbyking/store/__8746__BMS_410STD_Standard_Servo_4_4kg_22sec_42g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.45",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:14:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8746__BMS_410STD_Standard_Servo_4_4kg_22sec_42g.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$8.24",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60769"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

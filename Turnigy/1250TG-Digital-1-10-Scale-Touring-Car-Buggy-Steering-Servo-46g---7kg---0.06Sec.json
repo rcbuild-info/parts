@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "1250TG Digital 1/10 Scale Touring Car/Buggy Steering Servo 46g / 7kg / 0.06Sec",
@@ -7,10 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77728",
-   "http://www.hobbyking.com/hobbyking/store/__42856__Turnigy_1250TG_Digital_1_10_Scale_Touring_Car_Buggy_Steering_Servo_46g_7kg_0_06Sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$32.84",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:23:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42856__Turnigy_1250TG_Digital_1_10_Scale_Touring_Car_Buggy_Steering_Servo_46g_7kg_0_06Sec.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$42.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70205"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$36.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77728"
+  }
+ ],
+ "version": 2,
+ "weight": "46"
 }

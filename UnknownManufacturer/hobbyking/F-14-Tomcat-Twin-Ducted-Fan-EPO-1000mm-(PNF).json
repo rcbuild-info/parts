@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F-14 Tomcat Twin Ducted Fan EPO 1000mm (PNF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72980",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72586",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72544",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72409",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72395",
-   "http://www.hobbyking.com/hobbyking/store/__62890__F_14_Tomcat_Twin_Ducted_Fan_EPO_1000mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$220.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:14:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__62890__F_14_Tomcat_Twin_Ducted_Fan_EPO_1000mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$264.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:14:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72395"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$250.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:14:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72409"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$264.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:14:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72544"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$244.97",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72586"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$310.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72980"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

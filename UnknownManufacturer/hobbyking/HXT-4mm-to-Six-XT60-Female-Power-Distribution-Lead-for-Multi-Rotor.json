@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HXT 4mm to Six XT60 Female Power Distribution Lead for Multi-Rotor",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__47583__HXT_4mm_to_Six_XT60_Female_Power_Distribution_Lead_for_Multi_Rotor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__47583__HXT_4mm_to_Six_XT60_Female_Power_Distribution_Lead_for_Multi_Rotor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

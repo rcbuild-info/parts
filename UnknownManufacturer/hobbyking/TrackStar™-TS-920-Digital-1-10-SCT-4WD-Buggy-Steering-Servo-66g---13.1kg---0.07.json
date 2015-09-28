@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "TrackStar\u2122 TS-920 Digital 1/10 SCT/4WD Buggy Steering Servo 66g / 13.1kg / 0.07",
@@ -7,12 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77533",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62777",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62685",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62565"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$36.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__43055__TrackStar_8482_TS_920_Digital_1_10_SCT_4WD_Buggy_Steering_Servo_66g_13_1kg_0_07sec.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$38.05",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62565"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$37.06",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62685"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$37.60",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62777"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$40.17",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 00:24:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77533"
+  }
+ ],
+ "version": 2,
+ "weight": "66"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "P-51 Mustang Funfly Airplane w/Motor EPP 1000mm (ARF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__42523__HobbyKing_174_8482_P_51_Mustang_Funfly_Airplane_w_Motor_EPP_1000mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$61.75",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 04:09:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42523__HobbyKing_174_8482_P_51_Mustang_Funfly_Airplane_w_Motor_EPP_1000mm_ARF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

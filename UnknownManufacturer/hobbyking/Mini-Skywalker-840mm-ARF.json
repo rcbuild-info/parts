@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini Skywalker 840mm ARF",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67979",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63196",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43337",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37233",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33036",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32424",
-   "http://www.hobbyking.com/hobbyking/store/__27130__Mini_Skywalker_840mm_ARF.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$17.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:41:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__27130__Mini_Skywalker_840mm_ARF.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$22.85",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:39:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32424"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$21.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:39:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33036"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$21.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:39:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37233"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$22.07",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:39:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43337"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$22.07",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:39:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63196"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$23.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:39:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67979"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

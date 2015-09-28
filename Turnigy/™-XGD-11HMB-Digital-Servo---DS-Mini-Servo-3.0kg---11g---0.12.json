@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 XGD-11HMB Digital Servo - DS Mini Servo 3.0kg / 11g / 0.12",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69913",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51567",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46389",
-   "http://www.hobbyking.com/hobbyking/store/__25455__Turnigy_8482_XGD_11HMB_Digital_Servo_DS_Mini_Servo_3_0kg_11g_0_12.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25455__Turnigy_8482_XGD_11HMB_Digital_Servo_DS_Mini_Servo_3_0kg_11g_0_12.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$5.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:27:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46389"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$5.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:27:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51567"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$7.38",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:27:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69913"
+  }
+ ],
+ "version": 2,
+ "weight": "11"
 }

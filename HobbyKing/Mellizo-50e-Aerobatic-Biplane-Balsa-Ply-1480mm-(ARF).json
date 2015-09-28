@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Mellizo 50e Aerobatic Biplane Balsa/Ply 1480mm (ARF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63328",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54441",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53820",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51426",
-   "http://www.hobbyking.com/hobbyking/store/__37314__HobbyKing_8482_Mellizo_50e_Aerobatic_Biplane_Balsa_Ply_1480mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$220.92",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:50:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__37314__HobbyKing_8482_Mellizo_50e_Aerobatic_Biplane_Balsa_Ply_1480mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$253.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:49:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51426"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$246.58",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:49:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53820"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$249.30",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:49:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54441"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$287.32",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:49:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63328"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

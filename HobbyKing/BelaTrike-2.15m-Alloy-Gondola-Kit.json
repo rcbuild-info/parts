@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "BelaTrike 2.15m Alloy Gondola Kit",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63364",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63165",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36814",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35382",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30974",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30790",
-   "http://www.hobbyking.com/hobbyking/store/__16577__HobbyKing_BelaTrike_2_15m_Alloy_Gondola_Kit.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$37.79",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:55:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16577__HobbyKing_BelaTrike_2_15m_Alloy_Gondola_Kit.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$40.28",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:54:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30790"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$40.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:54:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30974"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$41.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:54:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35382"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$41.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:54:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36814"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$40.28",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:54:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63165"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$49.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:54:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63364"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

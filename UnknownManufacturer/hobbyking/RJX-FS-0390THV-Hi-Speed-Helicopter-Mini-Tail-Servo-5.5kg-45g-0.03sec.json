@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RJX FS-0390THV Hi-Speed Helicopter Mini Tail Servo 5.5kg/45g/0.03sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__51661__RJX_FS_0390THV_Hi_Speed_Helicopter_Mini_Tail_Servo_5_5kg_45g_0_03sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$70.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51661__RJX_FS_0390THV_Hi_Speed_Helicopter_Mini_Tail_Servo_5_5kg_45g_0_03sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "45"
 }

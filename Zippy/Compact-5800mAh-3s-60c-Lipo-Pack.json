@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "Compact 5800mAh 3s 60c Lipo Pack",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74564",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73852",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73775",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73432",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72501",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72382",
-   "http://www.hobbyking.com/hobbyking/store/__63428__ZIPPY_Compact_5800mAh_3s_60c_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$45.75",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 02:53:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__63428__ZIPPY_Compact_5800mAh_3s_60c_Lipo_Pack.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$45.80",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 02:51:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72382"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$45.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:51:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72501"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$47.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:51:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73432"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$47.17",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 02:51:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73775"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$46.53",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:51:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73852"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$58.44",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 02:51:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74564"
+  }
+ ],
+ "version": 2,
+ "weight": "448"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-965DMG Coreless Digital Metal Gear High Torque Servo 5.7kg / .11sec / 29.5g",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77555",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60993",
-   "http://www.hobbyking.com/hobbyking/store/__11623__BMS_965DMG_Coreless_Digital_Metal_Gear_High_Torque_Servo_5_7kg_11sec_29_5g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$20.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11623__BMS_965DMG_Coreless_Digital_Metal_Gear_High_Torque_Servo_5_7kg_11sec_29_5g.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$25.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60993"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$23.01",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:12:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77555"
+  }
+ ],
+ "version": 2,
+ "weight": "29.5"
 }

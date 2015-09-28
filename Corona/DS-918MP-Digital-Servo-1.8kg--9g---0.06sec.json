@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "DS-918MP Digital Servo 1.8kg/ 9g / 0.06sec",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71968",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42778",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41061",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30648",
-   "http://www.hobbyking.com/hobbyking/store/__23924__Corona_DS_918MP_Digital_Servo_1_8kg_9g_0_06sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.97",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:18:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23924__Corona_DS_918MP_Digital_Servo_1_8kg_9g_0_06sec.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$5.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:18:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30648"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$5.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:18:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41061"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:18:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42778"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$5.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:18:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71968"
+  }
+ ],
+ "version": 2,
+ "weight": "9"
 }

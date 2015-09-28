@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Escape Sport Low Wing Trainer Balsa GP/EP 1580mm (ARF)",
@@ -7,10 +7,21 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70350",
-   "http://www.hobbyking.com/hobbyking/store/__55149__Escape_Sport_Low_Wing_Trainer_Balsa_GP_EP_1580mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$65.80",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__55149__Escape_Sport_Low_Wing_Trainer_Balsa_GP_EP_1580mm_ARF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70350"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

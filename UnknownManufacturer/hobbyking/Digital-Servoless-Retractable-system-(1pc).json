@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Digital Servoless Retractable system (1pc)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71723",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47642",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38938",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31889",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31553",
-   "http://www.hobbyking.com/hobbyking/store/__12883__Digital_Servoless_Retractable_system_1pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12883__Digital_Servoless_Retractable_system_1pc_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31553"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31889"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$7.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38938"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$8.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47642"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$7.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71723"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

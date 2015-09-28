@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 MX-927E  Digital Park Servo 2.5kg / 0.08sec / 20g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__47391__Turnigy_8482_MX_927E_Digital_Park_Servo_2_5kg_0_08sec_20g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:21:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__47391__Turnigy_8482_MX_927E_Digital_Park_Servo_2_5kg_0_08sec_20g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20"
 }

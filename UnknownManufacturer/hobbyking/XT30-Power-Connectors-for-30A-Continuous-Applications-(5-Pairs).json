@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XT30 Power Connectors for 30A Continuous Applications (5 Pairs)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73660",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73659",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73658",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73657",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73656",
-   "http://www.hobbyking.com/hobbyking/store/__65440__XT30_Power_Connectors_for_30A_Continuous_Applications_5_Pairs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.88",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__65440__XT30_Power_Connectors_for_30A_Continuous_Applications_5_Pairs_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.13",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73656"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73657"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$4.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73658"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$5.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73659"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$4.13",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73660"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

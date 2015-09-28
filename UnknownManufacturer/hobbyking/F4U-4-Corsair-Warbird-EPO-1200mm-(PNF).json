@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F4U-4 Corsair Warbird EPO 1200mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76709",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76708",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76707",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76706",
-   "http://www.hobbyking.com/hobbyking/store/__66496__F4U_4_Corsair_Warbird_EPO_1200mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$141.13",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:06:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__66496__F4U_4_Corsair_Warbird_EPO_1200mm_PNF_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$190.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:04:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76706"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$196.74",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:04:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76707"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$197.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:04:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76708"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$188.89",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:03:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76709"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

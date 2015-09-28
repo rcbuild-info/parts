@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "Flightmax 4000mAh 5S1P 45C",
@@ -7,13 +7,48 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58790",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38323",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37474",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22742",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21793"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$53.66",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 02:59:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16490__ZIPPY_Flightmax_4000mAh_5S1P_45C_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 02:57:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21793"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$44.95",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 02:57:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22742"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37474"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38323"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$57.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:56:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58790"
+  }
+ ],
+ "version": 2,
+ "weight": "601"
 }

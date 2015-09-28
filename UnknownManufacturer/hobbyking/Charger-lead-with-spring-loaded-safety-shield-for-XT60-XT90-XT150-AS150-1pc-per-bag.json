@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Charger lead with spring loaded safety shield for XT60 XT90 XT150 AS150 1pc per bag",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__76907__Charger_lead_with_spring_loaded_safety_shield_for_XT60_XT90_XT150_AS150_1pc_per_bag.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__76907__Charger_lead_with_spring_loaded_safety_shield_for_XT60_XT90_XT150_AS150_1pc_per_bag.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

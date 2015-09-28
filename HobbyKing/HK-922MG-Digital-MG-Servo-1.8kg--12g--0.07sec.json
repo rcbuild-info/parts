@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "HK-922MG Digital MG Servo 1.8kg/ 12g/ 0.07sec",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71707",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55638",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43535",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31884",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31632",
-   "http://www.hobbyking.com/hobbyking/store/__14279__HobbyKing_HK_922MG_Digital_MG_Servo_1_8kg_12g_0_07sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:30:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14279__HobbyKing_HK_922MG_Digital_MG_Servo_1_8kg_12g_0_07sec.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$8.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31632"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$8.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31884"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$8.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43535"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55638"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$8.08",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 00:29:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71707"
+  }
+ ],
+ "version": 2,
+ "weight": "12"
 }

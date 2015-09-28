@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Electrical Switch with Battery Protection",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__58320__Turnigy_Electrical_Switch_with_Battery_Protection.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__58320__Turnigy_Electrical_Switch_with_Battery_Protection.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ASW28 Electric Sailplane EPO/Plastic 2540mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76873",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56811",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55841",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55367",
-   "http://www.hobbyking.com/hobbyking/store/__51315__ASW28_Electric_Sailplane_EPO_Plastic_2540mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$109.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51315__ASW28_Electric_Sailplane_EPO_Plastic_2540mm_PNF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$129.26",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:36:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55367"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$123.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55841"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$125.58",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:36:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56811"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$122.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76873"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

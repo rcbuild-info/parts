@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "A-1 Skyraider EPO 640mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70449",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32300",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30578",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22923",
-   "http://www.hobbyking.com/hobbyking/store/__20856__A_1_Skyraider_EPO_640mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$79.95",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:06:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20856__A_1_Skyraider_EPO_640mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$95.17",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:04:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22923"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$91.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:04:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30578"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$91.97",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:04:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32300"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$95.17",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 04:04:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70449"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

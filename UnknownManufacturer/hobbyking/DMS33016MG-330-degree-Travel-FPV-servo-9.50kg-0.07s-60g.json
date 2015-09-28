@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DMS33016MG 330-degree Travel FPV servo 9.50kg/0.07s/60g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__40922__DMS33016MG_330_degree_Travel_FPV_servo_9_50kg_0_07s_60g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$48.05",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:26:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__40922__DMS33016MG_330_degree_Travel_FPV_servo_9_50kg_0_07s_60g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "60"
 }

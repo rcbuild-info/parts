@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sbach 342 (Black) EPO 1400mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63185",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36603",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30351",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27024",
-   "http://www.hobbyking.com/hobbyking/store/__20702__Sbach_342_Black_EPO_1400mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$136.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:10:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20702__Sbach_342_Black_EPO_1400mm_PNF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$171.96",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:08:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27024"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$175.71",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:08:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30351"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$162.12",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:08:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36603"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$160.12",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:08:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63185"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

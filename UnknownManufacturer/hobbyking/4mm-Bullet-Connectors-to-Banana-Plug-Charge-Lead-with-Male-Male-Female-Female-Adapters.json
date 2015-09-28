@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4mm Bullet Connectors to Banana Plug Charge Lead with Male-Male/Female-Female Adapters",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__45384__4mm_Bullet_Connectors_to_Banana_Plug_Charge_Lead_with_Male_Male_Female_Female_Adapters.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45384__4mm_Bullet_Connectors_to_Banana_Plug_Charge_Lead_with_Male_Male_Female_Female_Adapters.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Spartan Vortex VX1 Wire Set",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__38744__Spartan_Vortex_VX1_Wire_Set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$13.83",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:24:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__38744__Spartan_Vortex_VX1_Wire_Set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

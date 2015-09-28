@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO Tail Drive Gear Assembly (Torque Tube Version)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11574__GT450PRO_Tail_Drive_Gear_Assembly_Torque_Tube_Version_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.81",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11574__GT450PRO_Tail_Drive_Gear_Assembly_Torque_Tube_Version_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

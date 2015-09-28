@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "450 Brushless Heli Motor 2830 3500kv",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__8616__Turnigy_450_Brushless_Heli_Motor_2830_3500kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$15.64",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 01:43:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8616__Turnigy_450_Brushless_Heli_Motor_2830_3500kv.html"
+  }
+ ],
+ "version": 2,
+ "weight": "55"
 }

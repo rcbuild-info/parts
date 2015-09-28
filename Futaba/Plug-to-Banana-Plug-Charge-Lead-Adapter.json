@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Futaba",
  "name": "Plug to Banana Plug Charge Lead Adapter",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70000",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65752",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64821",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64597",
-   "http://www.hobbyking.com/hobbyking/store/__32966__Futaba_Plug_to_Banana_Plug_Charge_Lead_Adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__32966__Futaba_Plug_to_Banana_Plug_Charge_Lead_Adapter.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$2.01",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64597"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.01",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64821"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$1.79",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:59:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65752"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$2.21",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 01:59:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70000"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

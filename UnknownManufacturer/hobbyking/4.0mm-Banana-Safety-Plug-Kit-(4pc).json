@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4.0mm Banana Safety Plug Kit (4pc)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77410",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77409",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77408",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77407",
-   "http://www.hobbyking.com/hobbyking/store/__77403__4_0mm_Banana_Safety_Plug_Kit_4pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__77403__4_0mm_Banana_Safety_Plug_Kit_4pc_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77407"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.17",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77408"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$2.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77409"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$2.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77410"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

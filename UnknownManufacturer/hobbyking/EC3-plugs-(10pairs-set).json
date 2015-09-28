@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EC3 plugs (10pairs/set)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67130",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41513",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41167",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33369",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28837",
-   "http://www.hobbyking.com/hobbyking/store/__9625__EC3_plugs_10pairs_set_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9625__EC3_plugs_10pairs_set_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$6.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28837"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33369"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$6.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41167"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41513"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$6.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67130"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

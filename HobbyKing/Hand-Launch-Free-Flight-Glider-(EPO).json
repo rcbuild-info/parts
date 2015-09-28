@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Hand Launch Free Flight Glider (EPO)",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67096",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66614",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66407",
-   "http://www.hobbyking.com/hobbyking/store/__62708__HobbyKing_8482_Hand_Launch_Free_Flight_Glider_EPO_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:44:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__62708__HobbyKing_8482_Hand_Launch_Free_Flight_Glider_EPO_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$8.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:43:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66407"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$7.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:43:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66614"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$7.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:42:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67096"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

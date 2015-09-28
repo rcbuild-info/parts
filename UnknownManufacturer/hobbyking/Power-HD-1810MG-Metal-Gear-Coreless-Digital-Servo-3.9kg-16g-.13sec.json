@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Power HD 1810MG Metal Gear Coreless Digital Servo 3.9kg/16g/.13sec",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78268",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78224",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78220",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78219",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78218",
-   "http://www.hobbyking.com/hobbyking/store/__78216__Power_HD_1810MG_Metal_Gear_Coreless_Digital_Servo_3_9kg_16g_13sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$15.51",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:20:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__78216__Power_HD_1810MG_Metal_Gear_Coreless_Digital_Servo_3_9kg_16g_13sec.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$15.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78218"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$17.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78219"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$16.91",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:20:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78220"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$16.36",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:20:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78224"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$15.94",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:20:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78268"
+  }
+ ],
+ "version": 2,
+ "weight": "15.8"
 }

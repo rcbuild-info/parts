@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sbach 342 Profile 20cc Gas 3D 1659mm (ARF)",
@@ -7,14 +7,38 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68514",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48032",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38059",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30013",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28839",
-   "http://www.hobbyking.com/hobbyking/store/__25606__Sbach_342_Profile_20cc_Gas_3D_1659mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$138.72",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25606__Sbach_342_Profile_20cc_Gas_3D_1659mm_ARF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28839"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30013"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38059"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$161.01",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:11:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48032"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68514"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

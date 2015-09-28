@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Bixler\u2122  v1.1 EPO 1400mm - (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69722",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32529",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25003",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18328",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18083",
-   "http://www.hobbyking.com/hobbyking/store/__16544__HobbyKing_8482_Bixler_8482_v1_1_EPO_1400mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$56.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16544__HobbyKing_8482_Bixler_8482_v1_1_EPO_1400mm_ARF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$63.18",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18083"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$83.57",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18328"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$62.44",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25003"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$66.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:36:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32529"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$68.04",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:36:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69722"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

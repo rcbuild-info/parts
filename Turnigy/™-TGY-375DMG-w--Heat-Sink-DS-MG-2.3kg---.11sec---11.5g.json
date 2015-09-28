@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-375DMG w/ Heat Sink DS/MG 2.3kg / .11sec / 11.5g",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64726",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47619",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47521",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43514",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30686",
-   "http://www.hobbyking.com/hobbyking/store/__11626__Turnigy_8482_TGY_375DMG_w_Heat_Sink_DS_MG_2_3kg_11sec_11_5g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$20.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11626__Turnigy_8482_TGY_375DMG_w_Heat_Sink_DS_MG_2_3kg_11sec_11_5g.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$19.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30686"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$19.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43514"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$20.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47521"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$19.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47619"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$19.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64726"
+  }
+ ],
+ "version": 2,
+ "weight": "24.5"
 }

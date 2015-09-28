@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-306 Micro Servo 0.8kg / .11sec / 6g",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29813",
-   "http://www.hobbyking.com/hobbyking/store/__8756__BMS_306_Micro_Servo_0_8kg_11sec_6g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$13.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8756__BMS_306_Micro_Servo_0_8kg_11sec_6g.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$9.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29813"
+  }
+ ],
+ "version": 2,
+ "weight": "6"
 }

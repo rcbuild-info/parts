@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Scorpion Competition Series HKIII-4020-1100kv 500 Heli Outrunner",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__32053__Scorpion_Competition_Series_HKIII_4020_1100kv_500_Heli_Outrunner.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$189.99",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 01:34:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__32053__Scorpion_Competition_Series_HKIII_4020_1100kv_500_Heli_Outrunner.html"
+  }
+ ],
+ "version": 2,
+ "weight": "302"
 }

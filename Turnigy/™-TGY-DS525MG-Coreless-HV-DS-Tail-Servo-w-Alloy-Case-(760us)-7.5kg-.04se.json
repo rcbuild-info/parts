@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-DS525MG Coreless HV/DS Tail Servo w/Alloy Case (760us) 7.5kg/.04se",
@@ -7,9 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77639"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$39.92",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:11:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__50465__Turnigy_8482_TGY_DS525MG_Coreless_HV_DS_Tail_Servo_w_Alloy_Case_760us_7_5kg_04sec_68g.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$43.65",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 00:10:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77639"
+  }
+ ],
+ "version": 2,
+ "weight": "68"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TG9z Eco Micro Servo 9g / 1.7kg / 0.12sec",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68092",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67131",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42420",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41769",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41143",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39376",
-   "http://www.hobbyking.com/hobbyking/store/__32095__Turnigy_8482_TG9z_Eco_Micro_Servo_9g_1_7kg_0_12sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.34",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__32095__Turnigy_8482_TG9z_Eco_Micro_Servo_9g_1_7kg_0_12sec.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$2.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39376"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$2.59",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41143"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.59",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41769"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$2.59",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42420"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.59",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67131"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$2.57",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:33:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68092"
+  }
+ ],
+ "version": 2,
+ "weight": "9"
 }

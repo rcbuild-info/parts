@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "4000mAh 3S 20C Lipo Pack",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59860",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58933",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35835",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26778",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14998",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14718",
-   "http://www.hobbyking.com/hobbyking/store/__9185__Turnigy_4000mAh_3S_20C_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$23.06",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:06:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9185__Turnigy_4000mAh_3S_20C_Lipo_Pack.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:06:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14718"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$24.43",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:06:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14998"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$25.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:06:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26778"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$25.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:06:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35835"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$25.22",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:06:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58933"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$32.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:05:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59860"
+  }
+ ],
+ "version": 2,
+ "weight": "337"
 }

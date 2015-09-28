@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "NGH GT25 25cc Gas Engine With Rcexl CDI Ignition (2.7HP)",
@@ -7,12 +7,41 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73114",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62580",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53653",
-   "http://www.hobbyking.com/hobbyking/store/__51472__NGH_GT25_25cc_Gas_Engine_With_Rcexl_CDI_Ignition_2_7HP_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$193.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:09:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51472__NGH_GT25_25cc_Gas_Engine_With_Rcexl_CDI_Ignition_2_7HP_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$193.90",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 00:08:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53653"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$194.99",
+   "stock_state": "backordered",
+   "timestamp": "Mon, 28 Sep 2015 00:08:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62580"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$193.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:08:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73114"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

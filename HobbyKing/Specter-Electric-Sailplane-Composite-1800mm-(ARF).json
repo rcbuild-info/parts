@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Specter Electric Sailplane Composite 1800mm (ARF)",
@@ -7,15 +7,56 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63350",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63224",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57908",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54829",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54259",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52797",
-   "http://www.hobbyking.com/hobbyking/store/__39719__HobbyKing_174_Specter_Electric_Sailplane_Composite_1800mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$98.00",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:42:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39719__HobbyKing_174_Specter_Electric_Sailplane_Composite_1800mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$111.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:41:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52797"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54259"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$106.18",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:41:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54829"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$113.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:41:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57908"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63224"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$127.06",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:41:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63350"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

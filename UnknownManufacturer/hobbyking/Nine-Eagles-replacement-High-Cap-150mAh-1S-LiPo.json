@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Nine Eagles replacement High-Cap 150mAh 1S LiPo",
@@ -7,13 +7,45 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54602",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54409",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54359",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54287",
-   "http://www.hobbyking.com/hobbyking/store/__14890__Nine_Eagles_replacement_High_Cap_150mAh_1S_LiPo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:20:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14890__Nine_Eagles_replacement_High_Cap_150mAh_1S_LiPo.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$1.17",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:19:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54287"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54359"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$1.17",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:19:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54409"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$1.17",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:19:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54602"
+  }
+ ],
+ "version": 2,
+ "weight": "4"
 }

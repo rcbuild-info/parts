@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Parallel Charging Board for 6 packs 2~6S (Bare Leads)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71335",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44958",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44564",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41303",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36502",
-   "http://www.hobbyking.com/hobbyking/store/__28274__Parallel_Charging_Board_for_6_packs_2_6S_Bare_Leads_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28274__Parallel_Charging_Board_for_6_packs_2_6S_Bare_Leads_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$7.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36502"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$7.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41303"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$7.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44564"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$7.29",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 02:03:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44958"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$7.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71335"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

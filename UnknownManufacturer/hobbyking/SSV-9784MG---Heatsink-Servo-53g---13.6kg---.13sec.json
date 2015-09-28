@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SSV-9784MG / Heatsink Servo 53g / 13.6kg / .13sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__7244__SSV_9784MG_Heatsink_Servo_53g_13_6kg_13sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$17.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7244__SSV_9784MG_Heatsink_Servo_53g_13_6kg_13sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "53"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TSS-10HM DS Micro Servo 2.2kg / 0.12 / 10g",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71562",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68303",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43394",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42714",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41757",
-   "http://www.hobbyking.com/hobbyking/store/__25454__Turnigy_8482_TSS_10HM_DS_Micro_Servo_2_2kg_0_12_10g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25454__Turnigy_8482_TSS_10HM_DS_Micro_Servo_2_2kg_0_12_10g.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$5.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:33:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41757"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$4.91",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:33:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42714"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$4.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:33:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43394"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$6.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:33:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68303"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.91",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:33:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71562"
+  }
+ ],
+ "version": 2,
+ "weight": "10"
 }

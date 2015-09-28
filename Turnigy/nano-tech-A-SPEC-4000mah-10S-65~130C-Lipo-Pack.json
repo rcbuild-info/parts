@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech A-SPEC 4000mah 10S 65~130C Lipo Pack",
@@ -7,10 +9,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35149",
-   "http://www.hobbyking.com/hobbyking/store/__24297__Turnigy_nano_tech_A_SPEC_4000mah_10S_65_130C_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$89.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:24:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24297__Turnigy_nano_tech_A_SPEC_4000mah_10S_65_130C_Lipo_Pack.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$129.99",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Sun, 27 Sep 2015 23:24:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35149"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$139.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:24:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36230"
+  }
+ ],
+ "version": 2,
+ "weight": "1177"
 }

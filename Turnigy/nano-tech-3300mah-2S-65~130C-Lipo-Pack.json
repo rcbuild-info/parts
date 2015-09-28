@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 3300mah 2S 65~130C Lipo Pack",
@@ -7,11 +9,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60091",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59145",
-   "http://www.hobbyking.com/hobbyking/store/__19132__Turnigy_nano_tech_3300mah_2S_65_130C_Lipo_Pack_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$25.30",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 02:53:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19132__Turnigy_nano_tech_3300mah_2S_65_130C_Lipo_Pack_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$26.57",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 02:51:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59145"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$33.47",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 02:51:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60091"
+  }
+ ],
+ "version": 2,
+ "weight": "220"
 }

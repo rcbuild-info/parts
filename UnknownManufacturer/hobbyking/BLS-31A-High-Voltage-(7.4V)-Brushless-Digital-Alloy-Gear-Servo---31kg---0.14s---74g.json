@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BLS-31A High Voltage (7.4V) Brushless Digital Alloy Gear Servo - 31kg / 0.14s / 74g",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77634",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70179",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29514",
-   "http://www.hobbyking.com/hobbyking/store/__16244__BLS_31A_High_Voltage_7_4V_Brushless_Digital_Alloy_Gear_Servo_31kg_0_14s_74g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$84.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16244__BLS_31A_High_Voltage_7_4V_Brushless_Digital_Alloy_Gear_Servo_31kg_0_14s_74g.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$86.24",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29514"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$114.44",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 00:14:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70179"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$93.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77634"
+  }
+ ],
+ "version": 2,
+ "weight": "74"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO Wash-out Control Arm",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11537__GT450PRO_Wash_out_Control_Arm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.60",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Sun, 27 Sep 2015 23:26:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11537__GT450PRO_Wash_out_Control_Arm.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

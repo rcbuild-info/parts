@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO Plastic Horizontal/Vertical Tail Fin",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11558__GT450PRO_Plastic_Horizontal_Vertical_Tail_Fin.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:26:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11558__GT450PRO_Plastic_Horizontal_Vertical_Tail_Fin.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Park250 Brushless Outrunner 1680kv",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71791",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46829",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42699",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31615",
-   "http://www.hobbyking.com/hobbyking/store/__19032__Turnigy_Park250_Brushless_Outrunner_1680kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$11.95",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 01:28:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19032__Turnigy_Park250_Brushless_Outrunner_1680kv.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$12.35",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 01:26:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31615"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$12.30",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 01:26:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41891"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$12.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:26:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42699"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$12.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:26:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46829"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$12.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:26:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71791"
+  }
+ ],
+ "version": 2,
+ "weight": "16"
 }

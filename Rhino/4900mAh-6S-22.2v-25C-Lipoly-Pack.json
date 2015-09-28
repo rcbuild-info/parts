@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Rhino",
  "name": "4900mAh 6S 22.2v 25C Lipoly Pack",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51385",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51262",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50231",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50173",
-   "http://www.hobbyking.com/hobbyking/store/__9315__Rhino_4900mAh_6S_22_2v_25C_Lipoly_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$55.70",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:04:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9315__Rhino_4900mAh_6S_22_2v_25C_Lipoly_Pack.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$60.03",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:02:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50173"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$57.88",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:02:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50231"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$58.73",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:02:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51262"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$59.60",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:02:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51385"
+  }
+ ],
+ "version": 2,
+ "weight": "730"
 }

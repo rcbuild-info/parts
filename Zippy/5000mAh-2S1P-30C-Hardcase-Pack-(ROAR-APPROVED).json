@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "5000mAh 2S1P 30C Hardcase Pack (ROAR APPROVED)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59605",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58694",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38352",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37492",
-   "http://www.hobbyking.com/hobbyking/store/__20999__ZIPPY_5000mAh_2S1P_30C_Hardcase_Pack_ROAR_APPROVED_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$28.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:49:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20999__ZIPPY_5000mAh_2S1P_30C_Hardcase_Pack_ROAR_APPROVED_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:47:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37492"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$30.19",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:47:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38352"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$29.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:47:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58694"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$35.71",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:47:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59605"
+  }
+ ],
+ "version": 2,
+ "weight": "278"
 }

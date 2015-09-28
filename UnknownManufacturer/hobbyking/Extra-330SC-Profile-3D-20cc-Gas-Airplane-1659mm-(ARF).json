@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Extra 330SC Profile 3D 20cc Gas Airplane 1659mm (ARF)",
@@ -7,11 +7,29 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67404",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52221",
-   "http://www.hobbyking.com/hobbyking/store/__45288__Extra_330SC_Profile_3D_20cc_Gas_Airplane_1659mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$145.36",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45288__Extra_330SC_Profile_3D_20cc_Gas_Airplane_1659mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$170.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52221"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67404"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

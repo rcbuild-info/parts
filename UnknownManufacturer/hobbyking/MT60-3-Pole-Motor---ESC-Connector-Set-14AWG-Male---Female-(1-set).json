@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MT60 3 Pole Motor / ESC Connector Set 14AWG Male - Female (1 set)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__55092__MT60_3_Pole_Motor_ESC_Connector_Set_14AWG_Male_Female_1_set_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__55092__MT60_3_Pole_Motor_ESC_Connector_Set_14AWG_Male_Female_1_set_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

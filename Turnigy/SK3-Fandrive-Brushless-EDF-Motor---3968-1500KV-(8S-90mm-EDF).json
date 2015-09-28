@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "SK3 Fandrive Brushless EDF Motor - 3968-1500KV (8S 90mm EDF)",
@@ -7,13 +7,40 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71394",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47362",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46847",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41867",
-   "http://www.hobbyking.com/hobbyking/store/__28503__Turnigy_SK3_Fandrive_Brushless_EDF_Motor_3968_1500KV_8S_90mm_EDF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$51.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:19:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28503__Turnigy_SK3_Fandrive_Brushless_EDF_Motor_3968_1500KV_8S_90mm_EDF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 01:19:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41867"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46847"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:55:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47362"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71394"
+  }
+ ],
+ "version": 2,
+ "weight": "363"
 }

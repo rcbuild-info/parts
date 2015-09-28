@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Alligator Clip Black (5pcs/bag)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__9701__Alligator_Clip_Black_5pcs_bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9701__Alligator_Clip_Black_5pcs_bag_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

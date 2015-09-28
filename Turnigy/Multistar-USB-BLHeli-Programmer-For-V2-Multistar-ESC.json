@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Multistar USB BLHeli Programmer For V2 Multistar ESC",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__65150__Turnigy_Multistar_USB_BLHeli_Programmer_For_V2_Multistar_ESC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.12",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 00:54:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__65150__Turnigy_Multistar_USB_BLHeli_Programmer_For_V2_Multistar_ESC.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "E6003 Head block",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__7489__E6003_Head_block.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.43",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Sun, 27 Sep 2015 23:22:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7489__E6003_Head_block.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

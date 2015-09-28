@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GWS Ultra Light Wheels (2pc 38mm)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__5212__GWS_Ultra_Light_Wheels_2pc_38mm_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.59",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Sun, 27 Sep 2015 23:22:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5212__GWS_Ultra_Light_Wheels_2pc_38mm_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

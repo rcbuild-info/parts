@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 450mAh 3S 65C Lipo (E-flite Compatible Blade 180CFX EFLB4503SJ30)",
@@ -7,13 +9,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75759",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75758",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75757",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75756",
-   "http://www.hobbyking.com/hobbyking/store/__64210__Turnigy_nano_tech_450mAh_3S_65C_Lipo_E_flite_Compatible_Blade_180CFX_EFLB4503SJ30_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:20:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__64210__Turnigy_nano_tech_450mAh_3S_65C_Lipo_E_flite_Compatible_Blade_180CFX_EFLB4503SJ30_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75756"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$8.46",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75757"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$8.27",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75758"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$8.43",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75759"
+  }
+ ],
+ "version": 2,
+ "weight": "40"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "FW190D w/model Display stand EPO 650mm (ARF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__18082__Hobbyking_FW190D_w_model_Display_stand_EPO_650mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$38.50",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:24:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18082__Hobbyking_FW190D_w_model_Display_stand_EPO_650mm_ARF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

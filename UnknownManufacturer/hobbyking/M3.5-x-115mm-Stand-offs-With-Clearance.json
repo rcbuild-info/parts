@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3.5 x 115mm Stand-offs With Clearance",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56822",
-   "http://www.hobbyking.com/hobbyking/store/__26555__M3_5_x_115mm_Stand_offs_With_Clearance.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:23:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__26555__M3_5_x_115mm_Stand_offs_With_Clearance.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:22:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56822"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

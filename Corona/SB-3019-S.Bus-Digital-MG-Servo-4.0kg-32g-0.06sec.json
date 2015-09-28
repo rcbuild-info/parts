@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "SB-3019 S.Bus Digital MG Servo 4.0kg/32g/0.06sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__39687__Corona_SB_3019_S_Bus_Digital_MG_Servo_4_0kg_32g_0_06sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39687__Corona_SB_3019_S_Bus_Digital_MG_Servo_4_0kg_32g_0_06sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "32"
 }

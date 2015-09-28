@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JST(Molex) 1.25mm Male to 2 x JR Female (1pc)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61037",
-   "http://www.hobbyking.com/hobbyking/store/__43729__JST_Molex_1_25mm_Male_to_2_x_JR_Female_1pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:59:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__43729__JST_Molex_1_25mm_Male_to_2_x_JR_Female_1pc_.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$3.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:57:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61037"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

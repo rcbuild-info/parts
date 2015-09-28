@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "TR-111 111cc Twin Cylinder Gas Engine 11.5HP",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70099",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68797",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68616",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64171",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58375",
-   "http://www.hobbyking.com/hobbyking/store/__42068__Turnigy_TR_111_111cc_Twin_Cylinder_Gas_Engine_11_5HP.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$414.40",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:09:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42068__Turnigy_TR_111_111cc_Twin_Cylinder_Gas_Engine_11_5HP.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$452.72",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:07:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58375"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$431.76",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:07:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64171"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$460.63",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:07:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68616"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$446.66",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:07:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68797"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$597.26",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:07:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70099"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

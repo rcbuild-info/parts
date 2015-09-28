@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO Torque Tube (373x4mm)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11577__GT450PRO_Torque_Tube_373x4mm_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11577__GT450PRO_Torque_Tube_373x4mm_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

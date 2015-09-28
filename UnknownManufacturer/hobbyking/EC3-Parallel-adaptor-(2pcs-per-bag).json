@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EC3 Parallel adaptor (2pcs per bag)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76365",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76364",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76363",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76362",
-   "http://www.hobbyking.com/hobbyking/store/__76334__EC3_Parallel_adaptor_2pcs_per_bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:03:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__76334__EC3_Parallel_adaptor_2pcs_per_bag_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76362"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76363"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76364"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76365"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

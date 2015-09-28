@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Heavy Duty 3000mAh 6S 60C Lipo Pack",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64215",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63768",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63071",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58108",
-   "http://www.hobbyking.com/hobbyking/store/__53684__Turnigy_Heavy_Duty_3000mAh_6S_60C_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$46.83",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 02:59:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__53684__Turnigy_Heavy_Duty_3000mAh_6S_60C_Lipo_Pack.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$51.15",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 02:57:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58108"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$49.87",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 02:57:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63071"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$50.50",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:57:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63768"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$48.99",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 02:57:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64215"
+  }
+ ],
+ "version": 2,
+ "weight": "540"
 }

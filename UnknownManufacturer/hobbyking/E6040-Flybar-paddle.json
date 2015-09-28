@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "E6040 Flybar paddle",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__7502__E6040_Flybar_paddle.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.72",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Sun, 27 Sep 2015 23:23:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7502__E6040_Flybar_paddle.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

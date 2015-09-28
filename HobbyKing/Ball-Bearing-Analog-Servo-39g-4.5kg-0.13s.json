@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Ball Bearing Analog Servo 39g/4.5kg/0.13s",
@@ -7,11 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71423",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45174",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44049"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:30:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28969__H_King_Ball_Bearing_Analog_Servo_39g_4_5kg_cm_0_13s.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$5.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39375"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$5.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39439"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$5.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44049"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$5.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45174"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$5.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71423"
+  }
+ ],
+ "version": 2,
+ "weight": "39"
 }

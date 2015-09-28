@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "Compact 4500mAh 3S 35C Lipo Pack",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59639",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58726",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36202",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33203",
-   "http://www.hobbyking.com/hobbyking/store/__21421__ZIPPY_Compact_4500mAh_3S_35C_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$34.13",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:45:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__21421__ZIPPY_Compact_4500mAh_3S_35C_Lipo_Pack.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$35.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:43:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33203"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$36.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:43:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36202"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$35.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:43:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58726"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$46.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:43:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59639"
+  }
+ ],
+ "version": 2,
+ "weight": "360"
 }

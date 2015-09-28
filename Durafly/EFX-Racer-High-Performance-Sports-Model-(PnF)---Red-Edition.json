@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Durafly",
  "name": "EFX Racer High Performance Sports Model (PnF) - Red Edition",
@@ -7,15 +7,60 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65457",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65085",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64678",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64314",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64124",
-   "http://www.hobbyking.com/hobbyking/store/__56313__Durafly_8482_EFX_Racer_High_Performance_Sports_Model_PnF_Red_Edition.html",
-   "http://www.hobbyking.com/hobbyking/store/__65457__Durafly_8482_EFX_Racer_High_Performance_Sports_Model_PnF_Red_Edition_AR_Warehouse_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$127.32",
+   "stock_state": "backordered",
+   "timestamp": "Mon, 28 Sep 2015 04:16:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__56313__Durafly_8482_EFX_Racer_High_Performance_Sports_Model_PnF_Red_Edition.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__65457__Durafly_8482_EFX_Racer_High_Performance_Sports_Model_PnF_Red_Edition_AR_Warehouse_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$141.74",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 04:15:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64124"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$146.16",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 04:15:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64314"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$145.91",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:15:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64678"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$144.62",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:15:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65085"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$141.74",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 04:15:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65457"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

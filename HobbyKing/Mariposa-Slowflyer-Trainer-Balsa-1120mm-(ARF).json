@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Mariposa Slowflyer Trainer Balsa 1120mm (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78893",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74630",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74628",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74627",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74626",
-   "http://www.hobbyking.com/hobbyking/store/__67547__HobbyKing_8482_Mariposa_Slowflyer_Trainer_Balsa_1120mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$86.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__67547__HobbyKing_8482_Mariposa_Slowflyer_Trainer_Balsa_1120mm_ARF_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$94.38",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74626"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$119.41",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74627"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$99.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74628"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$98.01",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74630"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$114.63",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78893"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

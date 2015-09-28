@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "TrackStar TS-T17HV HighVoltage Digital 1/10 Scale Buggy Steering Servo 63g / 16.5kg / 0.10sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__58281__TrackStar_TS_T17HV_HighVoltage_Digital_1_10_Scale_Buggy_Steering_Servo_63g_16_5kg_0_10sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$31.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:23:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__58281__TrackStar_TS_T17HV_HighVoltage_Digital_1_10_Scale_Buggy_Steering_Servo_63g_16_5kg_0_10sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "63"
 }

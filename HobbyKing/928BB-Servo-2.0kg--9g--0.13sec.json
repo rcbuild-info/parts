@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "928BB Servo 2.0kg/ 9g/ 0.13sec",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56184",
-   "http://www.hobbyking.com/hobbyking/store/__11855__HobbyKing_8482_928BB_Servo_2_0kg_9g_0_13sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.27",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11855__HobbyKing_8482_928BB_Servo_2_0kg_9g_0_13sec.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56184"
+  }
+ ],
+ "version": 2,
+ "weight": "9"
 }

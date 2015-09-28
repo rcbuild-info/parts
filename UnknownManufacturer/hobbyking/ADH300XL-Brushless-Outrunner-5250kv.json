@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ADH300XL Brushless Outrunner 5250kv",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11884__ADH300XL_Brushless_Outrunner_5250kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$14.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:43:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11884__ADH300XL_Brushless_Outrunner_5250kv.html"
+  }
+ ],
+ "version": 2,
+ "weight": "47"
 }

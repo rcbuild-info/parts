@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Gold Plated Spring Connector 3.5mm (10pair/20pc)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68185",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65306",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42497",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42051",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39282",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26062",
-   "http://www.hobbyking.com/hobbyking/store/__4136__Gold_Plated_Spring_Connector_3_5mm_10pair_20pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.24",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__4136__Gold_Plated_Spring_Connector_3_5mm_10pair_20pc_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$4.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26062"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$4.68",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39282"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.73",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42051"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$4.68",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42497"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.68",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65306"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$5.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68185"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

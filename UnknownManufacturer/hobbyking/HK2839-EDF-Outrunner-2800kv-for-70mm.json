@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HK2839 EDF Outrunner 2800kv for 70mm",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11162__HK2839_EDF_Outrunner_2800kv_for_70mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$16.15",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 01:42:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11162__HK2839_EDF_Outrunner_2800kv_for_70mm.html"
+  }
+ ],
+ "version": 2,
+ "weight": "95"
 }

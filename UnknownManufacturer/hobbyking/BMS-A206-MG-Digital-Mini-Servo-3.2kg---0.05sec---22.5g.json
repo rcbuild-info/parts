@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-A206 MG Digital Mini Servo 3.2kg / 0.05sec / 22.5g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__20606__BMS_A206_MG_Digital_Mini_Servo_3_2kg_0_05sec_22_5g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$62.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20606__BMS_A206_MG_Digital_Mini_Servo_3_2kg_0_05sec_22_5g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "22"
 }

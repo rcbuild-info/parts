@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "100mAh 20C Single Cell",
@@ -7,16 +7,74 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59384",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58514",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42573",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41312",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40076",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37574",
-   "http://www.hobbyking.com/hobbyking/store/__11873__ZIPPY_100mAh_20C_Single_Cell.html",
-   "http://www.hobbyking.com/hobbyking/store/__7567__ZIPPY_100mAh_20C_Single_Cell.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.72",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 02:53:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11873__ZIPPY_100mAh_20C_Single_Cell.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$2.63",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:39:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7567__ZIPPY_100mAh_20C_Single_Cell.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$1.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:51:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37574"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$1.97",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:51:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40076"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:51:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41312"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$1.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:51:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42573"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:51:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58514"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$2.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:51:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59384"
+  }
+ ],
+ "version": 2,
+ "weight": "3"
 }

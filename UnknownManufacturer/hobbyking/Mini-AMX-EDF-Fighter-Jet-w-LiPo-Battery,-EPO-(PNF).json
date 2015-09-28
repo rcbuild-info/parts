@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini AMX EDF Fighter Jet w/LiPo Battery, EPO (PNF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__12663__Mini_AMX_EDF_Fighter_Jet_w_LiPo_Battery_EPO_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$69.02",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:14:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12663__Mini_AMX_EDF_Fighter_Jet_w_LiPo_Battery_EPO_PNF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

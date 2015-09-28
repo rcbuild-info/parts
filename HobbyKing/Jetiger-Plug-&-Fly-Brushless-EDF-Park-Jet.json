@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Jetiger Plug-&-Fly Brushless EDF Park Jet",
@@ -7,12 +7,61 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68927",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32447",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14883",
-   "http://www.hobbyking.com/hobbyking/store/__10358__HobbyKing_Jetiger_Plug_Fly_Brushless_EDF_Park_Jet.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$79.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10358__HobbyKing_174_8482_Jetiger_Plug_Fly_Brushless_EDF_Park_Jet.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__10358__HobbyKing_Jetiger_Plug_Fly_Brushless_EDF_Park_Jet.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$96.40",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:51:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14883"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$96.77",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:51:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15392"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32447"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$96.40",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:51:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67763"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$124.42",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:51:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68927"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

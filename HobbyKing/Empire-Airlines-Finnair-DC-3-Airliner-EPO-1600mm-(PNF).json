@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Empire Airlines/Finnair DC-3 Airliner EPO 1600mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73694",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73374",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73099",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73046",
-   "http://www.hobbyking.com/hobbyking/store/__55564__HobbyKing_8482_Empire_Airlines_Finnair_DC_3_Airliner_EPO_1600mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$257.64",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:02:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__55564__HobbyKing_8482_Empire_Airlines_Finnair_DC_3_Airliner_EPO_1600mm_PNF_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$309.17",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:01:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73046"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$308.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:01:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73099"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$313.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:01:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73374"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$296.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:01:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73694"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

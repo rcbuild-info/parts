@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Battery Holder 4 x 'AAA'",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__29528__Battery_Holder_4_x_39_AAA_39_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__29528__Battery_Holder_4_x_39_AAA_39_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "JST-XH to JST LED Power Distribution Lead (4 JST)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64744",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49281",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44766",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31853",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31498",
-   "http://www.hobbyking.com/hobbyking/store/__23133__JST_XH_to_JST_LED_Power_Distribution_Lead_4_JST_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23133__JST_XH_to_JST_LED_Power_Distribution_Lead_4_JST_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$1.23",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31498"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$1.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31853"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$1.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44766"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$1.32",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:58:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49281"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$1.32",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64744"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

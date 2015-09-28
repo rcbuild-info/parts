@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HK Pilot Analog Air Speed Sensor And Pitot Tube Set",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76043",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76042",
-   "http://www.hobbyking.com/hobbyking/store/__67371__HK_Pilot_Analog_Air_Speed_Sensor_And_Pitot_Tube_Set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$24.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:56:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__67371__HK_Pilot_Analog_Air_Speed_Sensor_And_Pitot_Tube_Set.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$24.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:55:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76042"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$26.03",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:55:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76043"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

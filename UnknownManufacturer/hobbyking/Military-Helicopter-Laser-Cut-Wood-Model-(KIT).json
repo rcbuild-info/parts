@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Military Helicopter Laser Cut Wood Model (KIT)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__33613__Military_Helicopter_Laser_Cut_Wood_Model_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__33613__Military_Helicopter_Laser_Cut_Wood_Model_KIT_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 T531-BBD High Speed Nano DS Coreless Servo 0.5Kg / 0.09Sec /  3.9g",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69970",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45857",
-   "http://www.hobbyking.com/hobbyking/store/__28286__Turnigy_8482_T531_BBD_High_Speed_Nano_DS_Coreless_Servo_0_5Kg_0_09Sec_3_9g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28286__Turnigy_8482_T531_BBD_High_Speed_Nano_DS_Coreless_Servo_0_5Kg_0_09Sec_3_9g.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:16:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45857"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$8.41",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:16:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69970"
+  }
+ ],
+ "version": 2,
+ "weight": "3.9"
 }

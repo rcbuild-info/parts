@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Zulu Slope/Electric Wing Composite 1400mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75959",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75958",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75957",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75956",
-   "http://www.hobbyking.com/hobbyking/store/__75955__HobbyKing_8482_Zulu_Slope_Electric_Wing_Composite_1400mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$256.51",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:42:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__75955__HobbyKing_8482_Zulu_Slope_Electric_Wing_Composite_1400mm_PNF_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$294.57",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:40:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75956"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$306.87",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:40:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75957"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$307.55",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:40:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75958"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$296.73",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:40:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75959"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "XP 3A 1S 0.7g Brushless Speed Controller",
@@ -7,9 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55051"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:52:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9667__HobbyKing_XP_3A_1S_0_7g_Brushless_Speed_Controller_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$10.77",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55051"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

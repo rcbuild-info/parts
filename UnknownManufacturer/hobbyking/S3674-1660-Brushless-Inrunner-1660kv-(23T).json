@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "S3674-1660 Brushless Inrunner 1660kv (23T)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__15234__S3674_1660_Brushless_Inrunner_1660kv_23T_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$39.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__15234__S3674_1660_Brushless_Inrunner_1660kv_23T_.html"
+  }
+ ],
+ "version": 2,
+ "weight": "364"
 }

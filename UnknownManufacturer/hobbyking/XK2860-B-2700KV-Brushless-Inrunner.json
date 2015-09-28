@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XK2860-B-2700KV Brushless Inrunner",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__17729__XK2860_B_2700KV_Brushless_Inrunner.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.39",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:46:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17729__XK2860_B_2700KV_Brushless_Inrunner.html"
+  }
+ ],
+ "version": 2,
+ "weight": "156"
 }

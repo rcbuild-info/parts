@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "Flightmax 800mAh 3S1P 20C (E-flight Compatible EFLB0995)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59430",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57393",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41710",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31949",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18636",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18575",
-   "http://www.hobbyking.com/hobbyking/store/__6784__ZIPPY_Flightmax_800mAh_3S1P_20C_E_flight_Compatible_EFLB0995_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:50:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6784__ZIPPY_Flightmax_800mAh_3S1P_20C_E_flight_Compatible_EFLB0995_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$7.15",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:49:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18575"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$7.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:49:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18636"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$7.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:49:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31949"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$7.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:49:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41710"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$7.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:49:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57393"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$8.87",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:49:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59430"
+  }
+ ],
+ "version": 2,
+ "weight": "62"
 }

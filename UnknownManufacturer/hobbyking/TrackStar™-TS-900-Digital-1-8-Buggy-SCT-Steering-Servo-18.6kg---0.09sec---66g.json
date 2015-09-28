@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "TrackStar\u2122 TS-900 Digital 1/8 Buggy/SCT Steering Servo 18.6kg / 0.09sec / 66g",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77532",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70119",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62776",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62684",
-   "http://www.hobbyking.com/hobbyking/store/__43053__TrackStar_8482_TS_900_Digital_1_8_Buggy_SCT_Steering_Servo_18_6kg_0_09sec_66g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$36.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__43053__TrackStar_8482_TS_900_Digital_1_8_Buggy_SCT_Steering_Servo_18_6kg_0_09sec_66g.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$37.07",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:31:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62684"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$37.63",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62776"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$49.61",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 00:31:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70119"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$40.17",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:31:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77532"
+  }
+ ],
+ "version": 2,
+ "weight": "66"
 }

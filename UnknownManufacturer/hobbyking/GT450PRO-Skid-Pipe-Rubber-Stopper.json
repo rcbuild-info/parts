@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO Skid Pipe Rubber Stopper",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11565__GT450PRO_Skid_Pipe_Rubber_Stopper.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.69",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11565__GT450PRO_Skid_Pipe_Rubber_Stopper.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

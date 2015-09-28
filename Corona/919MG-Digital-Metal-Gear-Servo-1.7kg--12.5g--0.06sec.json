@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "919MG Digital Metal Gear Servo 1.7kg/ 12.5g/ 0.06sec",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65299",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41719",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40848",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31888",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31548",
-   "http://www.hobbyking.com/hobbyking/store/__11854__Corona_919MG_Digital_Metal_Gear_Servo_1_7kg_12_5g_0_06sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:19:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11854__Corona_919MG_Digital_Metal_Gear_Servo_1_7kg_12_5g_0_06sec.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$8.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:19:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31548"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$8.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:18:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31888"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$6.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:18:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40848"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:18:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41719"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:18:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65299"
+  }
+ ],
+ "version": 2,
+ "weight": "12.5"
 }

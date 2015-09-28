@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "DS928HV Servo 1.7kg/ 9g/ 0.09sec",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60920",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57570",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56185",
-   "http://www.hobbyking.com/hobbyking/store/__42321__Corona_DS928HV_Servo_1_7kg_9g_0_09sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:18:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42321__Corona_DS928HV_Servo_1_7kg_9g_0_09sec.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$7.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56185"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57570"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$8.98",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:17:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60920"
+  }
+ ],
+ "version": 2,
+ "weight": "9"
 }

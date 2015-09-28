@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Flybarless Rotor Head Assembly Complete HK-450TT PRO FBL/ Trex 450PRO",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__23930__Flybarless_Rotor_Head_Assembly_Complete_HK_450TT_PRO_FBL_Trex_450PRO.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$27.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23930__Flybarless_Rotor_Head_Assembly_Complete_HK_450TT_PRO_FBL_Trex_450PRO.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

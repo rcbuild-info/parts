@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "5v Smart LiPo 500mAh (1pc)",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84542",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84541",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84540",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84539",
-   "http://www.hobbyking.com/hobbyking/store/__45439__Hobbyking_174_5v_Smart_LiPo_500mAh_1pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$14.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:10:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45439__Hobbyking_174_5v_Smart_LiPo_500mAh_1pc_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$15.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:08:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84538"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$14.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:08:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84539"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$16.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:08:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84540"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$15.51",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:08:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84541"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$15.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:08:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84542"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

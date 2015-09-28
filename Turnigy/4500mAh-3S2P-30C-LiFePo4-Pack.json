@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "4500mAh 3S2P 30C LiFePo4 Pack",
@@ -7,15 +7,61 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59896",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58967",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36013",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31940",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17822",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14689",
-   "http://www.hobbyking.com/hobbyking/store/__10310__Turnigy_4500mAh_3S2P_30C_LiFePo4_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$33.52",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:26:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10310__Turnigy_4500mAh_3S2P_30C_LiFePo4_Pack.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$40.25",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:26:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14689"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$35.21",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:26:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17822"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$36.32",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:26:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31940"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$36.89",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:26:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36013"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58967"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$46.23",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:26:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59896"
+  }
+ ],
+ "version": 2,
+ "weight": "461"
 }

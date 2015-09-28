@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FY-DoS Inertial Attitude Stabiliser with GPS   (Multi-Rotor)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57126",
-   "http://www.hobbyking.com/hobbyking/store/__40291__FY_DoS_Inertial_Attitude_Stabiliser_with_GPS_Multi_Rotor_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$154.00",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:56:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__40291__FY_DoS_Inertial_Attitude_Stabiliser_with_GPS_Multi_Rotor_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$154.00",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:55:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57126"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

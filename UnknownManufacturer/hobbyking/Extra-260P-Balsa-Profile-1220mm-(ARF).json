@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Extra 260P Balsa Profile 1220mm (ARF)",
@@ -7,9 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63297"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$79.75",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25306__Extra_260P_Balsa_Profile_1220mm_ARF_.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$79.95",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:12:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63297"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

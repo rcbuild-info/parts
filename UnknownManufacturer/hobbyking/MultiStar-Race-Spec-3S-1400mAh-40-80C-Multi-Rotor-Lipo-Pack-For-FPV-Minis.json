@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MultiStar Race Spec 3S 1400mAh 40-80C Multi-Rotor Lipo Pack For FPV Minis",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76039",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75129",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73955",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73858",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73569",
-   "http://www.hobbyking.com/hobbyking/store/__66874__MultiStar_Race_Spec_3S_1400mAh_40_80C_Multi_Rotor_Lipo_Pack_For_FPV_Minis.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$14.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:49:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__66874__MultiStar_Race_Spec_3S_1400mAh_40_80C_Multi_Rotor_Lipo_Pack_For_FPV_Minis.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$16.69",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:48:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73569"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$16.29",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:48:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73858"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$16.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:48:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73955"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$16.23",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:48:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75129"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$16.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:48:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76039"
+  }
+ ],
+ "version": 2,
+ "weight": "115"
 }

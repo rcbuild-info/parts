@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Multi-Function Charge Lead with 4mm Banana Plugs",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__50488__Multi_Function_Charge_Lead_with_4mm_Banana_Plugs.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.40",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 02:03:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__50488__Multi_Function_Charge_Lead_with_4mm_Banana_Plugs.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

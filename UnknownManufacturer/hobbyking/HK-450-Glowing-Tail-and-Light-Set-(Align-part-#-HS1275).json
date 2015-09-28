@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HK-450 Glowing Tail and Light Set (Align part # HS1275)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70742",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39925",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30926",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27874",
-   "http://www.hobbyking.com/hobbyking/store/__10978__HK_450_Glowing_Tail_and_Light_Set_Align_part_HS1275_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10978__HK_450_Glowing_Tail_and_Light_Set_Align_part_HS1275_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:22:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27874"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:22:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30926"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.06",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Sun, 27 Sep 2015 23:22:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39925"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.95",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Sun, 27 Sep 2015 23:22:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70742"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

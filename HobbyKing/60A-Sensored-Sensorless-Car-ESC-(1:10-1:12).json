@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "60A Sensored/Sensorless Car ESC (1:10/1:12)",
@@ -7,12 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71712",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45767",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41749",
-   "http://www.hobbyking.com/hobbyking/store/__17232__HobbyKing_60A_Sensored_Sensorless_Car_ESC_1_10_1_12_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$39.13",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:50:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17232__HobbyKing_60A_Sensored_Sensorless_Car_ESC_1_10_1_12_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$40.17",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:49:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=19745"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$39.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38699"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$48.33",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41749"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$43.63",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45767"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$39.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71712"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

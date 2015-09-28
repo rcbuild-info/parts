@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Carbon Fiber Main Blade 700mm (1pair)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34439",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=12929",
-   "http://www.hobbyking.com/hobbyking/store/__45204__Turnigy_Carbon_Fiber_Main_Blade_700mm_1pair_US_Warehouse_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45204",
-   "http://www.hobbyking.com/hobbyking/store/__12929__Turnigy_Carbon_Fiber_Main_Blade_700mm_1pair_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:23:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12929__Turnigy_Carbon_Fiber_Main_Blade_700mm_1pair_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$46.42",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Sun, 27 Sep 2015 23:06:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45204__Turnigy_Carbon_Fiber_Main_Blade_700mm_1pair_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$29.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:05:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=12929"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:22:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34439"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$46.42",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Sun, 27 Sep 2015 23:22:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45204"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

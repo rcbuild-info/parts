@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-1270HV Ball Bearing DS/MG Servo w/ Heat Sink 40kg / .18sec / 170g",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70402",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69958",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51890",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49820",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30912",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29340",
-   "http://www.hobbyking.com/hobbyking/store/__27213__Turnigy_8482_TGY_1270HV_Ball_Bearing_DS_MG_Servo_w_Heat_Sink_40kg_18sec_170g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$32.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__27213__Turnigy_8482_TGY_1270HV_Ball_Bearing_DS_MG_Servo_w_Heat_Sink_40kg_18sec_170g.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$35.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29340"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$34.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30912"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$36.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49820"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$34.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51890"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$41.95",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 00:22:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69958"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$34.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70402"
+  }
+ ],
+ "version": 2,
+ "weight": "170"
 }

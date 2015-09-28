@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 MG959 V2 Alloy DG/MG Servo 30kg / 0.15sec / 78g",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70080",
-   "http://www.hobbyking.com/hobbyking/store/__40285__Turnigy_8482_MG959_V2_Alloy_DG_MG_Servo_30kg_0_15sec_78g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__40285__Turnigy_8482_MG959_V2_Alloy_DG_MG_Servo_30kg_0_15sec_78g.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$40.73",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 00:27:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70080"
+  }
+ ],
+ "version": 2,
+ "weight": "78"
 }

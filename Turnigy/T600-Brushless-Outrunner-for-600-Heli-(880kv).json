@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "T600 Brushless Outrunner for 600 Heli (880kv)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71881",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44019",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42481",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39873",
-   "http://www.hobbyking.com/hobbyking/store/__11143__Turnigy_T600_Brushless_Outrunner_for_600_Heli_880kv_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$61.86",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 01:42:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11143__Turnigy_T600_Brushless_Outrunner_for_600_Heli_880kv_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$70.18",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 01:42:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39873"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$63.67",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:42:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42481"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$76.84",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:42:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44019"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$73.96",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:55:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71881"
+  }
+ ],
+ "version": 2,
+ "weight": "363"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dr. Mad Thrust 90mm 12 Blade Alloy EDF 1000kv - 4200w (10S)(Counter Rotating)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__45232__Dr_Mad_Thrust_90mm_12_Blade_Alloy_EDF_1000kv_4200w_10S_Counter_Rotating_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$149.45",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 01:41:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45232__Dr_Mad_Thrust_90mm_12_Blade_Alloy_EDF_1000kv_4200w_10S_Counter_Rotating_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

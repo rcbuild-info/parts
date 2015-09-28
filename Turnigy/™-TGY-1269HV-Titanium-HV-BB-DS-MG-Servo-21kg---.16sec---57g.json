@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-1269HV Titanium HV/BB/DS/MG Servo 21kg / .16sec / 57g",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69793",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60370",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52244",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44591",
-   "http://www.hobbyking.com/hobbyking/store/__19920__Turnigy_8482_TGY_1269HV_Titanium_HV_BB_DS_MG_Servo_21kg_16sec_57g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$38.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19920__Turnigy_8482_TGY_1269HV_Titanium_HV_BB_DS_MG_Servo_21kg_16sec_57g.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$43.60",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44591"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$40.53",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52244"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$42.16",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60370"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$52.92",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:25:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69793"
+  }
+ ],
+ "version": 2,
+ "weight": "57"
 }

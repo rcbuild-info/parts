@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini T-Connector (5 Pairs)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__53696__Mini_T_Connector_5_Pairs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.56",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:03:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__53696__Mini_T_Connector_5_Pairs_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

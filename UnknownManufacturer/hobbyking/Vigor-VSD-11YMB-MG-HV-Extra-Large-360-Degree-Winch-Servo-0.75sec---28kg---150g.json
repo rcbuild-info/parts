@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Vigor VSD-11YMB MG/HV Extra Large 360 Degree/Winch Servo 0.75sec / 28kg / 150g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__18743__Vigor_VSD_11YMB_MG_HV_Extra_Large_360_Degree_Winch_Servo_0_75sec_28kg_150g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:25:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18743__Vigor_VSD_11YMB_MG_HV_Extra_Large_360_Degree_Winch_Servo_0_75sec_28kg_150g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "150"
 }

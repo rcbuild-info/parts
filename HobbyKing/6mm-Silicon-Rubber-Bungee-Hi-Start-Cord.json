@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "6mm Silicon Rubber Bungee Hi-Start Cord",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71810",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67616",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52321",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51169",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50932",
-   "http://www.hobbyking.com/hobbyking/store/__10329__HobbyKing_6mm_Silicon_Rubber_Bungee_Hi_Start_Cord.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.69",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10329__HobbyKing_6mm_Silicon_Rubber_Bungee_Hi_Start_Cord.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.03",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50932"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.96",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:37:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51169"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$4.41",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:37:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52321"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$5.71",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67616"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.41",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:37:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71810"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

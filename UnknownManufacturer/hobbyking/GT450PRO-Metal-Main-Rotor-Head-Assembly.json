@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO Metal Main Rotor Head Assembly",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11580__GT450PRO_Metal_Main_Rotor_Head_Assembly.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$25.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:26:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11580__GT450PRO_Metal_Main_Rotor_Head_Assembly.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

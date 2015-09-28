@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "Compact 2700mAh 2S 35C Lipo Pack",
@@ -7,15 +7,51 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59495",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58609",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36174",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32108",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29846",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29827",
-   "http://www.hobbyking.com/hobbyking/store/__21395__ZIPPY_Compact_2700mAh_2S_35C_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:04:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__21395__ZIPPY_Compact_2700mAh_2S_35C_Lipo_Pack.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$15.30",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:01:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29827"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$14.10",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:01:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29846"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32108"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$13.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:01:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36174"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58609"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59495"
+  }
+ ],
+ "version": 2,
+ "weight": "151"
 }

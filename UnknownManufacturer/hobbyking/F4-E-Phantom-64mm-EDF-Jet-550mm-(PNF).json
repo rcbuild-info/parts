@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F4-E Phantom 64mm EDF Jet 550mm (PNF)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32319",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31710",
-   "http://www.hobbyking.com/hobbyking/store/__21025__F4_E_Phantom_64mm_EDF_Jet_550mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$67.60",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:14:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__21025__F4_E_Phantom_64mm_EDF_Jet_550mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$78.90",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:10:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31710"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$79.26",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:10:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32319"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

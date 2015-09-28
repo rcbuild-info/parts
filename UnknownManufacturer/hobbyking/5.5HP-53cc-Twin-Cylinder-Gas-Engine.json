@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "5.5HP 53cc Twin Cylinder Gas Engine",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70472",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69663",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45235",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28674",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24528",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24246",
-   "http://www.hobbyking.com/hobbyking/store/__11973__5_5HP_53cc_Twin_Cylinder_Gas_Engine.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$373.97",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 00:09:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11973__5_5HP_53cc_Twin_Cylinder_Gas_Engine.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$392.72",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 00:08:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24246"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$399.24",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:08:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24528"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$414.56",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:08:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28674"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$437.43",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 00:08:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45235"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$462.48",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:08:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69663"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$392.72",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:08:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70472"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MultiStar High Capacity 6S 12000mAh Multi-Rotor Lipo Pack",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74103",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74101",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74100",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74099",
-   "http://www.hobbyking.com/hobbyking/store/__74096__MultiStar_High_Capacity_6S_12000mAh_Multi_Rotor_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$103.33",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:06:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__74096__MultiStar_High_Capacity_6S_12000mAh_Multi_Rotor_Lipo_Pack.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$103.33",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:05:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74099"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$103.33",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:05:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74100"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$103.33",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:05:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74101"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$103.33",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:05:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74103"
+  }
+ ],
+ "version": 2,
+ "weight": "1525"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "D50024MG 360-degree Continuous Travel Digital N-Roll Gimbal Servo 5.0kg/0.05s/60g",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57874",
-   "http://www.hobbyking.com/hobbyking/store/__40923__D50024MG_360_degree_Continuous_Travel_Digital_N_Roll_Gimbal_Servo_5_0kg_0_05s_60g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$48.05",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:26:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__40923__D50024MG_360_degree_Continuous_Travel_Digital_N_Roll_Gimbal_Servo_5_0kg_0_05s_60g.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$48.05",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:26:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57874"
+  }
+ ],
+ "version": 2,
+ "weight": "60"
 }

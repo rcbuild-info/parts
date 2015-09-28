@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "XK2860-2730KV Brushless Inrunner",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__75392__Turnigy_XK2860_2730KV_Brushless_Inrunner.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$24.05",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:47:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__75392__Turnigy_XK2860_2730KV_Brushless_Inrunner.html"
+  }
+ ],
+ "version": 2,
+ "weight": "165"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4mm Banana Plug with 6 x JST Plug Charging Harness",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__14540__4mm_Banana_Plug_with_6_x_JST_Plug_Charging_Harness.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.81",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14540__4mm_Banana_Plug_with_6_x_JST_Plug_Charging_Harness.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "RoboStar SRS-3216HTG 280\u00b0 Digital Metal Gear High Voltage Robot Servo 32.4kg / 0.16Sec / 73g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__64644__RoboStar_SRS_3216HTG_280_Digital_Metal_Gear_High_Voltage_Robot_Servo_32_4kg_0_16Sec_73g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$21.28",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:15:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__64644__RoboStar_SRS_3216HTG_280_Digital_Metal_Gear_High_Voltage_Robot_Servo_32_4kg_0_16Sec_73g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "74"
 }

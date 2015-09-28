@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "4000mAh 2S 30C Hardcase Pack (ROAR APPROVED)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59981",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59041",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36053",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31942",
-   "http://www.hobbyking.com/hobbyking/store/__21004__Turnigy_4000mAh_2S_30C_Hardcase_Pack_ROAR_APPROVED_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:27:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__21004__Turnigy_4000mAh_2S_30C_Hardcase_Pack_ROAR_APPROVED_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$19.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:26:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31942"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$20.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:26:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36053"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$20.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:26:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59041"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$28.37",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:26:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59981"
+  }
+ ],
+ "version": 2,
+ "weight": "254"
 }

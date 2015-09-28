@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Bolt 5400mAh 3S 11.4V 65~130C High Voltage Lipoly Pack (LiHV)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64927",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64786",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63782",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63002",
-   "http://www.hobbyking.com/hobbyking/store/__51505__Turnigy_Bolt_5400mAh_3S_11_4V_65_130C_High_Voltage_Lipoly_Pack_LiHV_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$61.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:31:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51505__Turnigy_Bolt_5400mAh_3S_11_4V_65_130C_High_Voltage_Lipoly_Pack_LiHV_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$63.26",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:29:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63002"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$64.41",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:29:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63782"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$64.35",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:29:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64786"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$64.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:29:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64927"
+  }
+ ],
+ "version": 2,
+ "weight": "439"
 }

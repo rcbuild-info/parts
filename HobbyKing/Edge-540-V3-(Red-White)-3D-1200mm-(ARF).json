@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Edge 540 V3 (Red/White) 3D 1200mm (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70401",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30009",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25962",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25011",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24738",
-   "http://www.hobbyking.com/hobbyking/store/__20132__Hobbyking_Edge_540_V3_Red_White_3D_1200mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$107.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20132__Hobbyking_Edge_540_V3_Red_White_3D_1200mm_ARF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$139.05",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:12:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24738"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$124.93",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25011"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$127.39",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:12:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25962"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$139.84",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30009"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$139.05",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:10:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70401"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

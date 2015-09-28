@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Fighter Jet w/ Motor, Servo, ESC EDF Plug-n-Fly",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__12608__Fighter_Jet_w_Motor_Servo_ESC_EDF_Plug_n_Fly.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$69.60",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:24:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12608__Fighter_Jet_w_Motor_Servo_ESC_EDF_Plug_n_Fly.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

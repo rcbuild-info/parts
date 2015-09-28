@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Angelbipe 3D EPP 820mm w/Motor (Kit)",
@@ -7,9 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68789"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$50.85",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:59:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45294__HobbyKing_Angelbipe_3D_EPP_820mm_w_Motor_Kit_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$58.62",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:58:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67406"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$63.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68599"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$59.88",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:58:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68789"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

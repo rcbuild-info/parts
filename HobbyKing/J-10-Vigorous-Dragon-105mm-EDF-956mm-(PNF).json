@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "J-10 Vigorous Dragon 105mm EDF 956mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75602",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63654",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63614",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63438",
-   "http://www.hobbyking.com/hobbyking/store/__55565__HobbyKing_8482_J_10_Vigorous_Dragon_105mm_EDF_956mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$554.43",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:14:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__55565__HobbyKing_8482_J_10_Vigorous_Dragon_105mm_EDF_956mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$592.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:12:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63438"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$639.34",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:12:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63614"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$597.14",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 04:12:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63654"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$592.55",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:12:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75602"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

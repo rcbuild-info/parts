@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Electric Retract with Reversible Mount (1pc) 18.8g",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70715",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54914",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47647",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39921",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33306",
-   "http://www.hobbyking.com/hobbyking/store/__17538__Electric_Retract_with_Reversible_Mount_1pc_18_8g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17538__Electric_Retract_with_Reversible_Mount_1pc_18_8g.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$7.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33306"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39921"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$6.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47647"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54914"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$7.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:35:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70715"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "Flightmax 2500mAh Transmitter Pack (Futaba/JR)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59501",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58614",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38105",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32116",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20638",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=19508",
-   "http://www.hobbyking.com/hobbyking/store/__6955__ZIPPY_Flightmax_2500mAh_Transmitter_Pack_Futaba_JR_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$15.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:10:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6955__ZIPPY_Flightmax_2500mAh_Transmitter_Pack_Futaba_JR_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$16.60",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:09:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=19508"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$16.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:09:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20638"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$16.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:09:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32116"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$16.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:09:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38105"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$16.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:09:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58614"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$20.73",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:09:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59501"
+  }
+ ],
+ "version": 2,
+ "weight": "146"
 }

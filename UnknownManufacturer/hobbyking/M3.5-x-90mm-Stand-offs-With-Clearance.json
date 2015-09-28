@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "M3.5 x 90mm Stand-offs With Clearance",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56179",
-   "http://www.hobbyking.com/hobbyking/store/__26554__M3_5_x_90mm_Stand_offs_With_Clearance.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.89",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:23:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__26554__M3_5_x_90mm_Stand_offs_With_Clearance.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.24",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Sun, 27 Sep 2015 23:22:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56179"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

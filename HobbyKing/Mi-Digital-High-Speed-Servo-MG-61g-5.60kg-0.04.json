@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Mi Digital High Speed Servo MG 61g/5.60kg/0.04",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29504",
-   "http://www.hobbyking.com/hobbyking/store/__14831__HobbyKing_8482_Mi_Digital_High_Speed_Servo_MG_61g_5_60kg_0_04.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$31.58",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 00:26:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14831__HobbyKing_8482_Mi_Digital_High_Speed_Servo_MG_61g_5_60kg_0_04.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$31.91",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 00:26:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29504"
+  }
+ ],
+ "version": 2,
+ "weight": "61"
 }

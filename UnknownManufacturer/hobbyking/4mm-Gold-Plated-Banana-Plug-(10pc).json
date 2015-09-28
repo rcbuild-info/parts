@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4mm Gold Plated Banana Plug (10pc)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60750",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57460",
-   "http://www.hobbyking.com/hobbyking/store/__39650__4mm_Gold_Plated_Banana_Plug_10pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:07:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39650__4mm_Gold_Plated_Banana_Plug_10pc_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$6.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57460"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$8.51",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60750"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

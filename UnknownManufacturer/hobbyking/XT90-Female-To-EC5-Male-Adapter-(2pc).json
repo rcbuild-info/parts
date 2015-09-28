@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XT90 Female To EC5 Male Adapter (2pc)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57766",
-   "http://www.hobbyking.com/hobbyking/store/__45385__XT90_Female_To_EC5_Male_Adapter_2pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.28",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45385__XT90_Female_To_EC5_Male_Adapter_2pc_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.28",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57766"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

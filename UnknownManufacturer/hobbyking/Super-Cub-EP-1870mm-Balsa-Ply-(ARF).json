@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Super Cub EP 1870mm Balsa/Ply (ARF)",
@@ -7,14 +7,53 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69711",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36648",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25911",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22415",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17629",
-   "http://www.hobbyking.com/hobbyking/store/__15615__Super_Cub_EP_1870mm_Balsa_Ply_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$113.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:03:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__15615__Super_Cub_EP_1870mm_Balsa_Ply_ARF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$138.42",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:02:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17629"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$135.56",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 04:02:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22415"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$132.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:02:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25911"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$134.75",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:02:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36648"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69711"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

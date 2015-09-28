@@ -1,0 +1,47 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "Turnigy",
+ "name": "AquaStar 3650-3500KV Water Cooled Brushless Motor",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$54.15",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 00:46:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22405__Turnigy_AquaStar_3650_3500KV_Water_Cooled_Brushless_Motor_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$54.42",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:45:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42471"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$58.68",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:45:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61502"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$54.42",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 00:45:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71376"
+  }
+ ],
+ "version": 2,
+ "weight": "233"
+}

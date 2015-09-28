@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Brushless ESC 35A CAR ESC",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__7186__Turnigy_Brushless_ESC_35A_CAR_ESC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$27.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:41:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7186__Turnigy_Brushless_ESC_35A_CAR_ESC.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

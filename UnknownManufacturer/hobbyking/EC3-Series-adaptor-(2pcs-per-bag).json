@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EC3 Series adaptor (2pcs per bag)",
@@ -7,12 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76360",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76359",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76358",
-   "http://www.hobbyking.com/hobbyking/store/__76333__EC3_Series_adaptor_2pcs_per_bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.74",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:03:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__76333__EC3_Series_adaptor_2pcs_per_bag_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76357"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.77",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76358"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$4.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76359"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76360"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

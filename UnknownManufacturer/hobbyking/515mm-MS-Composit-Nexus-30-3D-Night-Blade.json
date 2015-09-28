@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "515mm MS Composit Nexus 30 3D Night Blade",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__12729__515mm_MS_Composit_Nexus_30_3D_Night_Blade.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$99.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:23:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12729__515mm_MS_Composit_Nexus_30_3D_Night_Blade.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

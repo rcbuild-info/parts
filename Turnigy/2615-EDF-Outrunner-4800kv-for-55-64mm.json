@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "2615 EDF Outrunner 4800kv for 55/64mm",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__10985__Turnigy_2615_EDF_Outrunner_4800kv_for_55_64mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10985__Turnigy_2615_EDF_Outrunner_4800kv_for_55_64mm.html"
+  }
+ ],
+ "version": 2,
+ "weight": "66"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO Stabilizer Control Arm Set",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11535__GT450PRO_Stabilizer_Control_Arm_Set.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:26:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11535__GT450PRO_Stabilizer_Control_Arm_Set.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

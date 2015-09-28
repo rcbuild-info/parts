@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "70A BlueSeries Brushless Speed Controller",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72300",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58212",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47866",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46011",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43584",
-   "http://www.hobbyking.com/hobbyking/store/__24718__HobbyKing_70A_BlueSeries_Brushless_Speed_Controller.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$31.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:44:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24718__HobbyKing_70A_BlueSeries_Brushless_Speed_Controller.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$32.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43584"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$32.92",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:42:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46011"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$34.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:42:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47866"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$36.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:42:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58212"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$31.96",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:42:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72300"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

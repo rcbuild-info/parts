@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Charge/Balance Board for 2~3S w/ XH/PQ/TP Connectors",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60995",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49407",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44905",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44515",
-   "http://www.hobbyking.com/hobbyking/store/__11778__Charge_Balance_Board_for_2_3S_w_XH_PQ_TP_Connectors.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.51",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11778__Charge_Balance_Board_for_2_3S_w_XH_PQ_TP_Connectors.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$5.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44515"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$5.55",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 02:03:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44905"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$5.70",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:03:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49407"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$6.17",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60995"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

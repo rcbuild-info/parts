@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Trex/HK450 1.2mm Carbon Fiber Horizontal Stabilizer",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__27143__Trex_HK450_1_2mm_Carbon_Fiber_Horizontal_Stabilizer.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__27143__Trex_HK450_1_2mm_Carbon_Fiber_Horizontal_Stabilizer.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

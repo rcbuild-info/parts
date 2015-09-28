@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Mini Saturn F3A 3D EPO Airplane 580mm (PNF)",
@@ -7,14 +7,69 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67990",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66338",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41994",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41729",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40801",
-   "http://www.hobbyking.com/hobbyking/store/__32135__HobbyKing_Mini_Saturn_F3A_3D_EPO_Airplane_580mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$78.19",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:09:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__32135__HobbyKing_174_8482_Mini_Saturn_F3A_3D_EPO_Airplane_580mm_PNF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__32135__HobbyKing_Mini_Saturn_F3A_3D_EPO_Airplane_580mm_PNF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$84.99",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:07:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40801"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$81.80",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 04:07:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41729"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$78.99",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:07:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41937"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$83.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:07:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41994"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$81.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:07:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66338"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$106.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:07:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67990"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

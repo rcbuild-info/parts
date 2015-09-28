@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mig 15 35mm EDF Micro Jet EPO (PNF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__17311__Mig_15_35mm_EDF_Micro_Jet_EPO_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$64.40",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:14:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17311__Mig_15_35mm_EDF_Micro_Jet_EPO_PNF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 5800mah 2S2P 30~60C Hardcase Lipo Pack (ROAR APPROVED)",
@@ -7,14 +9,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59172",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32712",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32711",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25221",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24200",
-   "http://www.hobbyking.com/hobbyking/store/__17272__Turnigy_nano_tech_5800mah_2S2P_30_60C_Hardcase_Lipo_Pack_ROAR_APPROVED_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$32.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:20:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17272__Turnigy_nano_tech_5800mah_2S2P_30_60C_Hardcase_Lipo_Pack_ROAR_APPROVED_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$30.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:17:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24200"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$31.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:17:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25221"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$31.84",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:17:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32711"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$31.53",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:17:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32712"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$30.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:17:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59172"
+  }
+ ],
+ "version": 2,
+ "weight": "296"
 }

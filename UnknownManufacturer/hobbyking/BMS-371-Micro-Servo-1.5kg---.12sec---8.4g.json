@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-371 Micro Servo 1.5kg / .12sec / 8.4g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__8748__BMS_371_Micro_Servo_1_5kg_12sec_8_4g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8748__BMS_371_Micro_Servo_1_5kg_12sec_8_4g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "8.4"
 }

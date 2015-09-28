@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Quanum FPV Headset Battery 7.4V 1500mAh 3C",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74313",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74312",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74311",
-   "http://www.hobbyking.com/hobbyking/store/__74310__Quanum_FPV_Headset_Battery_7_4V_1500mAh_3C.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:11:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__74310__Quanum_FPV_Headset_Battery_7_4V_1500mAh_3C.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:10:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74311"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$8.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:10:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74312"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$9.32",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:10:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74313"
+  }
+ ],
+ "version": 2,
+ "weight": "60"
 }

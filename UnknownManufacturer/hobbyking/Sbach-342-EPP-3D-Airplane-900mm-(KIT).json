@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sbach 342 EPP 3D Airplane 900mm (KIT)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71107",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39837",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39191",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39025",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38868",
-   "http://www.hobbyking.com/hobbyking/store/__22390__Sbach_342_EPP_3D_Airplane_900mm_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$39.99",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:59:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22390__Sbach_342_EPP_3D_Airplane_900mm_KIT_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$45.48",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:58:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38868"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$51.46",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39025"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$45.19",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39191"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$47.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39837"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$45.48",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71107"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

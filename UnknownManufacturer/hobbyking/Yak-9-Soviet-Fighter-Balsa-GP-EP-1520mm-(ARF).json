@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Yak-9 Soviet Fighter Balsa GP/EP 1520mm (ARF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71173",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70153",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54383",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53659",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53622",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52831",
-   "http://www.hobbyking.com/hobbyking/store/__47588__Yak_9_Soviet_Fighter_Balsa_GP_EP_1520mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$100.72",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__47588__Yak_9_Soviet_Fighter_Balsa_GP_EP_1520mm_ARF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$102.12",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:50:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52831"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$105.76",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:50:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53622"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$128.07",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:50:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53659"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$133.38",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:50:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54383"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$301.16",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:50:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70153"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$133.38",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:50:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71173"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

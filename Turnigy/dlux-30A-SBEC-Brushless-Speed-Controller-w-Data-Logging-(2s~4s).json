@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "dlux 30A SBEC Brushless Speed Controller w/Data Logging (2s~4s)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70563",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61067",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49350",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36538",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29880",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26499",
-   "http://www.hobbyking.com/hobbyking/store/__20632__Turnigy_dlux_30A_SBEC_Brushless_Speed_Controller_w_Data_Logging_2s_4s_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$20.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:39:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20632__Turnigy_dlux_30A_SBEC_Brushless_Speed_Controller_w_Data_Logging_2s_4s_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$19.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:36:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26499"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:36:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29880"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$19.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:36:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36538"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$19.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:36:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49350"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$23.38",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:36:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61067"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$19.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:36:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70563"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

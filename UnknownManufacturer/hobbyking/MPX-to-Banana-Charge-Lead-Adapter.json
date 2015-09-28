@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MPX to Banana Charge Lead Adapter",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58442",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31837",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31479",
-   "http://www.hobbyking.com/hobbyking/store/__18097__MPX_to_Banana_Charge_Lead_Adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.27",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18097__MPX_to_Banana_Charge_Lead_Adapter.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31479"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:59:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31837"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.88",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 01:59:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58442"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

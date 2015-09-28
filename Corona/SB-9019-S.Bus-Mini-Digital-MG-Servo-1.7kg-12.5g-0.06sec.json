@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "SB-9019 S.Bus Mini Digital MG Servo 1.7kg/12.5g/0.06sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__39682__Corona_SB_9019_S_Bus_Mini_Digital_MG_Servo_1_7kg_12_5g_0_06sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$17.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39682__Corona_SB_9019_S_Bus_Mini_Digital_MG_Servo_1_7kg_12_5g_0_06sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "12.5"
 }

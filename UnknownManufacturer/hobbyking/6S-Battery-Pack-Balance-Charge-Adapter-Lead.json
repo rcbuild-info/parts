@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "6S Battery Pack Balance Charge Adapter Lead",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60229",
-   "http://www.hobbyking.com/hobbyking/store/__38605__6S_Battery_Pack_Balance_Charge_Adapter_Lead.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__38605__6S_Battery_Pack_Balance_Charge_Adapter_Lead.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$1.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:01:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60229"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

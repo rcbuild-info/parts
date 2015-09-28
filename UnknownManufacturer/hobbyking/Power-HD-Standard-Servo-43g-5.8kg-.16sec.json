@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Power HD Standard Servo 43g/5.8kg/.16sec",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70690",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30849",
-   "http://www.hobbyking.com/hobbyking/store/__9655__Power_HD_Standard_Servo_43g_5_8kg_16sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:23:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9655__Power_HD_Standard_Servo_43g_5_8kg_16sec.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$8.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30849"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$8.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70690"
+  }
+ ],
+ "version": 2,
+ "weight": "43"
 }

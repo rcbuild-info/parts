@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Mini Stick Laser Cut Kit 580mm (KIT)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57207",
-   "http://www.hobbyking.com/hobbyking/store/__18996__HobbyKing_8482_Mini_Stick_Laser_Cut_Kit_580mm_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18996__HobbyKing_8482_Mini_Stick_Laser_Cut_Kit_580mm_KIT_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$23.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:44:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57207"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

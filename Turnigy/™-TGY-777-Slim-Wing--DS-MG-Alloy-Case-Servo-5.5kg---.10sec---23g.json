@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-777 Slim Wing  DS/MG Alloy Case Servo 5.5kg / .10sec / 23g",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70188",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38758",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38589",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36325",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34461",
-   "http://www.hobbyking.com/hobbyking/store/__23340__Turnigy_8482_TGY_777_Slim_Wing_DS_MG_Alloy_Case_Servo_5_5kg_10sec_23g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$26.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:11:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23340__Turnigy_8482_TGY_777_Slim_Wing_DS_MG_Alloy_Case_Servo_5_5kg_10sec_23g.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$26.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:11:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34461"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$26.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:11:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36325"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$27.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:11:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38589"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$26.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:11:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38758"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$35.34",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:11:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70188"
+  }
+ ],
+ "version": 2,
+ "weight": "23"
 }

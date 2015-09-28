@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Futaba",
  "name": "BLS272SV S.Bus 2 High Speed Brushless Servo 12.0kg 0.08sec/60deg",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__54766__Futaba_BLS272SV_S_Bus_2_High_Speed_Brushless_Servo_12_0kg_0_08sec_60deg.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$169.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:31:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__54766__Futaba_BLS272SV_S_Bus_2_High_Speed_Brushless_Servo_12_0kg_0_08sec_60deg.html"
+  }
+ ],
+ "version": 2,
+ "weight": "60"
 }

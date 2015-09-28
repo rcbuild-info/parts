@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Delta Rocket High Speed Wing - Red 640mm (ARF)",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73797",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72627",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68858",
-   "http://www.hobbyking.com/hobbyking/store/__56286__Delta_Rocket_High_Speed_Wing_Red_640mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$50.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:16:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__56286__Delta_Rocket_High_Speed_Wing_Red_640mm_ARF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$66.32",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:16:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68858"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$62.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:16:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72627"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$66.76",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:15:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73797"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

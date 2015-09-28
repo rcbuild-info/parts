@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GL-Speedy Fiber Glass Glider 1600mm w/motor/ESC/Servos (PNF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__12976__GL_Speedy_Fiber_Glass_Glider_1600mm_w_motor_ESC_Servos_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$128.70",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:41:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12976__GL_Speedy_Fiber_Glass_Glider_1600mm_w_motor_ESC_Servos_PNF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

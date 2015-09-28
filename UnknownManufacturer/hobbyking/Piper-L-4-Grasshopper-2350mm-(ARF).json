@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Piper L-4 Grasshopper 2350mm (ARF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52794",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37205",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18307",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17627",
-   "http://www.hobbyking.com/hobbyking/store/__15611__Piper_L_4_Grasshopper_2350mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$204.10",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:03:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__15611__Piper_L_4_Grasshopper_2350mm_ARF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$230.10",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:03:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17627"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$236.33",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:03:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18307"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$234.30",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:03:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37205"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$235.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:03:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52794"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

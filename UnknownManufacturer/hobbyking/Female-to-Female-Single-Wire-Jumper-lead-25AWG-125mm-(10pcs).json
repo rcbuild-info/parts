@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Female to Female Single Wire Jumper lead 25AWG 125mm (10pcs)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60649",
-   "http://www.hobbyking.com/hobbyking/store/__27069__Female_to_Female_Single_Wire_Jumper_lead_25AWG_125mm_10pcs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__27069__Female_to_Female_Single_Wire_Jumper_lead_25AWG_125mm_10pcs_.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$1.12",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:56:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60649"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

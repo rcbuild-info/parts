@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "X8F 2.4ghz Futaba Module",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__5538__X8F_2_4ghz_Futaba_Module.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$69.95",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Sun, 27 Sep 2015 23:24:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5538__X8F_2_4ghz_Futaba_Module.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

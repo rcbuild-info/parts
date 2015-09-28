@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Altimeter Bluetooth Adapter for Wireless Android App",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61172",
-   "http://www.hobbyking.com/hobbyking/store/__37090__HobbyKing_Altimeter_Bluetooth_Adapter_for_Wireless_Android_App.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:38:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__37090__HobbyKing_Altimeter_Bluetooth_Adapter_for_Wireless_Android_App.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:37:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61172"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

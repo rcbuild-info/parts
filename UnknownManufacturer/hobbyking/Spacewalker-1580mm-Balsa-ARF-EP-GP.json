@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Spacewalker 1580mm Balsa ARF EP/GP",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70464",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32776",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31415",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30977",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30255",
-   "http://www.hobbyking.com/hobbyking/store/__23455__Spacewalker_1580mm_Balsa_ARF_EP_GP.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$77.98",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23455__Spacewalker_1580mm_Balsa_ARF_EP_GP.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$103.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:50:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30255"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$108.88",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:50:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30977"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$116.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:50:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31415"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$117.18",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:50:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32776"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$121.88",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:50:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70464"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

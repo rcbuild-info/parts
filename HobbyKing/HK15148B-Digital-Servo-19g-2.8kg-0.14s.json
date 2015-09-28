@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "HK15148B Digital Servo 19g/2.8kg/0.14s",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69383",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68285",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42777",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41124",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41059",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38591",
-   "http://www.hobbyking.com/hobbyking/store/__23486__HobbyKing_8482_HK15148B_Digital_Servo_19g_2_8kg_0_14s.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.37",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23486__HobbyKing_8482_HK15148B_Digital_Servo_19g_2_8kg_0_14s.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$4.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38591"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41059"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$4.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41124"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42777"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$5.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68285"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69383"
+  }
+ ],
+ "version": 2,
+ "weight": "19"
 }

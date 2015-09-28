@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Micro JST 1.50mm Pitch Adapter Set (3pcs)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__41923__Micro_JST_1_50mm_Pitch_Adapter_Set_3pcs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.75",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 00:06:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__41923__Micro_JST_1_50mm_Pitch_Adapter_Set_3pcs_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

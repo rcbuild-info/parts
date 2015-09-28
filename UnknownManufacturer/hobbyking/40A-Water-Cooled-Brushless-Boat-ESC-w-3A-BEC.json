@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "40A Water Cooled Brushless Boat ESC w/3A BEC",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29559",
-   "http://www.hobbyking.com/hobbyking/store/__19833__40A_Water_Cooled_Brushless_Boat_ESC_w_3A_BEC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:50:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19833__40A_Water_Cooled_Brushless_Boat_ESC_w_3A_BEC.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$19.15",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 00:50:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29559"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

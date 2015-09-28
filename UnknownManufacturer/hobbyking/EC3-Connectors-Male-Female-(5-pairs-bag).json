@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EC3 Connectors Male/Female (5 pairs/bag)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67658",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64773",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47597",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47539",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46781",
-   "http://www.hobbyking.com/hobbyking/store/__32960__EC3_Connectors_Male_Female_5_pairs_bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__32960__EC3_Connectors_Male_Female_5_pairs_bag_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$5.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46781"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$6.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47539"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47597"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$5.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64773"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.01",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67658"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HK450 carbon tail boom ",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__17126__HK450_carbon_tail_boom_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:24:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17126__HK450_carbon_tail_boom_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

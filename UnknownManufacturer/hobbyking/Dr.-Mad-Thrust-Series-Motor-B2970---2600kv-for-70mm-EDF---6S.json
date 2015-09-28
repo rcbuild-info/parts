@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dr. Mad Thrust Series Motor B2970 - 2600kv for 70mm EDF / 6S",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67416",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67240",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66510",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57630",
-   "http://www.hobbyking.com/hobbyking/store/__39829__Dr_Mad_Thrust_Series_Motor_B2970_2600kv_for_70mm_EDF_6S.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$37.40",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 01:41:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39829__Dr_Mad_Thrust_Series_Motor_B2970_2600kv_for_70mm_EDF_6S.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$36.82",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 01:40:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57630"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$39.79",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 01:40:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66510"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$40.67",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 01:40:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67240"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$38.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:40:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67416"
+  }
+ ],
+ "version": 2,
+ "weight": "196"
 }

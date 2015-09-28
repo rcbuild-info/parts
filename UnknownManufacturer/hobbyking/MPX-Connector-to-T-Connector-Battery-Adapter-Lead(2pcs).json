@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "MPX Connector to T-Connector Battery Adapter Lead(2pcs)",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61154",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57748",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46421",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34455",
-   "http://www.hobbyking.com/hobbyking/store/__20956__MPX_Connector_to_T_Connector_Battery_Adapter_Lead_2pcs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.76",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20956__MPX_Connector_to_T_Connector_Battery_Adapter_Lead_2pcs_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.02",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34455"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45998"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.02",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:02:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46421"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.76",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57748"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$3.53",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61154"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

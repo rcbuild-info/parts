@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Durafly",
  "name": "Zephyr V-70 High Performance 70mm EDF V-Tail Glider 1533mm (PNF)",
@@ -7,17 +7,72 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70487",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68934",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32309",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30030",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28877",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28265",
-   "http://www.hobbyking.com/hobbyking/store/__22702__Durafly_8482_Zephyr_V_70_High_Performance_70mm_EDF_V_Tail_Glider_1533mm_PNF_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22702",
-   "http://www.hobbyking.com/hobbyking/store/__70487__Durafly_8482_Zephyr_V_70_High_Performance_70mm_EDF_V_Tail_Glider_1533mm_PNF_AR_Warehouse_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$139.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:37:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22702__Durafly_8482_Zephyr_V_70_High_Performance_70mm_EDF_V_Tail_Glider_1533mm_PNF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__70487__Durafly_8482_Zephyr_V_70_High_Performance_70mm_EDF_V_Tail_Glider_1533mm_PNF_AR_Warehouse_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22702"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$149.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28265"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$152.52",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28877"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$158.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30030"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$158.81",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32309"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$191.58",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:35:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68934"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$165.01",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:35:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70487"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 MX-D80E DS Micro Servo 2kg / 0.10sec / 8.5g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__47380__Turnigy_8482_MX_D80E_DS_Micro_Servo_2kg_0_10sec_8_5g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.76",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:19:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__47380__Turnigy_8482_MX_D80E_DS_Micro_Servo_2kg_0_10sec_8_5g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "8.5"
 }

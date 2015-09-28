@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "HK15298 High Voltage Coreless Digital Servo MG/BB 66g/15kg/0.11s",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70739",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37206",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34209",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28337",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=19741",
-   "http://www.hobbyking.com/hobbyking/store/__16271__HobbyKing_8482_HK15298_High_Voltage_Coreless_Digital_Servo_MG_BB_66g_15kg_0_11s.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16271__HobbyKing_8482_HK15298_High_Voltage_Coreless_Digital_Servo_MG_BB_66g_15kg_0_11s.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$20.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=19741"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$20.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28337"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$21.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34209"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$20.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37206"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$20.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70739"
+  }
+ ],
+ "version": 2,
+ "weight": "66"
 }

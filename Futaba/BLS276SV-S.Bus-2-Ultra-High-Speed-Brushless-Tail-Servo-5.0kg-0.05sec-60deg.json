@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Futaba",
  "name": "BLS276SV S.Bus 2 Ultra High Speed Brushless Tail Servo 5.0kg 0.05sec/60deg",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__54769__Futaba_BLS276SV_S_Bus_2_Ultra_High_Speed_Brushless_Tail_Servo_5_0kg_0_05sec_60deg.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$194.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:31:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__54769__Futaba_BLS276SV_S_Bus_2_Ultra_High_Speed_Brushless_Tail_Servo_5_0kg_0_05sec_60deg.html"
+  }
+ ],
+ "version": 2,
+ "weight": "60"
 }

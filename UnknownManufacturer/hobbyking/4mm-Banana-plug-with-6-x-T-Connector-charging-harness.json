@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4mm Banana plug with 6 x T-Connector charging harness",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71959",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44747",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36979",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34444",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31517",
-   "http://www.hobbyking.com/hobbyking/store/__14541__4mm_Banana_plug_with_6_x_T_Connector_charging_harness.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14541__4mm_Banana_plug_with_6_x_T_Connector_charging_harness.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:58:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31517"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.29",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 01:58:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34444"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$6.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:58:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36979"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$6.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:58:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44747"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$6.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:58:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71959"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

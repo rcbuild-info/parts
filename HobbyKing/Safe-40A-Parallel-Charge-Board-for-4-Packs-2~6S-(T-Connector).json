@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Safe 40A Parallel Charge Board for 4 Packs 2~6S (T-Connector)",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60384",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49863",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46034",
-   "http://www.hobbyking.com/hobbyking/store/__36006__HobbyKing_174_Safe_40A_Parallel_Charge_Board_for_4_Packs_2_6S_T_Connector_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$17.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__36006__HobbyKing_174_Safe_40A_Parallel_Charge_Board_for_4_Packs_2_6S_T_Connector_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$19.95",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 02:03:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46034"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$19.77",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49863"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$19.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60384"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

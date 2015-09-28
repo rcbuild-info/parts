@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "Flightmax 3000mAh 2S1P 40C",
@@ -7,13 +7,45 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59806",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58886",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37352",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21228",
-   "http://www.hobbyking.com/hobbyking/store/__9951__ZIPPY_Flightmax_3000mAh_2S1P_40C.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$11.62",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:53:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9951__ZIPPY_Flightmax_3000mAh_2S1P_40C.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$12.43",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:49:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21228"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$12.83",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 01:49:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37352"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58886"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$16.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:49:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59806"
+  }
+ ],
+ "version": 2,
+ "weight": "185"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Skywalker X-6 FPV Wing EPO 1500mm (Kit)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68812",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68811",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68810",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68809",
-   "http://www.hobbyking.com/hobbyking/store/__68806__Skywalker_X_6_FPV_Wing_EPO_1500mm_Kit_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$126.05",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:42:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__68806__Skywalker_X_6_FPV_Wing_EPO_1500mm_Kit_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$161.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:41:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68809"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$176.46",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:40:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68810"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$151.62",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:40:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68811"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$138.42",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:40:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68812"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

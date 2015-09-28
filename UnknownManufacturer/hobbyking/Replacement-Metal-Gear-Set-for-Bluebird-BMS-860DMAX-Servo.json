@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Replacement Metal Gear Set for Bluebird BMS-860DMAX Servo",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11282__Replacement_Metal_Gear_Set_for_Bluebird_BMS_860DMAX_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:23:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11282__Replacement_Metal_Gear_Set_for_Bluebird_BMS_860DMAX_Servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

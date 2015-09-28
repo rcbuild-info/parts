@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "4mm Easy Solder Gold Connectors (10 pairs)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70161",
-   "http://www.hobbyking.com/hobbyking/store/__49723__4mm_Easy_Solder_Gold_Connectors_10_pairs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:03:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__49723__4mm_Easy_Solder_Gold_Connectors_10_pairs_.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$4.36",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:02:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70161"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

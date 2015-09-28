@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "RotorStar 100A (2~6S) SBEC Brushless Speed Controller",
@@ -7,87 +7,252 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77214",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77213",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76480",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76416",
-   "http://www.hobbyking.com/hobbyking/store/__55385__RotorStar_100A_2_6S_SBEC_Brushless_Speed_Controller.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77212",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77211",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76479",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76415",
-   "http://www.hobbyking.com/hobbyking/store/__55384__RotorStar_120A_HV_4_14S_Brushless_Speed_Controller_OPTO_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77243",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77242",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77241",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76427",
-   "http://www.hobbyking.com/hobbyking/store/__55425__RotorStar_120A_LV_2_6S_Brushless_Speed_Controller_with_Selectable_SBEC.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77222",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77221",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76484",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76420",
-   "http://www.hobbyking.com/hobbyking/store/__55413__RotorStar_150A_2_6S_SBEC_Brushless_Speed_Controller.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77229",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77228",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77227",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76422",
-   "http://www.hobbyking.com/hobbyking/store/__55415__RotorStar_180A_HV_4_14S_Brushless_Speed_Controller_OPTO_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77232",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77231",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76485",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76423",
-   "http://www.hobbyking.com/hobbyking/store/__55421__RotorStar_18A_2_4S_SBEC_Brushless_Speed_Controller.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77236",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77235",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76487",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76425",
-   "http://www.hobbyking.com/hobbyking/store/__55423__RotorStar_30A_2_4S_SBEC_Brushless_Speed_Controller.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77234",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77233",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76486",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76424",
-   "http://www.hobbyking.com/hobbyking/store/__55422__RotorStar_40A_2_6S_SBEC_Brushless_Speed_Controller.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77218",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77217",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76482",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76418",
-   "http://www.hobbyking.com/hobbyking/store/__55411__RotorStar_45A_2_6S_SBEC_Brushless_Speed_Controller.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77220",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77219",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76483",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76419",
-   "http://www.hobbyking.com/hobbyking/store/__55412__RotorStar_60A_2_6S_SBEC_Brushless_Speed_Controller.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77216",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77215",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76481",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76417",
-   "http://www.hobbyking.com/hobbyking/store/__55410__RotorStar_80A_2_6S_SBEC_Brushless_Speed_Controller.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77225",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77224",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77223",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76421",
-   "http://www.hobbyking.com/hobbyking/store/__55414__RotorStar_80A_HV_4_12S_Brushless_Speed_Controller_OPTO_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77239",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77238",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77237",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76426",
-   "http://www.hobbyking.com/hobbyking/store/__55424__RotorStar_90A_2_6S_Brushless_Speed_Controller_with_Selectable_SBEC.html",
-   "http://www.hobbyking.com/hobbyking/store/__55500__RotorStar_Brushless_Outrunner_Helicopter_2839_1700kv_450_size_heli_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65831",
-   "http://www.hobbyking.com/hobbyking/store/__55440__RotorStar_Brushless_Outrunner_Helicopter_2839_2700kv_450_size_heli_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68415",
-   "http://www.hobbyking.com/hobbyking/store/__55502__RotorStar_Brushless_Outrunner_Helicopter_2839_3600kv_450_size_heli_.html",
-   "http://www.hobbyking.com/hobbyking/store/__55498__RotorStar_Brushless_Outrunner_Helicopter_2839_4300kv_450_size_heli_.html",
-   "http://www.hobbyking.com/hobbyking/store/__55495__RotorStar_Brushless_Outrunner_Helicopter_4249_1600kv_500_size_heli_.html",
-   "http://www.hobbyking.com/hobbyking/store/__55494__RotorStar_Brushless_Outrunner_Helicopter_4956_1100kv_550_600_50_size_heli_.html",
-   "http://www.hobbyking.com/hobbyking/store/__55497__RotorStar_Brushless_Outrunner_Helicopter_4956_1250kv_550_600_50_size_heli_.html",
-   "http://www.hobbyking.com/hobbyking/store/__55435__RotorStar_Brushless_Outrunner_Helicopter_4956_520kv_600_50_size_heli_.html",
-   "http://www.hobbyking.com/hobbyking/store/__55434__RotorStar_Brushless_Outrunner_Helicopter_4956_550kv_600_50_size_heli_.html",
-   "http://www.hobbyking.com/hobbyking/store/__55438__RotorStar_Brushless_Outrunner_Helicopter_4956_600kv_600_50_size_heli_.html",
-   "http://www.hobbyking.com/hobbyking/store/__55436__RotorStar_Brushless_Outrunner_Helicopter_4956_800kv_600_50_size_heli_.html",
-   "http://www.hobbyking.com/hobbyking/store/__55437__RotorStar_Brushless_Outrunner_Helicopter_4962_480kv_700_90_size_heli_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55384__RotorStar_120A_HV_4_14S_Brushless_Speed_Controller_OPTO_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55385__RotorStar_100A_2_6S_SBEC_Brushless_Speed_Controller.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55410__RotorStar_80A_2_6S_SBEC_Brushless_Speed_Controller.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55411__RotorStar_45A_2_6S_SBEC_Brushless_Speed_Controller.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55412__RotorStar_60A_2_6S_SBEC_Brushless_Speed_Controller.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55413__RotorStar_150A_2_6S_SBEC_Brushless_Speed_Controller.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55414__RotorStar_80A_HV_4_12S_Brushless_Speed_Controller_OPTO_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55415__RotorStar_180A_HV_4_14S_Brushless_Speed_Controller_OPTO_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55421__RotorStar_18A_2_4S_SBEC_Brushless_Speed_Controller.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55422__RotorStar_40A_2_6S_SBEC_Brushless_Speed_Controller.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55423__RotorStar_30A_2_4S_SBEC_Brushless_Speed_Controller.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55424__RotorStar_90A_2_6S_Brushless_Speed_Controller_with_Selectable_SBEC.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55425__RotorStar_120A_LV_2_6S_Brushless_Speed_Controller_with_Selectable_SBEC.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55434__RotorStar_Brushless_Outrunner_Helicopter_4956_550kv_600_50_size_heli_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55435__RotorStar_Brushless_Outrunner_Helicopter_4956_520kv_600_50_size_heli_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55436__RotorStar_Brushless_Outrunner_Helicopter_4956_800kv_600_50_size_heli_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$84.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:43:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__55437__RotorStar_Brushless_Outrunner_Helicopter_4962_480kv_700_90_size_heli_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55438__RotorStar_Brushless_Outrunner_Helicopter_4956_600kv_600_50_size_heli_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55440__RotorStar_Brushless_Outrunner_Helicopter_2839_2700kv_450_size_heli_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55494__RotorStar_Brushless_Outrunner_Helicopter_4956_1100kv_550_600_50_size_heli_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55495__RotorStar_Brushless_Outrunner_Helicopter_4249_1600kv_500_size_heli_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55497__RotorStar_Brushless_Outrunner_Helicopter_4956_1250kv_550_600_50_size_heli_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55498__RotorStar_Brushless_Outrunner_Helicopter_2839_4300kv_450_size_heli_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55500__RotorStar_Brushless_Outrunner_Helicopter_2839_1700kv_450_size_heli_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55502__RotorStar_Brushless_Outrunner_Helicopter_2839_3600kv_450_size_heli_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65831"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68415"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76415"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76416"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76417"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76418"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76419"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76420"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76421"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76422"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76423"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76424"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76425"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76426"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76427"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76479"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76480"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76481"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76482"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76483"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76484"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76485"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76486"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76487"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77211"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77212"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77213"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77214"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77215"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77216"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77217"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77218"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77219"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77220"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77221"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77222"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77223"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77224"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77225"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77227"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77228"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77229"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77231"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77232"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77233"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77234"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77235"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77236"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77237"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77238"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77239"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77241"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77242"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77243"
+  }
+ ],
+ "version": 2,
+ "weight": "448"
 }

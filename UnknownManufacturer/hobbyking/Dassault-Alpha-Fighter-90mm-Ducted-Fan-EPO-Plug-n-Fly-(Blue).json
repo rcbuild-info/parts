@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dassault Alpha Fighter 90mm Ducted Fan EPO Plug-n-Fly (Blue)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__14440__Dassault_Alpha_Fighter_90mm_Ducted_Fan_EPO_Plug_n_Fly_Blue_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$219.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:14:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14440__Dassault_Alpha_Fighter_90mm_Ducted_Fan_EPO_Plug_n_Fly_Blue_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "3800mAh 2S1P 7.4v 25C Hardcase Pack",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59817",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58896",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36031",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26806",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18568",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17833",
-   "http://www.hobbyking.com/hobbyking/store/__15520__Turnigy_3800mAh_2S1P_7_4v_25C_Hardcase_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$16.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:35:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__15520__Turnigy_3800mAh_2S1P_7_4v_25C_Hardcase_Pack.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$17.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:32:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17833"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$17.41",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:32:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18568"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$17.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:32:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26806"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$17.98",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:32:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36031"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$18.00",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 02:32:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58896"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$21.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:32:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59817"
+  }
+ ],
+ "version": 2,
+ "weight": "235"
 }

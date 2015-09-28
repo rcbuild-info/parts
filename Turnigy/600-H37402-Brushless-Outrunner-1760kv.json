@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "600 H37402 Brushless Outrunner 1760kv",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11186__Turnigy_600_H37402_Brushless_Outrunner_1760kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$40.61",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 01:34:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11186__Turnigy_600_H37402_Brushless_Outrunner_1760kv.html"
+  }
+ ],
+ "version": 2,
+ "weight": "379"
 }

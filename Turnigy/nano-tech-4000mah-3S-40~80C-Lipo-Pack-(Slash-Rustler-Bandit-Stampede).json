@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 4000mah 3S 40~80C Lipo Pack (Slash/Rustler/Bandit/Stampede)",
@@ -7,12 +9,37 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34878",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32788",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25228",
-   "http://www.hobbyking.com/hobbyking/store/__21939__Turnigy_nano_tech_4000mah_3S_40_80C_Lipo_Pack_Slash_Rustler_Bandit_Stampede_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$35.97",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:54:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__21939__Turnigy_nano_tech_4000mah_3S_40_80C_Lipo_Pack_Slash_Rustler_Bandit_Stampede_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25228"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$40.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:54:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32788"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$37.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:54:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34878"
+  }
+ ],
+ "version": 2,
+ "weight": "321"
 }

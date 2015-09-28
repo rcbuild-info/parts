@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Maestro 46, Traditional Low Wing Sport Model, Balsa EP/IC 1440mm (ARF)",
@@ -7,12 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45188",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44911",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44550",
-   "http://www.hobbyking.com/hobbyking/store/__37315__Maestro_46_Traditional_Low_Wing_Sport_Model_Balsa_EP_IC_1440mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$85.40",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__37315__Maestro_46_Traditional_Low_Wing_Sport_Model_Balsa_EP_IC_1440mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$101.01",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44550"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$100.44",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:51:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44680"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$98.66",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:51:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44911"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$104.43",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:51:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45188"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

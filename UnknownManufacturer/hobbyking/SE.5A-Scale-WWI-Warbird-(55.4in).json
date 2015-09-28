@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "SE.5A Scale WWI Warbird (55.4in)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__14432__SE_5A_Scale_WWI_Warbird_55_4in_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$113.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:06:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14432__SE_5A_Scale_WWI_Warbird_55_4in_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

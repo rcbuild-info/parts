@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-RM-93 Robotic DS/MG Servo 11.8kg / 0.21sec / 55g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__49838__Turnigy_8482_TGY_RM_93_Robotic_DS_MG_Servo_11_8kg_0_21sec_55g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.66",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__49838__Turnigy_8482_TGY_RM_93_Robotic_DS_MG_Servo_11_8kg_0_21sec_55g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "55"
 }

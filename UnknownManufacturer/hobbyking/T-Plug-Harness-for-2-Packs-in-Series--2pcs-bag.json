@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "T Plug Harness for 2 Packs in Series  2pcs/bag",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65782",
-   "http://www.hobbyking.com/hobbyking/store/__62923__T_Plug_Harness_for_2_Packs_in_Series_2pcs_bag.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__62923__T_Plug_Harness_for_2_Packs_in_Series_2pcs_bag.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$2.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65782"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

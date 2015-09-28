@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Deamon Electric Sailplane Composite 2000mm (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68908",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63223",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54828",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54258",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53913",
-   "http://www.hobbyking.com/hobbyking/store/__39718__HobbyKing_174_Deamon_Electric_Sailplane_Composite_2000mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$108.64",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:42:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39718__HobbyKing_174_Deamon_Electric_Sailplane_Composite_2000mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$123.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:41:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53913"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$116.80",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:41:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54258"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$118.51",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:41:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54828"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$116.80",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:41:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63223"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$149.08",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:41:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68908"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

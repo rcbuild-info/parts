@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Mini Katana EDF Sport Jet EPO 600mm (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63365",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63227",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51699",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51653",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51561",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51526",
-   "http://www.hobbyking.com/hobbyking/store/__42403__Hobbyking_Mini_Katana_EDF_Sport_Jet_EPO_600mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$71.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:14:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42403__Hobbyking_Mini_Katana_EDF_Sport_Jet_EPO_600mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$82.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51526"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$80.59",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51561"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$85.71",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51653"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$80.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51699"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$80.80",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:13:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63227"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$93.73",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63365"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

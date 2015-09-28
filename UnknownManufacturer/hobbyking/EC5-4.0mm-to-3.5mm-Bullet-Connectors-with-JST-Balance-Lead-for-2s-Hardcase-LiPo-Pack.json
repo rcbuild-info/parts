@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EC5 4.0mm to 3.5mm Bullet Connectors with JST Balance Lead for 2s Hardcase LiPo Pack",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__44712__EC5_4_0mm_to_3_5mm_Bullet_Connectors_with_JST_Balance_Lead_for_2s_Hardcase_LiPo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.59",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:03:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__44712__EC5_4_0mm_to_3_5mm_Bullet_Connectors_with_JST_Balance_Lead_for_2s_Hardcase_LiPo_Pack.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

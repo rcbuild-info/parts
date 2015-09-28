@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sbach 342-30e 1323mm Sport (ARF)",
@@ -7,12 +7,37 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68525",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25938",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24990",
-   "http://www.hobbyking.com/hobbyking/store/__20275__Sbach_342_30e_1323mm_Sport_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$110.24",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:49:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20275__Sbach_342_30e_1323mm_Sport_ARF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$128.93",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:48:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24990"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$131.07",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:48:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25938"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68525"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

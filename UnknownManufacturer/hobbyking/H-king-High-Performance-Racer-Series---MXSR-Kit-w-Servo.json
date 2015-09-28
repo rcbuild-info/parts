@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "H-king High Performance Racer Series - MXSR Kit w/Servo",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30557",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29062",
-   "http://www.hobbyking.com/hobbyking/store/__22855__H_king_High_Performance_Racer_Series_MXSR_Kit_w_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$55.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22855__H_king_High_Performance_Racer_Series_MXSR_Kit_w_Servo.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$64.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29062"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$75.32",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:12:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30557"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

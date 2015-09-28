@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "4500mAh 4S 30C Hardcase Pack (ROAR APPROVED)",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59984",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59044",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32950",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29002",
-   "http://www.hobbyking.com/hobbyking/store/__21003__Turnigy_4500mAh_4S_30C_Hardcase_Pack_ROAR_APPROVED_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$42.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:35:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__21003__Turnigy_4500mAh_4S_30C_Hardcase_Pack_ROAR_APPROVED_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$45.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:32:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29002"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$44.94",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:32:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32950"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$46.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:32:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36052"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$45.68",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:32:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59044"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$57.16",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:32:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59984"
+  }
+ ],
+ "version": 2,
+ "weight": "528"
 }

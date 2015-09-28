@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Galaxy High-Performance 3D Airplane w/ Motor",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63366",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63162",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32522",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25908",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18946",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18941",
-   "http://www.hobbyking.com/hobbyking/store/__11342__HobbyKing_Galaxy_High_Performance_3D_Airplane_w_Motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$38.85",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:48:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11342__HobbyKing_Galaxy_High_Performance_3D_Airplane_w_Motor.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$41.76",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:48:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18941"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$41.70",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:48:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18946"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$42.84",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:48:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25908"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$43.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:48:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32522"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$41.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:48:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63162"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$50.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:48:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63366"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "2.4Ghz SuperMicro Systems - Single Linear Servo",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__42302__2_4Ghz_SuperMicro_Systems_Single_Linear_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42302__2_4Ghz_SuperMicro_Systems_Single_Linear_Servo.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

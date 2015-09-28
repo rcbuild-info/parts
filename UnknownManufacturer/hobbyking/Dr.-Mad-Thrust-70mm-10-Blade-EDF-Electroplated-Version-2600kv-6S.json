@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dr. Mad Thrust 70mm 10 Blade EDF Electroplated Version 2600kv/6S",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__45509__Dr_Mad_Thrust_70mm_10_Blade_EDF_Electroplated_Version_2600kv_6S.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$45.76",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:23:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45509__Dr_Mad_Thrust_70mm_10_Blade_EDF_Electroplated_Version_2600kv_6S.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

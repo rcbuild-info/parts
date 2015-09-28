@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Extreme 3D EPO Aerobatic Model 1100mm (PNF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72982",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72587",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72545",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72411",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72396",
-   "http://www.hobbyking.com/hobbyking/store/__64445__Extreme_3D_EPO_Aerobatic_Model_1100mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$170.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:10:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__64445__Extreme_3D_EPO_Aerobatic_Model_1100mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$204.51",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:08:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72396"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$192.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:08:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72411"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$184.48",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 04:08:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72545"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$189.04",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:08:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72587"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$256.60",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 04:08:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72982"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hesper-1 3D EPP - Unbreakable (KIT)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39517",
-   "http://www.hobbyking.com/hobbyking/store/__11438__Hesper_1_3D_EPP_Unbreakable_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$21.95",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:59:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11438__Hesper_1_3D_EPP_Unbreakable_KIT_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$26.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39517"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

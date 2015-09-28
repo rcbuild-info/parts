@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Thermocouple Expander w/ Exhaust Gas Probe",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__4647__Thermocouple_Expander_w_Exhaust_Gas_Probe.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$59.99",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Sun, 27 Sep 2015 23:24:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__4647__Thermocouple_Expander_w_Exhaust_Gas_Probe.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

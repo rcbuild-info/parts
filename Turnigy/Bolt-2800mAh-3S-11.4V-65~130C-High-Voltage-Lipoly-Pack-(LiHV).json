@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Bolt 2800mAh 3S 11.4V 65~130C High Voltage Lipoly Pack (LiHV)",
@@ -7,12 +7,37 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66311",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64923",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62998",
-   "http://www.hobbyking.com/hobbyking/store/__51501__Turnigy_Bolt_2800mAh_3S_11_4V_65_130C_High_Voltage_Lipoly_Pack_LiHV_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$28.64",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 02:56:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51501__Turnigy_Bolt_2800mAh_3S_11_4V_65_130C_High_Voltage_Lipoly_Pack_LiHV_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$31.74",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 02:55:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62998"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$30.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:55:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64923"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66311"
+  }
+ ],
+ "version": 2,
+ "weight": "256"
 }

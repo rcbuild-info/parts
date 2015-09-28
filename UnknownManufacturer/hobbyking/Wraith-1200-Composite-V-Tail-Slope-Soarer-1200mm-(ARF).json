@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Wraith-1200 Composite V-Tail Slope Soarer 1200mm (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63305",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63222",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54257",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53915",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53817",
-   "http://www.hobbyking.com/hobbyking/store/__39717__Wraith_1200_Composite_V_Tail_Slope_Soarer_1200mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$70.98",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:41:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__39717__Wraith_1200_Composite_V_Tail_Slope_Soarer_1200mm_ARF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$77.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:40:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53817"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$80.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:40:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53915"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$76.23",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 03:40:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54257"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$76.23",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:40:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63222"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$94.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:40:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63305"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

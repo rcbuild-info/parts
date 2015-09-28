@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Nylon T-Connectors Male (10pcs/Bag)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65301",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45489",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30700",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26122",
-   "http://www.hobbyking.com/hobbyking/store/__11981__Nylon_T_Connectors_Male_10pcs_Bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:00:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11981__Nylon_T_Connectors_Male_10pcs_Bag_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.04",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:58:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26122"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$2.62",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30700"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.48",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45489"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.62",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:58:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65301"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

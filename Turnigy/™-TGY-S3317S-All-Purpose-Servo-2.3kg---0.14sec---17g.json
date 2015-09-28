@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-S3317S All Purpose Servo 2.3kg / 0.14sec / 17g",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65710",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41908",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40911",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36619",
-   "http://www.hobbyking.com/hobbyking/store/__8498__Turnigy_8482_TGY_S3317S_All_Purpose_Servo_2_3kg_0_14sec_17g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.87",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 00:20:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8498__Turnigy_8482_TGY_S3317S_All_Purpose_Servo_2_3kg_0_14sec_17g.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$5.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36619"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$5.70",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:20:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40911"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$5.32",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:20:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41908"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$5.02",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65710"
+  }
+ ],
+ "version": 2,
+ "weight": "17"
 }

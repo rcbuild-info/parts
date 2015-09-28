@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-617DMGplusHS V-Fast Digital Buggy Servo (MG) 6.8kg / .10sec / 46.5g",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61112",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43502",
-   "http://www.hobbyking.com/hobbyking/store/__9438__BMS_617DMGplusHS_V_Fast_Digital_Buggy_Servo_MG_6_8kg_10sec_46_5g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9438__BMS_617DMGplusHS_V_Fast_Digital_Buggy_Servo_MG_6_8kg_10sec_46_5g.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$19.65",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 00:12:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43502"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$24.89",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61112"
+  }
+ ],
+ "version": 2,
+ "weight": "46.5"
 }

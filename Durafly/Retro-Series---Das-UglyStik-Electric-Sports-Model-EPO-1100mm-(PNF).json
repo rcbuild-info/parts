@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Durafly",
  "name": "Retro Series - Das UglyStik Electric Sports Model EPO 1100mm (PNF)",
@@ -7,16 +7,64 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66408",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64125",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63805",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63673",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63666",
-   "http://www.hobbyking.com/hobbyking/store/__54646__Durafly_8482_Retro_Series_Das_UglyStik_Electric_Sports_Model_EPO_1100mm_PNF_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54646",
-   "http://www.hobbyking.com/hobbyking/store/__66408__Durafly_8482_Retro_Series_Das_UglyStik_Electric_Sports_Model_EPO_1100mm_PNF_AR_Warehouse_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$130.13",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:10:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__54646__Durafly_8482_Retro_Series_Das_UglyStik_Electric_Sports_Model_EPO_1100mm_PNF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__66408__Durafly_8482_Retro_Series_Das_UglyStik_Electric_Sports_Model_EPO_1100mm_PNF_AR_Warehouse_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54646"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$142.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63666"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$156.24",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63673"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$158.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63805"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$143.23",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64125"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$143.23",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66408"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

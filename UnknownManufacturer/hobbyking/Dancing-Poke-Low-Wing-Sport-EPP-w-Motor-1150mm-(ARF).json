@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Dancing Poke Low Wing Sport EPP w/Motor 1150mm (ARF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76083",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76082",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76081",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76080",
-   "http://www.hobbyking.com/hobbyking/store/__76079__Dancing_Poke_Low_Wing_Sport_EPP_w_Motor_1150mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$65.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__76079__Dancing_Poke_Low_Wing_Sport_EPP_w_Motor_1150mm_ARF_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$78.40",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76080"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$82.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76081"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$83.43",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76082"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$77.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76083"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

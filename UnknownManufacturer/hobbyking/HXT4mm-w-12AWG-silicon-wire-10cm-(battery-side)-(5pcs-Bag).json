@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HXT4mm w/12AWG silicon wire 10cm (battery side) (5pcs/Bag)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34468",
-   "http://www.hobbyking.com/hobbyking/store/__24422__HXT4mm_w_12AWG_silicon_wire_10cm_battery_side_5pcs_Bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:03:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24422__HXT4mm_w_12AWG_silicon_wire_10cm_battery_side_5pcs_Bag_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.11",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:03:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34468"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

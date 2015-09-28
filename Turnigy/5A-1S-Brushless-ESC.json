@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "5A 1S Brushless ESC",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61019",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30275",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29633",
-   "http://www.hobbyking.com/hobbyking/store/__10334__Turnigy_5A_1S_Brushless_ESC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:39:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10334__Turnigy_5A_1S_Brushless_ESC.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$10.20",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 00:36:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29633"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$10.65",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:36:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30275"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$12.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:36:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61019"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

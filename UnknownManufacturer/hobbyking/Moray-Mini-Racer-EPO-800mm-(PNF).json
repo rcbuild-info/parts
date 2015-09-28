@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Moray Mini Racer EPO 800mm (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67982",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63199",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38870",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36746",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35734",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35408",
-   "http://www.hobbyking.com/hobbyking/store/__27572__Moray_Mini_Racer_EPO_800mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$83.99",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:48:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__27572__Moray_Mini_Racer_EPO_800mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$97.83",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:47:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35408"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$93.56",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:47:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35734"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$96.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:47:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36746"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$91.85",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:47:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38870"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$91.85",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:47:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63199"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$125.80",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 03:47:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67982"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "CNC Adjustable Aluminum Servo Arm 31x14.15x6mm (2-M3)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11625__CNC_Adjustable_Aluminum_Servo_Arm_31x14_15x6mm_2_M3_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11625__CNC_Adjustable_Aluminum_Servo_Arm_31x14_15x6mm_2_M3_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

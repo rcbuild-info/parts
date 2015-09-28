@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Zlin Z-50L 1612mm 0.70 class (Glow/EP) Sport Scale (ARF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60489",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32398",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28842",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26002",
-   "http://www.hobbyking.com/hobbyking/store/__22886__Zlin_Z_50L_1612mm_0_70_class_Glow_EP_Sport_Scale_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$144.30",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:48:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22886__Zlin_Z_50L_1612mm_0_70_class_Glow_EP_Sport_Scale_ARF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$175.97",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:47:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26002"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$176.20",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:47:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28842"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$196.90",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:47:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32398"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$173.15",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:47:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60489"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

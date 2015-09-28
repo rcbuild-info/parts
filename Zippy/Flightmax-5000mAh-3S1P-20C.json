@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "Flightmax 5000mAh 3S1P 20C",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59660",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58747",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35808",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31952",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16786",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16748",
-   "http://www.hobbyking.com/hobbyking/store/__8579__ZIPPY_Flightmax_5000mAh_3S1P_20C.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$23.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:29:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8579__ZIPPY_Flightmax_5000mAh_3S1P_20C.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$25.15",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:28:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16748"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$24.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:28:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16786"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$26.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:28:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31952"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$26.42",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:28:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35808"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$24.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:28:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58747"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$34.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:28:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59660"
+  }
+ ],
+ "version": 2,
+ "weight": "404"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-SM-4487MV Waterproof Low Profile Steering Servo 8.3kg / 0.07 Sec /39g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__41226__Turnigy_8482_TGY_SM_4487MV_Waterproof_Low_Profile_Steering_Servo_8_3kg_0_07_Sec_39g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$27.05",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__41226__Turnigy_8482_TGY_SM_4487MV_Waterproof_Low_Profile_Steering_Servo_8_3kg_0_07_Sec_39g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "39"
 }

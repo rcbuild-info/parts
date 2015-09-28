@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "T-45 Goshawk R/C 64mm EDF Jet EPO Plug-n-Fly",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66343",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39835",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30411",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21843",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16273",
-   "http://www.hobbyking.com/hobbyking/store/__12942__T_45_Goshawk_R_C_64mm_EDF_Jet_EPO_Plug_n_Fly.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$79.37",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:14:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12942__T_45_Goshawk_R_C_64mm_EDF_Jet_EPO_Plug_n_Fly.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$94.45",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:13:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16273"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$97.19",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 04:13:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21843"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$101.01",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30411"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$95.33",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:13:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39835"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$101.15",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:13:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66343"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

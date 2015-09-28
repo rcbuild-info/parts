@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO Main Shaft Cover",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11572__GT450PRO_Main_Shaft_Cover.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.89",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:25:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11572__GT450PRO_Main_Shaft_Cover.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

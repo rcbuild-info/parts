@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "3A Single Cell ESC - Brushed Micro Motors",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71608",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49275",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47522",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46547",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45792"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:44:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11885___Hobbyking_3A_Single_Cell_ESC_Brushed_Micro_Motors.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$10.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:41:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45792"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$10.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:41:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46547"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$10.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:41:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47522"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$10.10",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 00:41:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49275"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$10.10",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:41:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71608"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

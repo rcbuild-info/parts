@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "North American P-51D Mustang \"Janie\" 680mm 4 Channel Scale Fighter",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77810",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77809",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77808",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77807",
-   "http://www.hobbyking.com/hobbyking/store/__77805__North_American_P_51D_Mustang_34_Janie_34_680mm_4_Channel_Scale_Fighter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$78.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:06:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__77805__North_American_P_51D_Mustang_34_Janie_34_680mm_4_Channel_Scale_Fighter.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$99.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:06:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77807"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$99.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:06:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77808"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$99.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:06:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77809"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$98.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:06:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77810"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

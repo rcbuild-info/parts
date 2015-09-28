@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XT-60 to HXT 4mm Battery Adapter Lead (2pc)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68284",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64389",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43464",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36985",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31805",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31458",
-   "http://www.hobbyking.com/hobbyking/store/__17672__XT_60_to_HXT_4mm_Battery_Adapter_Lead_2pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:00:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17672__XT_60_to_HXT_4mm_Battery_Adapter_Lead_2pc_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:57:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31458"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$4.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:57:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31805"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$4.16",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:57:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36985"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$4.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:57:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43464"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$4.16",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:57:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64389"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$5.11",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:44:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68284"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

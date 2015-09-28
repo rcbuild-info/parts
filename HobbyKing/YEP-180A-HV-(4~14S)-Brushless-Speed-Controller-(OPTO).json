@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "YEP 180A HV (4~14S) Brushless Speed Controller (OPTO)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49858",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49186",
-   "http://www.hobbyking.com/hobbyking/store/__28373__Hobbyking_YEP_180A_HV_4_14S_Brushless_Speed_Controller_OPTO_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$204.38",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:54:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28373__Hobbyking_YEP_180A_HV_4_14S_Brushless_Speed_Controller_OPTO_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$210.40",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 00:49:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49186"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$219.95",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 00:49:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49858"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

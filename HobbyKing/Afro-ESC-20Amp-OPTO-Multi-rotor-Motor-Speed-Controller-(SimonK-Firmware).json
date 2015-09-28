@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Afro ESC 12Amp OPTO Ultra Lite Multi-rotor Motor Speed Controller (SimonK Firmware) Version 3",
@@ -7,25 +7,86 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__64209__Afro_ESC_12Amp_OPTO_Ultra_Lite_Multi_rotor_Motor_Speed_Controller_SimonK_Firmware_Version_3.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68684",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65788",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63037",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62955",
-   "http://www.hobbyking.com/hobbyking/store/__55241__Afro_ESC_12Amp_Ultra_Lite_Multi_rotor_Motor_Speed_Controller_SimonK_Firmware_Version_3.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67935",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47926",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47810",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47758",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47395",
-   "http://www.hobbyking.com/hobbyking/store/__43709__Afro_ESC_20Amp_Multi_rotor_Motor_Speed_Controller_SimonK_Firmware_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76290",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76285",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76284",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76283",
-   "http://www.hobbyking.com/hobbyking/store/__76281__Afro_ESC_20Amp_OPTO_Multi_rotor_Motor_Speed_Controller_SimonK_Firmware_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__43709__Afro_ESC_20Amp_Multi_rotor_Motor_Speed_Controller_SimonK_Firmware_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55241__Afro_ESC_12Amp_Ultra_Lite_Multi_rotor_Motor_Speed_Controller_SimonK_Firmware_Version_3.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__64209__Afro_ESC_12Amp_OPTO_Ultra_Lite_Multi_rotor_Motor_Speed_Controller_SimonK_Firmware_Version_3.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$12.90",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:50:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__76281__Afro_ESC_20Amp_OPTO_Multi_rotor_Motor_Speed_Controller_SimonK_Firmware_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47395"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47758"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47810"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47926"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62955"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63037"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65788"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67935"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68684"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$12.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76283"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$12.90",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:49:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76284"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$12.90",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:49:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76285"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$12.90",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:49:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76290"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

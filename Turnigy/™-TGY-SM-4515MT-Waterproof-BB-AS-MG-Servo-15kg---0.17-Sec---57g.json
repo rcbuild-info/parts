@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-SM-4515MT Waterproof BB/AS/MG Servo 15kg / 0.17 Sec / 57g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__41221__Turnigy_8482_TGY_SM_4515MT_Waterproof_BB_AS_MG_Servo_15kg_0_17_Sec_57g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$13.85",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:25:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__41221__Turnigy_8482_TGY_SM_4515MT_Waterproof_BB_AS_MG_Servo_15kg_0_17_Sec_57g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "57"
 }

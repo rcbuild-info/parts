@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-306DMAX Digital Micro Servo (Extra Strong) 1.6kg / .13sec / 7.1g",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60764",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57470",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33320",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=11610",
-   "http://www.hobbyking.com/hobbyking/store/__9446__BMS_306DMAX_Digital_Micro_Servo_Extra_Strong_1_6kg_13sec_7_1g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9446__BMS_306DMAX_Digital_Micro_Servo_Extra_Strong_1_6kg_13sec_7_1g.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$13.57",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=11610"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$13.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33320"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$13.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57470"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$15.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60764"
+  }
+ ],
+ "version": 2,
+ "weight": "7.1"
 }

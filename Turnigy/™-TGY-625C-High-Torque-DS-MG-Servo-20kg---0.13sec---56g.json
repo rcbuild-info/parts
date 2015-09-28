@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-625C High Torque DS/MG Servo 20kg / 0.13sec / 56g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__62624__Turnigy_8482_TGY_625C_High_Torque_DS_MG_Servo_20kg_0_13sec_56g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$32.48",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:26:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__62624__Turnigy_8482_TGY_625C_High_Torque_DS_MG_Servo_20kg_0_13sec_56g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "56"
 }

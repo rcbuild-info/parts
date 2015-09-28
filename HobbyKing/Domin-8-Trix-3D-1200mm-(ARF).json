@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Domin-8-Trix 3D 1200mm (ARF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69795",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63182",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29969",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25298",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24535",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24362",
-   "http://www.hobbyking.com/hobbyking/store/__20130__HobbyKing_Domin_8_Trix_3D_1200mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$115.70",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20130__HobbyKing_Domin_8_Trix_3D_1200mm_ARF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$134.67",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 04:12:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24362"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$139.88",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:12:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24535"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$141.34",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:12:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25298"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$151.83",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:12:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29969"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$134.67",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63182"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$234.08",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:12:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69795"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

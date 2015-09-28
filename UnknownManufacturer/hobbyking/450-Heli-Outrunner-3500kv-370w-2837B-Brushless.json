@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "450 Heli Outrunner 3500kv 370w 2837B Brushless",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26169",
-   "http://www.hobbyking.com/hobbyking/store/__19340__450_Heli_Outrunner_3500kv_370w_2837B_Brushless.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:43:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19340__450_Heli_Outrunner_3500kv_370w_2837B_Brushless.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$14.60",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 01:42:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26169"
+  }
+ ],
+ "version": 2,
+ "weight": "78"
 }

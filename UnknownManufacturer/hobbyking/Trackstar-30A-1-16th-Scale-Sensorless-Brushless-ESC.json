@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Trackstar 30A 1/16th Scale Sensorless Brushless ESC",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70342",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70341",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70340",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70339",
-   "http://www.hobbyking.com/hobbyking/store/__70337__Trackstar_30A_1_16th_Scale_Sensorless_Brushless_ESC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$21.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:50:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__70337__Trackstar_30A_1_16th_Scale_Sensorless_Brushless_ESC.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$23.17",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:50:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70339"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$24.40",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:50:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70340"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$24.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:50:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70341"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$22.97",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:50:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70342"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "YAK 12 Airplane EPO 950mm w/Flaps (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68906",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68480",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41150",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37238",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36691",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36615",
-   "http://www.hobbyking.com/hobbyking/store/__30813__YAK_12_Airplane_EPO_950mm_w_Flaps_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$67.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:03:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__30813__YAK_12_Airplane_EPO_950mm_w_Flaps_PNF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$77.69",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:02:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36615"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$86.07",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 04:02:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36691"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$79.72",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:02:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37238"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$78.90",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:02:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41150"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$78.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:02:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68480"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$101.93",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 04:02:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68906"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

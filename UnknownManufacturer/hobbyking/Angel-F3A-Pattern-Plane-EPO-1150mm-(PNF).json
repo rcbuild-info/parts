@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Angel F3A Pattern Plane EPO 1150mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77110",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77109",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77108",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77107",
-   "http://www.hobbyking.com/hobbyking/store/__77106__Angel_F3A_Pattern_Plane_EPO_1150mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$137.85",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__77106__Angel_F3A_Pattern_Plane_EPO_1150mm_PNF_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$204.41",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:11:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77107"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$206.21",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 04:11:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77108"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$205.16",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:11:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77109"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$184.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:11:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77110"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hextronik MG-14 14g/2.6kg/0.11sec Digital Aircraft Servo",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70877",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39342",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28448",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23994",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22929",
-   "http://www.hobbyking.com/hobbyking/store/__8303__Hextronik_MG_14_14g_2_6kg_0_11sec_Digital_Aircraft_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.95",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 00:20:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8303__Hextronik_MG_14_14g_2_6kg_0_11sec_Digital_Aircraft_Servo.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$8.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22929"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$8.87",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23994"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$8.77",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28448"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$8.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39342"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$8.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70877"
+  }
+ ],
+ "version": 2,
+ "weight": "14"
 }

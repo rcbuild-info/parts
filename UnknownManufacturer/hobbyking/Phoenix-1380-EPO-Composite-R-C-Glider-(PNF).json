@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Phoenix 1380 EPO Composite R/C Glider (PNF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__42322__Phoenix_1380_EPO_Composite_R_C_Glider_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$60.91",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:41:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42322__Phoenix_1380_EPO_Composite_R_C_Glider_PNF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

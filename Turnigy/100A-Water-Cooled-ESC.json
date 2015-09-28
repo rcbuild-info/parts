@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "100A Water Cooled ESC",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39888",
-   "http://www.hobbyking.com/hobbyking/store/__22404__Turnigy_100A_Water_Cooled_ESC_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$38.72",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:41:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22404__Turnigy_100A_Water_Cooled_ESC_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$48.87",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:40:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39888"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

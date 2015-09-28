@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Futaba",
  "name": "S9353HV High Torque High Speed Digital Servo with Full Metal Case 22.0kg 0.06sec/60deg",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__54775__Futaba_S9353HV_High_Torque_High_Speed_Digital_Servo_with_Full_Metal_Case_22_0kg_0_06sec_60deg.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$229.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 00:31:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__54775__Futaba_S9353HV_High_Torque_High_Speed_Digital_Servo_with_Full_Metal_Case_22_0kg_0_06sec_60deg.html"
+  }
+ ],
+ "version": 2,
+ "weight": "77"
 }

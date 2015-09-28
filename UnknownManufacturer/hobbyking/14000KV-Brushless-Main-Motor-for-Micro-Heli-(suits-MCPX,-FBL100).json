@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "14000KV Brushless Main Motor for Micro Heli (suits MCPX, FBL100)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77489",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69912",
-   "http://www.hobbyking.com/hobbyking/store/__25435__14000KV_Brushless_Main_Motor_for_Micro_Heli_suits_MCPX_FBL100_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:43:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25435__14000KV_Brushless_Main_Motor_for_Micro_Heli_suits_MCPX_FBL100_.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$28.29",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 01:42:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69912"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$20.72",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 01:42:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77489"
+  }
+ ],
+ "version": 2,
+ "weight": "4.5"
 }

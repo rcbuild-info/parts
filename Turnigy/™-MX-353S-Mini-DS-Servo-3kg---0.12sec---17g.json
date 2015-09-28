@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 MX-353S Mini DS Servo 3kg / 0.12sec / 17g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__47388__Turnigy_8482_MX_353S_Mini_DS_Servo_3kg_0_12sec_17g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$11.76",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__47388__Turnigy_8482_MX_353S_Mini_DS_Servo_3kg_0_12sec_17g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "17"
 }

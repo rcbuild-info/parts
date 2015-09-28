@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Hitec HS-81 Micro Servo 2.6kg/16g/0.11sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__9815__Hitec_HS_81_Micro_Servo_2_6kg_16g_0_11sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$14.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9815__Hitec_HS_81_Micro_Servo_2_6kg_16g_0_11sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "16"
 }

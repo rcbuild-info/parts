@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Spring Loaded 4MM Electrical Binding Post Pair",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61032",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57657",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57254",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46033",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42627",
-   "http://www.hobbyking.com/hobbyking/store/__31921__Spring_Loaded_4MM_Electrical_Binding_Post_Pair.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__31921__Spring_Loaded_4MM_Electrical_Binding_Post_Pair.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$2.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:01:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42627"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$2.60",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 02:01:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46033"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$2.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:01:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57254"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.56",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 02:01:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57657"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$3.03",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:01:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61032"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Mi Digital High Torque Servo MG 52g/10kg/0.10",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70743",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30909",
-   "http://www.hobbyking.com/hobbyking/store/__14834__HobbyKing_8482_Mi_Digital_High_Torque_Servo_MG_52g_10kg_0_10.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.67",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:30:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14834__HobbyKing_8482_Mi_Digital_High_Torque_Servo_MG_52g_10kg_0_10.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$29.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30909"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$29.87",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70743"
+  }
+ ],
+ "version": 2,
+ "weight": "52"
 }

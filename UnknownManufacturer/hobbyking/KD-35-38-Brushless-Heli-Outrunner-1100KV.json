@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "KD 35-38 Brushless Heli Outrunner 1100KV",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__51856__KD_35_38_Brushless_Heli_Outrunner_1100KV.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$30.10",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 01:43:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51856__KD_35_38_Brushless_Heli_Outrunner_1100KV.html"
+  }
+ ],
+ "version": 2,
+ "weight": "340"
 }

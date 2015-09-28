@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Wilga-2000 Trainer EPO 1160mm (PNF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67766",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41722",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29975",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27037",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17086",
-   "http://www.hobbyking.com/hobbyking/store/__12944__Wilga_2000_Trainer_EPO_1160mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$67.85",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:03:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12944__Wilga_2000_Trainer_EPO_1160mm_PNF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$79.17",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:01:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17086"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$83.60",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:01:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27037"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$80.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:01:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29975"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$77.43",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:01:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41722"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$77.43",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:01:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67766"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

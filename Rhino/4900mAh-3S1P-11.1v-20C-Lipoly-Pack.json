@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Rhino",
  "name": "4900mAh 3S1P 11.1v 20C Lipoly Pack",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__7298__Rhino_4900mAh_3S1P_11_1v_20C_Lipoly_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$21.18",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:27:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7298__Rhino_4900mAh_3S1P_11_1v_20C_Lipoly_Pack.html"
+  }
+ ],
+ "version": 2,
+ "weight": "352"
 }

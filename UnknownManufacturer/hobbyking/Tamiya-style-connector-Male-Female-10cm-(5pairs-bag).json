@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Tamiya style connector Male/Female 10cm (5pairs/bag)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26223",
-   "http://www.hobbyking.com/hobbyking/store/__9911__Tamiya_style_connector_Male_Female_10cm_5pairs_bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:03:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9911__Tamiya_style_connector_Male_Female_10cm_5pairs_bag_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26223"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

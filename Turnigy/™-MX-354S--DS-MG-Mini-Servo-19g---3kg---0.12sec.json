@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 MX-354S  DS/MG Mini Servo 19g / 3kg / 0.12sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__47386__Turnigy_8482_MX_354S_DS_MG_Mini_Servo_19g_3kg_0_12sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$11.20",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:20:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__47386__Turnigy_8482_MX_354S_DS_MG_Mini_Servo_19g_3kg_0_12sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "19"
 }

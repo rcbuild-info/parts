@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "GT450PRO CF & Metal Main Frame Assembly (Belt Version)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__11582__GT450PRO_CF_Metal_Main_Frame_Assembly_Belt_Version_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$30.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:23:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__11582__GT450PRO_CF_Metal_Main_Frame_Assembly_Belt_Version_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Spitfire Funfighter - EPO 665mm (PNF)",
@@ -7,14 +7,53 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65183",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63356",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30496",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25291",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20560",
-   "http://www.hobbyking.com/hobbyking/store/__18484__Spitfire_Funfighter_EPO_665mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$86.10",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:49:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18484__Spitfire_Funfighter_EPO_665mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 03:48:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20560"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$79.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:48:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25291"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30496"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$81.86",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:48:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63356"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$89.99",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:47:20 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65183"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

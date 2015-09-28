@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EM Micro Servo (Blue) 9g/1.5kg/.12sec",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71655",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58440",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42000",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38936",
-   "http://www.hobbyking.com/hobbyking/store/__5456__EM_Micro_Servo_Blue_9g_1_5kg_12sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5456__EM_Micro_Servo_Blue_9g_1_5kg_12sec.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38936"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.46",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42000"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58440"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:31:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71655"
+  }
+ ],
+ "version": 2,
+ "weight": "9"
 }

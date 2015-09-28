@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Mini Breeze Glider EPO 900mm w/Motor (ARF)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77518",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70034",
-   "http://www.hobbyking.com/hobbyking/store/__37912__HobbyKing_174_8482_Mini_Breeze_Glider_EPO_900mm_w_Motor_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$54.60",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:41:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__37912__HobbyKing_174_8482_Mini_Breeze_Glider_EPO_900mm_w_Motor_ARF_.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$84.67",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:39:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70034"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$67.86",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:39:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77518"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DM-33cc Piston Pin",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__23045__DM_33cc_Piston_Pin.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.28",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Sun, 27 Sep 2015 23:24:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23045__DM_33cc_Piston_Pin.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

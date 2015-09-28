@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "NGH GT35 35cc Side Exhaust Gas Engine (4.2hp)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73106",
-   "http://www.hobbyking.com/hobbyking/store/__46058__NGH_GT35_35cc_Side_Exhaust_Gas_Engine_4_2hp_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$217.84",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:09:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__46058__NGH_GT35_35cc_Side_Exhaust_Gas_Engine_4_2hp_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$244.41",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 00:08:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73106"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

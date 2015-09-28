@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Wicked Wing Slope Combat Flying Wing EPP 1220mm (KIT)",
@@ -7,12 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69423",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39237",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38684",
-   "http://www.hobbyking.com/hobbyking/store/__34058__Wicked_Wing_Slope_Combat_Flying_Wing_EPP_1220mm_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$54.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:41:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__34058__Wicked_Wing_Slope_Combat_Flying_Wing_EPP_1220mm_KIT_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$56.38",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 03:38:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38684"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$54.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:38:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39205"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$54.99",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:38:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39237"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$56.38",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:38:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69423"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

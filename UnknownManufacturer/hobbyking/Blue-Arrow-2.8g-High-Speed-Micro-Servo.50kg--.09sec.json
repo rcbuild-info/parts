@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Blue Arrow 2.8g High Speed Micro Servo.50kg /.09sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__41921__Blue_Arrow_2_8g_High_Speed_Micro_Servo_50kg_09sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__41921__Blue_Arrow_2_8g_High_Speed_Micro_Servo_50kg_09sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "2.8"
 }

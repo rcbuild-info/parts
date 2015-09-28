@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "F9F-8 Cougar 90mm EDF Composite 1100mm (PNF)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61220",
-   "http://www.hobbyking.com/hobbyking/store/__46371__F9F_8_Cougar_90mm_EDF_Composite_1100mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$644.58",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:14:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__46371__F9F_8_Cougar_90mm_EDF_Composite_1100mm_PNF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$712.08",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 04:12:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61220"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

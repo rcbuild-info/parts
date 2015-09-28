@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EC5 Battery Harness 12AWG for 2 Packs in Parallel",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71653",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44750",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36983",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31841",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31486",
-   "http://www.hobbyking.com/hobbyking/store/__17635__EC5_Battery_Harness_12AWG_for_2_Packs_in_Parallel.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17635__EC5_Battery_Harness_12AWG_for_2_Packs_in_Parallel.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$5.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:01:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31486"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:01:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31841"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$5.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:01:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36983"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$6.05",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 02:01:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44750"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$5.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:01:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71653"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

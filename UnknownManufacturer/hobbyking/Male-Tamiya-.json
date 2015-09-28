@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Male Tamiya ",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71279",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60801",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45980",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36971",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34429",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31496",
-   "http://www.hobbyking.com/hobbyking/store/__10256__Male_Tamiya_gt_Female_XT60_3pcs_bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:03:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10256__Male_Tamiya_gt_Female_XT60_3pcs_bag_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$2.12",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:02:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31496"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$2.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34429"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$2.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36971"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$2.15",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:02:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45980"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$2.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:02:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60801"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$2.10",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:02:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71279"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Favourite Sky 3 Quattro 4 x 6A Brushless Quadcopter ESC 2-3S 1A BEC (BLHeli)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69360",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69359",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69358",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69357",
-   "http://www.hobbyking.com/hobbyking/store/__69352__Favourite_Sky_3_Quattro_4_x_6A_Brushless_Quadcopter_ESC_2_3S_1A_BEC_BLHeli_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$22.33",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:52:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__69352__Favourite_Sky_3_Quattro_4_x_6A_Brushless_Quadcopter_ESC_2_3S_1A_BEC_BLHeli_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$22.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69357"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$24.37",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69358"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$24.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69359"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$23.14",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69360"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

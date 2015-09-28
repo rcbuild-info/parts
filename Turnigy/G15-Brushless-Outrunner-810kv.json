@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "G15 Brushless Outrunner 810kv",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71681",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56220",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48168",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29479",
-   "http://www.hobbyking.com/hobbyking/store/__19022__Turnigy_G15_Brushless_Outrunner_810kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:28:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__19022__Turnigy_G15_Brushless_Outrunner_810kv.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$31.60",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 01:27:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29479"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$33.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:27:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48168"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$29.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:27:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56220"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$29.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:27:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71681"
+  }
+ ],
+ "version": 2,
+ "weight": "152"
 }

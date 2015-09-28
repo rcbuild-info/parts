@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "LiPoly Battery IR Meter",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81843",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76784",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76782",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76781",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76780",
-   "http://www.hobbyking.com/hobbyking/store/__56389__Turnigy_LiPoly_Battery_IR_Meter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$25.76",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:14:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__56389__Turnigy_LiPoly_Battery_IR_Meter.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$27.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:13:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76780"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$29.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:13:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76781"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$28.68",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:13:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76782"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$26.66",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:13:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76784"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$29.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:13:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81843"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

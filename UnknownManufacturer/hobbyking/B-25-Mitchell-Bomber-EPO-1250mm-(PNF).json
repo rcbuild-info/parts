@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "B-25 Mitchell Bomber EPO 1250mm (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68921",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67089",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54593",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54401",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54282",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54261",
-   "http://www.hobbyking.com/hobbyking/store/__51187__B_25_Mitchell_Bomber_EPO_1250mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$174.03",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:06:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51187__B_25_Mitchell_Bomber_EPO_1250mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$193.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:04:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54261"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$214.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:04:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54282"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$193.13",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:04:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54401"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$199.70",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:04:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54593"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$193.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:04:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67089"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$242.83",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:04:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68921"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

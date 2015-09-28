@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "HeliDrive SK3 Competition Series - 4956-800kv (600/.50 size heli)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47700",
-   "http://www.hobbyking.com/hobbyking/store/__36251__Turnigy_HeliDrive_SK3_Competition_Series_4956_800kv_600_50_size_heli_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 01:26:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__36251__Turnigy_HeliDrive_SK3_Competition_Series_4956_800kv_600_50_size_heli_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$49.99",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 01:26:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47700"
+  }
+ ],
+ "version": 2,
+ "weight": "375"
 }

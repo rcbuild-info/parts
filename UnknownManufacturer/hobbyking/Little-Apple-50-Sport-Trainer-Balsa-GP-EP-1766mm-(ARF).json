@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Little Apple 50 Sport Trainer Balsa GP/EP 1766mm (ARF)",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68898",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68897",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68896",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68895",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68894",
-   "http://www.hobbyking.com/hobbyking/store/__68893__Little_Apple_50_Sport_Trainer_Balsa_GP_EP_1766mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$175.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:10:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__68893__Little_Apple_50_Sport_Trainer_Balsa_GP_EP_1766mm_ARF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$216.13",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:08:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68894"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$227.39",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 04:08:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68895"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$205.27",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:08:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68896"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$194.87",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:08:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68897"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$219.98",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:08:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68898"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

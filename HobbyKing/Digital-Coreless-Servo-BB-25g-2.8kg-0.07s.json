@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Digital Coreless Servo BB 25g/2.8kg/0.07s",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70737",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40238",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29507",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18067",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17453",
-   "http://www.hobbyking.com/hobbyking/store/__16267__HobbyKing_8482_Digital_Coreless_Servo_BB_25g_2_8kg_0_07s.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:30:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16267__HobbyKing_8482_Digital_Coreless_Servo_BB_25g_2_8kg_0_07s.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$8.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:29:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17453"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$8.70",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:29:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18067"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$8.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29507"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$8.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40238"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$8.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70737"
+  }
+ ],
+ "version": 2,
+ "weight": "25"
 }

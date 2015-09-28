@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "XT60 Series adaptor (2pcs per bag)",
@@ -7,12 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76355",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76353",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76352",
-   "http://www.hobbyking.com/hobbyking/store/__76332__XT60_Series_adaptor_2pcs_per_bag_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__76332__XT60_Series_adaptor_2pcs_per_bag_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76352"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76353"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.73",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76354"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.56",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:04:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76355"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

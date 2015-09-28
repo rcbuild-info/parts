@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Power HD 3688HB Digital Servo 25g/2.8kg/.07sec",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41737",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30701",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29321",
-   "http://www.hobbyking.com/hobbyking/store/__6775__Power_HD_3688HB_Digital_Servo_25g_2_8kg_07sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$21.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:21:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6775__Power_HD_3688HB_Digital_Servo_25g_2_8kg_07sec.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$22.85",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 00:19:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29321"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$22.20",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:19:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30701"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$25.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:19:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41737"
+  }
+ ],
+ "version": 2,
+ "weight": "26"
 }

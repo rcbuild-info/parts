@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Heavy Duty 3000mAh 4S 60C Lipo Pack",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64214",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63767",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63070",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58107",
-   "http://www.hobbyking.com/hobbyking/store/__53683__Turnigy_Heavy_Duty_3000mAh_4S_60C_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$33.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:42:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__53683__Turnigy_Heavy_Duty_3000mAh_4S_60C_Lipo_Pack.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$34.56",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:40:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58107"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$34.42",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:40:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63070"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$34.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:40:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63767"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$33.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:40:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64214"
+  }
+ ],
+ "version": 2,
+ "weight": "370"
 }

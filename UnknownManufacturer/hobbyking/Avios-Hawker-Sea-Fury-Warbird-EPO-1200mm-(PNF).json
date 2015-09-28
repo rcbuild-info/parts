@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Avios Hawker Sea Fury Warbird EPO 1200mm (PNF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74574",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74573",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74572",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74571",
-   "http://www.hobbyking.com/hobbyking/store/__53695__Avios_Hawker_Sea_Fury_Warbird_EPO_1200mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$211.09",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:07:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__53695__Avios_Hawker_Sea_Fury_Warbird_EPO_1200mm_PNF_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$244.13",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:06:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74571"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$252.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:06:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74572"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$260.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:06:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74573"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$245.67",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:06:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74574"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

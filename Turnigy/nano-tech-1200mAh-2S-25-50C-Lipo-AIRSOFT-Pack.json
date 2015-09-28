@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 1200mAh 2S 25-50C Lipo AIRSOFT Pack",
@@ -7,13 +9,90 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60275",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59310",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44774",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44078",
-   "http://www.hobbyking.com/hobbyking/store/__37844__Turnigy_nano_tech_1200mAh_2S_25_50C_Lipo_AIRSOFT_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:18:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__37844__Turnigy_nano_tech_1200mAh_2S_25_50C_Lipo_AIRSOFT_Pack.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$7.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:13:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__37846__Turnigy_nano_tech_1200mAh_2S_25_50C_Lipo_AIRSOFT_Pack.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$7.20",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:17:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44078"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$7.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:12:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44080"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$7.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:12:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44772"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$7.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:17:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44774"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$7.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:12:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59306"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$7.20",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:17:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59310"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$9.27",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:12:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60270"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$8.82",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:17:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60275"
+  }
+ ],
+ "version": 2,
+ "weight": "55"
 }

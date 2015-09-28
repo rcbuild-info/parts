@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Banana Plug  to 3.5mm Bullet Connectors with Male-Male/Female-Female Adapters (2pcs)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__45383__Banana_Plug_to_3_5mm_Bullet_Connectors_with_Male_Male_Female_Female_Adapters_2pcs_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45383__Banana_Plug_to_3_5mm_Bullet_Connectors_with_Male_Male_Female_Female_Adapters_2pcs_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

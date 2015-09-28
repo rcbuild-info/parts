@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "0.8mm Gold Connectors 12 pairs (24pc)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__8878__0_8mm_Gold_Connectors_12_pairs_24pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8878__0_8mm_Gold_Connectors_12_pairs_24pc_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

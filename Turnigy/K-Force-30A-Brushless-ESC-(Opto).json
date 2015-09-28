@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "K-Force 30A Brushless ESC (Opto)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__51658__TURNIGY_K_Force_30A_Brushless_ESC_Opto_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:39:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51658__TURNIGY_K_Force_30A_Brushless_ESC_Opto_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,0 +1,1 @@
+../../HobbyKing/1500mAH-LiFe-3S-9.9v-Transmitter-pack..json

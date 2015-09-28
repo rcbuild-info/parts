@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech Ultimate 6400mah 2S2P 90C Hardcase Lipo Square Pack",
@@ -7,11 +9,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64935",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63010",
-   "http://www.hobbyking.com/hobbyking/store/__51842__Turnigy_nano_tech_Ultimate_6400mah_2S2P_90C_Hardcase_Lipo_Square_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$60.80",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:49:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51842__Turnigy_nano_tech_Ultimate_6400mah_2S2P_90C_Hardcase_Lipo_Square_Pack.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$62.00",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 02:47:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63010"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$63.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:47:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64935"
+  }
+ ],
+ "version": 2,
+ "weight": "326"
 }

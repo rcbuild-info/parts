@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HXT 9610 Low Profile Metal Gear Servo 33g / 7.4kg / .16sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__5342__HXT_9610_Low_Profile_Metal_Gear_Servo_33g_7_4kg_16sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:23:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5342__HXT_9610_Low_Profile_Metal_Gear_Servo_33g_7_4kg_16sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "34"
 }

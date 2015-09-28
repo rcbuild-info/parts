@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Marine 120A BEC Waterproof Speed Controller with Water Cooling",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74088",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74082",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74081",
-   "http://www.hobbyking.com/hobbyking/store/__74073__Turnigy_Marine_120A_BEC_Waterproof_Speed_Controller_with_Water_Cooling.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$58.73",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:40:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__74073__Turnigy_Marine_120A_BEC_Waterproof_Speed_Controller_with_Water_Cooling.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$58.34",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74081"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$68.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74082"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$68.84",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74088"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

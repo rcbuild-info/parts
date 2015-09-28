@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Salangane - All Composite Performance Slope/EP Glider 2020mm (ARF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71584",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56876",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55828",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50929",
-   "http://www.hobbyking.com/hobbyking/store/__28978__Salangane_All_Composite_Performance_Slope_EP_Glider_2020mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$298.20",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:41:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28978__Salangane_All_Composite_Performance_Slope_EP_Glider_2020mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$353.89",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:38:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50929"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$317.18",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 03:38:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55828"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$320.28",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:38:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56876"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$320.28",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 03:38:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71584"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Hobbywing",
  "name": "X-Rotor ESC - 10amp",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73084",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73083",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73082",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73081",
-   "http://www.hobbyking.com/hobbyking/store/__73078__Hobbywing_X_Rotor_ESC_10amp.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:51:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__73078__Hobbywing_X_Rotor_ESC_10amp.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$9.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:50:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73081"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$9.44",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:50:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73082"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$9.18",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:50:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73083"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$9.44",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:50:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73084"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

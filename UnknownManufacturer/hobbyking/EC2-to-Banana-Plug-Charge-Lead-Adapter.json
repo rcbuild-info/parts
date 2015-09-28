@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "EC2 to Banana Plug Charge Lead Adapter",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71976",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46017",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36996",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34476",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31481",
-   "http://www.hobbyking.com/hobbyking/store/__25658__EC2_to_Banana_Plug_Charge_Lead_Adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.57",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:03:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__25658__EC2_to_Banana_Plug_Charge_Lead_Adapter.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.38",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31481"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.25",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 02:02:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34476"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36996"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:02:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46017"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.21",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 02:02:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71976"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

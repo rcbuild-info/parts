@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "450 Size Heli Tail Linkage Rod",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__14946__450_Size_Heli_Tail_Linkage_Rod.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.28",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Sun, 27 Sep 2015 23:23:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14946__450_Size_Heli_Tail_Linkage_Rod.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "AR Drone Upgrade Hardcase Battery 2200mAh 3S 25C",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68640",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68639",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68638",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68637",
-   "http://www.hobbyking.com/hobbyking/store/__68627__Turnigy_AR_Drone_Upgrade_Hardcase_Battery_2200mAh_3S_25C.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:24:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__68627__Turnigy_AR_Drone_Upgrade_Hardcase_Battery_2200mAh_3S_25C.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$21.39",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:23:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68637"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$21.39",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:23:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68638"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$20.12",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 02:23:12 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68639"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$21.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:23:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68640"
+  }
+ ],
+ "version": 2,
+ "weight": "20"
 }

@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 160mah 1S 25C Lipo Pack (Nine Eagles style - T2 Twin Rail)",
@@ -7,15 +9,61 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60321",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59354",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35133",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34838",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33230",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32732",
-   "http://www.hobbyking.com/hobbyking/store/__18792__Turnigy_nano_tech_160mah_1S_25C_Lipo_Pack_Nine_Eagles_style_T2_Twin_Rail_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:20:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18792__Turnigy_nano_tech_160mah_1S_25C_Lipo_Pack_Nine_Eagles_style_T2_Twin_Rail_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$0.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32732"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$1.27",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33230"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34838"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$1.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35133"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$1.27",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:19:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59354"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60321"
+  }
+ ],
+ "version": 2,
+ "weight": "5"
 }

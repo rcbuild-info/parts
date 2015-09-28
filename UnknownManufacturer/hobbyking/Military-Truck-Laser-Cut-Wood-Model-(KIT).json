@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Military Truck Laser Cut Wood Model (KIT)",
@@ -7,10 +7,21 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42107",
-   "http://www.hobbyking.com/hobbyking/store/__33614__Military_Truck_Laser_Cut_Wood_Model_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:45:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__33614__Military_Truck_Laser_Cut_Wood_Model_KIT_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42107"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

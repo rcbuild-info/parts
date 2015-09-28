@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Recovery Vehicle LED Lighting System Squared Style (Amber)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__50510__Recovery_Vehicle_LED_Lighting_System_Squared_Style_Amber_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$8.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:23:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__50510__Recovery_Vehicle_LED_Lighting_System_Squared_Style_Amber_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

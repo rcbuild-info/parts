@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "5400mah 2S2P 50C Hardcase Car Lipoly",
@@ -7,13 +7,53 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59624",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58713",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38341",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32229",
-   "http://www.hobbyking.com/hobbyking/store/__18606__ZIPPY_5400mah_2S2P_50C_Hardcase_Car_Lipoly.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$27.89",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:11:37 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18606__ZIPPY_5400mah_2S2P_50C_Hardcase_Car_Lipoly.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$28.98",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 03:10:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24192"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$27.73",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:10:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32229"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38341"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$28.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:10:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58713"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$44.82",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:10:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59624"
+  }
+ ],
+ "version": 2,
+ "weight": "283"
 }

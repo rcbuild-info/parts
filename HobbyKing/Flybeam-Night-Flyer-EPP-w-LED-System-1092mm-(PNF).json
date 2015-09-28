@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Flybeam Night Flyer EPP w/LED System 1092mm (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68919",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67821",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52739",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52439",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52319",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52288",
-   "http://www.hobbyking.com/hobbyking/store/__47727__HobbyKing_174_Flybeam_Night_Flyer_EPP_w_LED_System_1092mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$131.98",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__47727__HobbyKing_174_Flybeam_Night_Flyer_EPP_w_LED_System_1092mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$151.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52288"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$151.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52319"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$151.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52439"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$135.16",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52739"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$151.72",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:51:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67821"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$184.03",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:51:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68919"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

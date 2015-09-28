@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mini L-39 EDF Fighter Jet EPO Plug-n-Fly",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70753",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69677",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56106",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33384",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16611",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16557",
-   "http://www.hobbyking.com/hobbyking/store/__13425__Mini_L_39_EDF_Fighter_Jet_EPO_Plug_n_Fly.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$63.83",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:14:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__13425__Mini_L_39_EDF_Fighter_Jet_EPO_Plug_n_Fly.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$74.87",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16557"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$67.80",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16611"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$83.86",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 04:12:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33384"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$79.92",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:12:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56106"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$101.67",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:12:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69677"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$67.80",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:12:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70753"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Edge 540 3D Profile EPP 960mm (ARF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__49832__HobbyKing_8482_Edge_540_3D_Profile_EPP_960mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$45.37",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:11:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__49832__HobbyKing_8482_Edge_540_3D_Profile_EPP_960mm_ARF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

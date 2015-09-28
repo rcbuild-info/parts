@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Integrated PCB Micro-Hex (KIT)",
@@ -7,16 +7,74 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67052",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43978",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42115",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39331",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24380",
-   "http://www.hobbyking.com/hobbyking/store/__45213__Turnigy_Integrated_PCB_Micro_Hex_KIT_US_Warehouse_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45213",
-   "http://www.hobbyking.com/hobbyking/store/__24380__Turnigy_Integrated_PCB_Micro_Hex_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:23:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24380__Turnigy_Integrated_PCB_Micro_Hex_KIT_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Sun, 27 Sep 2015 23:06:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45213__Turnigy_Integrated_PCB_Micro_Hex_KIT_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:05:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24380"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:22:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39331"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$25.61",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Sun, 27 Sep 2015 23:22:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42115"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Sun, 27 Sep 2015 23:22:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43978"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Sun, 27 Sep 2015 23:22:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45213"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$24.05",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Sun, 27 Sep 2015 23:22:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67052"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

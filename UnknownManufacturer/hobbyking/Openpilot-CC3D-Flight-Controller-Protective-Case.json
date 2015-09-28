@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Openpilot CC3D Flight Controller Protective Case",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__72569__Openpilot_CC3D_Flight_Controller_Protective_Case.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__72569__Openpilot_CC3D_Flight_Controller_Protective_Case.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

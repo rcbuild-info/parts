@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "K-Force 40A Brushless ESC",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71738",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46155",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38939",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36622",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29636",
-   "http://www.hobbyking.com/hobbyking/store/__8922__TURNIGY_K_Force_40A_Brushless_ESC.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$30.81",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:39:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8922__TURNIGY_K_Force_40A_Brushless_ESC.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$32.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:36:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29636"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$35.45",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:36:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36622"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$31.54",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:36:40 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38939"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$31.95",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 00:36:39 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46155"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$33.96",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:36:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71738"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

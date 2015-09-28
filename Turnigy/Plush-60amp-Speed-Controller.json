@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Plush 60amp Speed Controller",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71049",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68989",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32820",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32433",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32063",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28405",
-   "http://www.hobbyking.com/hobbyking/store/__2166__TURNIGY_Plush_60amp_Speed_Controller.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$34.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:40:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__2166__TURNIGY_Plush_60amp_Speed_Controller.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$35.93",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:38:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28405"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$35.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32063"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$35.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32433"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$35.21",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32820"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$45.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68989"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$34.97",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:38:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71049"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

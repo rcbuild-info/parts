@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "D05010MG 5.7g / .61kg / .07sec Digital Metal Gear Micro Servo",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69646",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44742",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36289",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29626",
-   "http://www.hobbyking.com/hobbyking/store/__10965__D05010MG_5_7g_61kg_07sec_Digital_Metal_Gear_Micro_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:34:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10965__D05010MG_5_7g_61kg_07sec_Digital_Metal_Gear_Micro_Servo.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$7.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29626"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$7.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36289"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$7.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:32:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44742"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$10.48",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 00:32:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69646"
+  }
+ ],
+ "version": 2,
+ "weight": "5.7"
 }

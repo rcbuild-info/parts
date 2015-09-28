@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "3.7g Micro Servo .4kg .10sec/60deg",
@@ -7,10 +7,21 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30681",
-   "http://www.hobbyking.com/hobbyking/store/__5459__HobbyKing_174_3_7g_Micro_Servo_4kg_10sec_60deg.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:17:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5459__HobbyKing_174_3_7g_Micro_Servo_4kg_10sec_60deg.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30681"
+  }
+ ],
+ "version": 2,
+ "weight": "4.6"
 }

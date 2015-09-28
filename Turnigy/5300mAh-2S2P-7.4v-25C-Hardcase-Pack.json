@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "5300mAh 2S2P 7.4v 25C Hardcase Pack",
@@ -7,10 +7,21 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26805",
-   "http://www.hobbyking.com/hobbyking/store/__15519__Turnigy_5300mAh_2S2P_7_4v_25C_Hardcase_Pack_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$19.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:10:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__15519__Turnigy_5300mAh_2S2P_7_4v_25C_Hardcase_Pack_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26805"
+  }
+ ],
+ "version": 2,
+ "weight": "325"
 }

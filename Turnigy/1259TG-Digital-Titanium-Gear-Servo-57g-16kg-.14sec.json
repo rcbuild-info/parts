@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "1259TG Digital Titanium Gear Servo 57g/16kg/.14sec",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71024",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30670",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29326",
-   "http://www.hobbyking.com/hobbyking/store/__23156__Turnigy_1259TG_Digital_Titanium_Gear_Servo_57g_16kg_14sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$33.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__23156__Turnigy_1259TG_Digital_Titanium_Gear_Servo_57g_16kg_14sec.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$34.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29326"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$34.87",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30670"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$34.87",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71024"
+  }
+ ],
+ "version": 2,
+ "weight": "57"
 }

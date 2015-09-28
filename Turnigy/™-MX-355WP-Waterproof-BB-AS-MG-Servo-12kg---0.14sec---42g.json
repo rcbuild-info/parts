@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 MX-355WP Waterproof BB/AS/MG Servo 12kg / 0.14sec / 42g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__47393__Turnigy_8482_MX_355WP_Waterproof_BB_AS_MG_Servo_12kg_0_14sec_42g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$14.40",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:24:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__47393__Turnigy_8482_MX_355WP_Waterproof_BB_AS_MG_Servo_12kg_0_14sec_42g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "42"
 }

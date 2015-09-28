@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Super Cub EP 80in ARF",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70997",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29890",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25379",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15858",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15394",
-   "http://www.hobbyking.com/hobbyking/store/__14052__Super_Cub_EP_80in_ARF.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$220.26",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:02:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14052__Super_Cub_EP_80in_ARF.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$237.32",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 04:01:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15394"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$242.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:01:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15858"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$236.68",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:01:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25379"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$254.22",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:01:32 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29890"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$266.15",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:01:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70997"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

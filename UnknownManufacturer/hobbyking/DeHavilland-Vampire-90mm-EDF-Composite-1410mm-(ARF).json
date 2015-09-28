@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "DeHavilland Vampire 90mm EDF Composite 1410mm (ARF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63042",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62895",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62867",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62741",
-   "http://www.hobbyking.com/hobbyking/store/__46398__DeHavilland_Vampire_90mm_EDF_Composite_1410mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$243.23",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:14:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__46398__DeHavilland_Vampire_90mm_EDF_Composite_1410mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$279.18",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 04:14:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62741"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$266.62",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:14:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62867"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$289.24",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:14:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62895"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$293.71",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 04:14:08 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63042"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

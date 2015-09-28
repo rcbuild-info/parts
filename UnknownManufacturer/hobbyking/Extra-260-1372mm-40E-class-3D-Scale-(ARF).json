@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Extra 260 1372mm 40E class 3D Scale (ARF)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__20128__Extra_260_1372mm_40E_class_3D_Scale_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$115.62",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 04:12:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__20128__Extra_260_1372mm_40E_class_3D_Scale_ARF_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

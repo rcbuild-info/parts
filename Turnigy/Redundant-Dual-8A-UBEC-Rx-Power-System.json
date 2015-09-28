@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Redundant Dual 8A UBEC Rx Power System",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70645",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31236",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30927",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29046",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28880",
-   "http://www.hobbyking.com/hobbyking/store/__14464__Turnigy_Redundant_Dual_8A_UBEC_Rx_Power_System.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$17.95",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:41:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14464__Turnigy_Redundant_Dual_8A_UBEC_Rx_Power_System.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$18.95",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:41:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28880"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$19.30",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:41:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29046"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$18.67",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:41:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30927"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$19.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:41:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31236"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$18.67",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:41:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70645"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

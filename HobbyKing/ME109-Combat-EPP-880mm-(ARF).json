@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "ME109 Combat EPP 880mm (ARF)",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68494",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34220",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26476",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26038",
-   "http://www.hobbyking.com/hobbyking/store/__17967__Hobbyking_ME109_Combat_EPP_880mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$27.50",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 04:06:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__17967__Hobbyking_ME109_Combat_EPP_880mm_ARF_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$37.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:04:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26038"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$38.17",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:04:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26476"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$40.91",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:04:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34220"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$37.57",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:04:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39188"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$38.17",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:04:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68494"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

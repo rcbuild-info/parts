@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-990DMG Low Profiled Coreless motor Digital Servo (All Metal Gear) 9.0kg / .09sec / 45g",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__8954__BMS_990DMG_Low_Profiled_Coreless_motor_Digital_Servo_All_Metal_Gear_9_0kg_09sec_45g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:14:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8954__BMS_990DMG_Low_Profiled_Coreless_motor_Digital_Servo_All_Metal_Gear_9_0kg_09sec_45g.html"
+  }
+ ],
+ "version": 2,
+ "weight": "45"
 }

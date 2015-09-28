@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HXT 4mm to 3.5mm (Male to Male) Adaptor (5pc)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60872",
-   "http://www.hobbyking.com/hobbyking/store/__43737__HXT_4mm_to_3_5mm_Male_to_Male_Adaptor_5pc_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:07:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__43737__HXT_4mm_to_3_5mm_Male_to_Male_Adaptor_5pc_.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$2.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:06:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60872"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

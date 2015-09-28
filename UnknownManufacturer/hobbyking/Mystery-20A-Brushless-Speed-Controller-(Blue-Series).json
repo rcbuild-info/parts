@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mystery 20A Brushless Speed Controller (Blue Series)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49228",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36268",
-   "http://www.hobbyking.com/hobbyking/store/__9484__Mystery_20A_Brushless_Speed_Controller_Blue_Series_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9484__Mystery_20A_Brushless_Speed_Controller_Blue_Series_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$12.35",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:53:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36268"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$12.39",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 00:53:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49228"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Electrolyte 40mm EDF Micro Jet Composite 508mm (ARF)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76068",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76066",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76065",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75939",
-   "http://www.hobbyking.com/hobbyking/store/__53871__HobbyKing_8482_Electrolyte_40mm_EDF_Micro_Jet_Composite_508mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$95.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:14:47 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__53871__HobbyKing_8482_Electrolyte_40mm_EDF_Micro_Jet_Composite_508mm_ARF_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$101.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=75939"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$108.20",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76065"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$110.16",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:44 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76066"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$105.41",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:13:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76068"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

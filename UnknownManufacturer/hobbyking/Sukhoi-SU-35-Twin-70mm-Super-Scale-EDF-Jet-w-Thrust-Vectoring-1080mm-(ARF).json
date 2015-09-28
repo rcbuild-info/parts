@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Sukhoi SU-35 Twin 70mm Super Scale EDF Jet w/Thrust Vectoring 1080mm (ARF)",
@@ -7,12 +7,37 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63327",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30547",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29223",
-   "http://www.hobbyking.com/hobbyking/store/__22685__Sukhoi_SU_35_Twin_70mm_Super_Scale_EDF_Jet_w_Thrust_Vectoring_1080mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$183.13",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:14:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__22685__Sukhoi_SU_35_Twin_70mm_Super_Scale_EDF_Jet_w_Thrust_Vectoring_1080mm_ARF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29223"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$242.41",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:10:42 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30547"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$237.54",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 04:10:41 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63327"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

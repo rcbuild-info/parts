@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Durafly",
  "name": "HyperBipe 900mm EPO w/Motor (ARF)",
@@ -7,17 +7,71 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68956",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67933",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49646",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49596",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49581",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49455",
-   "http://www.hobbyking.com/hobbyking/store/__33472__Durafly_HyperBipe_900mm_EPO_w_Motor_ARF_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33472",
-   "http://www.hobbyking.com/hobbyking/store/__67933__Durafly_8482_HyperBipe_900mm_EPO_w_Motor_ARF_AR_Warehouse_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$78.01",
+   "stock_state": "backordered",
+   "timestamp": "Mon, 28 Sep 2015 03:52:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__33472__Durafly_HyperBipe_900mm_EPO_w_Motor_ARF_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__67933__Durafly_8482_HyperBipe_900mm_EPO_w_Motor_ARF_AR_Warehouse_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33472"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$85.33",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 03:52:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49455"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$89.01",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:52:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49581"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$92.64",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:52:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49596"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$91.13",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:52:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49646"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$91.13",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:52:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67933"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$114.04",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:52:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68956"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

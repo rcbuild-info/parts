@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "RotorStar 100A (2~6S) SBEC Brushless Speed Controller",
@@ -7,28 +7,95 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77214",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77213",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76480",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76416",
-   "http://www.hobbyking.com/hobbyking/store/__55385__RotorStar_100A_2_6S_SBEC_Brushless_Speed_Controller.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77212",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77211",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76479",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76415",
-   "http://www.hobbyking.com/hobbyking/store/__55384__RotorStar_120A_HV_4_14S_Brushless_Speed_Controller_OPTO_.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77243",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77242",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77241",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76427",
-   "http://www.hobbyking.com/hobbyking/store/__55425__RotorStar_120A_LV_2_6S_Brushless_Speed_Controller_with_Selectable_SBEC.html",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77222",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77221",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76484",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76420",
-   "http://www.hobbyking.com/hobbyking/store/__55413__RotorStar_150A_2_6S_SBEC_Brushless_Speed_Controller.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55384__RotorStar_120A_HV_4_14S_Brushless_Speed_Controller_OPTO_.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55385__RotorStar_100A_2_6S_SBEC_Brushless_Speed_Controller.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$57.29",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:54:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__55413__RotorStar_150A_2_6S_SBEC_Brushless_Speed_Controller.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__55425__RotorStar_120A_LV_2_6S_Brushless_Speed_Controller_with_Selectable_SBEC.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76415"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76416"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$58.38",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76420"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76427"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76479"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76480"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$63.35",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 00:53:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76484"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77211"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77212"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77213"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77214"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$60.42",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77221"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$63.29",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:53:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77222"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77241"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77242"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77243"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

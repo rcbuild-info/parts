@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Switchblade 200 Folding Mini FPV Quad-Copter (200mm) (KIT)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68658",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65393",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64917",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63803",
-   "http://www.hobbyking.com/hobbyking/store/__61389__Switchblade_200_Folding_Mini_FPV_Quad_Copter_200mm_KIT_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:23:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__61389__Switchblade_200_Folding_Mini_FPV_Quad_Copter_200mm_KIT_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$18.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:22:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63803"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$18.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:22:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64917"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$18.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:22:34 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65393"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$18.39",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Sun, 27 Sep 2015 23:22:33 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68658"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

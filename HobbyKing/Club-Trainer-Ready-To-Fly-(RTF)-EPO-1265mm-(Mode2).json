@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Club Trainer Ready To Fly (RTF) EPO 1265mm (Mode2)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__28179__Hobbyking_174_8482_Club_Trainer_Ready_To_Fly_RTF_EPO_1265mm_Mode2_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$127.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 03:53:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28179__Hobbyking_174_8482_Club_Trainer_Ready_To_Fly_RTF_EPO_1265mm_Mode2_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

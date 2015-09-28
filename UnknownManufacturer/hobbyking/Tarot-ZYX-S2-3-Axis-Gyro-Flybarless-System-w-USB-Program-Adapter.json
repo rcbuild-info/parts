@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Tarot ZYX-S2 3-Axis Gyro Flybarless System w/USB Program Adapter",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71163",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60815",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56085",
-   "http://www.hobbyking.com/hobbyking/store/__49724__Tarot_ZYX_S2_3_Axis_Gyro_Flybarless_System_w_USB_Program_Adapter.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$45.79",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:56:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__49724__Tarot_ZYX_S2_3_Axis_Gyro_Flybarless_System_w_USB_Program_Adapter.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$45.79",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:55:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56085"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$45.79",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:55:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60815"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$45.79",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 03:55:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71163"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

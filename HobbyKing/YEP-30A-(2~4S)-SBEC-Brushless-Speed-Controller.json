@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "YEP 30A (2~4S) SBEC Brushless Speed Controller",
@@ -7,14 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71551",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68307",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47365",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45018",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44914",
-   "http://www.hobbyking.com/hobbyking/store/__37946__Hobbyking_YEP_30A_2_4S_SBEC_Brushless_Speed_Controller.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$13.95",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 00:54:56 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__37946__Hobbyking_YEP_30A_2_4S_SBEC_Brushless_Speed_Controller.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$14.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44683"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$14.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44914"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$14.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45018"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$14.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47365"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$18.61",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68307"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$14.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:49:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71551"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

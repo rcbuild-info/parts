@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Rhino",
  "name": "360mAh 3S 11.1v 20C Lipoly Pack",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__7302__Rhino_360mAh_3S_11_1v_20C_Lipoly_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:22:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7302__Rhino_360mAh_3S_11_1v_20C_Lipoly_Pack.html"
+  }
+ ],
+ "version": 2,
+ "weight": "32"
 }

@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 1300mAh 2S 25~50C Lipo AIRSOFT Pack(T-connector)",
@@ -7,9 +9,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__67727__Turnigy_nano_tech_1300mAh_2S_25_50C_Lipo_AIRSOFT_Pack_T_connector_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$7.19",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:18:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__67727__Turnigy_nano_tech_1300mAh_2S_25_50C_Lipo_AIRSOFT_Pack_T_connector_.html"
+  }
+ ],
+ "version": 2,
+ "weight": "79"
 }

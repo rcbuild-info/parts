@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Goteck",
  "name": "BL2511S Digital Brushless MG Metal Cased Car Servo 62g/12kg/0.09sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__66993__Goteck_BL2511S_Digital_Brushless_MG_Metal_Cased_Car_Servo_62g_12kg_0_09sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$38.32",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:26:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__66993__Goteck_BL2511S_Digital_Brushless_MG_Metal_Cased_Car_Servo_62g_12kg_0_09sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "62"
 }

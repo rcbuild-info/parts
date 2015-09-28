@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "B-Grade 2200mAh 2S 20C Lipoly Battery",
@@ -7,10 +7,21 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__28533__B_Grade_2200mAh_2S_20C_Lipoly_Battery.html",
-   "http://www.hobbyking.com/hobbyking/store/__28534__B_Grade_2200mAh_2S_25C_Lipoly_Battery.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/__28533__B_Grade_2200mAh_2S_20C_Lipoly_Battery.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$4.62",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:07:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28534__B_Grade_2200mAh_2S_25C_Lipoly_Battery.html"
+  }
+ ],
+ "version": 2,
+ "weight": "129"
 }

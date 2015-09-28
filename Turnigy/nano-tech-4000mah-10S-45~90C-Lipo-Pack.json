@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech 4000mah 10S 45~90C Lipo Pack",
@@ -7,10 +9,29 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35498",
-   "http://www.hobbyking.com/hobbyking/store/__14614__Turnigy_nano_tech_4000mah_10S_45_90C_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$109.68",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:24:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14614__Turnigy_nano_tech_4000mah_10S_45_90C_Lipo_Pack.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$113.72",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Sun, 27 Sep 2015 23:23:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32672"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35498"
+  }
+ ],
+ "version": 2,
+ "weight": "1169"
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 DRFT-303 1/10th D-Spec Steering Servo 4.5kg / 0.10Sec / 39g",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71583",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70103",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62563",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56917",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54859",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54751",
-   "http://www.hobbyking.com/hobbyking/store/__42370__Turnigy_8482_DRFT_303_1_10th_D_Spec_Steering_Servo_4_5kg_0_10Sec_39g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$5.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:28:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__42370__Turnigy_8482_DRFT_303_1_10th_D_Spec_Steering_Servo_4_5kg_0_10Sec_39g.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$5.90",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 00:27:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54751"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$5.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:27:06 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54859"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$5.65",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:27:05 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56917"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$6.02",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:27:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62563"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$7.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:27:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70103"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$5.65",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:27:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71583"
+  }
+ ],
+ "version": 2,
+ "weight": "39"
 }

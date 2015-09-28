@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Spybird Eagle Ornithopter 1200mm (PNF)",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74608",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74607",
-   "http://www.hobbyking.com/hobbyking/store/__48486__Spybird_Eagle_Ornithopter_1200mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$218.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:58:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__48486__Spybird_Eagle_Ornithopter_1200mm_PNF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$248.78",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74607"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$242.16",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:57:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74608"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

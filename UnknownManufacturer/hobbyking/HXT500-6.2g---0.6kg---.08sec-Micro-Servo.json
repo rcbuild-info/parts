@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HXT500 6.2g / 0.6kg / .08sec Micro Servo",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68962",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67041",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30374",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29809",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23992",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23593",
-   "http://www.hobbyking.com/hobbyking/store/__663__HXT500_6_2g_0_6kg_08sec_Micro_Servo.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:15:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__663__HXT500_6_2g_0_6kg_08sec_Micro_Servo.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:15:18 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23593"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.79",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 00:15:17 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23992"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.67",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:15:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29809"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$3.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:15:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30374"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:15:15 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67041"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$3.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:15:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68962"
+  }
+ ],
+ "version": 2,
+ "weight": "6.2"
 }

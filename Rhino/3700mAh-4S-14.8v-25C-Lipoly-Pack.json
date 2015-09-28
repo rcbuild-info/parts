@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Rhino",
  "name": "3700mAh 4S 14.8v 25C Lipoly Pack",
@@ -7,13 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59651",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58738",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51393",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50260",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50185"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$26.85",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 02:53:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9338__Rhino_3700mAh_4S_14_8v_25C_Lipoly_Pack_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$33.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:52:54 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50185"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$27.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:52:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50260"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$30.76",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:52:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51393"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$27.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:52:51 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58738"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$38.64",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 02:52:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59651"
+  }
+ ],
+ "version": 2,
+ "weight": "415"
 }

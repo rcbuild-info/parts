@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "HKSCM12-6 Single Chip Digital Servo 12g/1.7kg/0.16s",
@@ -7,12 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57774",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43314",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40237",
-   "http://www.hobbyking.com/hobbyking/store/__16262__HobbyKing_8482_HKSCM12_6_Single_Chip_Digital_Servo_12g_1_7kg_0_16s.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$3.78",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:20:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16262__HobbyKing_8482_HKSCM12_6_Single_Chip_Digital_Servo_12g_1_7kg_0_16s.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$4.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:04 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40237"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$3.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:03 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41034"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$3.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43314"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$3.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:20:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57774"
+  }
+ ],
+ "version": 2,
+ "weight": "12"
 }

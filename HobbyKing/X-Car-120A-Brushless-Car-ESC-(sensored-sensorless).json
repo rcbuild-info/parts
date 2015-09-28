@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "X-Car 120A Brushless Car ESC (sensored/sensorless)",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65973",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56464",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47748",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44512",
-   "http://www.hobbyking.com/hobbyking/store/__28377__Hobbyking_174_X_Car_120A_Brushless_Car_ESC_sensored_sensorless_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$36.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:45:07 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__28377__Hobbyking_174_X_Car_120A_Brushless_Car_ESC_sensored_sensorless_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$39.16",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44512"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$36.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47748"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$39.35",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56464"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$37.33",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:43:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65973"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

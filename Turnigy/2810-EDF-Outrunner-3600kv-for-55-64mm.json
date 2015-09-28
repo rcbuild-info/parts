@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "2810 EDF Outrunner 3600kv for 55/64mm",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__10933__Turnigy_2810_EDF_Outrunner_3600kv_for_55_64mm.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$12.20",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 01:34:26 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10933__Turnigy_2810_EDF_Outrunner_3600kv_for_55_64mm.html"
+  }
+ ],
+ "version": 2,
+ "weight": "61"
 }

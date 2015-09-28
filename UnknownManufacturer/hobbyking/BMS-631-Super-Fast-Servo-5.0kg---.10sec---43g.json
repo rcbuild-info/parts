@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "BMS-631 Super Fast Servo 5.0kg / .10sec / 43g",
@@ -7,13 +7,50 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70625",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60684",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33318",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29593",
-   "http://www.hobbyking.com/hobbyking/store/__8779__BMS_631_Super_Fast_Servo_5_0kg_10sec_43g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$13.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:13:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8779__BMS_631_Super_Fast_Servo_5_0kg_10sec_43g.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$14.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29593"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$14.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33318"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$17.18",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60684"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$14.83",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:12:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70625"
+  }
+ ],
+ "version": 2,
+ "weight": "43"
 }

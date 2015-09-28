@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "172 Light Aircraft ARF",
@@ -7,14 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71088",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31288",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25896",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22583",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14902",
-   "http://www.hobbyking.com/hobbyking/store/__6506__172_Light_Aircraft_ARF.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$79.79",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:02:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6506__172_Light_Aircraft_ARF.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$84.50",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 04:01:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14902"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$83.38",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 04:01:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22583"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$96.47",
+   "stock_state": "in_stock",
+   "stock_text": "6",
+   "timestamp": "Mon, 28 Sep 2015 04:01:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25896"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$98.29",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "timestamp": "Mon, 28 Sep 2015 04:01:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31288"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$84.50",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:01:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71088"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

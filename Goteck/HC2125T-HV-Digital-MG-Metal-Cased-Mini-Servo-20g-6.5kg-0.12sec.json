@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Goteck",
  "name": "HC2125T HV Digital MG Metal Cased Mini Servo 20g/6.5kg/0.12sec",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__66982__Goteck_HC2125T_HV_Digital_MG_Metal_Cased_Mini_Servo_20g_6_5kg_0_12sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$18.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:19:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__66982__Goteck_HC2125T_HV_Digital_MG_Metal_Cased_Mini_Servo_20g_6_5kg_0_12sec.html"
+  }
+ ],
+ "version": 2,
+ "weight": "20"
 }

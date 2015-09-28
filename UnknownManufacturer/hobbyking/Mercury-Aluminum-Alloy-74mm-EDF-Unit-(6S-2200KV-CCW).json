@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Mercury Aluminum Alloy 74mm EDF Unit (6S 2200KV-CCW)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__45285__Mercury_Aluminum_Alloy_74mm_EDF_Unit_6S_2200KV_CCW_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$125.80",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "timestamp": "Mon, 28 Sep 2015 01:41:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__45285__Mercury_Aluminum_Alloy_74mm_EDF_Unit_6S_2200KV_CCW_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

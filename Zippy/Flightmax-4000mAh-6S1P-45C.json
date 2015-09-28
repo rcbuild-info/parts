@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "Flightmax 4000mAh 6S1P 45C",
@@ -7,14 +7,48 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59722",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58808",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38324",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32222",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=19897",
-   "http://www.hobbyking.com/hobbyking/store/__16491__ZIPPY_Flightmax_4000mAh_6S1P_45C.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$64.39",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "timestamp": "Mon, 28 Sep 2015 02:59:45 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16491__ZIPPY_Flightmax_4000mAh_6S1P_45C.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$57.57",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:56:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=19897"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$69.51",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 02:56:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32222"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38324"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58808"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$93.96",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 02:18:48 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59722"
+  }
+ ],
+ "version": 2,
+ "weight": "730"
 }

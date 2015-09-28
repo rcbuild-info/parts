@@ -1,0 +1,63 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "Turnigy",
+ "name": "2836 Brushless Outrunner 1000kv",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$20.00",
+   "stock_state": "in_stock",
+   "stock_text": "9",
+   "timestamp": "Mon, 28 Sep 2015 01:08:13 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__8139__Turnigy2836_Brushless_Outrunner_1000kv.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$21.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 01:07:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24165"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$21.20",
+   "stock_state": "in_stock",
+   "stock_text": "7",
+   "timestamp": "Mon, 28 Sep 2015 01:07:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31168"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$23.37",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:07:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39944"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$20.42",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:07:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41164"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$20.16",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:07:21 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71876"
+  }
+ ],
+ "version": 2,
+ "weight": "80"
+}

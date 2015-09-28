@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "1220 Brushless Inrunner Motor 10300kv",
@@ -7,12 +7,42 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71639",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56407",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43351",
-   "http://www.hobbyking.com/hobbyking/store/__9068__Turnigy_1220_Brushless_Inrunner_Motor_10300kv.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$9.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:52 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__9068__Turnigy_1220_Brushless_Inrunner_Motor_10300kv.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$10.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43351"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$9.72",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56407"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$10.05",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 01:41:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71639"
+  }
+ ],
+ "version": 2,
+ "weight": "8.4"
 }

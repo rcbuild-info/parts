@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Anodised Alloy External Flight Battery Arming Switch (T-Plug)",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60644",
-   "http://www.hobbyking.com/hobbyking/store/__40718__Anodised_Alloy_External_Flight_Battery_Arming_Switch_T_Plug_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:05:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__40718__Anodised_Alloy_External_Flight_Battery_Arming_Switch_T_Plug_.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$5.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:04:35 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60644"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

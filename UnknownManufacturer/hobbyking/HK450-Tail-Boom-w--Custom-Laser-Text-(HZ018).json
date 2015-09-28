@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "HK450 Tail Boom w/ Custom Laser Text (HZ018)",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__12846__HK450_Tail_Boom_w_Custom_Laser_Text_HZ018_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$4.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Sun, 27 Sep 2015 23:23:50 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__12846__HK450_Tail_Boom_w_Custom_Laser_Text_HZ018_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

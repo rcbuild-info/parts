@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "\u2122 TGY-BLS815MG Brushless HV/BB/DS/MG Servo w/Alloy Case 20kg/.07sec/68g",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77544",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70164",
-   "http://www.hobbyking.com/hobbyking/store/__50469__Turnigy_8482_TGY_BLS815MG_Brushless_HV_BB_DS_MG_Servo_w_Alloy_Case_20kg_07sec_68g.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$57.54",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:11:36 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__50469__Turnigy_8482_TGY_BLS815MG_Brushless_HV_BB_DS_MG_Servo_w_Alloy_Case_20kg_07sec_68g.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$77.92",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:10:11 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70164"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$63.27",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "timestamp": "Mon, 28 Sep 2015 00:10:10 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77544"
+  }
+ ],
+ "version": 2,
+ "weight": "68"
 }

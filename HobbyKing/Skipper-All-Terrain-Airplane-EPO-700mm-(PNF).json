@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Skipper All Terrain Airplane EPO 700mm (PNF)",
@@ -7,15 +7,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68925",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68478",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51649",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51557",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51316",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51282",
-   "http://www.hobbyking.com/hobbyking/store/__40228__HobbyKing_174_8482_Skipper_All_Terrain_Airplane_EPO_700mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$100.93",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:10:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__40228__HobbyKing_174_8482_Skipper_All_Terrain_Airplane_EPO_700mm_PNF_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$117.53",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:31 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51282"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$117.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51316"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$114.79",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51557"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$121.89",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51649"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$117.03",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "timestamp": "Mon, 28 Sep 2015 04:09:27 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68478"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$118.74",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 04:09:25 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68925"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

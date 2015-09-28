@@ -1,5 +1,7 @@
 {
- "category": "battery",
+ "categories": [
+  "battery"
+ ],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "nano-tech A-SPEC 5600mah (1S x 2) 65~130C Hardcase Saddle Pack",
@@ -7,15 +9,66 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60280",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59315",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35160",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34391",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33220",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32604",
-   "http://www.hobbyking.com/hobbyking/store/__24308__Turnigy_nano_tech_A_SPEC_5600mah_1S_x_2_65_130C_Hardcase_Saddle_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$44.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:15:46 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24308__Turnigy_nano_tech_A_SPEC_5600mah_1S_x_2_65_130C_Hardcase_Saddle_Pack.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$44.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:15:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32604"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$44.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:15:01 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33220"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$44.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:15:00 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34391"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$44.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:14:59 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35160"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$44.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:14:58 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59315"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$40.43",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:14:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60280"
+  }
+ ],
+ "version": 2,
+ "weight": "132"
 }

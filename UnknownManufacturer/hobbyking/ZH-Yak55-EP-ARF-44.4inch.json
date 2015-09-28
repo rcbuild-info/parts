@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "ZH Yak55 EP ARF 44.4inch",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31289",
-   "http://www.hobbyking.com/hobbyking/store/__6511__ZH_Yak55_EP_ARF_44_4inch.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$71.99",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "timestamp": "Mon, 28 Sep 2015 03:48:23 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6511__ZH_Yak55_EP_ARF_44_4inch.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$92.68",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 03:47:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31289"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "538MG Digital Metal Gear Servo 7.0kg/ 53g/ 0.13sec",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60591",
-   "http://www.hobbyking.com/hobbyking/store/__10347__Corona_538MG_Digital_Metal_Gear_Servo_7_0kg_53g_0_13sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$10.55",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:24:43 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__10347__Corona_538MG_Digital_Metal_Gear_Servo_7_0kg_53g_0_13sec.html"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$13.50",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:22:28 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60591"
+  }
+ ],
+ "version": 2,
+ "weight": "53"
 }

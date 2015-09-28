@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Yak 54 1.5m Monster 3D Kit only V2 EPO",
@@ -7,10 +7,26 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24748",
-   "http://www.hobbyking.com/hobbyking/store/__14395__Yak_54_1_5m_Monster_3D_Kit_only_V2_EPO.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$95.00",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "timestamp": "Mon, 28 Sep 2015 04:11:22 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14395__Yak_54_1_5m_Monster_3D_Kit_only_V2_EPO.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$95.00",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "timestamp": "Mon, 28 Sep 2015 04:11:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24748"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

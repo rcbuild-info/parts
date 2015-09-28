@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Corona",
  "name": "DS633BP Digital Micro 0.82kg/ 6.2g/ 0.12sec",
@@ -7,11 +7,34 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71969",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42434",
-   "http://www.hobbyking.com/hobbyking/store/__27163__Corona_DS633BP_Digital_Micro_0_82kg_6_2g_0_12sec.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:18:24 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__27163__Corona_DS633BP_Digital_Micro_0_82kg_6_2g_0_12sec.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$7.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:57 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42434"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$7.92",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "timestamp": "Mon, 28 Sep 2015 00:17:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71969"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
