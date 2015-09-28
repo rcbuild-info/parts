@@ -13,15 +13,6 @@
  },
  "variants": [
   {
-   "description": "Orange",
-   "price": "$2.49",
-   "quantity": 2,
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:57 GMT",
-   "url": "http://www.getfpv.com/hqprop-4x4-5-bullnose-cw-propeller-2-blade-2-pack-orange.html"
-  },
-  {
    "price": "4,20 \u20ac",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:16:16 GMT",
@@ -34,25 +25,33 @@
    "url": "http://flyduino.net/HQProp-4x45-1016cm-Bullnose-Propeller-Set-Green-4-pcs-Glass-reinforced"
   },
   {
+   "price": "$2.40",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:44 GMT",
+   "url": "http://multirotormania.com/hq-prop/859-hqprop-4x45-bullnose-props-1-pair-choose-your-color.html"
+  },
+  {
+   "price": "USD$2.39",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 00:50:39 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=294"
+  },
+  {
+   "description": "Orange",
+   "price": "$2.49",
+   "quantity": 2,
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/15/2015",
+   "timestamp": "Mon, 28 Sep 2015 20:03:42 GMT",
+   "url": "http://www.getfpv.com/hqprop-4x4-5-bullnose-cw-propeller-2-blade-2-pack-orange.html"
+  },
+  {
    "price": "$2.38",
    "stock_state": "low_stock",
    "stock_text": "1 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 22:08:37 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3946"
-  },
-  {
-   "price": "$2.38",
-   "stock_state": "in_stock",
-   "stock_text": "86 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:08:37 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3949"
-  },
-  {
-   "price": "$2.38",
-   "stock_state": "backordered",
-   "stock_text": "-8 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:08:38 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4114"
   },
   {
    "price": "$2.38",
@@ -70,23 +69,24 @@
   },
   {
    "price": "$2.38",
+   "stock_state": "in_stock",
+   "stock_text": "86 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:37 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3949"
+  },
+  {
+   "price": "$2.38",
    "stock_state": "backordered",
    "stock_text": "-4 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 22:08:38 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4113"
   },
   {
-   "price": "$2.40",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 22:41:44 GMT",
-   "url": "http://multirotormania.com/hq-prop/859-hqprop-4x45-bullnose-props-1-pair-choose-your-color.html"
-  },
-  {
-   "price": "\u20ac4.25",
-   "quantity": 4,
-   "stock_state": "out_of_stock",
-   "timestamp": "Sun, 27 Sep 2015 00:29:54 GMT",
-   "url": "https://www.multirotorparts.com/hqprop-4-x-4-5-glasvezel-versterkte-bullnose-propeller-set-van-4-oranje.html"
+   "price": "$2.38",
+   "stock_state": "backordered",
+   "stock_text": "-8 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:38 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4114"
   },
   {
    "price": "\u20ac4.25",
@@ -96,11 +96,11 @@
    "url": "https://www.multirotorparts.com/hqprop-4-x-4-5-glasvezel-versterkte-bullnose-propeller-set-van-4-groen.html"
   },
   {
-   "price": "USD$2.39",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sun, 27 Sep 2015 00:50:39 GMT",
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=294"
+   "price": "\u20ac4.25",
+   "quantity": 4,
+   "stock_state": "out_of_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:29:54 GMT",
+   "url": "https://www.multirotorparts.com/hqprop-4-x-4-5-glasvezel-versterkte-bullnose-propeller-set-van-4-oranje.html"
   }
  ],
  "version": 2,

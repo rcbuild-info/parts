@@ -13,18 +13,18 @@
  },
  "variants": [
   {
+   "price": "$37.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Mon, 28 Sep 2015 19:59:29 GMT",
+   "url": "http://www.getfpv.com/sunnysky-v3508-380kv.html"
+  },
+  {
    "price": "$39.99",
    "stock_state": "in_stock",
    "stock_text": "In stock",
    "timestamp": "Sat, 26 Sep 2015 02:46:32 GMT",
    "url": "http://www.multirotorsuperstore.com/sunnysky-v3508-380kv-brushless-motor.html"
-  },
-  {
-   "price": "$37.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:38:57 GMT",
-   "url": "http://www.getfpv.com/sunnysky-v3508-380kv.html"
   }
  ],
  "version": 2,

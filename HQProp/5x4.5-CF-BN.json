@@ -13,6 +13,30 @@
  },
  "variants": [
   {
+   "price": "4,90 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:19 GMT",
+   "url": "http://flyduino.net/HQProp-5x45-127cm-Bullnose-Propeller-Set-Black-4-pcs-Carbon-reinforced"
+  },
+  {
+   "description": "Black",
+   "price": "$2.99",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 20:03:09 GMT",
+   "url": "http://www.getfpv.com/hqprop-5x4-5-bullnose-ccw-propeller-carbon-composite-2-pack-black.html"
+  },
+  {
+   "description": "Black",
+   "price": "$2.99",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 20:03:08 GMT",
+   "url": "http://www.getfpv.com/hqprop-5x4-5-bullnose-cw-propeller-carbon-composite-2-pack-black.html"
+  },
+  {
    "description": "HQProp 5045 Bullnose Props (CF/Nylon) - CW",
    "price": "$2.74",
    "stock_state": "in_stock",
@@ -27,36 +51,6 @@
    "url": "http://www.multirotorsuperstore.com/hqprop-5045-bullnose-carbon-fiber-nylon.html"
   },
   {
-   "description": "Black",
-   "price": "$2.99",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:25 GMT",
-   "url": "http://www.getfpv.com/hqprop-5x4-5-bullnose-cw-propeller-carbon-composite-2-pack-black.html"
-  },
-  {
-   "description": "Black",
-   "price": "$2.99",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:26 GMT",
-   "url": "http://www.getfpv.com/hqprop-5x4-5-bullnose-ccw-propeller-carbon-composite-2-pack-black.html"
-  },
-  {
-   "price": "$2.38",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:27:56 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-5x4-carbon-composite-prop-547"
-  },
-  {
-   "price": "4,90 \u20ac",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 19:16:19 GMT",
-   "url": "http://flyduino.net/HQProp-5x45-127cm-Bullnose-Propeller-Set-Black-4-pcs-Carbon-reinforced"
-  },
-  {
    "price": "$2.58",
    "stock_state": "backordered",
    "stock_text": "0 Units in Stock",
@@ -69,6 +63,12 @@
    "stock_text": "-1 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 22:08:37 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3553"
+  },
+  {
+   "price": "$2.38",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:56 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-5x4-carbon-composite-prop-547"
   }
  ],
  "version": 2,

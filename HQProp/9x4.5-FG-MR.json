@@ -13,11 +13,24 @@
  },
  "variants": [
   {
+   "price": "7,80 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:15:38 GMT",
+   "url": "http://flyduino.net/HQProp-9x45-G-Propeller-Green-Multi-Rotor-Set-2-CW-und-2-CCW"
+  },
+  {
+   "price": "USD$5.49",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 00:50:30 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=143"
+  },
+  {
    "price": "$5.00",
    "quantity": 2,
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:38:22 GMT",
+   "timestamp": "Mon, 28 Sep 2015 19:56:50 GMT",
    "url": "http://www.getfpv.com/hqprop-9x4-5-ccw-propeller-multi-rotor-2-blade-2-pack.html"
   },
   {
@@ -25,26 +38,8 @@
    "quantity": 2,
    "stock_state": "out_of_stock",
    "stock_text": "Expected on 8/30/2015",
-   "timestamp": "Sat, 26 Sep 2015 03:38:22 GMT",
+   "timestamp": "Mon, 28 Sep 2015 19:56:51 GMT",
    "url": "http://www.getfpv.com/hqprop-9x4-5-cw-propeller-multi-rotor-2-blade-2-pack.html"
-  },
-  {
-   "price": "$3.98",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:27:02 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-9x45-fiberglass-orange-composite-prop"
-  },
-  {
-   "price": "$3.98",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:27:02 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-9x45-fiberglass-green-composite-prop"
-  },
-  {
-   "price": "7,80 \u20ac",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 19:15:38 GMT",
-   "url": "http://flyduino.net/HQProp-9x45-G-Propeller-Green-Multi-Rotor-Set-2-CW-und-2-CCW"
   },
   {
    "price": "$3.99",
@@ -56,16 +51,16 @@
   {
    "price": "$3.99",
    "stock_state": "in_stock",
-   "stock_text": "51 Units in Stock",
+   "stock_text": "64 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 22:09:06 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3597"
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3595"
   },
   {
    "price": "$3.99",
    "stock_state": "in_stock",
-   "stock_text": "64 Units in Stock",
+   "stock_text": "51 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 22:09:06 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3595"
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3597"
   },
   {
    "price": "$3.99",
@@ -75,11 +70,16 @@
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3598"
   },
   {
-   "price": "USD$5.49",
+   "price": "$3.98",
    "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sun, 27 Sep 2015 00:50:30 GMT",
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=143"
+   "timestamp": "Sat, 26 Sep 2015 06:27:02 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-9x45-fiberglass-green-composite-prop"
+  },
+  {
+   "price": "$3.98",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:27:02 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-9x45-fiberglass-orange-composite-prop"
   }
  ],
  "version": 2,

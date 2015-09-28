@@ -14,17 +14,17 @@
  "variants": [
   {
    "price": "$33.99",
-   "stock_state": "in_stock",
-   "stock_text": "In stock",
-   "timestamp": "Sat, 26 Sep 2015 02:42:59 GMT",
-   "url": "http://www.multirotorsuperstore.com/tattu-4s-1300mah-75c-lipo-battery.html"
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Mon, 28 Sep 2015 20:03:43 GMT",
+   "url": "http://www.getfpv.com/tattu-1300mah-4s-75c-lipo-battery.html"
   },
   {
    "price": "$33.99",
    "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:58 GMT",
-   "url": "http://www.getfpv.com/tattu-1300mah-4s-75c-lipo-battery.html"
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:42:59 GMT",
+   "url": "http://www.multirotorsuperstore.com/tattu-4s-1300mah-75c-lipo-battery.html"
   }
  ],
  "version": 2,

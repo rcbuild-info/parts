@@ -13,70 +13,10 @@
  },
  "variants": [
   {
-   "description": "Orange",
-   "price": "$1.98",
-   "quantity": 4,
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:59 GMT",
-   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-orange.html"
-  },
-  {
-   "description": "Green",
-   "price": "$1.98",
-   "quantity": 4,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:45:00 GMT",
-   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-green.html"
-  },
-  {
-   "description": "Red",
-   "price": "$1.98",
-   "quantity": 4,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:45:00 GMT",
-   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-red.html"
-  },
-  {
-   "description": "Black",
-   "price": "$1.98",
-   "quantity": 4,
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:45:00 GMT",
-   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-black.html"
-  },
-  {
-   "price": "$1.99",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:26:42 GMT",
-   "url": "http://www.readytoflyquads.com/dal-a-k-a-indestructible-5x4-red-props"
-  },
-  {
-   "price": "$1.99",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:26:43 GMT",
-   "url": "http://www.readytoflyquads.com/dal-a-k-a-indestructible-5x4-orange-props"
-  },
-  {
-   "price": "$1.99",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:26:43 GMT",
-   "url": "http://www.readytoflyquads.com/dal-a-k-a-indestructible-5x4-green-props"
-  },
-  {
-   "price": "$1.99",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:26:44 GMT",
-   "url": "http://www.readytoflyquads.com/dal-a-k-a-indestructible-5x4-black-props"
-  },
-  {
    "price": "US$3.99",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 23:33:57 GMT",
-   "url": "http://www.dronematters.com/dal-rc-surveilzone-5040-black.html"
+   "stock_state": "out_of_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:33 GMT",
+   "url": "http://www.dronematters.com/dal-rc-surveilzone-5040-black-1259.html"
   },
   {
    "price": "US$3.99",
@@ -92,9 +32,69 @@
   },
   {
    "price": "US$3.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:33:57 GMT",
+   "url": "http://www.dronematters.com/dal-rc-surveilzone-5040-black.html"
+  },
+  {
+   "description": "Black",
+   "price": "$1.98",
+   "quantity": 4,
    "stock_state": "out_of_stock",
-   "timestamp": "Sat, 26 Sep 2015 23:34:33 GMT",
-   "url": "http://www.dronematters.com/dal-rc-surveilzone-5040-black-1259.html"
+   "stock_text": "Out of Stock",
+   "timestamp": "Mon, 28 Sep 2015 20:03:45 GMT",
+   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-black.html"
+  },
+  {
+   "description": "Green",
+   "price": "$1.98",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 20:03:44 GMT",
+   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-green.html"
+  },
+  {
+   "description": "Orange",
+   "price": "$1.98",
+   "quantity": 4,
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Mon, 28 Sep 2015 20:03:44 GMT",
+   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-orange.html"
+  },
+  {
+   "description": "Red",
+   "price": "$1.98",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 20:03:45 GMT",
+   "url": "http://www.getfpv.com/dal-5x4-propeller-set-of-4-red.html"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:44 GMT",
+   "url": "http://www.readytoflyquads.com/dal-a-k-a-indestructible-5x4-black-props"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:43 GMT",
+   "url": "http://www.readytoflyquads.com/dal-a-k-a-indestructible-5x4-green-props"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:43 GMT",
+   "url": "http://www.readytoflyquads.com/dal-a-k-a-indestructible-5x4-orange-props"
+  },
+  {
+   "price": "$1.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 06:26:42 GMT",
+   "url": "http://www.readytoflyquads.com/dal-a-k-a-indestructible-5x4-red-props"
   }
  ],
  "version": 2,

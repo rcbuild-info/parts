@@ -13,27 +13,6 @@
  },
  "variants": [
   {
-   "price": "$8.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 9/10/2015",
-   "timestamp": "Sat, 26 Sep 2015 03:42:04 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x3-carbon-fiber-propellers-1-pair.html"
-  },
-  {
-   "price": "$8.49",
-   "stock_state": "in_stock",
-   "stock_text": "74 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:07:19 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4191"
-  },
-  {
-   "price": "$5.89",
-   "stock_state": "in_stock",
-   "stock_text": "268 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:07:33 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2761"
-  },
-  {
    "price": "US$5.99",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 23:32:40 GMT",
@@ -44,6 +23,27 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 23:32:40 GMT",
    "url": "http://www.dronematters.com/gemfan-5030-carbon-fiber-propellers-black-2-cw.html"
+  },
+  {
+   "price": "$8.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 9/10/2015",
+   "timestamp": "Mon, 28 Sep 2015 20:00:44 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x3-carbon-fiber-propellers-1-pair.html"
+  },
+  {
+   "price": "$5.89",
+   "stock_state": "in_stock",
+   "stock_text": "268 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:33 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2761"
+  },
+  {
+   "price": "$8.49",
+   "stock_state": "in_stock",
+   "stock_text": "74 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:19 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4191"
   }
  ],
  "version": 2,

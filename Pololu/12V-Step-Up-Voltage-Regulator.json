@@ -11,18 +11,18 @@
  },
  "variants": [
   {
+   "price": "$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 20:00:36 GMT",
+   "url": "http://www.getfpv.com/12v-step-up-voltage-regulator.html"
+  },
+  {
    "price": "$4.49",
    "stock_state": "in_stock",
    "stock_text": "In stock",
    "timestamp": "Sat, 26 Sep 2015 02:41:38 GMT",
    "url": "http://www.multirotorsuperstore.com/pololu-12v-step-up-voltage-regulator.html"
-  },
-  {
-   "price": "$3.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:40:06 GMT",
-   "url": "http://www.getfpv.com/12v-step-up-voltage-regulator.html"
   }
  ],
  "version": 2,

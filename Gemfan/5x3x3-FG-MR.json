@@ -13,12 +13,36 @@
  },
  "variants": [
   {
+   "price": "US$1.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:18 GMT",
+   "url": "http://www.dronematters.com/gemfan-5030-triblade-propellers-nylon-3ccw.html"
+  },
+  {
+   "description": "Black",
+   "price": "$4.49",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 20:02:31 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-black.html"
+  },
+  {
+   "description": "Black",
+   "price": "$19.95",
+   "quantity": 20,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 20:02:31 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-black.html"
+  },
+  {
    "description": "Green",
    "price": "$4.49",
    "quantity": 4,
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:43:47 GMT",
+   "timestamp": "Mon, 28 Sep 2015 20:02:30 GMT",
    "url": "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-green.html"
   },
   {
@@ -27,7 +51,7 @@
    "quantity": 20,
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:43:47 GMT",
+   "timestamp": "Mon, 28 Sep 2015 20:02:30 GMT",
    "url": "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-green.html"
   },
   {
@@ -36,7 +60,7 @@
    "quantity": 4,
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:43:47 GMT",
+   "timestamp": "Mon, 28 Sep 2015 20:02:30 GMT",
    "url": "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-orange.html"
   },
   {
@@ -45,40 +69,8 @@
    "quantity": 20,
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:43:47 GMT",
+   "timestamp": "Mon, 28 Sep 2015 20:02:30 GMT",
    "url": "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-orange.html"
-  },
-  {
-   "description": "Black",
-   "price": "$4.49",
-   "quantity": 4,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:43:47 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-black.html"
-  },
-  {
-   "description": "Black",
-   "price": "$19.95",
-   "quantity": 20,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:43:47 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x3-propeller-3-blade-set-of-4-black.html"
-  },
-  {
-   "price": "$2.29",
-   "stock_state": "in_stock",
-   "stock_text": "59 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:07:50 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3814"
-  },
-  {
-   "price": "$2.29",
-   "stock_state": "in_stock",
-   "stock_text": "248 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:07:50 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2817"
   },
   {
    "price": "$2.29",
@@ -95,10 +87,18 @@
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2816"
   },
   {
-   "price": "US$1.49",
+   "price": "$2.29",
    "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 23:34:18 GMT",
-   "url": "http://www.dronematters.com/gemfan-5030-triblade-propellers-nylon-3ccw.html"
+   "stock_text": "248 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:50 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2817"
+  },
+  {
+   "price": "$2.29",
+   "stock_state": "in_stock",
+   "stock_text": "59 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:50 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3814"
   }
  ],
  "version": 2,

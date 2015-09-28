@@ -13,22 +13,6 @@
  },
  "variants": [
   {
-   "price": "$5.20",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:40:13 GMT",
-   "url": "http://www.getfpv.com/hqprop-8x5-cw-propeller-thin-electric-2-blade-2-pack.html"
-  },
-  {
-   "price": "$5.20",
-   "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:40:13 GMT",
-   "url": "http://www.getfpv.com/hqprop-8x5-ccw-propeller-thin-electric-2-blade-2-pack.html"
-  },
-  {
    "price": "$5.50",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 22:41:20 GMT",
@@ -40,6 +24,22 @@
    "stock_text": "In Stock",
    "timestamp": "Sun, 27 Sep 2015 00:50:40 GMT",
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=63"
+  },
+  {
+   "price": "$5.20",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 19:58:27 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x5-ccw-propeller-thin-electric-2-blade-2-pack.html"
+  },
+  {
+   "price": "$5.20",
+   "quantity": 2,
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 19:58:26 GMT",
+   "url": "http://www.getfpv.com/hqprop-8x5-cw-propeller-thin-electric-2-blade-2-pack.html"
   }
  ],
  "version": 2,

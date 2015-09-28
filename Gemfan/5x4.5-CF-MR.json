@@ -16,15 +16,8 @@
    "price": "$4.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:53 GMT",
+   "timestamp": "Mon, 28 Sep 2015 20:03:38 GMT",
    "url": "http://www.getfpv.com/gemfan-5x4-5-propeller-carbon-fiber-1-pair.html"
-  },
-  {
-   "price": "$8.49",
-   "stock_state": "in_stock",
-   "stock_text": "80 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:07:18 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4192"
   },
   {
    "price": "$5.89",
@@ -32,6 +25,13 @@
    "stock_text": "259 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 22:07:19 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4055"
+  },
+  {
+   "price": "$8.49",
+   "stock_state": "in_stock",
+   "stock_text": "80 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:18 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4192"
   }
  ],
  "version": 2,

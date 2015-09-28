@@ -15,18 +15,18 @@
  },
  "variants": [
   {
-   "price": "$32.49",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:37:41 GMT",
-   "url": "http://www.getfpv.com/frsky-x8r-16ch-receiver-sbus-smart-port-standard-antenna.html"
-  },
-  {
    "price": "$33.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:37:41 GMT",
+   "timestamp": "Mon, 28 Sep 2015 20:00:34 GMT",
    "url": "http://www.getfpv.com/frsky-x8r-16ch-receiver-sbus-smart-port-amplified-pcb-antenna.html"
+  },
+  {
+   "price": "$32.49",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Mon, 28 Sep 2015 20:00:34 GMT",
+   "url": "http://www.getfpv.com/frsky-x8r-16ch-receiver-sbus-smart-port-standard-antenna.html"
   },
   {
    "price": "$34.99",

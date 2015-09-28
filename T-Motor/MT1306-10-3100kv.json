@@ -13,17 +13,23 @@
  },
  "variants": [
   {
-   "price": "$41.90",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:43:18 GMT",
-   "url": "http://www.getfpv.com/tiger-motor-mt-1306-10-3100kv.html"
-  },
-  {
    "price": "33,90 \u20ac",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:15:49 GMT",
    "url": "http://flyduino.net/T-Motor-MT1306-3100KV"
+  },
+  {
+   "price": "US$41.90",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:33:54 GMT",
+   "url": "http://www.dronematters.com/tiger-motor-mt1306-3100kv.html"
+  },
+  {
+   "price": "$41.90",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 20:01:59 GMT",
+   "url": "http://www.getfpv.com/tiger-motor-mt-1306-10-3100kv.html"
   },
   {
    "price": "$41.90",
@@ -31,12 +37,6 @@
    "stock_text": "33 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 22:04:46 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1763"
-  },
-  {
-   "price": "US$41.90",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 23:33:54 GMT",
-   "url": "http://www.dronematters.com/tiger-motor-mt1306-3100kv.html"
   }
  ],
  "version": 2,

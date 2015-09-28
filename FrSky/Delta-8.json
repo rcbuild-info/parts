@@ -15,17 +15,17 @@
  },
  "variants": [
   {
-   "price": "$24.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:37:40 GMT",
-   "url": "http://www.getfpv.com/frsky-delta-8-2-4ghz-8ch-multi-brand-receiver.html"
-  },
-  {
    "price": "US$26.99",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 23:45:21 GMT",
    "url": "http://www.dronematters.com/frsky-delta-8-rx.html"
+  },
+  {
+   "price": "$24.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 20:00:33 GMT",
+   "url": "http://www.getfpv.com/frsky-delta-8-2-4ghz-8ch-multi-brand-receiver.html"
   }
  ],
  "version": 2,

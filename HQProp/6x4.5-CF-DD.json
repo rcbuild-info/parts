@@ -13,6 +13,38 @@
  },
  "variants": [
   {
+   "price": "5,30 \u20ac",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 19:16:25 GMT",
+   "url": "http://flyduino.net/HQProp-6x45-1524cm-Propeller-Set-Black-4-pcs-Carbon-reinforced"
+  },
+  {
+   "price": "US$4.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:34:20 GMT",
+   "url": "http://www.dronematters.com/hqprop-6045-carbon-composite-propellers-2-ccw.html"
+  },
+  {
+   "price": "US$4.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 19 Sep 2015 00:30:27 GMT",
+   "url": "http://www.dronematters.com/hqprop-6045-carbon-composite-propellers-2-cw.html"
+  },
+  {
+   "price": "$3.09",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 19:56:37 GMT",
+   "url": "http://www.getfpv.com/hqprop-6x4-5-ccw-propeller-2-blade-2-pack.html"
+  },
+  {
+   "price": "$3.09",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 19:56:37 GMT",
+   "url": "http://www.getfpv.com/hqprop-6x4-5-cw-propeller-2-blade-2-pack.html"
+  },
+  {
    "description": "HQProp 6045 Props (CF/Nylon) - CW",
    "price": "$3.49",
    "stock_state": "out_of_stock",
@@ -27,30 +59,11 @@
    "url": "http://www.multirotorsuperstore.com/hqprop-6045-props.html"
   },
   {
-   "price": "$3.09",
+   "price": "$3.08",
    "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:38:09 GMT",
-   "url": "http://www.getfpv.com/hqprop-6x4-5-ccw-propeller-2-blade-2-pack.html"
-  },
-  {
-   "price": "$3.09",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:38:10 GMT",
-   "url": "http://www.getfpv.com/hqprop-6x4-5-cw-propeller-2-blade-2-pack.html"
-  },
-  {
-   "price": "$3.10",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:25:10 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-6x4x5-carbon-composite-prop"
-  },
-  {
-   "price": "5,30 \u20ac",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 19:16:25 GMT",
-   "url": "http://flyduino.net/HQProp-6x45-1524cm-Propeller-Set-Black-4-pcs-Carbon-reinforced"
+   "stock_text": "60 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:09:02 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2870"
   },
   {
    "price": "$3.08",
@@ -60,23 +73,10 @@
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2871"
   },
   {
-   "price": "$3.08",
+   "price": "$3.10",
    "stock_state": "in_stock",
-   "stock_text": "60 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:09:02 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2870"
-  },
-  {
-   "price": "US$4.00",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 19 Sep 2015 00:30:27 GMT",
-   "url": "http://www.dronematters.com/hqprop-6045-carbon-composite-propellers-2-cw.html"
-  },
-  {
-   "price": "US$4.00",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 23:34:20 GMT",
-   "url": "http://www.dronematters.com/hqprop-6045-carbon-composite-propellers-2-ccw.html"
+   "timestamp": "Sat, 26 Sep 2015 06:25:10 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-6x4x5-carbon-composite-prop"
   },
   {
    "price": "\u20ac5.40",

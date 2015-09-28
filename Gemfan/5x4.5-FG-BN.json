@@ -13,39 +13,12 @@
  },
  "variants": [
   {
-   "description": "Orange",
-   "price": "$3.79",
-   "quantity": 4,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:54 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x4-5-bullnose-propeller-nylon-glass-fiber-set-of-4-orange.html"
-  },
-  {
-   "description": "Orange",
-   "price": "$17.95",
-   "quantity": 20,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:54 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x4-5-bullnose-propeller-nylon-glass-fiber-set-of-4-orange.html"
-  },
-  {
-   "description": "Orange",
-   "price": "$33.90",
-   "quantity": 40,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:54 GMT",
-   "url": "http://www.getfpv.com/gemfan-5x4-5-bullnose-propeller-nylon-glass-fiber-set-of-4-orange.html"
-  },
-  {
    "description": "Black",
    "price": "$3.79",
    "quantity": 4,
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:55 GMT",
+   "timestamp": "Mon, 28 Sep 2015 20:03:39 GMT",
    "url": "http://www.getfpv.com/gemfan-5x4-5-bullnose-propeller-nylon-glass-fiber-set-of-4-black.html"
   },
   {
@@ -54,7 +27,7 @@
    "quantity": 20,
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:55 GMT",
+   "timestamp": "Mon, 28 Sep 2015 20:03:39 GMT",
    "url": "http://www.getfpv.com/gemfan-5x4-5-bullnose-propeller-nylon-glass-fiber-set-of-4-black.html"
   },
   {
@@ -63,7 +36,7 @@
    "quantity": 40,
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:44:55 GMT",
+   "timestamp": "Mon, 28 Sep 2015 20:03:39 GMT",
    "url": "http://www.getfpv.com/gemfan-5x4-5-bullnose-propeller-nylon-glass-fiber-set-of-4-black.html"
   },
   {
@@ -72,7 +45,7 @@
    "quantity": 4,
    "stock_state": "out_of_stock",
    "stock_text": "Expected on 10/15/2015",
-   "timestamp": "Sat, 26 Sep 2015 03:44:55 GMT",
+   "timestamp": "Mon, 28 Sep 2015 20:03:39 GMT",
    "url": "http://www.getfpv.com/gemfan-5x4-5-bullnose-propeller-nylon-glass-fiber-set-of-4-green.html"
   },
   {
@@ -81,7 +54,7 @@
    "quantity": 20,
    "stock_state": "out_of_stock",
    "stock_text": "Expected on 10/15/2015",
-   "timestamp": "Sat, 26 Sep 2015 03:44:55 GMT",
+   "timestamp": "Mon, 28 Sep 2015 20:03:39 GMT",
    "url": "http://www.getfpv.com/gemfan-5x4-5-bullnose-propeller-nylon-glass-fiber-set-of-4-green.html"
   },
   {
@@ -90,8 +63,35 @@
    "quantity": 40,
    "stock_state": "out_of_stock",
    "stock_text": "Expected on 10/15/2015",
-   "timestamp": "Sat, 26 Sep 2015 03:44:55 GMT",
+   "timestamp": "Mon, 28 Sep 2015 20:03:39 GMT",
    "url": "http://www.getfpv.com/gemfan-5x4-5-bullnose-propeller-nylon-glass-fiber-set-of-4-green.html"
+  },
+  {
+   "description": "Orange",
+   "price": "$3.79",
+   "quantity": 4,
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/15/2015",
+   "timestamp": "Mon, 28 Sep 2015 20:03:38 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x4-5-bullnose-propeller-nylon-glass-fiber-set-of-4-orange.html"
+  },
+  {
+   "description": "Orange",
+   "price": "$17.95",
+   "quantity": 20,
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/15/2015",
+   "timestamp": "Mon, 28 Sep 2015 20:03:38 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x4-5-bullnose-propeller-nylon-glass-fiber-set-of-4-orange.html"
+  },
+  {
+   "description": "Orange",
+   "price": "$33.90",
+   "quantity": 40,
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/15/2015",
+   "timestamp": "Mon, 28 Sep 2015 20:03:38 GMT",
+   "url": "http://www.getfpv.com/gemfan-5x4-5-bullnose-propeller-nylon-glass-fiber-set-of-4-orange.html"
   }
  ],
  "version": 2,

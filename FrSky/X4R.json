@@ -15,10 +15,16 @@
  },
  "variants": [
   {
+   "price": "US$25.99",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:45:27 GMT",
+   "url": "http://www.dronematters.com/frsky-x4r-4-channel-accst-receiver.html"
+  },
+  {
    "price": "$24.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
-   "timestamp": "Sat, 26 Sep 2015 03:40:29 GMT",
+   "timestamp": "Mon, 28 Sep 2015 19:58:43 GMT",
    "url": "http://www.getfpv.com/frsky-x4r-4-channel-receiver.html"
   },
   {
@@ -27,12 +33,6 @@
    "stock_text": "0 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 22:12:15 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3318"
-  },
-  {
-   "price": "US$25.99",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 23:45:27 GMT",
-   "url": "http://www.dronematters.com/frsky-x4r-4-channel-accst-receiver.html"
   }
  ],
  "version": 2,
