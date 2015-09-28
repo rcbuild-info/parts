@@ -9,9 +9,15 @@
   "manufacturer": [
    "http://shop.gopro.com/cameras/heroplus-lcd/CHDHB-101.html"
   ],
-  "related": [],
-  "store": [
-   "http://www.amazon.com/dp/B00XUP5M6Y/?tag=rcbuildinfo-20"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$299.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Mon, 28 Sep 2015 19:34:04 GMT",
+   "url": "http://www.amazon.com/dp/B00XUP5M6Y/?tag=rcbuildinfo-20"
+  }
+ ]
 }

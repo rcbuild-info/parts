@@ -16,6 +16,13 @@
  "variants": [
   {
    "price": "$499.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sat, 26 Sep 2015 03:38:36 GMT",
+   "url": "http://www.getfpv.com/gopro-hero4-black-free-layerlens-or-memory-card.html"
+  },
+  {
+   "price": "$499.99",
    "stock_state": "backordered",
    "stock_text": "0 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 21:42:56 GMT",
