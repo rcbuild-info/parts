@@ -13,17 +13,17 @@
  },
  "variants": [
   {
+   "price": "USD$130.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Wed, 30 Sep 2015 19:00:15 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=313"
+  },
+  {
    "price": "$130.00",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 20:32:55 GMT",
    "url": "http://shendrones.myshopify.com/products/fast-forward"
-  },
-  {
-   "price": "USD$130.00",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sun, 27 Sep 2015 00:51:02 GMT",
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=313"
   }
  ],
  "version": 2,

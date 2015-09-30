@@ -12,9 +12,9 @@
  "variants": [
   {
    "price": "USD$18.00",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sun, 27 Sep 2015 00:49:26 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Pre-Order",
+   "timestamp": "Wed, 30 Sep 2015 18:56:57 GMT",
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=316"
   }
  ],
