@@ -12,9 +12,9 @@
  "variants": [
   {
    "price": "$4.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 10/1/2015",
-   "timestamp": "Mon, 28 Sep 2015 19:55:55 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Wed, 30 Sep 2015 18:31:52 GMT",
    "url": "http://www.getfpv.com/hubsan-x4-usb-charger-for-h107l-h107c-h107d.html"
   }
  ],

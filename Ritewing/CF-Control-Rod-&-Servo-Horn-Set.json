@@ -12,9 +12,9 @@
  "variants": [
   {
    "price": "$19.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 9/29/2015",
-   "timestamp": "Mon, 28 Sep 2015 19:57:43 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Wed, 30 Sep 2015 18:32:57 GMT",
    "url": "http://www.getfpv.com/cf-control-rod-servo-horn-set.html"
   }
  ],

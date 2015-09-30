@@ -14,9 +14,9 @@
  "variants": [
   {
    "price": "$24.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Mon, 28 Sep 2015 20:03:43 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/8/2015",
+   "timestamp": "Wed, 30 Sep 2015 18:39:50 GMT",
    "url": "http://www.getfpv.com/tattu-1300mah-3s-75c-lipo-battery.html"
   },
   {

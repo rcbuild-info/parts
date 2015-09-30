@@ -12,9 +12,9 @@
  "variants": [
   {
    "price": "$3.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 10/1/2015",
-   "timestamp": "Mon, 28 Sep 2015 19:55:56 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Wed, 30 Sep 2015 18:31:53 GMT",
    "url": "http://www.getfpv.com/hubsan-x4-rotor-blades-black-white.html"
   }
  ],

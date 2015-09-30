@@ -12,9 +12,9 @@
  "variants": [
   {
    "price": "$159.80",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Mon, 28 Sep 2015 19:56:49 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/8/2015",
+   "timestamp": "Wed, 30 Sep 2015 18:34:36 GMT",
    "url": "http://www.getfpv.com/tattu-6000mah-6s-35c-lipo-battery.html"
   }
  ],

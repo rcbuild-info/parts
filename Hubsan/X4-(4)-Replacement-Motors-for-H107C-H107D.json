@@ -12,9 +12,9 @@
  "variants": [
   {
    "price": "$23.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 10/1/2015",
-   "timestamp": "Mon, 28 Sep 2015 19:56:22 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Wed, 30 Sep 2015 18:31:43 GMT",
    "url": "http://www.getfpv.com/hubsan-x4-4-replacement-motors-for-h107c-h107d.html"
   }
  ],

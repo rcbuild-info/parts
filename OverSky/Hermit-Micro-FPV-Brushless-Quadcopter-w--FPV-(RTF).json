@@ -11,9 +11,9 @@
  },
  "variants": [
   {
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Mon, 28 Sep 2015 19:58:13 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/1/2015",
+   "timestamp": "Wed, 30 Sep 2015 18:35:54 GMT",
    "url": "http://www.getfpv.com/hermit-micro-fpv-brushless-quadcopter-w-fpv-rtf.html"
   }
  ],
