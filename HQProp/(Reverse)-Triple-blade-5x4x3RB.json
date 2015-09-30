@@ -12,8 +12,9 @@
  "variants": [
   {
    "price": "US$3.32",
-   "stock_state": "in_stock",
-   "timestamp": "Sun, 27 Sep 2015 02:17:45 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Wed, 30 Sep 2015 19:43:00 GMT",
    "url": "https://www.liftrc.com/tripleblade-5x4x3rb"
   }
  ],

@@ -13,8 +13,9 @@
   {
    "price": "US$2.48",
    "quantity": 2,
-   "stock_state": "in_stock",
-   "timestamp": "Sun, 27 Sep 2015 02:11:52 GMT",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
+   "timestamp": "Wed, 30 Sep 2015 19:37:10 GMT",
    "url": "https://www.liftrc.com/hqprop-5x4-ccw-propeller-pair-green-5040"
   }
  ],

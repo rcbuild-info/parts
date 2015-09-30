@@ -12,8 +12,9 @@
  "variants": [
   {
    "price": "US$8.00",
-   "stock_state": "in_stock",
-   "timestamp": "Sun, 27 Sep 2015 02:06:54 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Wed, 30 Sep 2015 19:58:36 GMT",
    "url": "https://www.liftrc.com/pololu-5v-1a-step-down-voltage-regular-d24v10f5"
   }
  ],

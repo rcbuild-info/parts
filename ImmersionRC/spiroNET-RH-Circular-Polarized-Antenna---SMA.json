@@ -13,8 +13,9 @@
   {
    "price": "US$39.00",
    "quantity": 2,
-   "stock_state": "in_stock",
-   "timestamp": "Sun, 27 Sep 2015 02:36:03 GMT",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
+   "timestamp": "Wed, 30 Sep 2015 19:43:11 GMT",
    "url": "https://www.liftrc.com/immersionrc-spironet-rh-circular-polarized-antenna-pair-sma"
   }
  ],

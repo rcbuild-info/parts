@@ -12,8 +12,9 @@
  "variants": [
   {
    "price": "US$24.00",
-   "stock_state": "in_stock",
-   "timestamp": "Sun, 27 Sep 2015 02:05:29 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "timestamp": "Wed, 30 Sep 2015 19:57:08 GMT",
    "url": "https://www.liftrc.com/sunnysky-motor-800kv-brushless-for-3dr-x8-x8-and-x8-m"
   }
  ],
