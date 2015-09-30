@@ -14,12 +14,6 @@
  "variants": [
   {
    "price": "$3.32",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:27:58 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-5x4x3-carbon-composite-prop"
-  },
-  {
-   "price": "$3.32",
    "stock_state": "backordered",
    "stock_text": "0 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 22:08:45 GMT",
@@ -31,6 +25,12 @@
    "stock_text": "69 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 22:08:46 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3207"
+  },
+  {
+   "price": "$3.32",
+   "stock_state": "in_stock",
+   "timestamp": "Wed, 30 Sep 2015 18:53:49 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-5x4x3-carbon-composite-prop"
   }
  ],
  "version": 2,

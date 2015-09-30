@@ -13,12 +13,6 @@
  },
  "variants": [
   {
-   "price": "$4.38",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:25:23 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-8x45-mm-carbon-composite-prop"
-  },
-  {
    "price": "$4.40",
    "stock_state": "in_stock",
    "stock_text": "23 Units in Stock",
@@ -31,6 +25,12 @@
    "stock_text": "43 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 22:09:09 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3200"
+  },
+  {
+   "price": "$4.38",
+   "stock_state": "in_stock",
+   "timestamp": "Wed, 30 Sep 2015 18:51:30 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-8x45-mm-carbon-composite-prop"
   },
   {
    "price": "\u20ac7.90",

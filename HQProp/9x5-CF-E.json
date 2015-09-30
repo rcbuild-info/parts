@@ -13,10 +13,11 @@
  },
  "variants": [
   {
-   "price": "$6.00",
+   "price": "$5.99",
    "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:27:04 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-9x5-e-carbon-composite-prop"
+   "stock_text": "48 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:54 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1850"
   },
   {
    "price": "$5.99",
@@ -26,11 +27,10 @@
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1851"
   },
   {
-   "price": "$5.99",
+   "price": "$6.00",
    "stock_state": "in_stock",
-   "stock_text": "48 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:08:54 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1850"
+   "timestamp": "Wed, 30 Sep 2015 18:53:05 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-9x5-e-carbon-composite-prop"
   }
  ],
  "version": 2,

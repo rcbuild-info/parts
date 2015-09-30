@@ -13,16 +13,17 @@
  },
  "variants": [
   {
-   "price": "$7.00",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:26:59 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-10x5-e-carbon-composite-prop"
-  },
-  {
    "price": "9,90 \u20ac",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:15:53 GMT",
    "url": "http://flyduino.net/HQProp-10x5-E-Carbon-reinforced-AP-Propeller-Set-Black-2CW-2-CCW"
+  },
+  {
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "stock_text": "140 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:08:53 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2262"
   },
   {
    "price": "$6.99",
@@ -32,11 +33,10 @@
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2263"
   },
   {
-   "price": "$6.99",
+   "price": "$7.00",
    "stock_state": "in_stock",
-   "stock_text": "140 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:08:53 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2262"
+   "timestamp": "Wed, 30 Sep 2015 18:53:02 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-10x5-e-carbon-composite-prop"
   }
  ],
  "version": 2,

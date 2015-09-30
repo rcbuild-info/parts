@@ -13,22 +13,10 @@
  },
  "variants": [
   {
-   "price": "$3.84",
+   "price": "6,80 \u20ac",
    "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:27:29 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-6x4-5x3-fiberglass-composite-prop-green"
-  },
-  {
-   "price": "$3.84",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:27:29 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-6x4-5x3-fiberglass-composite-prop-orange"
-  },
-  {
-   "price": "$3.84",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:27:30 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-6x4-5x3-fiberglass-composite-prop-black"
+   "timestamp": "Sat, 26 Sep 2015 19:16:25 GMT",
+   "url": "http://flyduino.net/HQProp-Three-Blade-6x45-1524cm-Propeller-Set-Green-4-pcs-Glass-reinforced"
   },
   {
    "price": "6,80 \u20ac",
@@ -37,24 +25,24 @@
    "url": "http://flyduino.net/HQProp-Three-Blade-6x45-1524cm-Propeller-Set-Orange-4-pcs-Glass-reinforced"
   },
   {
-   "price": "6,80 \u20ac",
+   "price": "$3.90",
    "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 19:16:25 GMT",
-   "url": "http://flyduino.net/HQProp-Three-Blade-6x45-1524cm-Propeller-Set-Green-4-pcs-Glass-reinforced"
+   "timestamp": "Sat, 26 Sep 2015 22:41:20 GMT",
+   "url": "http://multirotormania.com/hq-prop/1028-hqprop-6x45x3-props-1-pair-choose-your-color.html"
+  },
+  {
+   "price": "USD$3.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 00:50:35 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=261"
   },
   {
    "price": "$3.84",
    "stock_state": "in_stock",
-   "stock_text": "81 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:03:33 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3970"
-  },
-  {
-   "price": "$3.84",
-   "stock_state": "in_stock",
-   "stock_text": "60 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:03:33 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3972"
+   "stock_text": "9 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:03:35 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3967"
   },
   {
    "price": "$3.84",
@@ -73,6 +61,13 @@
   {
    "price": "$3.84",
    "stock_state": "in_stock",
+   "stock_text": "81 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:03:33 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3970"
+  },
+  {
+   "price": "$3.84",
+   "stock_state": "in_stock",
    "stock_text": "59 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 22:03:34 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3971"
@@ -80,22 +75,27 @@
   {
    "price": "$3.84",
    "stock_state": "in_stock",
-   "stock_text": "9 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:03:35 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3967"
+   "stock_text": "60 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:03:33 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3972"
   },
   {
-   "price": "$3.90",
+   "price": "$3.84",
    "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 22:41:20 GMT",
-   "url": "http://multirotormania.com/hq-prop/1028-hqprop-6x45x3-props-1-pair-choose-your-color.html"
+   "timestamp": "Wed, 30 Sep 2015 18:52:44 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-6x4-5x3-fiberglass-composite-prop-black"
   },
   {
-   "price": "USD$3.99",
+   "price": "$3.84",
    "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sun, 27 Sep 2015 00:50:35 GMT",
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=261"
+   "timestamp": "Wed, 30 Sep 2015 18:52:44 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-6x4-5x3-fiberglass-composite-prop-green"
+  },
+  {
+   "price": "$3.84",
+   "stock_state": "in_stock",
+   "timestamp": "Wed, 30 Sep 2015 18:52:43 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-6x4-5x3-fiberglass-composite-prop-orange"
   }
  ],
  "version": 2,
