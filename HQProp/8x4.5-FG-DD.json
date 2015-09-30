@@ -13,6 +13,12 @@
  },
  "variants": [
   {
+   "price": "$4.40",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:42 GMT",
+   "url": "http://multirotormania.com/hq-prop/841-hqprop-5x3-1-pair.html"
+  },
+  {
    "description": "HQProp 8045 - Orange CCW",
    "price": "$4.49",
    "stock_state": "in_stock",
@@ -37,14 +43,8 @@
    "description": "HQProp 8045 - Green CCW",
    "price": "$4.49",
    "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:45:10 GMT",
+   "timestamp": "Sat, 26 Sep 2015 02:39:00 GMT",
    "url": "http://www.multirotorsuperstore.com/hqprop-8045-glass-composite.html"
-  },
-  {
-   "price": "$4.40",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 22:41:42 GMT",
-   "url": "http://multirotormania.com/hq-prop/841-hqprop-5x3-1-pair.html"
   }
  ],
  "version": 2,

@@ -13,24 +13,24 @@
  },
  "variants": [
   {
+   "price": "US$3.12",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:09:18 GMT",
+   "url": "http://www.dronematters.com/hqprop-6045-glass-composite-propellers-2-ccw-1281.html"
+  },
+  {
    "description": "HQProp 6045 Bullnose (CF/Nylon) - CW",
    "price": "$3.74",
    "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:38:27 GMT",
+   "timestamp": "Sat, 26 Sep 2015 02:38:56 GMT",
    "url": "http://www.multirotorsuperstore.com/hqprop-6045-bullnose-props.html"
   },
   {
    "description": "HQProp 6045 Bullnose (CF/Nylon) - CCW",
    "price": "$3.74",
    "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:45:04 GMT",
+   "timestamp": "Sat, 26 Sep 2015 02:38:56 GMT",
    "url": "http://www.multirotorsuperstore.com/hqprop-6045-bullnose-props.html"
-  },
-  {
-   "price": "$3.24",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 06:27:30 GMT",
-   "url": "http://www.readytoflyquads.com/hq-prop-6x4-4-bull-carbon-composite-prop"
   },
   {
    "price": "$3.24",
@@ -47,10 +47,10 @@
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4108"
   },
   {
-   "price": "US$3.12",
+   "price": "$3.24",
    "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 23:09:18 GMT",
-   "url": "http://www.dronematters.com/hqprop-6045-glass-composite-propellers-2-ccw-1281.html"
+   "timestamp": "Sat, 26 Sep 2015 06:27:30 GMT",
+   "url": "http://www.readytoflyquads.com/hq-prop-6x4-4-bull-carbon-composite-prop"
   }
  ],
  "version": 2,

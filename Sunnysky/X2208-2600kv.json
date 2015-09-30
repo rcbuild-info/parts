@@ -13,17 +13,17 @@
  },
  "variants": [
   {
-   "price": "$19.99",
-   "stock_state": "in_stock",
-   "stock_text": "In stock",
-   "timestamp": "Sat, 26 Sep 2015 02:46:34 GMT",
-   "url": "http://www.multirotorsuperstore.com/sunnysky-x2208-2600kv-brushless-motor.html"
-  },
-  {
    "price": "US$18.80",
    "stock_state": "in_stock",
    "timestamp": "Sat, 19 Sep 2015 00:57:08 GMT",
    "url": "http://www.dronematters.com/sunnysky-v2208-2600kv-brushless-motor.html"
+  },
+  {
+   "price": "$19.99",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "timestamp": "Sat, 26 Sep 2015 02:47:15 GMT",
+   "url": "http://www.multirotorsuperstore.com/sunnysky-x2208-2600kv-brushless-motor.html"
   }
  ],
  "version": 2,

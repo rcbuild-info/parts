@@ -13,48 +13,6 @@
  },
  "variants": [
   {
-   "description": "HQProp 4045 - Black CW",
-   "price": "$2.49",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:38:23 GMT",
-   "url": "http://www.multirotorsuperstore.com/hqprop-4045-glass.html"
-  },
-  {
-   "description": "HQProp 4045 - Black CCW",
-   "price": "$2.49",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:38:23 GMT",
-   "url": "http://www.multirotorsuperstore.com/hqprop-4045-glass.html"
-  },
-  {
-   "description": "HQProp 4045 - Orange CW",
-   "price": "$2.49",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:38:23 GMT",
-   "url": "http://www.multirotorsuperstore.com/hqprop-4045-glass.html"
-  },
-  {
-   "description": "HQProp 4045 - Orange CCW",
-   "price": "$2.49",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:38:23 GMT",
-   "url": "http://www.multirotorsuperstore.com/hqprop-4045-glass.html"
-  },
-  {
-   "description": "HQProp 4045 - Green CW",
-   "price": "$2.49",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:38:23 GMT",
-   "url": "http://www.multirotorsuperstore.com/hqprop-4045-glass.html"
-  },
-  {
-   "description": "HQProp 4045 - Green CCW",
-   "price": "$2.49",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:45:02 GMT",
-   "url": "http://www.multirotorsuperstore.com/hqprop-4045-glass.html"
-  },
-  {
    "price": "US$2.18",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 23:33:17 GMT",
@@ -67,11 +25,46 @@
    "url": "http://www.dronematters.com/hqprop-4045-glass-fiber-propellers-2-cw.html"
   },
   {
-   "price": "\u20ac3.90",
-   "quantity": 4,
+   "description": "HQProp 4045 - Black CW",
+   "price": "$2.49",
    "stock_state": "in_stock",
-   "timestamp": "Sun, 27 Sep 2015 00:29:43 GMT",
-   "url": "https://www.multirotorparts.com/hqprop-4-x-4-5-glasvezel-versterkte-propeller-set-van-4-zwart.html"
+   "timestamp": "Sat, 26 Sep 2015 02:38:57 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-4045-glass.html"
+  },
+  {
+   "description": "HQProp 4045 - Black CCW",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:57 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-4045-glass.html"
+  },
+  {
+   "description": "HQProp 4045 - Orange CW",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:57 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-4045-glass.html"
+  },
+  {
+   "description": "HQProp 4045 - Orange CCW",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:57 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-4045-glass.html"
+  },
+  {
+   "description": "HQProp 4045 - Green CW",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:57 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-4045-glass.html"
+  },
+  {
+   "description": "HQProp 4045 - Green CCW",
+   "price": "$2.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:57 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-4045-glass.html"
   },
   {
    "price": "\u20ac3.90",
@@ -79,6 +72,13 @@
    "stock_state": "out_of_stock",
    "timestamp": "Sun, 27 Sep 2015 00:29:46 GMT",
    "url": "https://www.multirotorparts.com/hqprop-4-x-4-5-glasvezel-versterkte-propeller-set-van-4-oranje.html"
+  },
+  {
+   "price": "\u20ac3.90",
+   "quantity": 4,
+   "stock_state": "in_stock",
+   "timestamp": "Sun, 27 Sep 2015 00:29:43 GMT",
+   "url": "https://www.multirotorparts.com/hqprop-4-x-4-5-glasvezel-versterkte-propeller-set-van-4-zwart.html"
   }
  ],
  "version": 2,

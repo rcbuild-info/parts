@@ -13,6 +13,12 @@
  },
  "variants": [
   {
+   "price": "$5.00",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 22:41:41 GMT",
+   "url": "http://multirotormania.com/hq-prop/839-hqprop-carbon-mix-9x45-1-pair.html"
+  },
+  {
    "description": "HQProp 9045 Props (CF/Nylon) - CCW",
    "price": "$4.99",
    "stock_state": "in_stock",
@@ -23,14 +29,8 @@
    "description": "HQProp 9045 Props (CF/Nylon) - CW",
    "price": "$4.99",
    "stock_state": "out_of_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:45:08 GMT",
+   "timestamp": "Sat, 26 Sep 2015 02:38:53 GMT",
    "url": "http://www.multirotorsuperstore.com/hqprop-9045-props.html"
-  },
-  {
-   "price": "$5.00",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 22:41:41 GMT",
-   "url": "http://multirotormania.com/hq-prop/839-hqprop-carbon-mix-9x45-1-pair.html"
   }
  ],
  "version": 2,

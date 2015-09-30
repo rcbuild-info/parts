@@ -13,48 +13,6 @@
  },
  "variants": [
   {
-   "description": "HQProp 5045 - Orange CW",
-   "price": "$2.74",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:38:25 GMT",
-   "url": "http://www.multirotorsuperstore.com/hqprop-5045-glass-composite.html"
-  },
-  {
-   "description": "HQProp 5045 - Orange CCW",
-   "price": "$2.74",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:38:25 GMT",
-   "url": "http://www.multirotorsuperstore.com/hqprop-5045-glass-composite.html"
-  },
-  {
-   "description": "HQProp 5045 - Green CW",
-   "price": "$2.74",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:38:25 GMT",
-   "url": "http://www.multirotorsuperstore.com/hqprop-5045-glass-composite.html"
-  },
-  {
-   "description": "HQProp 5045 - Green CCW",
-   "price": "$2.74",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:38:25 GMT",
-   "url": "http://www.multirotorsuperstore.com/hqprop-5045-glass-composite.html"
-  },
-  {
-   "description": "HQProp 5045 - Black CW",
-   "price": "$2.74",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:38:25 GMT",
-   "url": "http://www.multirotorsuperstore.com/hqprop-5045-glass-composite.html"
-  },
-  {
-   "description": "HQProp 5045 - Black CCW",
-   "price": "$2.74",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 02:45:01 GMT",
-   "url": "http://www.multirotorsuperstore.com/hqprop-5045-glass-composite.html"
-  },
-  {
    "price": "4,90 \u20ac",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:16:20 GMT",
@@ -64,13 +22,20 @@
    "price": "4,90 \u20ac",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:16:20 GMT",
-   "url": "http://flyduino.net/HQProp-5x45-127cm-Propeller-Set-Orange-4-pcs-Glass-reinforced"
+   "url": "http://flyduino.net/HQProp-5x45-127cm-Propeller-Set-Green-4-pcs-Glass-reinforced"
   },
   {
    "price": "4,90 \u20ac",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 19:16:20 GMT",
-   "url": "http://flyduino.net/HQProp-5x45-127cm-Propeller-Set-Green-4-pcs-Glass-reinforced"
+   "url": "http://flyduino.net/HQProp-5x45-127cm-Propeller-Set-Orange-4-pcs-Glass-reinforced"
+  },
+  {
+   "price": "USD$2.38",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Sun, 27 Sep 2015 00:50:39 GMT",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=311"
   },
   {
    "price": "US$2.74",
@@ -83,6 +48,48 @@
    "stock_state": "in_stock",
    "timestamp": "Sat, 19 Sep 2015 00:29:48 GMT",
    "url": "http://www.dronematters.com/hqprop-5045r-composite-propellers-2-cw.html"
+  },
+  {
+   "description": "HQProp 5045 - Orange CW",
+   "price": "$2.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:56 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-5045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 5045 - Orange CCW",
+   "price": "$2.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:56 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-5045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 5045 - Green CW",
+   "price": "$2.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:56 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-5045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 5045 - Green CCW",
+   "price": "$2.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:56 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-5045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 5045 - Black CW",
+   "price": "$2.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:56 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-5045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 5045 - Black CCW",
+   "price": "$2.74",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 02:38:56 GMT",
+   "url": "http://www.multirotorsuperstore.com/hqprop-5045-glass-composite.html"
   },
   {
    "price": "\u20ac3.90",
@@ -104,13 +111,6 @@
    "stock_state": "in_stock",
    "timestamp": "Sun, 27 Sep 2015 00:29:52 GMT",
    "url": "https://www.multirotorparts.com/hqprop-5-x-4-5-glasvezel-versterkte-propeller-set-van-4-zwart.html"
-  },
-  {
-   "price": "USD$2.38",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Sun, 27 Sep 2015 00:50:39 GMT",
-   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=311"
   }
  ],
  "version": 2,
