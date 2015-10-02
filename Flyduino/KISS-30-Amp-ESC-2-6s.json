@@ -12,9 +12,9 @@
  "variants": [
   {
    "price": "$28.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Wed, 30 Sep 2015 18:39:08 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/8/2015",
+   "timestamp": "Fri, 02 Oct 2015 16:59:36 GMT",
    "url": "http://www.getfpv.com/kiss-30-amp-esc-2-6s.html"
   }
  ],

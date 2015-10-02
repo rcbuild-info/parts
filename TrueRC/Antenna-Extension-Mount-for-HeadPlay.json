@@ -12,9 +12,9 @@
  "variants": [
   {
    "price": "$10.49",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 9/29/2015",
-   "timestamp": "Wed, 30 Sep 2015 18:39:54 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "timestamp": "Fri, 02 Oct 2015 16:58:53 GMT",
    "url": "http://www.getfpv.com/antenna-extension-mount-for-headplay.html"
   }
  ],

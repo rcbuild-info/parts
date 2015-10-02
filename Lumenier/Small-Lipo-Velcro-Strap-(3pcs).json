@@ -12,9 +12,9 @@
  "variants": [
   {
    "price": "$6.49",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Wed, 30 Sep 2015 18:31:18 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
+   "timestamp": "Fri, 02 Oct 2015 16:56:42 GMT",
    "url": "http://www.getfpv.com/lumenier-small-lipo-velcro-strap-3pcs.html"
   }
  ],
