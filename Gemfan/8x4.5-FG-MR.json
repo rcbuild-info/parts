@@ -13,13 +13,6 @@
  },
  "variants": [
   {
-   "price": "$2.79",
-   "stock_state": "in_stock",
-   "stock_text": "77 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:07:46 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2822"
-  },
-  {
    "price": "US$1.99",
    "stock_state": "in_stock",
    "timestamp": "Sat, 26 Sep 2015 23:33:26 GMT",
@@ -28,8 +21,15 @@
   {
    "price": "US$1.99",
    "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 23:34:05 GMT",
+   "timestamp": "Sat, 26 Sep 2015 23:33:19 GMT",
    "url": "http://www.dronematters.com/gemfan-8045-epp-propellers-nylon-2-cw.html"
+  },
+  {
+   "price": "$2.79",
+   "stock_state": "in_stock",
+   "stock_text": "77 Units in Stock",
+   "timestamp": "Sat, 26 Sep 2015 22:07:46 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2822"
   }
  ],
  "version": 2,

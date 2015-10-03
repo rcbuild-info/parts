@@ -11,17 +11,17 @@
  },
  "variants": [
   {
+   "price": "US$4.49",
+   "stock_state": "in_stock",
+   "timestamp": "Sat, 26 Sep 2015 23:36:04 GMT",
+   "url": "http://www.dronematters.com/pololu-5v-step-up-voltage-regulator.html"
+  },
+  {
    "price": "$3.95",
    "stock_state": "in_stock",
    "stock_text": "106 Units in Stock",
    "timestamp": "Sat, 26 Sep 2015 22:05:06 GMT",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1472"
-  },
-  {
-   "price": "US$4.49",
-   "stock_state": "in_stock",
-   "timestamp": "Sat, 26 Sep 2015 23:35:08 GMT",
-   "url": "http://www.dronematters.com/pololu-5v-step-up-voltage-regulator.html"
   }
  ],
  "version": 2,
