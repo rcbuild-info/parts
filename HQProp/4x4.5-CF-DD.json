@@ -14,17 +14,17 @@
  "variants": [
   {
    "price": "$2.38",
-   "stock_state": "backordered",
-   "stock_text": "0 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:08:49 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4118"
+   "stock_state": "in_stock",
+   "stock_text": "200 Units in Stock",
+   "timestamp": "Sat, 03 Oct 2015 02:35:36 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4117"
   },
   {
    "price": "$2.38",
-   "stock_state": "backordered",
-   "stock_text": "0 Units in Stock",
-   "timestamp": "Sat, 26 Sep 2015 22:08:49 GMT",
-   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4117"
+   "stock_state": "in_stock",
+   "stock_text": "200 Units in Stock",
+   "timestamp": "Sat, 03 Oct 2015 02:35:36 GMT",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4118"
   }
  ],
  "version": 2,
