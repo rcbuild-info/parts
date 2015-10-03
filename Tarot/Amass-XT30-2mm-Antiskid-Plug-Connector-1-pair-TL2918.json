@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "Amass XT30 2mm Antiskid Plug Connector 1 pair TL2918",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Amass-XT30-2mm-Antiskid-Plug-Connector-1-pair-TL2918-Smaller-Than-XT60-p-954639.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$1.43",
+   "stock_state": "in_stock",
+   "stock_text": "Only 1 units,dispatched in 1 business day",
+   "timestamp": "Sat, 03 Oct 2015 05:39:12 GMT",
+   "url": "http://www.banggood.com/Amass-XT30-2mm-Antiskid-Plug-Connector-1-pair-TL2918-Smaller-Than-XT60-p-954639.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
