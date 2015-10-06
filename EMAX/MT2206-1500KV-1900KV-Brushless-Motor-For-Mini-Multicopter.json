@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "EMAX",
  "name": "MT2206 1500KV 1900KV Brushless Motor For Mini Multicopter",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Emax-MT2206-1500KV-1900KV-Brushless-Motor-For-Mini-Multicopter-p-946401.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$8.99",
+   "stock_state": "in_stock",
+   "stock_text": "Only 2 units,dispatched in 1 business day",
+   "url": "http://www.banggood.com/Emax-MT2206-1500KV-1900KV-Brushless-Motor-For-Mini-Multicopter-p-946401.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
