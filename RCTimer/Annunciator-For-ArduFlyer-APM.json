@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$6.40",
-   "stock_state": "in_stock",
-   "stock_text": "3 in stock (can be backordered)",
-   "timestamp": "Wed, 30 Sep 2015 19:06:51 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
    "url": "http://www.uavobjects.com/product/rctimer-annunciator-arduflyerapm/"
   }
  ],
