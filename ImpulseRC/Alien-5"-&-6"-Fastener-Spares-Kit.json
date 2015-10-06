@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$11.99",
-   "stock_state": "backordered",
-   "stock_text": "Available For Pre-Order",
-   "timestamp": "Wed, 30 Sep 2015 20:16:16 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
    "url": "http://impulserc.com/alien-5-6-fastener-spares-kit"
   }
  ],

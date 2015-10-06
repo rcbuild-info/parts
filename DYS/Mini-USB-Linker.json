@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$9.99",
-   "stock_state": "in_stock",
-   "stock_text": "In stock",
-   "timestamp": "Wed, 30 Sep 2015 20:16:31 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
    "url": "http://impulserc.com/dys-mini-usb-linker"
   }
  ],
