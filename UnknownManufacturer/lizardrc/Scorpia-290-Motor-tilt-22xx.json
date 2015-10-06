@@ -13,17 +13,13 @@
   {
    "description": "10",
    "price": "95,00 kr",
-   "stock_state": "in_stock",
-   "stock_text": "2 items in stock",
-   "timestamp": "Wed, 30 Sep 2015 20:14:30 GMT",
+   "stock_state": "out_of_stock",
    "url": "http://lizard-rc.se/index.php?id_product=21&controller=product&id_lang=1"
   },
   {
    "description": "15",
    "price": "95,00 kr",
-   "stock_state": "in_stock",
-   "stock_text": "5 items in stock",
-   "timestamp": "Wed, 30 Sep 2015 20:14:30 GMT",
+   "stock_state": "out_of_stock",
    "url": "http://lizard-rc.se/index.php?id_product=21&controller=product&id_lang=1"
   }
  ],
