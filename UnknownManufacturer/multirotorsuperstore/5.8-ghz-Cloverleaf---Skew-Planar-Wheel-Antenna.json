@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$14.99",
-   "stock_state": "in_stock",
-   "stock_text": "In stock",
-   "timestamp": "Sat, 26 Sep 2015 02:43:45 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
    "url": "http://www.multirotorsuperstore.com/5-8-ghz-cloverleaf-skew-planar-wheel-antenna.html"
   }
  ],

@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$24.99",
-   "stock_state": "in_stock",
-   "stock_text": "In stock",
-   "timestamp": "Sat, 26 Sep 2015 02:45:41 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
    "url": "http://www.multirotorsuperstore.com/atomik-transmitter-case.html"
   }
  ],
