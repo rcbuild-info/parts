@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$59.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Fri, 02 Oct 2015 16:52:31 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/team-blacksheep-boss-5-8ghz-500mw-transmitter.html"
   }
  ],

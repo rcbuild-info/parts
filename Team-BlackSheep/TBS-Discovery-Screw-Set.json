@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$2.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Fri, 02 Oct 2015 16:58:00 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/tbs-discovery-screw-set.html"
   }
  ],

@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$35.96",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Fri, 02 Oct 2015 16:52:15 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/8/2015",
    "url": "http://www.getfpv.com/tattu-2700mah-3s-35c-lipo-battery.html"
   }
  ],

@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$29.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Fri, 02 Oct 2015 16:55:55 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/truerc-5-8ghz-nano-clover-leaf-antenna-ufl-connector.html"
   }
  ],

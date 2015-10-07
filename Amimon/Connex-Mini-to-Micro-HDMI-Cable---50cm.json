@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$34.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Fri, 02 Oct 2015 16:53:58 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/29/2015",
    "url": "http://www.getfpv.com/connex-mini-to-micro-hdmi-cable-50cm.html"
   }
  ],

@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$99.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Fri, 02 Oct 2015 16:53:15 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/tbs-unify-2-4ghz-800mw-16ch-vtx.html"
   }
  ],

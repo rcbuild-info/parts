@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$61.99",
-   "stock_state": "backordered",
-   "stock_text": "Back Ordered - Ships When Available",
-   "timestamp": "Fri, 02 Oct 2015 16:56:22 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/29/2015",
    "url": "http://www.getfpv.com/immersionrc-uno-5-8ghz-a-v-receiver-race-edition.html"
   }
  ],

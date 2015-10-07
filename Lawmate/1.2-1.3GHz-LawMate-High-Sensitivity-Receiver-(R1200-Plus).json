@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$59.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 10/1/2015",
-   "timestamp": "Fri, 02 Oct 2015 16:54:36 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/1-2-1-3ghz-lawmate-high-sensitivity-receiver-r1200-plus.html"
   }
  ],

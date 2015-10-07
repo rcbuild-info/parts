@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$324.99",
-   "stock_state": "backordered",
-   "stock_text": "Back Ordered - Ships When Available",
-   "timestamp": "Fri, 02 Oct 2015 16:51:46 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/fatshark-dominator-v2-fpv-goggles.html"
   }
  ],

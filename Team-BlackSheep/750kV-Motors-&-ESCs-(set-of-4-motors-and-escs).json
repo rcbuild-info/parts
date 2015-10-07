@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "$189.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
-   "timestamp": "Fri, 02 Oct 2015 16:50:33 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/team-blacksheep-750kv-motor-set-of-4.html"
   }
  ],
