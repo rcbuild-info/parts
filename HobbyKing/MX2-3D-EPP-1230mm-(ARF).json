@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$99.33",
+   "price": "$131.12",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 04:11:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__52077__HobbyKing_8482_MX2_3D_EPP_1230mm_ARF_.html"
   },
   {
@@ -23,23 +22,20 @@
    "price": "$118.71",
    "stock_state": "in_stock",
    "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 04:10:59 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67409"
   },
   {
    "location": "European Warehouse",
    "price": "$117.33",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 04:10:58 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68790"
   },
   {
    "location": "UK Warehouse",
    "price": "$123.52",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:10:57 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69495"
   }
  ],

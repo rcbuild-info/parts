@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$1.20",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:31:41 GMT",
+   "price": "$1.58",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/__55818__Tower_Pro_Slowfly_Propeller_10x8_Orange_CCW_1pc_.html"
   },
   {
    "location": "International Warehouse",
-   "price": "$0.99",
+   "price": "$1.31",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:31:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__6230__Tower_Pro_Slowfly_Propeller_10x8_Orange_CCW_1pc_.html"
   }
  ],

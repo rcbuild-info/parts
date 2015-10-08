@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$214.50",
+   "price": "$283.14",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:52:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__62889__Pitts_Python_Aerobatic_Biplane_EPO_1400mm_PNF_.html"
   },
   {
@@ -22,7 +21,6 @@
    "price": "$252.01",
    "stock_state": "in_stock",
    "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:51:55 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65780"
   },
   {
@@ -30,15 +28,13 @@
    "price": "$304.66",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:51:54 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67068"
   },
   {
    "location": "European Warehouse",
    "price": "$352.73",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 03:51:53 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78374"
   }
  ],

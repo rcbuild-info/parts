@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$79.99",
+   "price": "$105.59",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 04:11:21 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/__36785__Thrust_Vectoring_Enigma_3D_960mm_ARF_Red.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$79.99",
-   "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 04:11:01 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68653"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$116.37",
    "stock_state": "in_stock",
    "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 04:11:00 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68946"
   }
  ],

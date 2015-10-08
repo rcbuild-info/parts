@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$32.85",
+   "price": "$43.36",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:25:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__9179__Turnigy_5000mAh_4S_25C_Lipo_Pack.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$32.54",
-   "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 03:22:38 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14637"
   },
   {
@@ -31,15 +29,20 @@
    "price": "$31.74",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:22:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14843"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$33.32",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26740"
   },
   {
    "location": "European Warehouse",
    "price": "$33.71",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:22:37 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35831"
   },
   {
@@ -47,7 +50,6 @@
    "price": "$33.77",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:22:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58983"
   },
   {
@@ -55,7 +57,6 @@
    "price": "$42.07",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:22:35 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59916"
   }
  ],

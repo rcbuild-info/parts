@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$217.84",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:09:22 GMT",
+   "price": "$282.13",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/__46059__NGH_GT35R_35cc_Rear_Exhaust_Gas_Engine_4_2hp_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$240.20",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:08:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58376"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$244.48",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:08:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62573"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$228.40",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:08:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62688"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$244.41",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:08:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73107"
   }
  ],

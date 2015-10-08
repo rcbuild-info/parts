@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$6.93",
+   "price": "$7.37",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:18:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__58098__Turnigy_8482_TGY_D56LV_Coreless_Low_Voltage_DS_MG_Servo_0_89kg_5_6g_10sec.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$7.10",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:18:13 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65833"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$6.85",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:18:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65930"
   },
   {
    "location": "USA West Warehouse",
    "price": "$7.08",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:18:11 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65953"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$7.08",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:18:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66314"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$8.53",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 00:18:09 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68344"
   }
  ],

@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$5.29",
+   "price": "$6.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:44:01 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__28357__SF_260_Rubber_Band_Powered_Freeflight_Model_480mm_Span.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$7.39",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 03:42:58 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47879"
   },
   {
@@ -30,15 +28,13 @@
    "price": "$6.50",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:42:57 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48097"
   },
   {
    "location": "Australia Warehouse",
    "price": "$7.69",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 03:42:56 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53642"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$7.39",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:42:55 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72205"
   }
  ],

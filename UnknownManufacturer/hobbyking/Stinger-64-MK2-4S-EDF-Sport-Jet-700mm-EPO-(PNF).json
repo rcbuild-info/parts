@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$99.99",
+   "price": "$131.99",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:52:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__27571__Stinger_64_MK2_4S_EDF_Sport_Jet_700mm_EPO_PNF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$114.88",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:51:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39362"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$128.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:51:09 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39529"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$130.37",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:51:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41491"
   },
   {
@@ -47,15 +43,13 @@
    "price": "$114.53",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:51:07 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43338"
   },
   {
    "location": "USA East Warehouse",
    "price": "$114.53",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:51:06 GMT",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63198"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$195.86",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 03:51:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69961"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$12.95",
+   "price": "$14.89",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:45:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__24567__HobbyKing_30A_Boat_ESC_3A_UBEC.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$13.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:43:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29430"
   },
   {
    "location": "Australia Warehouse",
    "price": "$13.30",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 00:43:22 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32150"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$13.20",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:43:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33334"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$13.15",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:43:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45478"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$17.31",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:43:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68193"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$13.20",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:43:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70576"
   }
  ],

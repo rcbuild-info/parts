@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$3.12",
+   "price": "$3.41",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:11:35 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__76879__Turnigy_Nano_Tech_200mah_1S_35_50C_LiPoly_Battery_Turnigy_Kyosho_E_Flite_Parkzone.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$3.38",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:10:54 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76880"
   },
   {
    "location": "European Warehouse",
    "price": "$3.38",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:10:53 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76881"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$3.95",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:10:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76882"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$3.38",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:10:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76884"
   }
  ],

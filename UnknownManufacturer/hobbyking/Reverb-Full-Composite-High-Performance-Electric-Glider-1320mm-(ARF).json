@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$183.30",
+   "price": "$231.44",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 03:37:18 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/__18453__Reverb_Full_Composite_High_Performance_Electric_Glider_1320mm_ARF_.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$183.30",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:34:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30753"
   },
   {
    "location": "European Warehouse",
    "price": "$205.09",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:34:25 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31411"
   },
   {
@@ -39,15 +36,13 @@
    "price": "$192.13",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:34:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48026"
   },
   {
    "location": "USA East Warehouse",
    "price": "$159.99",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:34:23 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71756"
   }
  ],

@@ -11,19 +11,38 @@
  },
  "variants": [
   {
-   "location": "International Warehouse",
-   "price": "$28.25",
+   "location": "USA West Warehouse",
+   "price": "$29.30",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:49:55 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16784__ZIPPY_5000mAh_2S1P_30C_Hardcase_Pack_ROAR_APPROVED_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$37.29",
+   "stock_state": "in_stock",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/__20999__ZIPPY_5000mAh_2S1P_30C_Hardcase_Pack_ROAR_APPROVED_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$29.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18566"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$37.29",
+   "stock_state": "in_stock",
+   "stock_text": "4",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20999"
   },
   {
    "location": "UK Warehouse",
    "price": "$29.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:47:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37492"
   },
   {
@@ -31,7 +50,6 @@
    "price": "$30.19",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:47:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38352"
   },
   {
@@ -39,7 +57,6 @@
    "price": "$29.30",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:47:37 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58694"
   },
   {
@@ -47,7 +64,6 @@
    "price": "$35.71",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:47:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59605"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$61.86",
+   "price": "$74.30",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 01:34:26 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/__11102__Turnigy_T600_Brushless_Outrunner_for_600_Heli_1100kv_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$63.69",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 01:34:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42762"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$70.01",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 01:34:09 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42923"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$63.69",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:34:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71880"
   }
  ],

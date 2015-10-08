@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$37.61",
+   "price": "$49.65",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 04:00:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__50339__Neptune_3D_Flat_Foam_Depron_870mm_w_Motor_Kit_.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$40.73",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 04:00:23 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54358"
   },
   {
@@ -31,23 +29,20 @@
    "price": "$40.97",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 04:00:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54407"
   },
   {
    "location": "European Warehouse",
    "price": "$42.10",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:00:21 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54599"
   },
   {
    "location": "UK Warehouse",
    "price": "$42.62",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:00:20 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55375"
   },
   {
@@ -55,15 +50,13 @@
    "price": "$56.90",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:00:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63306"
   },
   {
    "location": "USA East Warehouse",
    "price": "$40.73",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 04:00:17 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68528"
   }
  ],

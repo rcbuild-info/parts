@@ -11,42 +11,37 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$34.95",
+   "price": "$39.16",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:38:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__20995__TrackStar_1_18th_Scale_7_5T_Brushless_power_System_6100kv_.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$37.93",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 01:36:42 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44541"
   },
   {
    "location": "European Warehouse",
    "price": "$40.75",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:36:42 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44991"
   },
   {
    "location": "Australia Warehouse",
    "price": "$36.18",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 01:36:41 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45619"
   },
   {
    "location": "USA West Warehouse",
    "price": "$36.06",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 01:36:40 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57107"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$45.04",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:36:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60818"
   }
  ],

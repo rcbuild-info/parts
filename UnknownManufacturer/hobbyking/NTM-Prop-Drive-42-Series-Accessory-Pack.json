@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$1.99",
+   "price": "$2.63",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:24:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__19342__NTM_Prop_Drive_42_Series_Accessory_Pack.html"
   },
   {
@@ -22,7 +21,6 @@
    "price": "$2.38",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:23:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24240"
   },
   {
@@ -30,15 +28,13 @@
    "price": "$2.38",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:23:25 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24248"
   },
   {
    "location": "UK Warehouse",
    "price": "$2.79",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:23:24 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29338"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$2.50",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:23:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32516"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$2.65",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:23:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69781"
   },
   {
@@ -62,7 +56,6 @@
    "price": "$2.38",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:23:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70914"
   }
  ],

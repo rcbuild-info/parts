@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$128.71",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:42:27 GMT",
+   "price": "$169.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/__38072__HobbyKing_174_8482_Go_Discover_FPV_Plane_EPO_1600mm_PNF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$151.26",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:42:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51528"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$149.42",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:42:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51559"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$158.53",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:42:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51650"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$153.64",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:42:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51695"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$147.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:42:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63216"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$170.84",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:38:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64842"
   }
  ],

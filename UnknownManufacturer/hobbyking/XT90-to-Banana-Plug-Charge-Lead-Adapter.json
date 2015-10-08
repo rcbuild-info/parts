@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$3.95",
+   "price": "$5.21",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:00:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__25660__XT90_to_Banana_Plug_Charge_Lead_Adapter.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$4.90",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:58:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31480"
   },
   {
@@ -31,31 +29,27 @@
    "price": "$4.92",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:58:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31839"
   },
   {
    "location": "USA West Warehouse",
    "price": "$4.50",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 01:58:55 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45303"
   },
   {
    "location": "Australia Warehouse",
    "price": "$4.58",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 01:58:54 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46018"
   },
   {
    "location": "USA East Warehouse",
    "price": "$4.50",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 01:58:53 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64757"
   }
  ],

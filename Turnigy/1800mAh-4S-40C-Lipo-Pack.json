@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$23.79",
+   "price": "$31.40",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:48:41 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__10291__Turnigy_1800mAh_4S_40C_Lipo_Pack.html"
   },
   {
@@ -23,23 +22,20 @@
    "price": "$23.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:46:27 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15371"
   },
   {
    "location": "USA West Warehouse",
    "price": "$22.19",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:46:26 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16196"
   },
   {
    "location": "UK Warehouse",
    "price": "$22.95",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:46:25 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26763"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$26.25",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:46:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35962"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$22.19",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:46:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58841"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$129.78",
+   "price": "$171.31",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 03:42:09 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/__58045__Skua_FPV_Plane_EPO_2100mm_KIT_.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$157.19",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:41:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72518"
   },
   {
    "location": "UK Warehouse",
    "price": "$166.59",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:41:21 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72542"
   }
  ],

@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.42",
+   "price": "$3.15",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:42:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__23461__Hobbyking_8482_3_Blade_Propeller_5x3_Black_CW_3pcs_.html"
   },
   {
@@ -22,7 +21,6 @@
    "price": "$2.60",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:41:45 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31131"
   },
   {
@@ -30,31 +28,27 @@
    "price": "$2.60",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:41:44 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37279"
   },
   {
    "location": "USA West Warehouse",
    "price": "$2.56",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:41:43 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38704"
   },
   {
    "location": "Australia Warehouse",
    "price": "$2.56",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:41:43 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39222"
   },
   {
    "location": "USA East Warehouse",
    "price": "$2.56",
-   "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Sun, 27 Sep 2015 23:41:42 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71502"
   }
  ],

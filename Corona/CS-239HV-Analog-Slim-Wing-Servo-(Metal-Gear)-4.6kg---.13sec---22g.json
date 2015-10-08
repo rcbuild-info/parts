@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$9.10",
+   "price": "$10.32",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:11:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__23922__Corona_CS_239HV_Analog_Slim_Wing_Servo_Metal_Gear_4_6kg_13sec_22g.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$9.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:10:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29627"
   },
   {
    "location": "USA West Warehouse",
    "price": "$9.27",
-   "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 00:10:21 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38878"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$9.75",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:10:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54740"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$8.98",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:10:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56579"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$9.37",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:10:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71967"
   }
  ],

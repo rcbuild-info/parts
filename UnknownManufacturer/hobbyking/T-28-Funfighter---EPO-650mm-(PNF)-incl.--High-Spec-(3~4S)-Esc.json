@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$79.95",
+   "price": "$105.53",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 04:06:35 GMT",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/__18486__T_28_Funfighter_EPO_650mm_PNF_.html"
   },
   {
@@ -23,23 +22,20 @@
    "price": "$98.93",
    "stock_state": "in_stock",
    "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 04:04:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20561"
   },
   {
    "location": "Australia Warehouse",
    "price": "$86.89",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:04:23 GMT",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25013"
   },
   {
    "location": "UK Warehouse",
    "price": "$89.39",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 04:04:22 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25931"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$97.84",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:04:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29957"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$98.93",
    "stock_state": "in_stock",
    "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 04:04:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70999"
   }
  ],

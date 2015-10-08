@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$46.34",
+   "price": "$53.30",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:33:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__45282__5008_340KV_Turnigy_Multistar_Multi_Rotor_Motor_With_3_5mm_Bullet_Connector_Installed.html"
   },
   {
    "location": "Russia Warehouse",
    "price": "$63.24",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 01:32:28 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70210"
   }
  ],

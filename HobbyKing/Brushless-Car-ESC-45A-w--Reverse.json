@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$19.99",
+   "price": "$22.63",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:45:00 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__13445__HobbyKing_Brushless_Car_ESC_45A_w_Reverse.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$20.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:43:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31780"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$20.95",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:43:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32141"
   },
   {
    "location": "USA West Warehouse",
    "price": "$20.95",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 00:43:04 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35663"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$24.75",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:43:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45245"
   },
   {
@@ -55,15 +50,13 @@
    "price": "$26.07",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:43:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69042"
   },
   {
    "location": "USA East Warehouse",
    "price": "$20.95",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:43:01 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70714"
   }
  ],

@@ -11,26 +11,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$42.94",
+   "price": "$56.68",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:57:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__7523__Turnigy_Accucel_8_150W_7A_Balancer_Charger.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$47.60",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 01:55:24 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15044"
   },
   {
    "location": "USA West Warehouse",
    "price": "$47.77",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:55:23 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15166"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$72.66",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:55:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31513"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$49.94",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:55:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31867"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$63.70",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:55:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69004"
   },
   {
@@ -62,7 +56,6 @@
    "price": "$46.02",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:55:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70605"
   }
  ],

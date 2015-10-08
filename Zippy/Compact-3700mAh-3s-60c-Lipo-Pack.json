@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "Compact 3700mAh 3s 60c Lipo Pack",
@@ -7,12 +7,37 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74541",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73829",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72359",
-   "http://www.hobbyking.com/hobbyking/store/__63405__ZIPPY_Compact_3700mAh_3s_60c_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$35.97",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "url": "http://www.hobbyking.com/hobbyking/store/__63405__ZIPPY_Compact_3700mAh_3s_60c_Lipo_Pack.html"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72359"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$28.83",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72478"
+  },
+  {
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73829"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$32.70",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74541"
+  }
+ ],
+ "version": 2,
+ "weight": "338"
 }

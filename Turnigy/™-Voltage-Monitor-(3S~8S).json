@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.10",
+   "price": "$2.65",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:13:55 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__13276__Turnigy_8482_Voltage_Monitor_3S_8S_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$2.11",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:12:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31446"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$2.12",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:12:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31795"
   },
   {
@@ -39,15 +36,13 @@
    "price": "$2.08",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:12:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36892"
   },
   {
    "location": "Australia Warehouse",
    "price": "$2.08",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 02:12:37 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44746"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$2.08",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:12:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57358"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$2.64",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:06:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60592"
   }
  ],

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Strengthen Device ",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__7745__Strengthen_Device_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.46",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "url": "http://www.hobbyking.com/hobbyking/store/__7745__Strengthen_Device_.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

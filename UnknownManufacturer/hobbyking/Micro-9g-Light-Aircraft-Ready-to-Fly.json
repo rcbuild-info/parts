@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$12.99",
+   "price": "$17.15",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:47:30 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/__9476__Micro_9g_Light_Aircraft_Ready_to_Fly.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$15.67",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:47:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40767"
   },
   {
    "location": "USA East Warehouse",
    "price": "$15.67",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:47:23 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63156"
   }
  ],

@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$0.77",
+   "price": "$1.02",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:50:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__7936__TGS_Precision_Folding_Propeller_6x4_Black_1pc_.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$0.78",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:50:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32067"
   },
   {
    "location": "European Warehouse",
    "price": "$0.95",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:50:03 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36381"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$0.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:50:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38941"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$0.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:50:01 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41516"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$0.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:50:00 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65223"
   }
  ],

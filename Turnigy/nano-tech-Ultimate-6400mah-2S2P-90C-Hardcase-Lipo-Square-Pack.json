@@ -14,18 +14,30 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$60.80",
+   "price": "$73.85",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:49:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__51842__Turnigy_nano_tech_Ultimate_6400mah_2S2P_90C_Hardcase_Lipo_Square_Pack.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$62.00",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 02:47:24 GMT",
+   "stock_text": "5",
+   "url": "http://www.hobbyking.com/hobbyking/store/__63010__Turnigy_nano_tech_Ultimate_6400mah_2S2P_90C_Hardcase_Lipo_Square_Pack_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$73.85",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51842"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$62.00",
+   "stock_state": "in_stock",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63010"
   },
   {
@@ -33,7 +45,6 @@
    "price": "$63.20",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:47:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64935"
   }
  ],

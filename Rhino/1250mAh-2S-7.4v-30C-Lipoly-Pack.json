@@ -12,58 +12,51 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$8.09",
+   "price": "$10.68",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 03:04:24 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/__9325__Rhino_1250mAh_2S_7_4v_30C_Lipoly_Pack.html"
   },
   {
    "location": "European Warehouse",
-   "price": "$9.09",
+   "price": "$5.77",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 03:02:36 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50181"
   },
   {
    "location": "USA West Warehouse",
-   "price": "$8.60",
+   "price": "$5.45",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:02:35 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50235"
   },
   {
    "location": "Australia Warehouse",
-   "price": "$7.05",
+   "price": "$5.61",
    "stock_state": "in_stock",
    "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 03:02:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51267"
   },
   {
    "location": "UK Warehouse",
-   "price": "$9.09",
+   "price": "$5.77",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:02:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51390"
   },
   {
    "location": "USA East Warehouse",
-   "price": "$8.65",
+   "price": "$5.45",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:02:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58561"
   },
   {
    "location": "Russia Warehouse",
-   "price": "$13.31",
+   "price": "$8.65",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:02:30 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59439"
   }
  ],

@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$11.95",
+   "price": "$13.23",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 01:28:36 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/__19032__Turnigy_Park250_Brushless_Outrunner_1680kv.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$12.35",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 01:26:40 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31615"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$12.30",
    "stock_state": "in_stock",
    "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 01:26:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41891"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$12.11",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:26:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42699"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$12.70",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:26:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46829"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$12.11",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:26:37 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71791"
   }
  ],

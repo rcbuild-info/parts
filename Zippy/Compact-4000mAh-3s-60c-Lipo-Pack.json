@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Zippy",
  "name": "Compact 4000mAh 3s 60c Lipo Pack",
@@ -7,15 +7,59 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74548",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73836",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73759",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73416",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72485",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72366",
-   "http://www.hobbyking.com/hobbyking/store/__63412__ZIPPY_Compact_4000mAh_3s_60c_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$41.67",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "url": "http://www.hobbyking.com/hobbyking/store/__63412__ZIPPY_Compact_4000mAh_3s_60c_Lipo_Pack.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$32.96",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72366"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$32.96",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72485"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$34.13",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73416"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$34.15",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73759"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$33.78",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73836"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$42.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74548"
+  }
+ ],
+ "version": 2,
+ "weight": "363"
 }

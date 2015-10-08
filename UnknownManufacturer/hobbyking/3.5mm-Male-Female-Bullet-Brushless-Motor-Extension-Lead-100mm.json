@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$1.60",
+   "price": "$1.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:59:55 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__27062__3_5mm_Male_Female_Bullet_Brushless_Motor_Extension_Lead_100mm.html"
   },
   {
    "location": "International Warehouse",
-   "price": "$1.73",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:03:40 GMT",
+   "price": "$2.11",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__27064__3_5mm_Male_Female_Bullet_Brushless_Motor_Extension_Lead_100mm_.html"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$1.92",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:01:59 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43442"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$1.79",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:57:27 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43443"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$1.79",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:57:25 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43865"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$1.79",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:57:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43997"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$1.86",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:57:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50479"
   },
   {
@@ -71,7 +64,6 @@
    "price": "$1.86",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:01:58 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51089"
   },
   {
@@ -79,7 +71,6 @@
    "price": "$1.92",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:01:57 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51899"
   },
   {
@@ -87,7 +78,6 @@
    "price": "$1.94",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:01:57 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62557"
   },
   {
@@ -95,7 +85,6 @@
    "price": "$1.79",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:57:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64414"
   },
   {
@@ -103,7 +92,6 @@
    "price": "$1.86",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:01:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64415"
   },
   {
@@ -111,7 +99,6 @@
    "price": "$2.35",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:01:55 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69952"
   }
  ],

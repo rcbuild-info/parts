@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Canopy mount stand",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__6108__Canopy_mount_stand.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.80",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6108__Canopy_mount_stand.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

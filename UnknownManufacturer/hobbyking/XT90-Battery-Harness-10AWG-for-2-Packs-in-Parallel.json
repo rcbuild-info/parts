@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$6.50",
+   "price": "$8.07",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:05:41 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__25662__XT90_Battery_Harness_10AWG_for_2_Packs_in_Parallel.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$7.65",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:04:49 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31476"
   },
   {
    "location": "UK Warehouse",
    "price": "$7.65",
-   "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 00:04:49 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31816"
   },
   {
@@ -39,15 +36,13 @@
    "price": "$7.65",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:04:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32159"
   },
   {
    "location": "USA West Warehouse",
    "price": "$6.69",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:04:47 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63485"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$8.89",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:04:46 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68292"
   }
  ],

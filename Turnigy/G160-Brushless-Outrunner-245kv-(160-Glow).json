@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$73.94",
+   "price": "$97.60",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:28:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__14408__Turnigy_G160_Brushless_Outrunner_245kv_160_Glow_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$79.10",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:26:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43995"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$85.39",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:26:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44588"
   },
   {
    "location": "Australia Warehouse",
    "price": "$76.25",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:26:25 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44651"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$75.83",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 01:26:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44881"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$75.83",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 01:26:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71682"
   }
  ],

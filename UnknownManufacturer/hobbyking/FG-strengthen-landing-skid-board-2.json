@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FG strengthen landing skid board-2",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__6008__FG_strengthen_landing_skid_board_2.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6008__FG_strengthen_landing_skid_board_2.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

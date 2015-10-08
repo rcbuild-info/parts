@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$4.49",
+   "price": "$5.93",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:57:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__7637__Turnigy_12v_2_3S_Basic_Balance_Charger.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$4.99",
-   "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 01:56:43 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40905"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$7.29",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:56:42 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41043"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$4.68",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:56:41 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41163"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$7.29",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:56:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41730"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$4.68",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:56:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58556"
   },
   {
@@ -62,7 +56,6 @@
    "price": "$5.90",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:56:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59432"
   }
  ],

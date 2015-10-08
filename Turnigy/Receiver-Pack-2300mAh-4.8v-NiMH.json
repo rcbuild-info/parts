@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$5.99",
+   "price": "$7.91",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:12:30 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__25028__Turnigy_Receiver_Pack_2300mAh_4_8v_NiMH.html"
   },
   {
    "location": "International Warehouse",
-   "price": "$5.99",
+   "price": "$7.91",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:12:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__25029__Turnigy_Receiver_Pack_2300mAh_4_8v_NiMH.html"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$6.70",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:11:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39274"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$6.70",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:11:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39275"
   },
   {
@@ -46,23 +42,20 @@
    "price": "$6.50",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:11:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39495"
   },
   {
    "location": "USA West Warehouse",
    "price": "$6.50",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:11:32 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39496"
   },
   {
    "location": "UK Warehouse",
    "price": "$6.85",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:11:50 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40139"
   },
   {
@@ -70,23 +63,20 @@
    "price": "$6.85",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:11:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40140"
-  },
-  {
-   "location": "European Warehouse",
-   "price": "$6.95",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:11:49 GMT",
-   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41339"
   },
   {
    "location": "European Warehouse",
    "price": "$6.95",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:11:30 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41339"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$6.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41340"
   },
   {
@@ -94,15 +84,13 @@
    "price": "$6.50",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:11:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59350"
   },
   {
    "location": "USA East Warehouse",
    "price": "$6.50",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:11:29 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59351"
   },
   {
@@ -110,7 +98,6 @@
    "price": "$8.14",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:11:47 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60317"
   },
   {
@@ -118,7 +105,6 @@
    "price": "$8.16",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:11:28 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60318"
   }
  ],

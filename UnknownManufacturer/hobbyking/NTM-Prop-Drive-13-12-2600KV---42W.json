@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$15.10",
+   "price": "$15.59",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:58:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__23212__NTM_Prop_Drive_13_12_2600KV_42W.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$15.55",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 00:57:21 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29825"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$16.10",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:57:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30599"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$15.44",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:57:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30789"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$16.25",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:57:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36836"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$15.44",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:57:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70901"
   }
  ],

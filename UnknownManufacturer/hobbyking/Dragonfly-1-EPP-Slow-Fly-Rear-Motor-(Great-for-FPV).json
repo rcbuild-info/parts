@@ -12,34 +12,30 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$25.95",
+   "price": "$34.25",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:58:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__11439__Dragonfly_1_EPP_Slow_Fly_Rear_Motor_Great_for_FPV_.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$28.90",
-   "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 03:57:32 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30950"
   },
   {
    "location": "European Warehouse",
    "price": "$32.07",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 03:57:31 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39518"
   },
   {
    "location": "UK Warehouse",
    "price": "$30.92",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:57:30 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56100"
   }
  ],

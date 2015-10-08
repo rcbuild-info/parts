@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$28.90",
+   "price": "$30.26",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:13:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__11630__BMS_390DMH_High_Performance_Digital_Servo_Extra_Strong_5_4kg_11sec_22_5g.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$29.14",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 00:12:06 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30675"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$29.15",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:12:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70624"
   }
  ],

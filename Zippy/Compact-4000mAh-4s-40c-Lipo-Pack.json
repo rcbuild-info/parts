@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$38.08",
+   "price": "$50.27",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:53:43 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/__63409__ZIPPY_Compact_4000mAh_4s_40c_Lipo_Pack.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$40.06",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 01:52:18 GMT",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72363"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$40.06",
    "stock_state": "in_stock",
    "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 01:52:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72482"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$41.74",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:52:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73413"
   },
   {
@@ -47,15 +43,13 @@
    "price": "$41.33",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:52:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73756"
   },
   {
    "location": "Australia Warehouse",
    "price": "$40.61",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 01:52:14 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73833"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$50.94",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:52:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74545"
   }
  ],

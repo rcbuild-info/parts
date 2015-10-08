@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Bearing stand over the motor",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__6105__Bearing_stand_over_the_motor.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.97",
+   "stock_state": "in_stock",
+   "stock_text": "5",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6105__Bearing_stand_over_the_motor.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

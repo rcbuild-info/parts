@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$5.60",
+   "price": "$7.39",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:40:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__34088__Hobbyking_8482_Thin_E_Prop_Propeller_10x4_5_Black_CW_4pcs_.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$5.85",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:39:27 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54432"
   },
   {
    "location": "European Warehouse",
    "price": "$6.09",
-   "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Sun, 27 Sep 2015 23:39:26 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54626"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$44.95",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 04:00:58 GMT",
+   "price": "$59.02",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__10469__Micro_Liadon_RTF_w_5A_Brushless_Plug_n_Fly_.html"
   }
  ],

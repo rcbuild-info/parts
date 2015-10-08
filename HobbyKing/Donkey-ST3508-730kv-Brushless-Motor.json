@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$9.95",
+   "price": "$13.13",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:12:07 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__15199__HobbyKing_Donkey_ST3508_730kv_Brushless_Motor.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$10.60",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:10:47 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23214"
   },
   {
@@ -30,15 +28,13 @@
    "price": "$12.60",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:10:46 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26081"
   },
   {
    "location": "Australia Warehouse",
    "price": "$10.19",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 01:10:45 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49209"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$10.60",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:10:44 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70993"
   }
  ],

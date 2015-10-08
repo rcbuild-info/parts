@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$28.95",
-   "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 01:28:38 GMT",
+   "price": "$36.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__14402__Turnigy_G15_Brushless_Outrunner_950kv.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$31.00",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:26:49 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31771"
   },
   {
    "location": "USA West Warehouse",
    "price": "$30.50",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 01:26:48 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33305"
   },
   {
@@ -39,23 +36,20 @@
    "price": "$29.51",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:26:47 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44650"
   },
   {
    "location": "European Warehouse",
    "price": "$30.82",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 01:26:47 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46823"
   },
   {
    "location": "USA East Warehouse",
    "price": "$30.50",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 01:26:46 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70668"
   }
  ],

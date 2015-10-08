@@ -14,42 +14,37 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$15.50",
+   "price": "$20.46",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:21:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__11906__Turnigy_nano_tech_1600mah_4S_25_50C_Lipo_Pack.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$14.95",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:21:12 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20427"
   },
   {
    "location": "European Warehouse",
    "price": "$16.45",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:21:11 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32556"
   },
   {
    "location": "UK Warehouse",
    "price": "$16.60",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:21:10 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34653"
   },
   {
    "location": "Australia Warehouse",
    "price": "$16.35",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:21:09 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35415"
   },
   {
@@ -57,7 +52,6 @@
    "price": "$14.95",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:21:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59133"
   },
   {
@@ -65,7 +59,6 @@
    "price": "$19.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:21:07 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60076"
   }
  ],

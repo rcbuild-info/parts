@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$8.69",
+   "price": "$10.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:05:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__24707__Nylon_XT90_Connectors_Male_Female_5_pairs_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$9.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:04:30 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32153"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$9.40",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:04:29 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42109"
   },
   {
    "location": "USA West Warehouse",
    "price": "$9.50",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:04:28 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42616"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$9.85",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:04:27 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45761"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$9.50",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:04:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64406"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$11.65",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:04:25 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68239"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$14.99",
+   "price": "$19.79",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:30:45 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__23491__HobbyKing_8482_HK15338_Giant_Digital_Servo_MG_175g_25kg_0_21s.html"
   },
   {
@@ -23,23 +22,20 @@
    "price": "$18.30",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:29:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29342"
   },
   {
    "location": "USA West Warehouse",
    "price": "$16.16",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:29:19 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42447"
   },
   {
    "location": "Australia Warehouse",
    "price": "$16.40",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:29:18 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49216"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$20.48",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 00:29:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69861"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$16.16",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:29:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71422"
   }
  ],

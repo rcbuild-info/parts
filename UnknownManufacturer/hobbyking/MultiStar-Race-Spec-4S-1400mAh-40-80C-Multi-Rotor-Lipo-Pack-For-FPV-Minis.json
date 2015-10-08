@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$19.55",
+   "price": "$25.73",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:49:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__78350__MultiStar_Race_Spec_4S_1400mAh_40_80C_Multi_Rotor_Lipo_Pack_For_FPV_Minis.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$19.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:48:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78351"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$19.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:48:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78352"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$19.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:48:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78353"
   },
   {
@@ -47,15 +43,13 @@
    "price": "$19.02",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:48:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78354"
   },
   {
    "location": "Australia Warehouse",
    "price": "$19.55",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:48:10 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78355"
   }
  ],

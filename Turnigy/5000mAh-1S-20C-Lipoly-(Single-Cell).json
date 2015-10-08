@@ -12,26 +12,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$7.30",
+   "price": "$9.64",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:25:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__18560__Turnigy_5000mAh_1S_20C_Lipoly_Single_Cell_.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$7.48",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:22:14 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32957"
   },
   {
    "location": "USA West Warehouse",
    "price": "$7.24",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 03:22:13 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33117"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$7.73",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:22:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34564"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$7.86",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:22:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36039"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$7.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:22:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58876"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$9.78",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:22:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59796"
   }
  ],

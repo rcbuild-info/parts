@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$115.70",
+   "price": "$152.72",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:12:27 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__20130__HobbyKing_Domin_8_Trix_3D_1200mm_ARF_.html"
   },
   {
    "location": "USA West Warehouse",
-   "price": "$134.67",
+   "price": "$134.89",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 04:12:20 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24362"
   },
   {
@@ -31,31 +29,27 @@
    "price": "$139.88",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 04:12:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24535"
   },
   {
    "location": "UK Warehouse",
    "price": "$141.34",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 04:12:18 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25298"
   },
   {
    "location": "European Warehouse",
    "price": "$151.83",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 04:12:17 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29969"
   },
   {
    "location": "USA East Warehouse",
-   "price": "$134.67",
+   "price": "$157.00",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:12:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63182"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$234.08",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 04:12:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69795"
   }
  ],

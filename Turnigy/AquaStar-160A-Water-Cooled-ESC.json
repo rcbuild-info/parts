@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$57.27",
+   "price": "$65.36",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:39:47 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__22406__Turnigy_AquaStar_160A_Water_Cooled_ESC.html"
   },
   {
    "location": "European Warehouse",
    "price": "$65.43",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:36:34 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44996"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$61.64",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:36:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45159"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$59.33",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:36:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46159"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$95.74",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 00:36:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69839"
   }
  ],

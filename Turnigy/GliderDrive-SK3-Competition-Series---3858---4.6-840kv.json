@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$36.40",
+   "price": "$43.91",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:12:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__32818__Turnigy_GliderDrive_SK3_Competition_Series_3858_4_6_840kv.html"
   },
   {
@@ -22,7 +21,6 @@
    "price": "$37.88",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:11:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41973"
   },
   {
@@ -30,15 +28,13 @@
    "price": "$40.96",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:11:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42048"
   },
   {
    "location": "UK Warehouse",
    "price": "$38.92",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:11:20 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45917"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$38.89",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:11:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48054"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$38.89",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:11:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71399"
   }
  ],

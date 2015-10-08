@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$146.13",
+   "price": "$192.89",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 04:06:41 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/__68623__Fokker_D_VII_World_War_I_Biplane_Balsa_1200mm_ARF_.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$194.19",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:04:46 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76438"
   },
   {
    "location": "Australia Warehouse",
    "price": "$187.73",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 04:04:45 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76779"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$186.45",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:04:44 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76894"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$174.38",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:04:42 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77099"
   }
  ],

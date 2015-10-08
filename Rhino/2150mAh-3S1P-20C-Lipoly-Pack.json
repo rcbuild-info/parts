@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$10.34",
+   "price": "$13.65",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:50:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__7363__Rhino_2150mAh_3S1P_20C_Lipoly_Pack_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$11.41",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:49:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50140"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$11.01",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:49:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50245"
   },
   {
    "location": "Australia Warehouse",
    "price": "$11.28",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:49:09 GMT",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51240"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$11.56",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:49:09 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51363"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$10.88",
    "stock_state": "in_stock",
    "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 02:49:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57727"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$14.34",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:49:07 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59524"
   }
  ],

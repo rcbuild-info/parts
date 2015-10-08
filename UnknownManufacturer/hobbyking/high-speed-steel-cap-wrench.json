@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "high-speed steel cap wrench",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__5939__high_speed_steel_cap_wrench.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.04",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5939__high_speed_steel_cap_wrench.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

@@ -11,26 +11,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.66",
+   "price": "$3.51",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:44:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__28351__Rubber_Band_Powered_Freeflight_L_Vega_Airplane_291mm_Span.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$3.01",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:43:36 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47876"
   },
   {
    "location": "Australia Warehouse",
    "price": "$4.76",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:43:35 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53640"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$3.01",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:43:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70251"
   }
  ],

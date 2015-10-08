@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$3.94",
+   "price": "$5.20",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:40:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__28287__GWS_Style_Slowfly_Propeller_12x3_8_Black_CW_4pcs_.html"
   },
   {
@@ -22,23 +21,20 @@
    "price": "$4.27",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:39:43 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42180"
   },
   {
    "location": "USA West Warehouse",
    "price": "$4.10",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Sun, 27 Sep 2015 23:39:42 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43920"
   },
   {
    "location": "European Warehouse",
    "price": "$4.30",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:39:41 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44288"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$4.21",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:39:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53827"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$4.10",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Sun, 27 Sep 2015 23:39:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72199"
   }
  ],

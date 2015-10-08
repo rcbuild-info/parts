@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$32.61",
+   "price": "$37.69",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:25:58 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__23158__Turnigy_8482_TGY_1267HV_Titanium_BB_DS_MG_Servo14kg_10sec_57g.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$41.91",
    "stock_state": "in_stock",
    "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 00:25:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69853"
   },
   {
    "location": "European Warehouse",
    "price": "$36.06",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:25:33 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77722"
   }
  ],

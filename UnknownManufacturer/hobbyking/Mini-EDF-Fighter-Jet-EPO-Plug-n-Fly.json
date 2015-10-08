@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$64.89",
+   "price": "$85.65",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 04:14:29 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/__13426__Mini_EDF_Fighter_Jet_EPO_Plug_n_Fly.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$73.78",
    "stock_state": "in_stock",
    "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 04:12:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16278"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$82.49",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:12:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32461"
   },
   {
    "location": "UK Warehouse",
    "price": "$81.13",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 04:12:50 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56107"
   }
  ],

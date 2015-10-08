@@ -14,18 +14,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$29.46",
-   "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 02:59:57 GMT",
+   "price": "$38.74",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__19138__Turnigy_nano_tech_3850mah_2S_65_130C_Lipo_Pack.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$30.58",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 02:57:52 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33244"
   },
   {
@@ -33,7 +31,6 @@
    "price": "$30.97",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:57:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34327"
   },
   {
@@ -41,7 +38,6 @@
    "price": "$30.63",
    "stock_state": "in_stock",
    "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 02:57:49 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35134"
   },
   {
@@ -49,7 +45,6 @@
    "price": "$31.14",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:57:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36212"
   },
   {
@@ -57,7 +52,6 @@
    "price": "$30.58",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 02:57:47 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59151"
   },
   {
@@ -65,7 +59,6 @@
    "price": "$40.37",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 02:57:46 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60098"
   }
  ],

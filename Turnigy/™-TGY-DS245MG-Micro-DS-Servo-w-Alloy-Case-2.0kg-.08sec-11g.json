@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$22.85",
+   "price": "$23.43",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:28:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__50464__Turnigy_8482_TGY_DS245MG_Micro_DS_Servo_w_Alloy_Case_2_0kg_08sec_11g.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$22.85",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:25:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57509"
   },
   {
    "location": "Russia Warehouse",
    "price": "$27.16",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:25:09 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60824"
   }
  ],

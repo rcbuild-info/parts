@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$89.99",
-   "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:41:56 GMT",
+   "price": "$118.79",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__28233__Dragonfly_1800_EP_Composite_Glider_w_Motor_1800mm_ARF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$107.24",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:40:35 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39914"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$108.61",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:40:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49796"
   },
   {
@@ -39,15 +36,13 @@
    "price": "$98.05",
    "stock_state": "in_stock",
    "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:40:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56874"
   },
   {
    "location": "USA East Warehouse",
    "price": "$97.02",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 03:40:32 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63201"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$104.69",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:40:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67985"
   }
  ],

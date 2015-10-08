@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$7.15",
+   "price": "$7.67",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:44:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__21246__HobbyKing_6A_ESC_0_5A_UBEC.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$7.25",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:42:28 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24526"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$7.29",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:42:27 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29556"
   },
   {
@@ -39,15 +36,13 @@
    "price": "$7.80",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:42:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36311"
   },
   {
    "location": "Australia Warehouse",
    "price": "$7.30",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 00:42:25 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39369"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$7.25",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:42:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70451"
   }
  ],

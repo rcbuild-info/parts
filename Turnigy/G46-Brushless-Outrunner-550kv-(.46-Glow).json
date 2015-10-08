@@ -12,34 +12,30 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$51.39",
+   "price": "$66.53",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:29:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__19027__Turnigy_G46_Brushless_Outrunner_550kv_46_Glow_.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$53.26",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 01:28:05 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23321"
   },
   {
    "location": "Australia Warehouse",
    "price": "$52.85",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:28:04 GMT",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28178"
   },
   {
    "location": "UK Warehouse",
    "price": "$54.42",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:28:04 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31769"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$55.45",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:28:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46425"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$53.26",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:28:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70674"
   }
  ],

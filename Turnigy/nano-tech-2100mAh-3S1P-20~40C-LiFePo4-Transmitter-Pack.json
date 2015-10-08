@@ -14,10 +14,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$17.88",
+   "price": "$23.60",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:10:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__23815__Turnigy_nano_tech_2100mAh_3S1P_20_40C_LiFePo4_Transmitter_Pack.html"
   },
   {
@@ -25,7 +24,6 @@
    "price": "$18.82",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:08:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32561"
   },
   {
@@ -33,7 +31,6 @@
    "price": "$18.92",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:08:09 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34375"
   },
   {
@@ -41,15 +38,13 @@
    "price": "$18.69",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:08:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35564"
   },
   {
    "location": "USA West Warehouse",
    "price": "$18.46",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:08:07 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35615"
   },
   {
@@ -57,7 +52,6 @@
    "price": "$18.07",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:08:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59275"
   },
   {
@@ -65,7 +59,6 @@
    "price": "$23.66",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:08:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60237"
   }
  ],

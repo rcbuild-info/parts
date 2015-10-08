@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$15.51",
+   "price": "$16.41",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 00:20:40 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/__78216__Power_HD_1810MG_Metal_Gear_Coreless_Digital_Servo_3_9kg_16g_13sec.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$15.94",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:20:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78218"
   },
   {
    "location": "European Warehouse",
    "price": "$17.08",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:20:19 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78219"
   },
   {
@@ -39,15 +36,13 @@
    "price": "$16.91",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:20:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78220"
   },
   {
    "location": "Australia Warehouse",
    "price": "$16.36",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:20:17 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78224"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$15.94",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:20:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78268"
   }
  ],

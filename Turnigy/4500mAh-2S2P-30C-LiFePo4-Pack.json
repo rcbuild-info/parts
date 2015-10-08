@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$25.60",
+   "price": "$33.79",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:26:01 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__10309__Turnigy_4500mAh_2S2P_30C_LiFePo4_Pack.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$26.85",
-   "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 03:25:55 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14687"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$24.70",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:25:54 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16201"
   },
   {
@@ -39,23 +36,20 @@
    "price": "$27.50",
    "stock_state": "in_stock",
    "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 03:25:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31939"
   },
   {
    "location": "European Warehouse",
    "price": "$27.95",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 03:25:52 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36012"
   },
   {
    "location": "USA East Warehouse",
    "price": "$24.70",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 03:25:51 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58925"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$34.82",
    "stock_state": "in_stock",
    "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 03:25:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59852"
   }
  ],

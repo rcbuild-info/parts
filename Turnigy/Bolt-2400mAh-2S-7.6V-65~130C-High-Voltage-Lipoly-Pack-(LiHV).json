@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Turnigy",
  "name": "Bolt 2400mAh 2S 7.6V 65~130C High Voltage Lipoly Pack (LiHV)",
@@ -7,13 +7,45 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64929",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64788",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63784",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63004",
-   "http://www.hobbyking.com/hobbyking/store/__51507__Turnigy_Bolt_2400mAh_2S_7_6V_65_130C_High_Voltage_Lipoly_Pack_LiHV_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$23.27",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51507__Turnigy_Bolt_2400mAh_2S_7_6V_65_130C_High_Voltage_Lipoly_Pack_LiHV_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$18.10",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63004"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$18.44",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63784"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$18.42",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64788"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$18.59",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64929"
+  }
+ ],
+ "version": 2,
+ "weight": "134"
 }

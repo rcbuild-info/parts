@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$23.99",
+   "price": "$31.67",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 03:37:29 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/__11440__Combat_Slope_Soaring_Wing_EPP_Foam_CF_tube_Kit.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$25.00",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 03:35:17 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30973"
   },
   {
@@ -31,23 +29,20 @@
    "price": "$25.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:35:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32452"
   },
   {
    "location": "UK Warehouse",
    "price": "$26.40",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 03:35:15 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37186"
   },
   {
    "location": "USA West Warehouse",
    "price": "$26.07",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 03:35:14 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38875"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$26.07",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:35:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63163"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$28.41",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:35:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67948"
   }
  ],

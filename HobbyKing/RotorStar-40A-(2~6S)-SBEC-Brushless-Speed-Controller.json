@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$20.85",
+   "price": "$23.03",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:53:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__55422__RotorStar_40A_2_6S_SBEC_Brushless_Speed_Controller.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$21.37",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:52:49 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76424"
   },
   {
    "location": "European Warehouse",
    "price": "$22.83",
-   "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 00:52:48 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76486"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$22.04",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:52:47 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77233"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$23.08",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:52:46 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77234"
   }
  ],

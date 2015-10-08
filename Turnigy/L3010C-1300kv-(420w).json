@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$12.20",
+   "price": "$15.83",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:16:49 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__14742__Turnigy_L3010C_1300kv_420w_.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$12.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:15:57 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42464"
   },
   {
    "location": "Russia Warehouse",
    "price": "$13.69",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 01:15:56 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68042"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$12.71",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:15:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71750"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$13.79",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:15:55 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77584"
   }
  ],

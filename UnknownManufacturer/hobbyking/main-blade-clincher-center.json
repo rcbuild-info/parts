@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "main blade clincher center",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__5954__main_blade_clincher_center.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5954__main_blade_clincher_center.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

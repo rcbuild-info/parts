@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$20.95",
+   "price": "$27.65",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 01:41:27 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/__15432__Warhead_3545_1850KV_EDF_Motor_90mm.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$22.30",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:40:28 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31230"
   },
   {
    "location": "USA East Warehouse",
    "price": "$20.95",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 01:40:27 GMT",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57743"
   }
  ],

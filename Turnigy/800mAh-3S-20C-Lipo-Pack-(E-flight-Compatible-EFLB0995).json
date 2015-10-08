@@ -12,58 +12,51 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$7.64",
+   "price": "$10.08",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:24:58 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__9173__Turnigy_800mAh_3S_20C_Lipo_Pack_E_flight_Compatible_EFLB0995_.html"
   },
   {
    "location": "USA West Warehouse",
-   "price": "$7.91",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:21:48 GMT",
+   "price": "$7.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16597"
   },
   {
    "location": "Australia Warehouse",
-   "price": "$8.06",
+   "price": "$7.63",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:21:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16735"
   },
   {
    "location": "UK Warehouse",
-   "price": "$8.25",
+   "price": "$7.81",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:21:47 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26722"
   },
   {
    "location": "European Warehouse",
-   "price": "$8.61",
+   "price": "$8.15",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:21:45 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45024"
   },
   {
    "location": "USA East Warehouse",
-   "price": "$8.02",
+   "price": "$7.60",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:21:44 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58826"
   },
   {
    "location": "Russia Warehouse",
-   "price": "$10.32",
+   "price": "$10.17",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:21:43 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59744"
   }
  ],

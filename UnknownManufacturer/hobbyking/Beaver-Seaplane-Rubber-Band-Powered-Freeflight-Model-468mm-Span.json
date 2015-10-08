@@ -11,26 +11,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$6.25",
+   "price": "$8.25",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 03:43:57 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/__23801__Beaver_Seaplane_Rubber_Band_Powered_Freeflight_Model_468mm_Span.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$7.05",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:42:46 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32511"
   },
   {
    "location": "USA West Warehouse",
    "price": "$7.09",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 03:42:45 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33347"
   },
   {
@@ -38,15 +35,13 @@
    "price": "$7.25",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:42:44 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34684"
   },
   {
    "location": "European Warehouse",
    "price": "$8.85",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:42:43 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41383"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$7.09",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:42:42 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70246"
   }
  ],

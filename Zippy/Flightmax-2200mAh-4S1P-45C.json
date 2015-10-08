@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$22.95",
+   "price": "$30.29",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 02:56:39 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/__16479__ZIPPY_Flightmax_2200mAh_4S1P_45C.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$24.05",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:55:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20840"
   },
   {
    "location": "Australia Warehouse",
    "price": "$24.39",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 02:55:02 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22725"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$24.39",
    "stock_state": "in_stock",
    "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 02:55:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32219"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$24.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:55:01 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38311"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$24.05",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:55:00 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58674"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$30.98",
    "stock_state": "in_stock",
    "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 02:54:59 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59582"
   }
  ],

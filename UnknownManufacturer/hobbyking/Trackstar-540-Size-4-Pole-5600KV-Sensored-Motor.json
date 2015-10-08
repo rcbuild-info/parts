@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$45.89",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:19:42 GMT",
+   "price": "$53.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/__39655__Trackstar_540_Size_4_Pole_5600KV_Sensored_Motor.html"
   },
   {
@@ -22,7 +21,6 @@
    "price": "$48.66",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:19:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54960"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$46.14",
    "stock_state": "in_stock",
    "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 01:19:25 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56265"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$47.13",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 01:19:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58406"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$46.14",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 01:19:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71412"
   }
  ],

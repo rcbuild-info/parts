@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$79.37",
+   "price": "$104.77",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 04:14:42 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/__12942__T_45_Goshawk_R_C_64mm_EDF_Jet_EPO_Plug_n_Fly.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$94.45",
    "stock_state": "in_stock",
    "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 04:13:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16273"
   },
   {
    "location": "USA West Warehouse",
    "price": "$97.19",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 04:13:20 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21843"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$101.01",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:13:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30411"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$95.33",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:13:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39835"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$101.15",
    "stock_state": "in_stock",
    "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 04:13:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66343"
   }
  ],

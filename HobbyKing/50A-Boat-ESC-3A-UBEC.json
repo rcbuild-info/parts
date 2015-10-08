@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$19.80",
+   "price": "$23.37",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:54:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__24568__HobbyKing_50A_Boat_ESC_3A_UBEC.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$22.55",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:45:36 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29567"
   }
  ],

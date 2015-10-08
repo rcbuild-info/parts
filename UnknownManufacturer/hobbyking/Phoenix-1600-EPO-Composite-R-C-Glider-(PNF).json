@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$67.62",
+   "price": "$89.26",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:41:53 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/__40282__Phoenix_1600_EPO_Composite_R_C_Glider_PNF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$78.13",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:40:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47740"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$79.18",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:40:25 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47783"
   },
   {
@@ -39,15 +36,13 @@
    "price": "$81.16",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:40:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47898"
   },
   {
    "location": "USA West Warehouse",
    "price": "$79.45",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 03:40:22 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48043"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$79.45",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:40:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67931"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$99.20",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:40:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68909"
   }
  ],

@@ -11,26 +11,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$9.30",
+   "price": "$10.32",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:57:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__6312__hexTronik_5gram_Brushless_Outrunner_2000kv.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$9.40",
-   "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 00:56:36 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34099"
   },
   {
    "location": "Australia Warehouse",
    "price": "$9.65",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 00:56:34 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36556"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$9.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:56:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70766"
   }
  ],

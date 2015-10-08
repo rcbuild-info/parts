@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$8.75",
+   "price": "$11.55",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:03:45 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__28273__Hobbyking_Parallel_Charge_Board_For_6_Packs_2_6S_EC5_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$9.35",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:03:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36501"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$8.90",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:03:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41302"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$9.35",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:03:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42965"
   },
   {
@@ -47,15 +43,13 @@
    "price": "$9.10",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:03:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44957"
   },
   {
    "location": "Russia Warehouse",
    "price": "$11.28",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 02:03:17 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61003"
   }
  ],

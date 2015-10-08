@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$169.99",
+   "price": "$224.39",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 04:06:49 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/__35900__AT_6_Texan_w_Flaps_Retracts_Lights_and_Engine_Sound_Module_System_1300mm_PNF_.html"
   },
   {
@@ -30,8 +29,7 @@
    "location": "European Warehouse",
    "price": "$212.95",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:05:18 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44548"
   },
   {
@@ -39,15 +37,13 @@
    "price": "$203.23",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:05:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45682"
   },
   {
    "location": "USA West Warehouse",
    "price": "$171.11",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:05:16 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47706"
   },
   {
@@ -55,7 +51,6 @@
    "price": "$220.16",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:05:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63359"
   }
  ],

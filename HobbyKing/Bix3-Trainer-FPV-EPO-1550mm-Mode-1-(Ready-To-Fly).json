@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$138.68",
+   "price": "$183.06",
    "stock_state": "in_stock",
    "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 03:55:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__56542__HobbyKing_8482_Bix3_Trainer_FPV_EPO_1550mm_Mode_1_Ready_To_Fly_.html"
   },
   {
    "location": "USA East Warehouse",
    "price": "$153.85",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:54:43 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67830"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$159.24",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:54:42 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69341"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$163.67",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:54:41 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69497"
   }
  ],

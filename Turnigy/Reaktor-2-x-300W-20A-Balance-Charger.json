@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$121.08",
+   "price": "$159.83",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:57:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__57096__Turnigy_Reaktor_2_x_300W_20A_Balance_Charger.html"
   },
   {
@@ -22,8 +21,14 @@
    "price": "$128.08",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:55:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70272"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$128.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84462"
   }
  ],
  "version": 2,

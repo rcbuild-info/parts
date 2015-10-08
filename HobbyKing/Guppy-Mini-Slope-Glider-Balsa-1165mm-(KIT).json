@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$40.32",
+   "price": "$53.22",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 03:45:27 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/__52444__HobbyKing_8482_Guppy_Mini_Slope_Glider_Balsa_1165mm_KIT_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$48.40",
    "stock_state": "in_stock",
    "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 03:44:35 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77756"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$51.11",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:44:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77757"
   },
   {
@@ -39,23 +36,20 @@
    "price": "$51.49",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:44:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77758"
   },
   {
    "location": "Australia Warehouse",
    "price": "$48.06",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:44:32 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77759"
   },
   {
    "location": "USA West Warehouse",
    "price": "$48.27",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 03:44:31 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77761"
   }
  ],

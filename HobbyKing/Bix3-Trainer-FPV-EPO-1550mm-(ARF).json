@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$70.36",
+   "price": "$92.88",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:55:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__56545__HobbyKing_8482_Bix3_Trainer_FPV_EPO_1550mm_ARF_.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$83.79",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:55:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67832"
   },
   {
    "location": "UK Warehouse",
    "price": "$88.34",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 03:55:12 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67941"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$84.34",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:55:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68657"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$83.24",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:55:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73018"
   }
  ],

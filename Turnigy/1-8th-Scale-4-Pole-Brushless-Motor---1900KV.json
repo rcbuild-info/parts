@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$41.88",
+   "price": "$53.86",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:40:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__17980__Turnigy_1_8th_Scale_4_Pole_Brushless_Motor_1900KV.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$42.86",
    "stock_state": "in_stock",
    "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 01:39:28 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25870"
   },
   {
    "location": "USA West Warehouse",
    "price": "$43.26",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:39:27 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27973"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$44.53",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:39:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29883"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$47.59",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:39:25 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48174"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$43.26",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:39:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70646"
   }
  ],

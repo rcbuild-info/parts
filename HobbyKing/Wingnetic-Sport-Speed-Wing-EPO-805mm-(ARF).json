@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "HobbyKing",
  "name": "Wingnetic Sport Speed Wing EPO 805mm (ARF)",
@@ -7,13 +7,45 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76878",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76877",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72413",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72394",
-   "http://www.hobbyking.com/hobbyking/store/__56562__HobbyKing_8482_Wingnetic_Sport_Speed_Wing_EPO_805mm_ARF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$55.82",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "url": "http://www.hobbyking.com/hobbyking/store/__56562__HobbyKing_8482_Wingnetic_Sport_Speed_Wing_EPO_805mm_ARF_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$53.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72394"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$56.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72413"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$64.25",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76877"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$60.41",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76878"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

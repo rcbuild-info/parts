@@ -12,11 +12,17 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$3.50",
+   "price": "$3.85",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:17:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__5458__Hobby_King_4_3g_5kg_10sec_Micro_Servo_.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$3.65",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29802"
   }
  ],
  "version": 2,

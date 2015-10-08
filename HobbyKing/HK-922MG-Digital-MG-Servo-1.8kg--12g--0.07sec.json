@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$7.85",
+   "price": "$8.87",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:30:59 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__14279__HobbyKing_HK_922MG_Digital_MG_Servo_1_8kg_12g_0_07sec.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$8.25",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:29:59 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31632"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$8.25",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:29:58 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31884"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$8.25",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:29:57 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43535"
   },
   {
@@ -47,15 +43,13 @@
    "price": "$8.00",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:29:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55638"
   },
   {
    "location": "USA East Warehouse",
    "price": "$8.08",
-   "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 00:29:55 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71707"
   }
  ],

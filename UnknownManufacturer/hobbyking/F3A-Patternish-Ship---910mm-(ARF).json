@@ -12,26 +12,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$29.25",
+   "price": "$38.61",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:00:49 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__17376__F3A_Patternish_Ship_910mm_ARF_.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$38.32",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 04:00:00 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42770"
   },
   {
    "location": "USA East Warehouse",
    "price": "$38.32",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:59:59 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68497"
   }
  ],

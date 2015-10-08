@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$25.85",
+   "price": "$34.12",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:25:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__15521__Turnigy_5000mAh_4S1P_14_8v_20C_Hardcase_Pack.html"
   },
   {
@@ -23,7 +22,20 @@
    "price": "$26.18",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:24:19 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18631__Turnigy_5000mAh_4S1P_14_8v_20C_Hardcase_Pack_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$34.12",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15521"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$26.18",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18631"
   },
   {
@@ -31,7 +43,6 @@
    "price": "$26.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:24:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=19499"
   },
   {
@@ -39,7 +50,6 @@
    "price": "$27.65",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:24:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26801"
   },
   {
@@ -47,7 +57,6 @@
    "price": "$32.03",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:24:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36032"
   },
   {
@@ -55,7 +64,6 @@
    "price": "$26.18",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:24:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58976"
   },
   {
@@ -63,7 +71,6 @@
    "price": "$33.23",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:24:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59906"
   }
  ],

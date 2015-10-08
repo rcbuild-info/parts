@@ -12,26 +12,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.11",
+   "price": "$2.69",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:06:00 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__24424__2mm_Gold_Connectors_10_pairs_20pc_.html"
   },
   {
    "location": "International Warehouse",
-   "price": "$2.40",
+   "price": "$2.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:00:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__66__2mm_Gold_Connectors_10_pairs_20pc_.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$2.33",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:58:20 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17459"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$2.73",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:58:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28440"
   },
   {
@@ -47,15 +43,13 @@
    "price": "$2.57",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:58:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30663"
   },
   {
    "location": "European Warehouse",
    "price": "$2.32",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:04:12 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31509"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$2.32",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:04:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31863"
   },
   {
@@ -71,7 +64,6 @@
    "price": "$2.58",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:58:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36237"
   },
   {
@@ -79,23 +71,20 @@
    "price": "$2.30",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:04:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36994"
   },
   {
    "location": "Australia Warehouse",
    "price": "$2.33",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:04:10 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44783"
   },
   {
    "location": "USA East Warehouse",
    "price": "$2.57",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:58:17 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64346"
   },
   {
@@ -103,7 +92,6 @@
    "price": "$2.30",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:04:09 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64404"
   },
   {
@@ -111,7 +99,6 @@
    "price": "$3.21",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:58:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68266"
   },
   {
@@ -119,7 +106,6 @@
    "price": "$2.82",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:04:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69870"
   }
  ],

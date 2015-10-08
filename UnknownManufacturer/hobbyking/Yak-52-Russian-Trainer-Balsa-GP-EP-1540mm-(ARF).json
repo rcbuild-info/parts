@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$114.24",
+   "price": "$150.80",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:07:00 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__56284__Yak_52_Russian_Trainer_Balsa_GP_EP_1540mm_ARF_.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$120.43",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 04:06:06 GMT",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72389"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$144.63",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:06:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72625"
   },
   {
    "location": "Australia Warehouse",
    "price": "$156.24",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 04:06:04 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73795"
   }
  ],

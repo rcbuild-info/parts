@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$21.74",
+   "price": "$25.19",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:07:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__55417__NTM_Prop_Drive_Series_28_36S_2300kv_630w_short_shaft_version_w_Japan_EZO_Bearing.html"
   },
   {
    "location": "USA East Warehouse",
    "price": "$21.69",
-   "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 01:06:28 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72414"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$22.14",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:06:27 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72717"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$23.74",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:04:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73378"
   }
  ],

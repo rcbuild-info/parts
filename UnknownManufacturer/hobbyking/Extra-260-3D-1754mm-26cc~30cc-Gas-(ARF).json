@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$212.85",
+   "price": "$280.96",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:12:01 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__15120__Extra_260_3D_1754mm_26cc_30cc_Gas_ARF_.html"
   },
   {
@@ -22,8 +21,14 @@
    "price": "$283.00",
    "stock_state": "in_stock",
    "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 04:11:42 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=19798"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$296.04",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30435"
   }
  ],
  "version": 2,

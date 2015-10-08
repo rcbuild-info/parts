@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "flybar mixing arm set subassembly",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__5843__flybar_mixing_arm_set_subassembly.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.53",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5843__flybar_mixing_arm_set_subassembly.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

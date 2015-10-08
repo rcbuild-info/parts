@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$3.30",
+   "price": "$4.36",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:34:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__22446__GWS_Style_Slowfly_Propeller_10x4_5_Black_CCW_4pcs_.html"
   },
   {
    "location": "International Warehouse",
-   "price": "$3.30",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:34:54 GMT",
+   "price": "$4.36",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__22447__GWS_Style_Slowfly_Propeller_10x4_5_Black_CCW_4pcs_.html"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$4.00",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:32:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30298"
   },
   {
@@ -38,15 +35,13 @@
    "price": "$3.53",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:32:55 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34508"
   },
   {
    "location": "European Warehouse",
    "price": "$3.53",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:33:04 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34509"
   },
   {
@@ -54,23 +49,20 @@
    "price": "$3.53",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:32:54 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35242"
   },
   {
    "location": "UK Warehouse",
    "price": "$3.53",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:33:03 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35243"
   },
   {
    "location": "Australia Warehouse",
    "price": "$3.46",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:33:02 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37621"
   },
   {
@@ -78,15 +70,13 @@
    "price": "$3.44",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:32:54 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38920"
   },
   {
    "location": "USA West Warehouse",
    "price": "$3.44",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:33:01 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38921"
   },
   {
@@ -94,15 +84,13 @@
    "price": "$3.44",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:32:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68547"
   },
   {
    "location": "USA East Warehouse",
    "price": "$3.44",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:33:00 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68549"
   }
  ],

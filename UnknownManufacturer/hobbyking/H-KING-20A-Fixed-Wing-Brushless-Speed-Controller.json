@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$9.59",
+   "price": "$11.01",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:55:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__14871__H_KING_20A_Fixed_Wing_Brushless_Speed_Controller.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$9.95",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 00:54:38 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20549"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$9.75",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:54:37 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24236"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$10.40",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:54:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32469"
   }
  ],

@@ -12,34 +12,30 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$32.99",
+   "price": "$43.55",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:10:08 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/__25663__Wing_Wing_Z_84_EPO_845mm_KIT_.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$37.30",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 04:08:30 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30766"
   },
   {
    "location": "UK Warehouse",
    "price": "$39.14",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 04:08:29 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32047"
   },
   {
    "location": "European Warehouse",
    "price": "$39.63",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 04:08:28 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32419"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$38.91",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:08:27 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39198"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$37.30",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:08:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67797"
   }
  ],

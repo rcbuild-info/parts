@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "AC-10 Gyrocopter 1320mm (PNF)",
@@ -7,13 +7,45 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68805",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68804",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68803",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68802",
-   "http://www.hobbyking.com/hobbyking/store/__68800__AC_10_Gyrocopter_1320mm_PNF_.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$449.06",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "url": "http://www.hobbyking.com/hobbyking/store/__68800__AC_10_Gyrocopter_1320mm_PNF_.html"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$365.76",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68802"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$388.00",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68803"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$379.34",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68804"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$381.71",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68805"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

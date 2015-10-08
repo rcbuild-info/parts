@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$3.14",
+   "price": "$4.04",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:16:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__23222__T_Connector_to_EC3_Battery_Adapter_3pcs_bag_.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$3.44",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:16:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43859"
   },
   {
    "location": "Australia Warehouse",
    "price": "$3.47",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 02:16:05 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46007"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$3.34",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:16:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51686"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$3.57",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:16:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57228"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$3.44",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:16:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71972"
   }
  ],

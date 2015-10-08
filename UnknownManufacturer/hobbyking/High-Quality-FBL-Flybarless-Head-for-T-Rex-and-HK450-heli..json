@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$11.95",
+   "price": "$13.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:23:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__12941__High_Quality_FBL_Flybarless_Head_for_T_Rex_and_HK450_heli_.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$15.25",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Sun, 27 Sep 2015 23:22:10 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54653"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$15.53",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:22:09 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61468"
   }
  ],

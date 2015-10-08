@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$33.99",
+   "price": "$44.87",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 04:09:55 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/__17969__HobbyKing_Teksumo_EPP_Wing_900mm_ARF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$37.93",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:07:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34221"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$37.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:07:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35186"
   },
   {
    "location": "USA West Warehouse",
    "price": "$39.10",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:07:38 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37791"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$37.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:07:37 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38574"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$53.28",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:07:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69748"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$39.10",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:07:35 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71885"
   }
  ],

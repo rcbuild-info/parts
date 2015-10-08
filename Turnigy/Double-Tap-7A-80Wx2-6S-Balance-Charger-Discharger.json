@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$59.76",
+   "price": "$78.88",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 01:56:49 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/__28759__Turnigy_Double_Tap_7A_80Wx2_6S_Balance_Charger_Discharger.html"
   },
   {
@@ -22,7 +21,6 @@
    "price": "$65.80",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:54:43 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56466"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$65.44",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:54:42 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56815"
   },
   {
@@ -38,15 +35,13 @@
    "price": "$61.06",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:54:41 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56900"
   },
   {
    "location": "USA East Warehouse",
    "price": "$61.06",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 01:54:40 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72281"
   }
  ],

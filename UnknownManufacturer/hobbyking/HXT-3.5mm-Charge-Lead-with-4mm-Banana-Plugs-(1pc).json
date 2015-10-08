@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.51",
+   "price": "$3.31",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:00:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__47585__HXT_3_5mm_Charge_Lead_with_4mm_Banana_Plugs_1pc_.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$2.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:58:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64608"
   },
   {
    "location": "USA West Warehouse",
    "price": "$2.74",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 01:58:10 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65761"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$3.49",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 01:58:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70150"
   }
  ],

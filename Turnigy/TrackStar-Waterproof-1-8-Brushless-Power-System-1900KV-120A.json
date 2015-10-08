@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$96.20",
+   "price": "$114.01",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 01:40:05 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/__25142__Turnigy_TrackStar_Waterproof_1_8_Brushless_Power_System_1900KV_120A.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$98.28",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 01:39:10 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41298"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$98.57",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:39:09 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41895"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$102.22",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:39:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42937"
   },
   {
@@ -46,15 +42,13 @@
    "price": "$110.85",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:39:07 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45001"
   },
   {
    "location": "Russia Warehouse",
    "price": "$130.88",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 01:39:05 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69901"
   },
   {
@@ -62,7 +56,6 @@
    "price": "$98.28",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:39:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71386"
   }
  ],

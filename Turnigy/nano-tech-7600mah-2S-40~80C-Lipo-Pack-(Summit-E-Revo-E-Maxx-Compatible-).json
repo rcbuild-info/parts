@@ -14,18 +14,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$49.95",
+   "price": "$64.39",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:54:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__21942__Turnigy_nano_tech_7600mah_2S_40_80C_Lipo_Pack_Summit_E_Revo_E_Maxx_Compatible_.html"
   },
   {
    "location": "European Warehouse",
    "price": "$53.24",
-   "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 01:53:58 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32791"
   },
   {
@@ -33,7 +31,6 @@
    "price": "$68.44",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 01:53:57 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60139"
   }
  ],

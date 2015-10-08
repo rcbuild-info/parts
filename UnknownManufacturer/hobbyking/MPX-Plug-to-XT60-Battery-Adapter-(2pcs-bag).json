@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$3.34",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 02:16:35 GMT",
+   "price": "$3.72",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__62928__MPX_Plug_to_XT60_Battery_Adapter_2pcs_bag_.html"
   }
  ],

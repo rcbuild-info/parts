@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$11.85",
+   "price": "$15.64",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:41:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__17231__Turnigy_2226_3000_70mm_EDF_Outrunner_.html"
   },
   {
    "location": "European Warehouse",
    "price": "$12.20",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 01:40:54 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36653"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$12.20",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:40:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37002"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$11.52",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:40:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41174"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$11.52",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:40:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71745"
   }
  ],

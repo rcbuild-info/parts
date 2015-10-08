@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$12.80",
+   "price": "$16.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:07:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__12887__XT150_Connectors_w_6mm_Gold_Connectors_Red_Blue_Black_5pairs_bag_.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$14.00",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 00:06:12 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42544"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$14.15",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:06:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42593"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$14.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:06:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48085"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$15.90",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:06:09 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60599"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$14.00",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:06:09 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64728"
   }
  ],

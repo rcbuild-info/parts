@@ -1,0 +1,50 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "Turnigy",
+ "name": "Bolt 3450mAh 4S 15.2V 65~130C High Voltage Lipoly Pack (LiHV)",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$65.21",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "url": "http://www.hobbyking.com/hobbyking/store/__51504__Turnigy_Bolt_3450mAh_4S_15_2V_65_130C_High_Voltage_Lipoly_Pack_LiHV_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$52.00",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63001"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$52.91",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63781"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$52.86",
+   "stock_state": "in_stock",
+   "stock_text": "3",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64785"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$53.31",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64926"
+  }
+ ],
+ "version": 2,
+ "weight": "374"
+}

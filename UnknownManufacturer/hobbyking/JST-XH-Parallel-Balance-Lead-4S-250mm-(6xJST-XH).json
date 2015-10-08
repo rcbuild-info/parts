@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.45",
+   "price": "$3.23",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:02:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__32032__JST_XH_Parallel_Balance_Lead_4S_250mm_6xJST_XH_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$3.44",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:01:43 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69993"
   }
  ],

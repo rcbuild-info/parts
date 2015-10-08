@@ -14,18 +14,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$9.69",
+   "price": "$12.79",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:20:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__17295__Turnigy_nano_tech_1800mah_2S_25_50C_Lipo_AIRSOFT_Pack.html"
   },
   {
    "location": "International Warehouse",
-   "price": "$10.00",
+   "price": "$13.20",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:22:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__17297__Turnigy_nano_tech_1800mah_2S_25_50C_Lipo_AIRSOFT_Pack.html"
   },
   {
@@ -33,7 +31,6 @@
    "price": "$10.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:19:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44067"
   },
   {
@@ -41,15 +38,13 @@
    "price": "$10.85",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:20:45 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44069"
   },
   {
    "location": "European Warehouse",
    "price": "$10.45",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:19:32 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44695"
   },
   {
@@ -57,7 +52,6 @@
    "price": "$10.70",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:20:44 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44708"
   },
   {
@@ -65,7 +59,6 @@
    "price": "$10.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:19:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59099"
   },
   {
@@ -73,7 +66,6 @@
    "price": "$10.85",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:20:43 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59104"
   },
   {
@@ -81,7 +73,6 @@
    "price": "$12.94",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:19:30 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60041"
   }
  ],

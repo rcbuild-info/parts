@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$98.00",
+   "price": "$129.36",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 03:42:05 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/__39719__HobbyKing_174_Specter_Electric_Sailplane_Composite_1800mm_ARF_.html"
   },
   {
@@ -23,15 +22,20 @@
    "price": "$111.80",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:41:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52797"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$104.50",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54259"
   },
   {
    "location": "Australia Warehouse",
    "price": "$106.18",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:41:07 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54829"
   },
   {
@@ -39,7 +43,6 @@
    "price": "$113.60",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:41:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57908"
   },
   {
@@ -47,7 +50,6 @@
    "price": "$127.06",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:41:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63350"
   }
  ],

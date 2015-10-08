@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$24.95",
+   "price": "$30.72",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:28:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__8496__Turnigy_8482_S8166M_High_Torque_Servo_33kg_21deg_154g.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$27.67",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 00:27:33 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29807"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$27.20",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:27:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41740"
   },
   {
    "location": "Australia Warehouse",
    "price": "$25.80",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 00:27:31 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41907"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$25.30",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:27:30 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42461"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$25.30",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:27:29 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71906"
   }
  ],

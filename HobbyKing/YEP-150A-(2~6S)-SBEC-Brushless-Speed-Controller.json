@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$57.29",
+   "price": "$61.29",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:44:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__28371__Hobbyking_YEP_150A_2_6S_SBEC_Brushless_Speed_Controller.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$57.96",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 00:40:33 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43921"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$61.44",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:40:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44473"
   },
   {
@@ -39,15 +36,13 @@
    "price": "$61.52",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:40:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45004"
   },
   {
    "location": "Australia Warehouse",
    "price": "$59.13",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 00:40:30 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46737"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$74.92",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:40:29 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68979"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$57.96",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:36:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71547"
   }
  ],

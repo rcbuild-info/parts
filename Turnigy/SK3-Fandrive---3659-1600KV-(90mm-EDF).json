@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$50.44",
+   "price": "$62.19",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 01:19:48 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/__25416__Turnigy_SK3_Fandrive_3659_1600KV_90mm_EDF_.html"
   },
   {
@@ -23,23 +22,20 @@
    "price": "$53.55",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:19:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31225"
   },
   {
    "location": "USA West Warehouse",
    "price": "$50.86",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 01:19:32 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42469"
   },
   {
    "location": "European Warehouse",
    "price": "$53.52",
-   "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 01:19:31 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46838"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$50.86",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:19:30 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71390"
   }
  ],

@@ -12,34 +12,30 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$38.95",
+   "price": "$49.36",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:53:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__17234__HobbyKing_80A_Sensored_Sensorless_Car_ESC_1_8_1_5_.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$40.30",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 00:52:52 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=19746"
   },
   {
    "location": "USA West Warehouse",
    "price": "$40.24",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:52:51 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21863"
   },
   {
    "location": "USA East Warehouse",
    "price": "$40.24",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:52:50 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70702"
   }
  ],

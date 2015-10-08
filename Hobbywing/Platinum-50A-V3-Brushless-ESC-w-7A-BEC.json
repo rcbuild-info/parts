@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$46.84",
+   "price": "$51.77",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:52:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__65251__Hobbywing_Platinum_50A_V3_Brushless_ESC_w_7A_BEC.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$46.98",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:51:52 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68682"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$46.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:51:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68792"
   }
  ],

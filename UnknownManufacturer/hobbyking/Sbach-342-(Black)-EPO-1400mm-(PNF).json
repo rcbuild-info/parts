@@ -12,34 +12,30 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$136.50",
+   "price": "$180.18",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:10:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__20702__Sbach_342_Black_EPO_1400mm_PNF_.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$171.96",
-   "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 04:08:58 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27024"
   },
   {
    "location": "European Warehouse",
    "price": "$175.71",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:08:56 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30351"
   },
   {
    "location": "Australia Warehouse",
    "price": "$162.12",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 04:08:55 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36603"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$160.12",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:08:54 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63185"
   }
  ],

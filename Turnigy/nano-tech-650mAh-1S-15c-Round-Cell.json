@@ -14,26 +14,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.03",
+   "price": "$2.61",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:31:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__23317__Turnigy_nano_tech_650mAh_1S_15c_Round_Cell.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$2.11",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:29:31 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36948"
   },
   {
    "location": "Australia Warehouse",
    "price": "$2.13",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:29:30 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37332"
   },
   {
@@ -41,7 +38,6 @@
    "price": "$2.17",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:29:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37561"
   },
   {
@@ -49,7 +45,6 @@
    "price": "$2.18",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:29:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38381"
   },
   {
@@ -57,7 +52,6 @@
    "price": "$2.11",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:29:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59262"
   },
   {
@@ -65,7 +59,6 @@
    "price": "$2.47",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:29:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60222"
   }
  ],

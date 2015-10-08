@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$16.60",
+   "price": "$18.69",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:48:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__51973__Multirotor_Carbon_Fiber_T_Style_Propeller_16x5_5_Black_CW_CCW_2pcs_.html"
   },
   {
@@ -22,7 +21,6 @@
    "price": "$17.75",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:48:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54867"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$17.01",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:48:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55217"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$17.78",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:48:47 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64532"
   },
   {
@@ -46,15 +42,13 @@
    "price": "$18.13",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:48:46 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67247"
   },
   {
    "location": "USA East Warehouse",
    "price": "$17.01",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:45:49 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71276"
   }
  ],

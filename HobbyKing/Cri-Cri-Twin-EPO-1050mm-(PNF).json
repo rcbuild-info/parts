@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$129.09",
+   "price": "$170.40",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 03:50:00 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/__51515__HobbyKing_Cri_Cri_Twin_EPO_1050mm_PNF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$139.14",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:49:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56882"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$151.92",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:49:07 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57919"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$147.06",
    "stock_state": "in_stock",
    "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 03:49:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58032"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$142.87",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:49:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58054"
   }
  ],

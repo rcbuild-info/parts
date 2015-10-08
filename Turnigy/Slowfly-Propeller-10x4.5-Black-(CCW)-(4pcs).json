@@ -11,26 +11,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$5.40",
+   "price": "$7.13",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:40:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__34087__Turnigy_Slowfly_Propeller_10x4_5_Black_CCW_4pcs_.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$5.80",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Sun, 27 Sep 2015 23:39:39 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49822"
   },
   {
    "location": "European Warehouse",
    "price": "$5.80",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Sun, 27 Sep 2015 23:39:38 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50301"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$5.94",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:39:37 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57122"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$5.96",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:39:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67236"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$10.95",
+   "price": "$11.33",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:44:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__37943__Hobbyking_YEP_7A_1_2S_Brushless_Speed_Controller_No_Wire_Version_.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$14.75",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:41:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70035"
   },
   {
    "location": "European Warehouse",
    "price": "$12.15",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:41:31 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77723"
   }
  ],

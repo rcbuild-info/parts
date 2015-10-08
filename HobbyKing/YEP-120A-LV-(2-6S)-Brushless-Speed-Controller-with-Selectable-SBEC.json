@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$57.88",
+   "price": "$61.91",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:55:00 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__40276__Hobbyking_YEP_120A_LV_2_6S_Brushless_Speed_Controller_with_Selectable_SBEC.html"
   },
   {
    "location": "European Warehouse",
    "price": "$64.27",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:54:23 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64522"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$78.81",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 00:54:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70078"
   }
  ],

@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$3.79",
+   "price": "$4.46",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:47:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__54445__Aerostar_Gas_Series_Wood_Propeller_10x6_1pc_.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$4.06",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Sun, 27 Sep 2015 23:47:12 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67440"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$4.06",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:47:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67895"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$3.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:47:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70254"
   }
  ],

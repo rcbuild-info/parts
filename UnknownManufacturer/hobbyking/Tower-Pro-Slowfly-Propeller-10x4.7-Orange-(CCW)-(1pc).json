@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$1.20",
+   "price": "$1.58",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:31:41 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__6229__Tower_Pro_Slowfly_Propeller_10x4_7_Orange_CCW_1pc_.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$1.60",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Sun, 27 Sep 2015 23:30:20 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49518"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$1.76",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:30:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50482"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$1.64",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:30:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57167"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$1.60",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:30:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57458"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$1.55",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:30:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60748"
   },
   {
@@ -62,7 +56,6 @@
    "price": "$1.60",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:27:45 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63504"
   }
  ],

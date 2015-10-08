@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$4.99",
+   "price": "$6.03",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:03:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__35020__Nylon_XT60_Multi_Plug_Adapter_Set_T_Connector_EC3_Compatible_Tamiya_.html"
   },
   {
@@ -22,7 +21,6 @@
    "price": "$2.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:02:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43106"
   },
   {
@@ -30,15 +28,13 @@
    "price": "$5.20",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:02:55 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44909"
   },
   {
    "location": "Australia Warehouse",
-   "price": "$2.99",
-   "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 00:02:54 GMT",
+   "price": "$5.00",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44963"
   },
   {
@@ -62,7 +58,6 @@
    "price": "$2.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:02:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60574"
   }
  ],

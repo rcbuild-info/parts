@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "FG dowm-front board",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__5998__FG_dowm_front_board.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$0.99",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5998__FG_dowm_front_board.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

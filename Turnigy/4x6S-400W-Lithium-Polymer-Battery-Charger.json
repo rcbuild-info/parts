@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$114.40",
+   "price": "$151.01",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:56:44 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__18812__Turnigy_4x6S_400W_Lithium_Polymer_Battery_Charger.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$119.09",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 01:54:34 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27891"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$117.49",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:54:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28241"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$124.93",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:54:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44532"
   },
   {
@@ -46,15 +42,13 @@
    "price": "$133.24",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:54:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56173"
   },
   {
    "location": "USA East Warehouse",
    "price": "$117.49",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:44:03 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70481"
   }
  ],

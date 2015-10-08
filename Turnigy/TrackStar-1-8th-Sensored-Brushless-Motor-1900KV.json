@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$58.32",
+   "price": "$71.23",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:38:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__22409__Turnigy_TrackStar_1_8th_Sensored_Brushless_Motor_1900KV.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$62.37",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:36:23 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46575"
   },
   {
@@ -30,15 +28,13 @@
    "price": "$60.16",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:36:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46689"
   },
   {
    "location": "European Warehouse",
    "price": "$62.03",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 01:36:21 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48176"
   }
  ],

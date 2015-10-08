@@ -14,10 +14,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$67.41",
+   "price": "$87.45",
    "stock_state": "in_stock",
    "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 02:53:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__19146__Turnigy_nano_tech_4400mah_4S_65_130C_Lipo_Pack.html"
   },
   {
@@ -25,7 +24,6 @@
    "price": "$70.29",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:53:07 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32760"
   },
   {
@@ -33,15 +31,13 @@
    "price": "$69.22",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:53:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33252"
   },
   {
    "location": "UK Warehouse",
    "price": "$70.64",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 02:53:05 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34859"
   },
   {
@@ -49,7 +45,6 @@
    "price": "$69.22",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:53:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59215"
   }
  ],

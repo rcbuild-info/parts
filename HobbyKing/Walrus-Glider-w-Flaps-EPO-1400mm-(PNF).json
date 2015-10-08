@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$68.35",
+   "price": "$90.22",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 03:37:22 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/__25887__HobbyKing_Walrus_Glider_w_Flaps_EPO_1400mm_PNF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$84.74",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:34:54 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29051"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$77.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:34:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30960"
   },
   {
@@ -39,15 +36,13 @@
    "price": "$86.52",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:34:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31216"
   },
   {
    "location": "USA West Warehouse",
    "price": "$78.50",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:34:51 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37646"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$78.50",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:34:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63194"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$87.71",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:34:49 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67977"
   }
  ],

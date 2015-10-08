@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$118.99",
+   "price": "$140.71",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:58:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__6609__iCharger_1010Bplus_300W_10s_Balance_Charger.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$128.75",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:58:23 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60494"
   }
  ],

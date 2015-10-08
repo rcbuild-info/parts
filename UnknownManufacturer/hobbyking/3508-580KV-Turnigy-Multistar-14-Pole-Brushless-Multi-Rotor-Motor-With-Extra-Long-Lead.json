@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$31.86",
+   "price": "$36.50",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:33:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__41616__3508_580KV_Turnigy_Multistar_14_Pole_Brushless_Multi_Rotor_Motor_With_Extra_Long_Leads.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$43.04",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:31:28 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70201"
   },
   {
    "location": "European Warehouse",
    "price": "$35.24",
-   "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 01:31:27 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77641"
   }
  ],

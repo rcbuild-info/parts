@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$4.15",
+   "price": "$4.76",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:34:41 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__25453__Turnigy_8482_TSS_9_Digital_Micro_Servo_1_9kg_9g_0_11.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$4.28",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 00:33:28 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43393"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$4.16",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:33:27 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49270"
   },
   {
    "location": "UK Warehouse",
    "price": "$4.52",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:33:27 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56462"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$4.16",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:33:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70249"
   }
  ],

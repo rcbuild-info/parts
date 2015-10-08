@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$41.12",
+   "price": "$54.28",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:03:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__25451__Wilga_2000_EPO_950mm_Optional_Flaps_Kit_.html"
   },
   {
    "location": "European Warehouse",
    "price": "$50.75",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:02:07 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36689"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$50.65",
    "stock_state": "in_stock",
    "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 04:02:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37229"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$50.70",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 04:02:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39197"
   }
  ],

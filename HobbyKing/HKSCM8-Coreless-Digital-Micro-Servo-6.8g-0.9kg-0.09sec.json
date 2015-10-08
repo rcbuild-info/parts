@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.94",
+   "price": "$3.38",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:30:49 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__42492__HobbyKing_8482_HKSCM8_Coreless_Digital_Micro_Servo_6_8g_0_9kg_0_09sec.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$3.14",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:29:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56186"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$3.95",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 00:29:30 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70104"
   }
  ],

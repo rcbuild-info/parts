@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$64.99",
+   "price": "$85.79",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:41:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__28700__Sky_Easy_Glider_EPO_1050mm_PNF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$76.12",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 03:38:54 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35018"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$75.02",
    "stock_state": "in_stock",
    "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 03:38:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35095"
   },
   {
    "location": "European Warehouse",
    "price": "$84.99",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 03:38:51 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35413"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$95.17",
    "stock_state": "in_stock",
    "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:38:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68905"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$76.12",
    "stock_state": "in_stock",
    "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:38:49 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69428"
   }
  ],

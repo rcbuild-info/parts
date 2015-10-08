@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$77.56",
+   "price": "$102.38",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:54:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__63427__ZIPPY_Compact_5800mAh_6s_40c_Lipo_Pack_.html"
   },
   {
    "location": "Russia Warehouse",
    "price": "$59.99",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 01:49:18 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=74563"
   }
  ],

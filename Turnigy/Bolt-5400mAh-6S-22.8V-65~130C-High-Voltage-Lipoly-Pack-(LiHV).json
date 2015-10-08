@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$123.22",
+   "price": "$153.79",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:00:04 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/__51506__Turnigy_Bolt_5400mAh_6S_22_8V_65_130C_High_Voltage_Lipoly_Pack_LiHV_.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$126.30",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:58:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63003"
   },
   {
    "location": "Australia Warehouse",
    "price": "$128.44",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 02:58:23 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63783"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$128.31",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:58:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64787"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$129.89",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:58:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64928"
   }
  ],

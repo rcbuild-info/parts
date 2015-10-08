@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$20.32",
+   "price": "$24.84",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 01:11:59 GMT",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/__63813__Durafly_8482_Ugly_Stik_1100mm_Replacement_Brushless_Motor_1000kv.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$21.52",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 01:10:22 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67437"
   },
   {
@@ -37,8 +35,7 @@
    "location": "European Warehouse",
    "price": "$20.32",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 01:10:20 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67578"
   }
  ],

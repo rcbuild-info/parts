@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$160.65",
+   "price": "$211.40",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:09:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__15381__RCG_20cc_Gas_engine_w_CD_Ignition_2_2HP_1_64kw.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$193.20",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:08:04 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17917"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$193.20",
    "stock_state": "in_stock",
    "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 00:08:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18065"
   },
   {
@@ -39,23 +36,20 @@
    "price": "$203.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:08:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31286"
   },
   {
    "location": "UK Warehouse",
    "price": "$190.16",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:08:01 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42925"
   },
   {
    "location": "USA East Warehouse",
    "price": "$193.20",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:08:00 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70944"
   }
  ],

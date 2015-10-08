@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$44.82",
+   "price": "$59.16",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:35:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__53690__Turnigy_Heavy_Duty_4000mAh_4S_60C_Lipo_Pack.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$49.14",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:33:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58114"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$47.86",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:33:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63077"
   },
   {
@@ -39,15 +36,13 @@
    "price": "$48.49",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:33:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63774"
   },
   {
    "location": "USA West Warehouse",
    "price": "$46.98",
-   "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 02:33:32 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64221"
   }
  ],

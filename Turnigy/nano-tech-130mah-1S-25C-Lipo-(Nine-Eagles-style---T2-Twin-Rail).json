@@ -14,18 +14,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$1.07",
+   "price": "$1.41",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:20:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__18791__Turnigy_nano_tech_130mah_1S_25C_Lipo_Nine_Eagles_style_T2_Twin_Rail_.html"
   },
   {
    "location": "European Warehouse",
    "price": "$1.09",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:19:16 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32731"
   },
   {
@@ -33,7 +31,6 @@
    "price": "$1.08",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:19:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33229"
   },
   {
@@ -41,7 +38,6 @@
    "price": "$1.09",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:19:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34835"
   },
   {
@@ -49,7 +45,6 @@
    "price": "$1.08",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:19:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35132"
   }
  ],

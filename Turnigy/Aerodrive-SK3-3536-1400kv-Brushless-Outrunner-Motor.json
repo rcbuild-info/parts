@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$31.41",
+   "price": "$37.15",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:12:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__80650__Turnigy_Aerodrive_SK3_3536_1400kv_Brushless_Outrunner_Motor.html"
   },
   {
@@ -22,15 +21,20 @@
    "price": "$32.45",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:11:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80651"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$34.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80652"
   },
   {
    "location": "Australia Warehouse",
    "price": "$33.44",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:11:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80654"
   },
   {
@@ -38,7 +42,6 @@
    "price": "$32.45",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:11:30 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=80655"
   }
  ],

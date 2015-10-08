@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$3.60",
+   "price": "$4.75",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:44:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__23791__Skylark_L_9_Rubber_Powered_Freeflight_Model_2_in_1_Monoplane_or_Bi_plane.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$3.97",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:43:43 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32499"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$3.89",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:43:42 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33350"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$2.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:43:42 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34676"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$6.00",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:43:41 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41343"
   }
  ],

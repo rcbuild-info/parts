@@ -11,26 +11,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$14.55",
+   "price": "$16.64",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:59:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__18133__Turnigy_Aerodrive_SK3_2118_2750_Brushless_Outrunner_Motor.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$14.80",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:58:53 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29435"
   },
   {
    "location": "Australia Warehouse",
    "price": "$14.65",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 00:58:52 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37600"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$14.32",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:58:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38752"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$15.57",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:58:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42025"
   },
   {
@@ -54,15 +49,13 @@
    "price": "$19.56",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:58:49 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69061"
   },
   {
    "location": "USA East Warehouse",
    "price": "$16.01",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 00:58:48 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71832"
   }
  ],

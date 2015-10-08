@@ -12,26 +12,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$219.80",
+   "price": "$290.14",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 00:09:40 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/__42067__Turnigy_TR_55_55CC_Gas_Engine_5_6HP.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$245.45",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 00:09:08 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56365"
   },
   {
    "location": "USA West Warehouse",
    "price": "$232.46",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 00:09:07 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62681"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$252.80",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:09:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63690"
   }
  ],

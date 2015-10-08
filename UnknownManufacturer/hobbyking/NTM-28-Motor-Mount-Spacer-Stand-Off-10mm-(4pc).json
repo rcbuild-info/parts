@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$0.83",
+   "price": "$1.10",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:24:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__24993__NTM_28_Motor_Mount_Spacer_Stand_Off_10mm_4pc_.html"
   },
   {
@@ -22,7 +21,6 @@
    "price": "$0.97",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:23:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42041"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$0.97",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:23:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65111"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$0.97",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:23:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65404"
   }
  ],

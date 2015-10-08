@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$9.69",
+   "price": "$12.79",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:11:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__84472__Turnigy_nano_tech_1500mAH_LiFe_3S_9_9v_Taranis_Compatible_.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$9.96",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:10:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84473"
   },
   {
    "location": "USA East Warehouse",
-   "price": "$6.76",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:10:33 GMT",
+   "price": "$9.36",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84474"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$10.17",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:10:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84475"
   },
   {
@@ -46,8 +42,14 @@
    "price": "$10.21",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:10:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84476"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$9.68",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84477"
   }
  ],
  "version": 2,

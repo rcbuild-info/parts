@@ -15,7 +15,6 @@
    "price": "$235.00",
    "stock_state": "in_stock",
    "stock_text": "OK",
-   "timestamp": "Mon, 28 Sep 2015 03:55:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__58052__FX_79_Buffalo_FPV_Flying_Wing_EPO_Airplane_2000mm_PNF_.html"
   },
   {
@@ -23,15 +22,12 @@
    "price": "$276.23",
    "stock_state": "in_stock",
    "stock_text": "OK",
-   "timestamp": "Mon, 28 Sep 2015 03:54:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64509"
   },
   {
    "location": "UK Warehouse",
    "price": "$270.26",
-   "stock_state": "in_stock",
-   "stock_text": "OK",
-   "timestamp": "Mon, 28 Sep 2015 03:54:17 GMT",
+   "stock_state": "backordered",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64681"
   },
   {
@@ -39,7 +35,6 @@
    "price": "$265.79",
    "stock_state": "in_stock",
    "stock_text": "OK",
-   "timestamp": "Mon, 28 Sep 2015 03:54:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64881"
   },
   {
@@ -47,7 +42,6 @@
    "price": "$235.00",
    "stock_state": "in_stock",
    "stock_text": "OK",
-   "timestamp": "Mon, 28 Sep 2015 03:54:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65088"
   }
  ],

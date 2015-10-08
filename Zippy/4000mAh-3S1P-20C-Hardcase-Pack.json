@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$25.63",
+   "price": "$33.83",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:50:12 GMT",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/__14082__ZIPPY_4000mAh_3S1P_20C_Hardcase_Pack.html"
   },
   {
@@ -39,23 +38,20 @@
    "price": "$28.93",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:48:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32209"
   },
   {
    "location": "European Warehouse",
    "price": "$29.30",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 02:48:52 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38294"
   },
   {
    "location": "USA East Warehouse",
    "price": "$27.14",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 02:48:51 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58707"
   },
   {
@@ -63,7 +59,6 @@
    "price": "$38.34",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:48:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59618"
   }
  ],

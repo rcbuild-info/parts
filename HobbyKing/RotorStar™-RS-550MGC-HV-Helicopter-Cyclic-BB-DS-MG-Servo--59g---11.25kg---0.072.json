@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$18.90",
+   "price": "$21.86",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:23:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__29767__RotorStar_8482_RS_550MGC_HV_Helicopter_Cyclic_BB_DS_MG_Servo_59g_11_25kg_0_072sec.html"
   },
   {
    "location": "European Warehouse",
    "price": "$20.25",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 00:23:04 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54743"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$19.18",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:23:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55645"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$19.80",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:23:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56584"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$19.18",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:23:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57637"
   }
  ],

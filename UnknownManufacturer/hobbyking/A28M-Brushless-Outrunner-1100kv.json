@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$8.70",
+   "price": "$10.64",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:06:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__11879__A28M_Brushless_Outrunner_1100kv.html"
   },
   {
@@ -22,7 +21,6 @@
    "price": "$11.96",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:04:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69662"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$9.64",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:04:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77720"
   }
  ],

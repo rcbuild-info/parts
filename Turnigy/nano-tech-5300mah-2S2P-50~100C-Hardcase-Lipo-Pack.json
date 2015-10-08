@@ -14,10 +14,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$32.93",
+   "price": "$43.47",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:31:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__17269__Turnigy_nano_tech_5300mah_2S2P_50_100C_Hardcase_Lipo_Pack.html"
   },
   {
@@ -25,7 +24,20 @@
    "price": "$33.94",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:30:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24199__Turnigy_nano_tech_5300mah_2S2P_50_100C_Hardcase_Lipo_Pack_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$43.47",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17269"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$33.94",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24199"
   },
   {
@@ -33,7 +45,6 @@
    "price": "$33.80",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:30:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25219"
   },
   {
@@ -41,7 +52,6 @@
    "price": "$34.00",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:30:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28449"
   },
   {
@@ -49,7 +59,6 @@
    "price": "$36.60",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:30:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32708"
   },
   {
@@ -57,7 +66,6 @@
    "price": "$33.94",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:30:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59173"
   }
  ],

@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$64.96",
+   "price": "$85.75",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 03:53:33 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/__23456__Stick_1500_EP_GP_46_size_Sport_version_1540mm_ARF_.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$82.94",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 03:53:04 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30244"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$95.23",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:53:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30976"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$102.47",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:53:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31413"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$103.71",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:53:01 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32775"
   },
   {
@@ -55,15 +50,13 @@
    "price": "$203.21",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 03:53:00 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69857"
   },
   {
    "location": "USA East Warehouse",
    "price": "$83.55",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 03:52:59 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70465"
   }
  ],

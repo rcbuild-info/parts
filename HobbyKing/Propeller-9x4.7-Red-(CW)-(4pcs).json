@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.86",
+   "price": "$3.78",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:38:00 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__22335__Hobbyking_8482_Propeller_9x4_7_Red_CW_4pcs_.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$3.23",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:36:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56079"
   },
   {
    "location": "Australia Warehouse",
    "price": "$3.28",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Sun, 27 Sep 2015 23:36:06 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62764"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$3.07",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:36:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67561"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$3.23",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:36:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71508"
   }
  ],

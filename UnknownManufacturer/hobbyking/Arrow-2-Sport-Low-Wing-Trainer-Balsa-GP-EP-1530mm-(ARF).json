@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$67.20",
+   "price": "$88.70",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:52:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__55144__Arrow_2_Sport_Low_Wing_Trainer_Balsa_GP_EP_1530mm_ARF_.html"
   },
   {
    "location": "European Warehouse",
    "price": "$87.61",
-   "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 03:50:11 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70346"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.87",
+   "price": "$3.54",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:00:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__66802__MT60_3_Pole_Motor_ESC_Connector_Set_12AWG_Male_Female_2_set_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$2.11",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:58:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73680"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$2.30",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:58:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73681"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$3.13",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:58:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73682"
   },
   {
@@ -47,15 +43,13 @@
    "price": "$3.56",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:58:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73683"
   },
   {
    "location": "Australia Warehouse",
    "price": "$3.06",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:58:31 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=73684"
   }
  ],

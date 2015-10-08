@@ -12,26 +12,30 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$8.89",
+   "price": "$11.73",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:07:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__28544__B_Grade_3000mAh_2S_40C_Lipoly_Battery.html"
   },
   {
    "location": "USA East Warehouse",
    "price": "$8.49",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:06:59 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59030"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$10.08",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84854"
   },
   {
    "location": "USA West Warehouse",
    "price": "$9.35",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:06:58 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84857"
   }
  ],

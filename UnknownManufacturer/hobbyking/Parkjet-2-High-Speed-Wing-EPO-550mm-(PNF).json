@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$56.14",
+   "price": "$74.10",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:00:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__36673__Parkjet_2_High_Speed_Wing_EPO_550mm_PNF_.html"
   },
   {
    "location": "European Warehouse",
    "price": "$65.70",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:00:05 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69344"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$68.04",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:00:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72531"
   }
  ],

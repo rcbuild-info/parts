@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$64.87",
+   "price": "$85.63",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:14:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__14618__Mini_T_33_Blue_Angels_EDF_Fighter_Jet_EPO_Plug_n_Fly.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$64.49",
    "stock_state": "in_stock",
    "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 04:10:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16556"
   },
   {
@@ -31,23 +29,20 @@
    "price": "$75.43",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:10:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16609"
   },
   {
    "location": "European Warehouse",
    "price": "$78.60",
-   "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 04:10:38 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32465"
   },
   {
    "location": "UK Warehouse",
    "price": "$79.69",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 04:10:37 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56105"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$75.43",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:10:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68507"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$96.88",
+   "price": "$109.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:41:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__63510__Dr_Mad_Thrust_80mm_10_Blade_Alloy_EDF_1800kv_Motor_2200_Watt_6S_E_flite_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$101.93",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:40:59 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67698"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$101.58",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:40:59 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67881"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$122.69",
    "stock_state": "in_stock",
    "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 01:40:58 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68317"
   },
   {
@@ -47,15 +43,13 @@
    "price": "$99.29",
    "stock_state": "in_stock",
    "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 01:40:57 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68433"
   },
   {
    "location": "USA East Warehouse",
    "price": "$99.16",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 01:40:56 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70304"
   }
  ],

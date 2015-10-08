@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$72.25",
+   "price": "$85.82",
    "stock_state": "in_stock",
    "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 01:41:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__29356__Dr_Mad_Thrust_1000kv_4600watt_90mm_EDF_Inrunner_8_10s_version_40mm_.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$74.67",
    "stock_state": "in_stock",
    "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 01:38:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46679"
   },
   {
    "location": "European Warehouse",
    "price": "$82.39",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 01:38:47 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46848"
   },
   {
@@ -39,23 +36,20 @@
    "price": "$73.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:38:46 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=50028"
   },
   {
    "location": "UK Warehouse",
    "price": "$78.77",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 01:38:46 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68619"
   },
   {
    "location": "USA East Warehouse",
    "price": "$73.90",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 00:55:21 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72050"
   }
  ],

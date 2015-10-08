@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.59",
+   "price": "$3.42",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:43:57 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/__28345__Rubber_Band_Powered_Freeflight_182_Light_Aircraft_288mm_Span.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$4.69",
    "stock_state": "in_stock",
    "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 03:42:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47865"
   },
   {
    "location": "European Warehouse",
    "price": "$3.50",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:42:49 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48096"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$4.69",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:42:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49552"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$4.69",
    "stock_state": "in_stock",
    "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 03:42:47 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67055"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$4.69",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 03:42:46 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67651"
   }
  ],

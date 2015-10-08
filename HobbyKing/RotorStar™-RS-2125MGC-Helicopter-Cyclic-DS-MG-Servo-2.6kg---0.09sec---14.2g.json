@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$17.80",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:19:09 GMT",
+   "price": "$18.50",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__34041__RotorStar_8482_RS_2125MGC_Helicopter_Cyclic_DS_MG_Servo_2_6kg_0_09sec_14_2g.html"
   },
   {
    "location": "Russia Warehouse",
    "price": "$22.90",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 00:19:00 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60686"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$19.73",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:18:59 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77514"
   }
  ],

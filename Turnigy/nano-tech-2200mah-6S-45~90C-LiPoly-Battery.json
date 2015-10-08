@@ -11,26 +11,30 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$39.73",
+   "price": "$52.44",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:35:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__83447__Turnigy_nano_tech_2200mah_6S_45_90C_LiPoly_Battery.html"
   },
   {
    "location": "USA East Warehouse",
    "price": "$39.94",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:31:43 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=83448"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$41.73",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=83449"
   },
   {
    "location": "USA West Warehouse",
    "price": "$37.52",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:18:55 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=83452"
   }
  ],

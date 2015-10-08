@@ -14,10 +14,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$51.73",
+   "price": "$64.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:22:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__51838__Turnigy_nano_tech_Ultimate_6000mah_2S2P_90C_Hardcase_Lipo_Pack_ROAR_BRCA_Approved_.html"
   },
   {
@@ -25,7 +24,20 @@
    "price": "$52.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:20:53 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__63006__Turnigy_nano_tech_Ultimate_6000mah_2S2P_90C_Hardcase_Lipo_Pack_ROAR_BRCA_Approved_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$64.95",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51838"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$52.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63006"
   },
   {
@@ -33,23 +45,20 @@
    "price": "$53.49",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:20:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63084"
   },
   {
    "location": "Australia Warehouse",
    "price": "$53.84",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:20:52 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63786"
   },
   {
    "location": "European Warehouse",
    "price": "$54.22",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:20:51 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64931"
   }
  ],

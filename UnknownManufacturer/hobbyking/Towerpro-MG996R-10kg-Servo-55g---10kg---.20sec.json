@@ -12,6 +12,13 @@
  "variants": [
   {
    "location": "International Warehouse",
+   "price": "$13.04",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/__6221__Towerdpro_MG996R_10kg_Servo_55g_10kg_20sec.html"
+  },
+  {
+   "location": "International Warehouse",
    "price": "$10.75",
    "stock_state": "in_stock",
    "stock_text": "10+",
@@ -23,7 +30,6 @@
    "price": "$11.10",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:24:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29803"
   },
   {
@@ -31,7 +37,6 @@
    "price": "$10.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:24:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31626"
   },
   {
@@ -39,15 +44,13 @@
    "price": "$10.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:24:37 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33314"
   },
   {
    "location": "Australia Warehouse",
    "price": "$10.95",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:24:36 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36555"
   },
   {
@@ -55,7 +58,6 @@
    "price": "$12.01",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:24:35 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68011"
   },
   {
@@ -63,7 +65,6 @@
    "price": "$10.90",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:24:35 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70878"
   }
  ],

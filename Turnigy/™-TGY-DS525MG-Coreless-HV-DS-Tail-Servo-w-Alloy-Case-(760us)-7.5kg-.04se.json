@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$39.92",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 00:11:40 GMT",
+   "price": "$44.50",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__50465__Turnigy_8482_TGY_DS525MG_Coreless_HV_DS_Tail_Servo_w_Alloy_Case_760us_7_5kg_04sec_68g.html"
   },
   {
    "location": "European Warehouse",
    "price": "$43.65",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 00:10:12 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77639"
   }
  ],

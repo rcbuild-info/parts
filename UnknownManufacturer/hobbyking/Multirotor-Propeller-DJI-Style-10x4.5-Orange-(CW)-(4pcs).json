@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$3.49",
+   "price": "$4.61",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:40:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__28295__Multirotor_Propeller_DJI_Style_10x4_5_Orange_CW_4pcs_.html"
   },
   {
    "location": "International Warehouse",
-   "price": "$3.49",
+   "price": "$4.61",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Sun, 27 Sep 2015 23:40:04 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/__28296__Multirotor_Propeller_DJI_Style_10x4_5_Orange_CW_4pcs_.html"
   },
   {
@@ -30,15 +28,13 @@
    "price": "$3.97",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:38:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44567"
   },
   {
    "location": "Australia Warehouse",
    "price": "$3.71",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Sun, 27 Sep 2015 23:38:51 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46710"
   },
   {
@@ -46,15 +42,13 @@
    "price": "$3.68",
    "stock_state": "in_stock",
    "stock_text": "8",
-   "timestamp": "Sun, 27 Sep 2015 23:39:59 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53828"
   },
   {
    "location": "European Warehouse",
    "price": "$3.77",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Sun, 27 Sep 2015 23:39:58 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53920"
   },
   {
@@ -62,7 +56,6 @@
    "price": "$3.77",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:38:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53924"
   },
   {
@@ -70,7 +63,6 @@
    "price": "$3.86",
    "stock_state": "in_stock",
    "stock_text": "6",
-   "timestamp": "Sun, 27 Sep 2015 23:39:57 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56463"
   },
   {
@@ -78,7 +70,6 @@
    "price": "$3.68",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:39:57 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56875"
   },
   {
@@ -86,7 +77,6 @@
    "price": "$3.73",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:39:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72201"
   }
  ],

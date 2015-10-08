@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$28.64",
+   "price": "$37.80",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 02:56:44 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/__51501__Turnigy_Bolt_2800mAh_3S_11_4V_65_130C_High_Voltage_Lipoly_Pack_LiHV_.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$31.74",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 02:55:16 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62998"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$30.29",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:55:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64923"
   }
  ],

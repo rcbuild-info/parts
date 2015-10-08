@@ -11,26 +11,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$9.49",
+   "price": "$10.88",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:45:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__25692__Carbon_Fiber_Propeller_12x6_Black_CW_CCW_2pcs_.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$10.05",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Sun, 27 Sep 2015 23:44:33 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51213"
   },
   {
    "location": "USA West Warehouse",
    "price": "$9.74",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Sun, 27 Sep 2015 23:44:32 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63494"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$10.18",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:44:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63704"
   }
  ],

@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$69.76",
+   "price": "$92.08",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:10:03 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/__77279__Hobbyking_8482_EPP_Mini_Edge_540T_Green_3D_ARF.html"
   },
   {
    "location": "USA East Warehouse",
    "price": "$88.14",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:08:09 GMT",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77288"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$93.31",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:08:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77289"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$88.34",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:08:07 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77290"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$90.31",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:08:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77291"
   }
  ],

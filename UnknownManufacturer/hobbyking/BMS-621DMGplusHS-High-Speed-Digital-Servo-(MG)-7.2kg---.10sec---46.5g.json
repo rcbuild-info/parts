@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$16.99",
+   "price": "$20.79",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:13:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__9439__BMS_621DMGplusHS_High_Speed_Digital_Servo_MG_7_2kg_10sec_46_5g.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$18.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:13:01 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36265"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$19.05",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:13:00 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42529"
   },
   {
    "location": "Australia Warehouse",
    "price": "$19.15",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:12:59 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42586"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$19.57",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:12:58 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=43503"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$16.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:12:57 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71286"
   }
  ],

@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.55",
+   "price": "$3.37",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:56:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__27930__Hobbyking_8482_3_Blade_Propeller_9x4_5_Red_CW_CCW_2pcs_.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$3.36",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:55:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48131"
   },
   {
    "location": "Australia Warehouse",
    "price": "$2.74",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Sun, 27 Sep 2015 23:55:38 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62771"
   }
  ],

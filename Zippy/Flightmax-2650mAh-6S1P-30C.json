@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$29.89",
+   "price": "$39.45",
    "stock_state": "in_stock",
    "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:00:01 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__8917__ZIPPY_Flightmax_2650mAh_6S1P_30C.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$29.99",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 02:58:14 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16780"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$32.57",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:58:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23537"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$32.73",
    "stock_state": "in_stock",
    "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 02:58:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58757"
   }
  ],

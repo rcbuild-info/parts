@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$64.05",
+   "price": "$84.55",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:11:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__37359__ZIPPY_Traxxas_compatible_8400mAh_3S1P_30C_Lipo_Pack_Suits_TRA2878_.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$69.06",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:11:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44108"
   },
   {
    "location": "Australia Warehouse",
    "price": "$49.99",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 03:11:12 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44344"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$49.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:11:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44454"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$80.41",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 03:11:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59778"
   }
  ],

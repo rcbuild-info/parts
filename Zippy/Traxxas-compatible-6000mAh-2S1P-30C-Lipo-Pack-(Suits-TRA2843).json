@@ -12,11 +12,17 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$24.75",
+   "price": "$32.67",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:11:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__37350__ZIPPY_Traxxas_compatible_6000mAh_2S1P_30C_Lipo_Pack_Suits_TRA2843_.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$29.27",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44101"
   },
   {
    "location": "Australia Warehouse",

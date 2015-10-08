@@ -15,14 +15,13 @@
    "price": "$142.00",
    "stock_state": "in_stock",
    "stock_text": "OK",
-   "timestamp": "Mon, 28 Sep 2015 03:56:47 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__31162__Arkbird_Autopilot_System_w_OSD_V3_1020_GPS_Altitude_Hold_Auto_Level_.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$142.00",
-   "stock_state": "backordered",
-   "timestamp": "Mon, 28 Sep 2015 03:55:52 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62671"
   },
   {
@@ -30,7 +29,6 @@
    "price": "$142.00",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:55:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66955"
   },
   {
@@ -38,7 +36,6 @@
    "price": "$142.00",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:55:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69987"
   }
  ],

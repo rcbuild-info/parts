@@ -12,42 +12,37 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$100.90",
+   "price": "$133.19",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 03:48:32 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/__29765__HobbyKing_Edge_540T_EPP_Light_Plywood_3D_Aerobatic_Airplane_1220mm_ARF_.html"
   },
   {
    "location": "European Warehouse",
    "price": "$121.48",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 03:48:15 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37289"
   },
   {
    "location": "Australia Warehouse",
    "price": "$116.54",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:48:14 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37628"
   },
   {
    "location": "UK Warehouse",
    "price": "$122.44",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 03:48:13 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39866"
   },
   {
    "location": "USA West Warehouse",
    "price": "$118.75",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:48:12 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42837"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$118.75",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:48:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67806"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.99",
+   "price": "$3.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:34:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__42984__Servo_Tape_clear_25mm_x_1m.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$3.76",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:32:44 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55135"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$3.35",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:32:43 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63483"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$3.31",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:32:43 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77507"
   }
  ],

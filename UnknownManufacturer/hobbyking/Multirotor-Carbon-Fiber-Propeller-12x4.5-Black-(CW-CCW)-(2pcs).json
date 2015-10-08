@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$9.55",
+   "price": "$10.57",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:34:58 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__39775__Multirotor_Carbon_Fiber_Propeller_12x4_5_Black_CW_CCW_2pcs_.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$13.38",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:33:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70063"
   },
   {
    "location": "European Warehouse",
    "price": "$10.64",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:33:10 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77501"
   }
  ],

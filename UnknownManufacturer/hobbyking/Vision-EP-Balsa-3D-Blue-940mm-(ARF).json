@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$59.80",
+   "price": "$78.94",
    "stock_state": "in_stock",
    "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 04:11:23 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__17466__Vision_EP_Balsa_3D_Blue_940mm_ARF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$64.58",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 04:11:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23971"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$66.86",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 04:11:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25958"
   },
   {
    "location": "European Warehouse",
    "price": "$67.85",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 04:11:03 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29932"
   }
  ],

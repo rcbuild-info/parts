@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Multistar High Capacity 6S 10000mAh Multi-Rotor Lipo Pack",
@@ -7,15 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69141",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68117",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66481",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65273",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64795",
-   "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64439",
-   "http://www.hobbyking.com/hobbyking/store/__56845__Multistar_High_Capacity_6S_10000mAh_Multi_Rotor_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$89.67",
+   "stock_state": "backordered",
+   "url": "http://www.hobbyking.com/hobbyking/store/__56845__Multistar_High_Capacity_6S_10000mAh_Multi_Rotor_Lipo_Pack.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$89.67",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64439"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$89.67",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64795"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$89.67",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65273"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$89.67",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66481"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$89.67",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68117"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$89.67",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69141"
+  }
+ ],
+ "version": 2,
+ "weight": "1189"
 }

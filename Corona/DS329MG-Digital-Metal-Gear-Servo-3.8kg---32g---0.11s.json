@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$9.00",
+   "price": "$10.68",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:22:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__19958__Corona_DS329MG_Digital_Metal_Gear_Servo_3_8kg_32g_0_11s.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$9.10",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:21:39 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41724"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$9.63",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:21:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42759"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$9.10",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:21:37 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71649"
   }
  ],

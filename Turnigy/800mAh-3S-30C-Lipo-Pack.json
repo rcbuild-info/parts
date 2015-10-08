@@ -12,58 +12,51 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$8.40",
+   "price": "$11.09",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:03:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__18847__Turnigy_800mAh_3S_30C_Lipo_Pack.html"
   },
   {
    "location": "Australia Warehouse",
-   "price": "$10.98",
+   "price": "$8.06",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:00:41 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23531"
   },
   {
    "location": "USA West Warehouse",
-   "price": "$10.55",
+   "price": "$7.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:00:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23620"
   },
   {
    "location": "UK Warehouse",
-   "price": "$10.80",
+   "price": "$8.28",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:00:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26811"
   },
   {
    "location": "European Warehouse",
-   "price": "$11.10",
+   "price": "$8.68",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:00:38 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36045"
   },
   {
    "location": "USA East Warehouse",
-   "price": "$10.55",
+   "price": "$7.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:00:37 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58567"
   },
   {
    "location": "Russia Warehouse",
-   "price": "$12.59",
+   "price": "$10.81",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:00:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59445"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$9.35",
+   "price": "$12.34",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:22:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__35310__AeroStar_8482_AS_559MG_High_Torque_MG_Servo_9_35kg_55_6g_0_13sec.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$12.12",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:21:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70017"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$10.35",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:21:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78341"
   }
  ],

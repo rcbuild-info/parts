@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$0.79",
+   "price": "$1.04",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:15:29 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__42726__HXT900_POM_Replacement_Servo_Gear_Set.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$1.08",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:15:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54801"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$1.08",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:15:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71426"
   }
  ],

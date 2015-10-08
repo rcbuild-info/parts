@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$1.64",
+   "price": "$2.16",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:50:42 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__7939__TGS_Precision_Sport_Propeller_7x4_1pc_.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$1.89",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:49:41 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45595"
   },
   {
    "location": "European Warehouse",
    "price": "$1.89",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:49:40 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46437"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$1.89",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:49:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46594"
   }
  ],

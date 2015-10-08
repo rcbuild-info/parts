@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$1.99",
+   "price": "$2.63",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:02:42 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__10993__Twin_pack_charge_lead_2_x_3S_6S_w_XT60.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$2.40",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:01:15 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30278"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$2.37",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:01:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36290"
   },
   {
    "location": "UK Warehouse",
    "price": "$2.32",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:01:13 GMT",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45749"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$2.74",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:01:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69647"
   }
  ],

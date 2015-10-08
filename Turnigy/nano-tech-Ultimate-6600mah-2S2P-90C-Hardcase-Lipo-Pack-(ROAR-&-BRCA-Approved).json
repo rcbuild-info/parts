@@ -14,10 +14,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$58.85",
+   "price": "$71.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:31:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__51837__Turnigy_nano_tech_Ultimate_6600mah_2S2P_90C_Hardcase_Lipo_Pack_ROAR_BRCA_Approved_.html"
   },
   {
@@ -25,7 +24,20 @@
    "price": "$60.11",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:30:49 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__63005__Turnigy_nano_tech_Ultimate_6600mah_2S2P_90C_Hardcase_Lipo_Pack_ROAR_BRCA_Approved_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$71.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51837"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$60.11",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63005"
   },
   {
@@ -33,23 +45,20 @@
    "price": "$60.62",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:30:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63083"
   },
   {
    "location": "Australia Warehouse",
    "price": "$60.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:30:47 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63785"
   },
   {
    "location": "European Warehouse",
    "price": "$61.38",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:30:46 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64930"
   },
   {
@@ -57,7 +66,6 @@
    "price": "$60.11",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:30:45 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=88949"
   }
  ],

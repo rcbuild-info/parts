@@ -11,18 +11,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$1.20",
+   "price": "$1.58",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:12:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__25023__Turnigy_Rechargeable_Battery_AA_2400mAh_NiMH.html"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$1.79",
+   "stock_state": "in_stock",
+   "stock_text": "8",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40143"
   },
   {
    "location": "Russia Warehouse",
    "price": "$2.17",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:11:09 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60314"
   }
  ],

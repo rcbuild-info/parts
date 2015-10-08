@@ -11,18 +11,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$11.80",
+   "price": "$15.22",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:16:55 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__28765__hexTronik_DT900_Brushless_Outrunner_900kv.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$12.75",
+   "stock_state": "in_stock",
+   "stock_text": "2",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44517"
   },
   {
    "location": "Russia Warehouse",
    "price": "$14.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:16:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=61137"
   }
  ],

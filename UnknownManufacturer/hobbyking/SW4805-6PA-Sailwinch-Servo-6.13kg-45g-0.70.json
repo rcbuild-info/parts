@@ -12,42 +12,37 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$8.55",
+   "price": "$10.64",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:23:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__20855__SW4805_6PA_Sailwinch_Servo_6_13kg_45g_0_70.html"
   },
   {
    "location": "Australia Warehouse",
-   "price": "$8.89",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:23:08 GMT",
+   "price": "$16.58",
+   "stock_state": "in_stock",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47767"
   },
   {
    "location": "European Warehouse",
-   "price": "$9.65",
-   "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 00:23:07 GMT",
+   "price": "$17.76",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48171"
   },
   {
    "location": "UK Warehouse",
-   "price": "$9.25",
+   "price": "$16.93",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:23:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56459"
   },
   {
    "location": "USA West Warehouse",
-   "price": "$8.68",
+   "price": "$16.37",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:23:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65739"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$80.99",
+   "price": "$106.91",
    "stock_state": "in_stock",
    "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 03:57:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__37650__HobbyKing_174_8482_Mini_EZ_Master_Trainer_EPO_800mm_PNF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$91.17",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:57:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51885"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$86.58",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:57:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52414"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$88.03",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:57:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=53821"
   },
   {
@@ -47,15 +43,13 @@
    "price": "$114.68",
    "stock_state": "in_stock",
    "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 03:57:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70030"
   },
   {
    "location": "USA East Warehouse",
    "price": "$86.58",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:46:54 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72284"
   }
  ],

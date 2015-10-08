@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$199.55",
+   "price": "$263.41",
    "stock_state": "in_stock",
    "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 04:14:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__41240__ViperJet_Composite_90mm_EDF_Jet_1370mm_ARF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$265.16",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:13:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47344"
   },
   {
@@ -31,23 +29,20 @@
    "price": "$256.21",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:13:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47779"
   },
   {
    "location": "USA West Warehouse",
    "price": "$243.95",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 04:13:04 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48045"
   },
   {
    "location": "USA East Warehouse",
    "price": "$243.95",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 04:13:03 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69435"
   }
  ],

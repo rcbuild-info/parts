@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$167.09",
+   "price": "$220.56",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 03:50:02 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/__24703__DHC_2_Beaver_Balsa_Super_Scale_1800mm_ARF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$196.55",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:49:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28260"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$199.02",
    "stock_state": "in_stock",
    "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:49:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28841"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$206.59",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:49:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29075"
   },
   {
@@ -47,15 +43,13 @@
    "price": "$218.60",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:49:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30511"
   },
   {
    "location": "USA East Warehouse",
    "price": "$167.09",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 03:49:09 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70406"
   }
  ],

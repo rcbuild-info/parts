@@ -11,50 +11,44 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$141.05",
+   "price": "$169.09",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 01:35:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__38888__Dr_Mad_Thrust_90mm_12_Blade_Alloy_EDF_1400kv_3600w_8s_.html"
   },
   {
    "location": "USA West Warehouse",
-   "price": "$146.86",
+   "price": "$151.72",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 01:34:43 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47431"
   },
   {
    "location": "European Warehouse",
-   "price": "$150.89",
+   "price": "$155.75",
    "stock_state": "in_stock",
-   "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 01:34:42 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=52223"
   },
   {
    "location": "Australia Warehouse",
-   "price": "$145.98",
+   "price": "$150.84",
    "stock_state": "in_stock",
    "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 01:34:41 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54837"
   },
   {
    "location": "UK Warehouse",
-   "price": "$154.15",
+   "price": "$159.01",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 01:34:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69501"
   },
   {
    "location": "USA East Warehouse",
-   "price": "$146.86",
+   "price": "$151.72",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 00:55:23 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72287"
   }
  ],

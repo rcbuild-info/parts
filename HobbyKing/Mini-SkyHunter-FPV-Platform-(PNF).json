@@ -12,6 +12,13 @@
  "variants": [
   {
    "location": "International Warehouse",
+   "price": "$197.99",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/__78976__HobbyKing_8482_Mini_SkyHunter_FPV_Platform_PNF_.html"
+  },
+  {
+   "location": "International Warehouse",
    "price": "$149.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
@@ -23,7 +30,6 @@
    "price": "$149.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:54:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78979"
   },
   {
@@ -31,7 +37,6 @@
    "price": "$149.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:54:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78980"
   },
   {
@@ -39,7 +44,6 @@
    "price": "$149.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:54:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78981"
   },
   {
@@ -47,7 +51,6 @@
    "price": "$149.99",
    "stock_state": "in_stock",
    "stock_text": "OK",
-   "timestamp": "Mon, 28 Sep 2015 03:54:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78982"
   },
   {
@@ -55,7 +58,6 @@
    "price": "$149.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:54:49 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78983"
   }
  ],

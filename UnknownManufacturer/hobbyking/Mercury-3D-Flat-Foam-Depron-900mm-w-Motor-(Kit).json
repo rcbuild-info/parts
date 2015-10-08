@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$36.96",
+   "price": "$48.79",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:01:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__50337__Mercury_3D_Flat_Foam_Depron_900mm_w_Motor_Kit_.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$39.90",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 04:01:14 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54356"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$40.00",
    "stock_state": "in_stock",
    "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 04:01:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54405"
   },
   {
    "location": "European Warehouse",
    "price": "$41.98",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 04:01:12 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54597"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$42.50",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:01:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55373"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$39.90",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 04:01:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63240"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$62.40",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 04:01:09 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70162"
   }
  ],

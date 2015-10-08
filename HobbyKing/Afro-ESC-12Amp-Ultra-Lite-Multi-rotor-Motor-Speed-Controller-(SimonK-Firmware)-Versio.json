@@ -15,28 +15,25 @@
    "price": "$9.99",
    "stock_state": "in_stock",
    "stock_text": "OK",
-   "timestamp": "Mon, 28 Sep 2015 00:49:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__55241__Afro_ESC_12Amp_Ultra_Lite_Multi_rotor_Motor_Speed_Controller_SimonK_Firmware_Version_3.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$9.99",
    "stock_state": "backordered",
-   "timestamp": "Mon, 28 Sep 2015 00:48:55 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62955"
   },
   {
    "location": "European Warehouse",
    "price": "$11.00",
    "stock_state": "backordered",
-   "timestamp": "Mon, 28 Sep 2015 00:48:54 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63037"
   },
   {
    "location": "USA West Warehouse",
    "price": "$10.11",
-   "stock_state": "backordered",
-   "timestamp": "Mon, 28 Sep 2015 00:48:53 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65788"
   },
   {
@@ -44,7 +41,6 @@
    "price": "$9.99",
    "stock_state": "in_stock",
    "stock_text": "OK",
-   "timestamp": "Mon, 28 Sep 2015 00:48:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68684"
   }
  ],

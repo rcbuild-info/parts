@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$30.90",
+   "price": "$35.08",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:35:35 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__31823__Dr_Mad_Thrust_50mm_10_Blade_Alloy_EDF_3300kv.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$31.93",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 01:35:07 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45263"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$35.34",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:35:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47802"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$35.64",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:35:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47917"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$34.24",
    "stock_state": "in_stock",
    "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 01:35:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49189"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$31.93",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:35:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72056"
   }
  ],

@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "tail rotor angle-adjusting device",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__5853__tail_rotor_angle_adjusting_device.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$1.77",
+   "stock_state": "in_stock",
+   "stock_text": "1",
+   "url": "http://www.hobbyking.com/hobbyking/store/__5853__tail_rotor_angle_adjusting_device.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

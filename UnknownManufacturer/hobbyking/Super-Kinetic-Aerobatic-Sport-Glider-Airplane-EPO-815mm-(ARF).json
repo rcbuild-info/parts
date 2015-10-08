@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$34.44",
+   "price": "$45.46",
    "stock_state": "in_stock",
    "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 03:37:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__46768__Super_Kinetic_Aerobatic_Sport_Glider_Airplane_EPO_815mm_ARF_.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$40.17",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:34:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=54944"
   },
   {
    "location": "Australia Warehouse",
    "price": "$45.30",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 03:34:12 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55388"
   },
   {
@@ -39,15 +36,13 @@
    "price": "$41.09",
    "stock_state": "in_stock",
    "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 03:34:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56249"
   },
   {
    "location": "UK Warehouse",
    "price": "$45.40",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:34:07 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60362"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$41.09",
    "stock_state": "in_stock",
    "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 03:34:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63237"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$66.58",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 03:34:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70146"
   }
  ],

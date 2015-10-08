@@ -12,26 +12,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$30.78",
+   "price": "$40.63",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:41:58 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__53686__Turnigy_Heavy_Duty_3300mAh_3S_60C_Lipo_Pack.html"
   },
   {
    "location": "European Warehouse",
    "price": "$33.25",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 02:39:30 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58110"
   },
   {
    "location": "UK Warehouse",
    "price": "$32.51",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:39:29 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63073"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$32.87",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:39:28 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63770"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$32.01",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:39:28 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64217"
   }
  ],

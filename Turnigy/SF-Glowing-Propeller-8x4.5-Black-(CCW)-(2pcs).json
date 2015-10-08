@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.32",
+   "price": "$3.06",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:52:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__34406__Turnigy_SF_Glowing_Propeller_8x4_5_Black_CCW_2pcs_.html"
   },
   {
    "location": "International Warehouse",
-   "price": "$2.32",
+   "price": "$3.06",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:52:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__34408__Turnigy_SF_Glowing_Propeller_8x4_5_Black_CCW_2pcs_.html"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$2.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:51:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46790"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$2.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:51:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46798"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$2.67",
    "stock_state": "in_stock",
    "stock_text": "9",
-   "timestamp": "Sun, 27 Sep 2015 23:51:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47540"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$2.67",
    "stock_state": "in_stock",
    "stock_text": "7",
-   "timestamp": "Sun, 27 Sep 2015 23:51:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47541"
   },
   {
@@ -62,7 +56,6 @@
    "price": "$2.66",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:51:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47554"
   },
   {
@@ -70,7 +63,6 @@
    "price": "$2.66",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:51:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47555"
   },
   {
@@ -78,7 +70,6 @@
    "price": "$2.73",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:51:37 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=47598"
   },
   {
@@ -86,7 +77,6 @@
    "price": "$2.88",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:51:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55529"
   },
   {
@@ -94,15 +84,13 @@
    "price": "$2.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:51:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57754"
   },
   {
    "location": "USA East Warehouse",
    "price": "$2.55",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Sun, 27 Sep 2015 23:51:36 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71519"
   }
  ],

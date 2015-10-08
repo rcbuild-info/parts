@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$13.95",
+   "price": "$17.89",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:46:51 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__54482__Aerostar_Gas_Series_Wood_Propeller_22x8_1pc_.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$15.65",
-   "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Sun, 27 Sep 2015 23:46:11 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65827"
   }
  ],

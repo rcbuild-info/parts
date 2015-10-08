@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.57",
+   "price": "$2.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:00:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__76331__XT60_plug_Harness_for_2S_Hardcase_Lipo_with_5mm_Bullet_Connector_and_JST_XH_1pc_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$2.71",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:00:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76348"
   },
   {
@@ -31,23 +29,20 @@
    "price": "$2.83",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:00:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76349"
   },
   {
    "location": "UK Warehouse",
    "price": "$2.83",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 02:00:04 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76350"
   },
   {
    "location": "Australia Warehouse",
    "price": "$2.71",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 02:00:03 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76351"
   }
  ],

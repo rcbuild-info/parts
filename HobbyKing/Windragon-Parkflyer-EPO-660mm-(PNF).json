@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$67.21",
+   "price": "$88.72",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:54:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__20949__HobbyKing_Windragon_Parkflyer_EPO_660mm_PNF_.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$74.87",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:54:07 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24340"
   },
   {
    "location": "UK Warehouse",
    "price": "$77.84",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 03:54:04 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28109"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$83.08",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:54:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33405"
   }
  ],

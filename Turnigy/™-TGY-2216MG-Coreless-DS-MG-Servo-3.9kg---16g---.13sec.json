@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$15.51",
+   "price": "$16.38",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:20:29 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__78217__Turnigy_8482_TGY_2216MG_Coreless_DS_MG_Servo_3_9kg_16g_13sec.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$16.89",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:19:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78221"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$21.51",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:19:55 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78222"
   },
   {
    "location": "European Warehouse",
    "price": "$21.51",
-   "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 00:19:54 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78223"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$22.84",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:19:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78269"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$23.27",
    "stock_state": "in_stock",
    "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 00:19:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=78270"
   }
  ],

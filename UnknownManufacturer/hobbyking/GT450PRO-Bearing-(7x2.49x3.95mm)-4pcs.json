@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$1.37",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Sun, 27 Sep 2015 23:26:10 GMT",
+   "price": "$1.81",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__11592__GT450PRO_Bearing_7x2_49x3_95mm_4pcs.html"
   }
  ],

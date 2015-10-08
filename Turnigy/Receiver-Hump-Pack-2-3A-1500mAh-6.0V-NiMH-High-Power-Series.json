@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$6.90",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:12:12 GMT",
+   "price": "$9.11",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__37327__Turnigy_Receiver_Hump_Pack_2_3A_1500mAh_6_0V_NiMH_High_Power_Series.html"
   }
  ],

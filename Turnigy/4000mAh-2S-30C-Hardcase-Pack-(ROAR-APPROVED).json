@@ -11,19 +11,38 @@
  },
  "variants": [
   {
-   "location": "International Warehouse",
-   "price": "$19.95",
+   "location": "USA West Warehouse",
+   "price": "$20.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:27:38 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14988__Turnigy_4000mAh_2S_30C_Hardcase_Pack_ROAR_APPROVED_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$26.33",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/__21004__Turnigy_4000mAh_2S_30C_Hardcase_Pack_ROAR_APPROVED_.html"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$21.75",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14696"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$26.33",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21004"
   },
   {
    "location": "UK Warehouse",
    "price": "$19.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:26:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31942"
   },
   {
@@ -31,7 +50,6 @@
    "price": "$20.09",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:26:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36053"
   },
   {
@@ -39,7 +57,6 @@
    "price": "$20.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:26:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59041"
   },
   {
@@ -47,7 +64,6 @@
    "price": "$28.37",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:26:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59981"
   }
  ],

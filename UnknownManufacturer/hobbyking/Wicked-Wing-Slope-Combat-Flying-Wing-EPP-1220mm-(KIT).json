@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$54.99",
+   "price": "$72.59",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:41:29 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__34058__Wicked_Wing_Slope_Combat_Flying_Wing_EPP_1220mm_KIT_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$56.38",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 03:38:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38684"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$54.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:38:47 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39205"
   },
   {
    "location": "European Warehouse",
    "price": "$54.99",
-   "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:38:46 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39237"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$56.38",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:38:45 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69423"
   }
  ],

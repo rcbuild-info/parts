@@ -12,26 +12,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$86.35",
+   "price": "$109.20",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:41:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__19111__Turnigy_SK3_Fandrive_3994_850kv_120mm_EDF_.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$103.17",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 01:40:38 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49262"
   },
   {
    "location": "USA East Warehouse",
    "price": "$103.17",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:40:37 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71143"
   }
  ],

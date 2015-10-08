@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$136.50",
+   "price": "$180.18",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:10:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__20703__Sbach_342_Orange_EPO_1400mm_PNF_.html"
   },
   {
@@ -25,6 +24,13 @@
    "stock_text": "0",
    "timestamp": "Mon, 28 Sep 2015 04:08:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23585"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$162.56",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32384"
   },
   {
    "location": "Russia Warehouse",

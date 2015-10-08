@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$19.99",
+   "price": "$26.39",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:53:27 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/__14792__J3_Green_Airplane_Model_Kit.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$24.80",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:52:47 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30738"
   }
  ],

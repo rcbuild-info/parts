@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$10.25",
+   "price": "$11.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:22:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__20575__Corona_DS339HV_Digital_Metal_Gear_Servo_5_1kg_32g_0_13_Sec.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$10.80",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:21:36 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29318"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$10.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:21:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31554"
   },
   {
    "location": "Australia Warehouse",
    "price": "$10.60",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:21:35 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48553"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$10.36",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:21:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63492"
   }
  ],

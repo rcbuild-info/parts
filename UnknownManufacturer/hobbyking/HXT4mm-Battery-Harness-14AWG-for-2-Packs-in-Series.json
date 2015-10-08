@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.43",
+   "price": "$3.21",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:16:43 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__18603__HXT4mm_Battery_Harness_14AWG_for_2_Packs_in_Series.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$3.10",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:16:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26091"
   },
   {
    "location": "Australia Warehouse",
    "price": "$2.82",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:16:13 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45995"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$2.64",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:16:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46419"
   }
  ],

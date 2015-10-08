@@ -12,26 +12,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$34.65",
+   "price": "$45.74",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 04:16:16 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/__22704__HobbyKing_8482_Phazer_KX_EDF_Jet_Flying_Wing_860mm_EPO_KIT_.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$44.09",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 04:15:56 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41486"
   },
   {
    "location": "Australia Warehouse",
    "price": "$29.99",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 04:15:55 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41849"
   }
  ],

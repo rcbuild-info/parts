@@ -12,34 +12,30 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$46.20",
+   "price": "$60.98",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:48:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__12493__HobbyKing_174_8482_P51_EPP_ProfileFighter_Unbreakable_33inch_.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$58.24",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 03:47:51 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17109"
   },
   {
    "location": "USA West Warehouse",
    "price": "$54.98",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:47:50 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17613"
   },
   {
    "location": "UK Warehouse",
    "price": "$55.87",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:47:49 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25930"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$59.47",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:47:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31326"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$54.98",
    "stock_state": "in_stock",
    "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 03:47:47 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68504"
   }
  ],

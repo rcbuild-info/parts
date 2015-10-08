@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Multistar High Capacity 4S 10000mAh Multi-Rotor Lipo Pack",
@@ -7,9 +7,58 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.hobbyking.com/hobbyking/store/__56844__Multistar_High_Capacity_4S_10000mAh_Multi_Rotor_Lipo_Pack.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "International Warehouse",
+   "price": "$77.07",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "url": "http://www.hobbyking.com/hobbyking/store/__56844__Multistar_High_Capacity_4S_10000mAh_Multi_Rotor_Lipo_Pack.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$58.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64438"
+  },
+  {
+   "location": "UK Warehouse",
+   "price": "$58.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64794"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$58.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65272"
+  },
+  {
+   "location": "USA East Warehouse",
+   "price": "$58.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66480"
+  },
+  {
+   "location": "Russia Warehouse",
+   "price": "$82.35",
+   "stock_state": "backordered",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68116"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$58.39",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69140"
+  }
+ ],
+ "version": 2,
+ "weight": "804"
 }

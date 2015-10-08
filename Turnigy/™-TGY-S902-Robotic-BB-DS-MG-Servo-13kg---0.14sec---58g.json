@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$10.40",
-   "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 00:15:47 GMT",
+   "price": "$12.69",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__27557__Turnigy_8482_TGY_S902_Robotic_BB_DS_MG_Servo_13kg_0_14sec_58g.html"
   }
  ],

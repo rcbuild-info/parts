@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$2.17",
+   "price": "$2.86",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:56:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__25460__Hobbyking_8482_3_Blade_Propeller_7x3_5_Green_CW_3pcs_.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$3.52",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:55:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30658"
   },
   {
    "location": "European Warehouse",
    "price": "$3.49",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:55:25 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36337"
   },
   {
@@ -38,7 +35,6 @@
    "price": "$3.46",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:55:24 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39895"
   }
  ],

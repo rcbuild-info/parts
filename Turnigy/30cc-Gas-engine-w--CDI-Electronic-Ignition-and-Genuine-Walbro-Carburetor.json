@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$136.55",
+   "price": "$180.25",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 00:09:38 GMT",
+   "stock_text": "6",
    "url": "http://www.hobbyking.com/hobbyking/store/__10736__Turnigy_30cc_Gas_engine_w_CDI_Electronic_Ignition_and_Genuine_Walbro_Carburetor.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$166.31",
    "stock_state": "in_stock",
-   "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 00:09:01 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15038"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$145.95",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:09:00 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15162"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$174.41",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 00:08:59 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45205"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$162.20",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 00:08:58 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45922"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$145.95",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 00:08:57 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71020"
   }
  ],

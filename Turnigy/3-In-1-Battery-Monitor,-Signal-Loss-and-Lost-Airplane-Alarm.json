@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$4.93",
+   "price": "$5.51",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:14:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__60454__Turnigy_3_In_1_Battery_Monitor_Signal_Loss_and_Lost_Airplane_Alarm.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$5.12",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:13:28 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=83328"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$5.39",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:13:28 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=83329"
   },
   {
    "location": "UK Warehouse",
    "price": "$5.44",
-   "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 02:13:27 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=83330"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$4.93",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:13:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=83331"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$5.12",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:13:25 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=83332"
   }
  ],

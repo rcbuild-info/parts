@@ -11,19 +11,31 @@
  },
  "variants": [
   {
-   "location": "International Warehouse",
-   "price": "$42.00",
+   "location": "USA West Warehouse",
+   "price": "$44.27",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:35:16 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__14983__Turnigy_4500mAh_4S_30C_Hardcase_Pack_ROAR_APPROVED_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$55.44",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/__21003__Turnigy_4500mAh_4S_30C_Hardcase_Pack_ROAR_APPROVED_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$55.44",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21003"
   },
   {
    "location": "UK Warehouse",
    "price": "$45.78",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:32:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29002"
   },
   {
@@ -31,7 +43,6 @@
    "price": "$44.94",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:32:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32950"
   },
   {
@@ -39,7 +50,6 @@
    "price": "$46.21",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:32:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36052"
   },
   {
@@ -47,7 +57,6 @@
    "price": "$45.68",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:32:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59044"
   },
   {
@@ -55,7 +64,6 @@
    "price": "$57.16",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:32:09 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59984"
   }
  ],

@@ -11,11 +11,17 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$6.56",
+   "price": "$8.36",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:57:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__69284__Turnigy_101_BC_Charger_for_TGY_B1700_HK_GT2B_TGY_i10_3_7V_Battery.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$8.56",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=84042"
   }
  ],
  "version": 2,

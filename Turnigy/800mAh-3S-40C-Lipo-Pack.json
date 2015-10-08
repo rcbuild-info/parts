@@ -12,58 +12,51 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$11.75",
+   "price": "$15.29",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:48:25 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__18852__Turnigy_800mAh_3S_40C_Lipo_Pack.html"
   },
   {
    "location": "USA West Warehouse",
-   "price": "$12.05",
+   "price": "$9.75",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:45:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21112"
   },
   {
    "location": "Australia Warehouse",
-   "price": "$12.10",
+   "price": "$9.82",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:45:07 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21224"
   },
   {
    "location": "UK Warehouse",
-   "price": "$12.30",
+   "price": "$10.09",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:45:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26816"
   },
   {
    "location": "European Warehouse",
-   "price": "$12.35",
+   "price": "$10.16",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:45:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36049"
   },
   {
    "location": "USA East Warehouse",
-   "price": "$12.05",
+   "price": "$9.73",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:45:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58570"
   },
   {
    "location": "Russia Warehouse",
-   "price": "$15.96",
+   "price": "$15.46",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 01:45:04 GMT",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59448"
   }
  ],

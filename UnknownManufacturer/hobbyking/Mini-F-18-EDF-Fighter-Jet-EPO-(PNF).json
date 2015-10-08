@@ -12,26 +12,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$67.47",
+   "price": "$89.06",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:14:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__12661__Mini_F_18_EDF_Fighter_Jet_EPO_PNF_.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$74.84",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 04:10:35 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30750"
   },
   {
    "location": "European Warehouse",
    "price": "$83.65",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 04:10:34 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45443"
   }
  ],

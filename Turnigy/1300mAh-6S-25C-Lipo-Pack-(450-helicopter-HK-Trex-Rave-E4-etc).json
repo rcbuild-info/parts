@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$20.20",
+   "price": "$26.66",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:38:50 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__20962__Turnigy_1300mAh_6S_25C_Lipo_Pack_450_helicopter_HK_Trex_Rave_E4_etc_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$21.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:35:59 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25774"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$21.80",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:35:58 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32234"
   },
   {
    "location": "European Warehouse",
    "price": "$19.99",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 02:35:57 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38098"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$21.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:35:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58665"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$27.99",
    "stock_state": "in_stock",
    "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 02:35:56 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59572"
   }
  ],

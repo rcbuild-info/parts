@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$65.99",
+   "price": "$87.11",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 04:01:03 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/__28555__Dolphin_Jet_EDF_EPO_1010mm_ARF.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$79.78",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 04:00:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34135"
   },
   {
@@ -31,23 +29,20 @@
    "price": "$81.48",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 04:00:37 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34556"
   },
   {
    "location": "Australia Warehouse",
    "price": "$77.52",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 04:00:36 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35093"
   },
   {
    "location": "UK Warehouse",
    "price": "$78.95",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:00:35 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35371"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$79.78",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 04:00:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63205"
   }
  ],

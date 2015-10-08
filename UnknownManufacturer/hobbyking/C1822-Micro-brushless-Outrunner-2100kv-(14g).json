@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$10.55",
+   "price": "$11.94",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:58:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__5378__C1822_Micro_brushless_Outrunner_2100kv_14g_.html"
   },
   {
@@ -22,15 +21,13 @@
    "price": "$10.71",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:57:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41153"
   },
   {
    "location": "USA East Warehouse",
    "price": "$10.71",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:57:05 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71612"
   }
  ],

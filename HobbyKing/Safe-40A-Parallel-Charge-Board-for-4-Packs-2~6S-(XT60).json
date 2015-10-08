@@ -12,26 +12,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$17.99",
+   "price": "$23.50",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:03:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__36007__HobbyKing_Safe_40A_Parallel_Charge_Board_for_4_Packs_2_6S_XT60_.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$20.10",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:02:33 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46191"
   },
   {
    "location": "UK Warehouse",
    "price": "$19.85",
-   "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 02:02:32 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46571"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$20.70",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:02:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49410"
   }
  ],

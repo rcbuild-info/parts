@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$14.98",
+   "price": "$17.42",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:21:19 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__69296__Emax_PM1806_2300Kv_Brushless_Multi_Rotor_Motor_Set_1xCW_1xCCW_.html"
   },
   {
    "location": "USA East Warehouse",
    "price": "$15.13",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:20:27 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69299"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$16.27",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:20:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69300"
   }
  ],

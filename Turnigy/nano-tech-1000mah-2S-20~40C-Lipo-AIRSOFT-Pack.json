@@ -14,18 +14,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$6.70",
+   "price": "$8.84",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:13:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__34530__Turnigy_nano_tech_1000mah_2S_20_40C_Lipo_AIRSOFT_Pack.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$6.85",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:12:44 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44070"
   },
   {
@@ -33,7 +31,6 @@
    "price": "$7.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:12:43 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44711"
   },
   {
@@ -41,15 +38,13 @@
    "price": "$6.85",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:12:42 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59276"
   },
   {
    "location": "Russia Warehouse",
    "price": "$8.40",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:12:40 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60238"
   }
  ],

@@ -14,10 +14,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$26.50",
+   "price": "$34.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:24:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__17274__Turnigy_nano_tech_5000mah_2S3P_30_60C_Hardcase_Saddle_Lipo_Pack_ROAR_APPROVED_.html"
   },
   {
@@ -25,7 +24,20 @@
    "price": "$27.30",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:22:29 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__24202__Turnigy_nano_tech_5000mah_2S3P_30_60C_Hardcase_Saddle_Lipo_Pack_ROAR_APPROVED_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$34.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17274"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$27.30",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=24202"
   },
   {
@@ -33,7 +45,6 @@
    "price": "$29.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:22:28 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32714"
   },
   {
@@ -41,15 +52,13 @@
    "price": "$28.00",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:22:27 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34306"
   },
   {
    "location": "Australia Warehouse",
    "price": "$27.65",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 02:22:26 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35519"
   },
   {
@@ -57,7 +66,6 @@
    "price": "$27.30",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:22:25 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59168"
   }
  ],

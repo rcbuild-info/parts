@@ -12,17 +12,15 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$25.97",
+   "price": "$34.28",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:27:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__62884__MultiStar_High_Capacity_3S_5200mAh_Multi_Rotor_Lipo_Pack.html"
   },
   {
    "location": "Russia Warehouse",
    "price": "$28.64",
    "stock_state": "backordered",
-   "timestamp": "Mon, 28 Sep 2015 02:26:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68124"
   },
   {
@@ -30,7 +28,6 @@
    "price": "$28.64",
    "stock_state": "in_stock",
    "stock_text": "OK",
-   "timestamp": "Mon, 28 Sep 2015 02:26:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68823"
   },
   {
@@ -38,14 +35,13 @@
    "price": "$28.64",
    "stock_state": "in_stock",
    "stock_text": "OK",
-   "timestamp": "Mon, 28 Sep 2015 02:26:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=68875"
   },
   {
    "location": "Australia Warehouse",
    "price": "$28.64",
-   "stock_state": "backordered",
-   "timestamp": "Mon, 28 Sep 2015 02:26:03 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69144"
   },
   {
@@ -53,7 +49,6 @@
    "price": "$28.64",
    "stock_state": "in_stock",
    "stock_text": "OK",
-   "timestamp": "Mon, 28 Sep 2015 02:26:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69287"
   },
   {
@@ -61,7 +56,6 @@
    "price": "$28.64",
    "stock_state": "in_stock",
    "stock_text": "OK",
-   "timestamp": "Mon, 28 Sep 2015 02:26:01 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=72327"
   }
  ],

@@ -11,34 +11,30 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$15.95",
+   "price": "$17.40",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:44:45 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__39778__Multirotor_Carbon_Fiber_with_DJI_Fitting_Propeller_15x5_5_Black_CW_CCW_2pcs_.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$16.43",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:43:14 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56386"
   },
   {
    "location": "USA West Warehouse",
    "price": "$16.35",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:43:13 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57146"
   },
   {
    "location": "UK Warehouse",
    "price": "$16.62",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:43:10 GMT",
+   "stock_text": "4",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67721"
   }
  ],

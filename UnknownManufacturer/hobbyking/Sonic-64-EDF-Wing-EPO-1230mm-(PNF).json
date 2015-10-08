@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$99.99",
+   "price": "$131.99",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:48:30 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/__25305__Sonic_64_EDF_Wing_EPO_1230mm_PNF_.html"
   },
   {
    "location": "European Warehouse",
    "price": "$127.44",
-   "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 03:48:04 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=34545"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$115.12",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:48:03 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35079"
   },
   {
@@ -39,15 +36,13 @@
    "price": "$119.70",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:48:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35335"
   },
   {
    "location": "USA West Warehouse",
    "price": "$115.40",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:48:01 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36711"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$115.40",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:48:00 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67082"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$123.42",
    "stock_state": "in_stock",
    "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 03:47:59 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67974"
   }
  ],

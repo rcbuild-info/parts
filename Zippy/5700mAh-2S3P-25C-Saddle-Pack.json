@@ -11,11 +11,17 @@
  },
  "variants": [
   {
-   "location": "International Warehouse",
-   "price": "$23.10",
+   "location": "USA West Warehouse",
+   "price": "$24.39",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:46:14 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__16677__ZIPPY_5700mAh_2S3P_25C_Saddle_Pack_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$30.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/__9967__ZIPPY_5700mAh_2S3P_25C_Saddle_Pack.html"
   },
   {
@@ -23,7 +29,6 @@
    "price": "$24.39",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:44:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16677"
   },
   {
@@ -31,15 +36,13 @@
    "price": "$23.79",
    "stock_state": "in_stock",
    "stock_text": "1",
-   "timestamp": "Mon, 28 Sep 2015 02:44:39 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22585"
   },
   {
    "location": "UK Warehouse",
    "price": "$25.71",
    "stock_state": "in_stock",
-   "stock_text": "5",
-   "timestamp": "Mon, 28 Sep 2015 02:44:38 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37381"
   },
   {
@@ -47,7 +50,6 @@
    "price": "$26.00",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:44:37 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38263"
   },
   {
@@ -55,7 +57,6 @@
    "price": "$28.05",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:44:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58706"
   },
   {
@@ -63,8 +64,14 @@
    "price": "$32.94",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:44:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59617"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$30.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=9967"
   }
  ],
  "version": 2,

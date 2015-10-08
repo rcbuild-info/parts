@@ -12,18 +12,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$47.06",
+   "price": "$48.37",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:56:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__31138__Multiwii_and_Megapirate_AIO_Flight_Controller_w_FTDI_ATmega_2560_V2_0.html"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$51.35",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=46540"
   },
   {
    "location": "Russia Warehouse",
    "price": "$62.50",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:55:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69986"
   }
  ],

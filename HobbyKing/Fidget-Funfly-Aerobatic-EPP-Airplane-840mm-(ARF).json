@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$41.99",
+   "price": "$55.43",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:00:55 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__36756__HobbyKing_Fidget_Funfly_Aerobatic_EPP_Airplane_840mm_ARF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$49.92",
    "stock_state": "in_stock",
    "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 04:00:16 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=40901"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$46.68",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:00:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41940"
   },
   {
    "location": "European Warehouse",
    "price": "$51.56",
    "stock_state": "in_stock",
-   "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 04:00:14 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41998"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$46.37",
    "stock_state": "in_stock",
    "stock_text": "7",
-   "timestamp": "Mon, 28 Sep 2015 04:00:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48037"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$46.37",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:00:13 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63213"
   },
   {
@@ -63,7 +57,6 @@
    "price": "$57.18",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 04:00:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63317"
   }
  ],

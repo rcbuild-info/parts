@@ -12,26 +12,23 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$36.40",
+   "price": "$40.32",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:34:25 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__43054__TrackStar_8482_TS_910_Digital_1_8_Truggy_Monster_Truck_Servo_30_6kg_0_14sec_66g.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$37.59",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 00:32:14 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=62795"
   },
   {
    "location": "Russia Warehouse",
    "price": "$49.61",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 00:32:13 GMT",
+   "stock_text": "2",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70207"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$40.17",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:32:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77638"
   }
  ],

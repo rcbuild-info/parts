@@ -11,34 +11,30 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$11.65",
+   "price": "$12.11",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:57:36 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__6584__C10_Micro_brushless_outrunner_2900kv.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$11.90",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 00:56:10 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42506"
   },
   {
    "location": "Australia Warehouse",
    "price": "$11.90",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 00:56:08 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=42578"
   },
   {
    "location": "USA East Warehouse",
    "price": "$11.90",
    "stock_state": "in_stock",
-   "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 00:56:07 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71610"
   }
  ],

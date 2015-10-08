@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$49.99",
+   "price": "$65.99",
    "stock_state": "in_stock",
    "stock_text": "4",
-   "timestamp": "Mon, 28 Sep 2015 03:53:26 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__12607__J3_Blue_Airplane_Model_955mm_PNF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$53.13",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:52:46 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=16824"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$57.29",
    "stock_state": "in_stock",
    "stock_text": "6",
-   "timestamp": "Mon, 28 Sep 2015 03:52:45 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=33381"
   },
   {
    "location": "USA East Warehouse",
    "price": "$53.13",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:52:44 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "8",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69424"
   }
  ],

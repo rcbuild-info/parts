@@ -12,26 +12,37 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$8.65",
+   "price": "$11.42",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:35:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__17065__Turnigy_1600mAh_2S_20C_Losi_Mini_SCT_Pack_Part_LOSB1212_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$9.07",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/__18634__Turnigy_1600mAh_2S_20C_Losi_Mini_SCT_Pack_Part_LOSB1212_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$11.42",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=17065"
   },
   {
    "location": "Australia Warehouse",
    "price": "$9.05",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:33:50 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18571"
   },
   {
    "location": "USA West Warehouse",
    "price": "$9.07",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:33:49 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18634"
   },
   {
@@ -39,7 +50,6 @@
    "price": "$9.25",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:33:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26809"
   },
   {
@@ -47,7 +57,6 @@
    "price": "$9.55",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:33:47 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36034"
   },
   {
@@ -55,7 +64,6 @@
    "price": "$9.07",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:33:46 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58589"
   },
   {
@@ -63,7 +71,6 @@
    "price": "$11.04",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:33:45 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59471"
   }
  ],

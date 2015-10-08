@@ -14,10 +14,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$41.02",
+   "price": "$50.74",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:20:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__51840__Turnigy_nano_tech_Ultimate_4600mah_2S2P_90C_Hardcase_Lipo_Short_Pack_ROAR_BRCA_Approved_.html"
   },
   {
@@ -25,31 +24,41 @@
    "price": "$41.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:17:02 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__63008__nano_tech_Ultimate_4600mah_2S2P_90C_Hardcase_Lipo_Short_Pack_ROAR_BRCA_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$50.74",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=51840"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$41.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63008"
   },
   {
    "location": "UK Warehouse",
    "price": "$42.26",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:17:02 GMT",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63086"
   },
   {
    "location": "Australia Warehouse",
    "price": "$42.51",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:17:01 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63788"
   },
   {
    "location": "European Warehouse",
    "price": "$42.77",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:17:00 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=64933"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$22.65",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:23:30 GMT",
+   "price": "$25.67",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__52736__TrackStar_TS_D99X_Digital_1_10_Scale_Touring_Drift_Buggy_Steering_Servo_45g_10kg_0_08sec.html"
   }
  ],

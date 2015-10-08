@@ -12,34 +12,30 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$16.40",
+   "price": "$18.40",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:14:49 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__41697__Dr_MadThrust_Three_Color_LED_Afterburner_system_90mm_EDF.html"
   },
   {
    "location": "European Warehouse",
-   "price": "$17.64",
+   "price": "$18.20",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:13:54 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63809"
   },
   {
    "location": "Australia Warehouse",
-   "price": "$16.95",
+   "price": "$17.51",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:13:53 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65125"
   },
   {
    "location": "UK Warehouse",
-   "price": "$17.93",
+   "price": "$18.49",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:13:52 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=65422"
   }
  ],

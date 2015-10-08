@@ -14,15 +14,35 @@
    "price": "$129.99",
    "stock_state": "in_stock",
    "stock_text": "OK",
+   "url": "http://www.hobbyking.com/hobbyking/store/__82600__Hobbyking_8482_SkyRay_Flying_Wing_FPV_Model_1213mm_EPO_PNP_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$129.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
    "timestamp": "Mon, 28 Sep 2015 03:55:32 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__82600__Hobbyking_8482_SkyRay_Flying_Wing_FPV_Model_1213mm_EPO_P_P_.html"
   },
   {
-   "location": "USA West Warehouse",
-   "price": "$167.65",
+   "location": "UK Warehouse",
+   "price": "$149.99",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:55:09 GMT",
+   "stock_text": "OK",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=82603"
+  },
+  {
+   "location": "Australia Warehouse",
+   "price": "$149.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=82604"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$149.99",
+   "stock_state": "in_stock",
+   "stock_text": "OK",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=82605"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$3.99",
+   "price": "$4.25",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 00:17:17 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__14839__HK_282A_Single_Screw_Ultra_Micro_Servo_2g_0_2kg_0_08sec.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$4.13",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:16:41 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29513"
   },
   {
@@ -31,15 +29,13 @@
    "price": "$4.08",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:16:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31634"
   },
   {
    "location": "USA West Warehouse",
    "price": "$4.19",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 00:16:39 GMT",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36720"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$4.18",
    "stock_state": "in_stock",
    "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 00:16:38 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45608"
   },
   {
@@ -55,7 +50,6 @@
    "price": "$4.19",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 00:16:37 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71727"
   }
  ],

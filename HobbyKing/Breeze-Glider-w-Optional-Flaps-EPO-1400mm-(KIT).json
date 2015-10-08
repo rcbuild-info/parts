@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$52.80",
+   "price": "$69.70",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:37:33 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/__37654__HobbyKing_Breeze_Glider_w_Optional_Flaps_EPO_1400mm_KIT_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$66.30",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:35:35 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=48040"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$62.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:35:34 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49340"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$66.30",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:35:33 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67812"
   }
  ],

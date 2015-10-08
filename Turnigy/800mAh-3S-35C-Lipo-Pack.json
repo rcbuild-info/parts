@@ -12,58 +12,51 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$11.05",
+   "price": "$14.56",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:45:51 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/__18850__Turnigy_800mAh_3S_35C_Lipo_Pack.html"
   },
   {
    "location": "USA West Warehouse",
-   "price": "$11.35",
+   "price": "$7.39",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:42:48 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21114"
   },
   {
    "location": "Australia Warehouse",
-   "price": "$11.40",
+   "price": "$7.46",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:42:47 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=21226"
   },
   {
    "location": "UK Warehouse",
-   "price": "$11.95",
+   "price": "$7.65",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:42:46 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26814"
   },
   {
    "location": "European Warehouse",
-   "price": "$10.99",
+   "price": "$7.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:42:46 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36047"
   },
   {
    "location": "USA East Warehouse",
-   "price": "$11.35",
+   "price": "$7.39",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:42:45 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58569"
   },
   {
    "location": "Russia Warehouse",
-   "price": "$15.33",
+   "price": "$12.06",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:42:44 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59447"
   }
  ],

@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$3.48",
-   "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:56:20 GMT",
+   "price": "$4.59",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
    "url": "http://www.hobbyking.com/hobbyking/store/__11333__Hobbyking_8482_Propeller_10x6_Black_CW_CCW_6pcs_.html"
   },
   {
@@ -22,7 +21,6 @@
    "price": "$4.56",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:55:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26148"
   },
   {
@@ -30,15 +28,13 @@
    "price": "$3.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:55:30 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41718"
   },
   {
    "location": "Australia Warehouse",
    "price": "$3.67",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Sun, 27 Sep 2015 23:55:29 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=41897"
   },
   {
@@ -46,7 +42,6 @@
    "price": "$3.78",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:55:29 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=44583"
   },
   {
@@ -54,7 +49,6 @@
    "price": "$4.49",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:55:28 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=60688"
   },
   {
@@ -62,7 +56,6 @@
    "price": "$3.95",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Sun, 27 Sep 2015 23:55:27 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71697"
   }
  ],

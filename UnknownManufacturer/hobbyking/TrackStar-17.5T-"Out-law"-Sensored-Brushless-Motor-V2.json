@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$46.87",
+   "price": "$54.29",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:38:31 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__81264__TrackStar_17_5T_34_Out_law_34_Sensored_Brushless_Motor_V2.html"
   },
   {
@@ -22,7 +21,6 @@
    "price": "$48.26",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:37:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81265"
   },
   {
@@ -30,8 +28,14 @@
    "price": "$51.09",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:37:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81266"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$48.26",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=81270"
   }
  ],
  "version": 2,

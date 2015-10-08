@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$109.40",
+   "price": "$144.41",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:37:40 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__51315__ASW28_Electric_Sailplane_EPO_Plastic_2540mm_PNF_.html"
   },
   {
@@ -23,15 +22,13 @@
    "price": "$129.26",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:36:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55367"
   },
   {
    "location": "Australia Warehouse",
    "price": "$123.56",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:36:03 GMT",
+   "stock_text": "7",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=55841"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$125.58",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 03:36:02 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=56811"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$122.60",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:36:01 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=76873"
   }
  ],

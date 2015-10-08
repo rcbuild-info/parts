@@ -11,10 +11,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$39.99",
+   "price": "$52.79",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:57:01 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__12105__HobbyKing_8482_ECO6_10_200W_10A_6S_Bal_Dis_Cyc_Charger_w_acc_.html"
   },
   {
@@ -22,15 +21,20 @@
    "price": "$35.97",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:55:11 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=15045"
+  },
+  {
+   "location": "European Warehouse",
+   "price": "$39.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "0",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31508"
   },
   {
    "location": "USA East Warehouse",
    "price": "$35.04",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:55:10 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=70748"
   }
  ],

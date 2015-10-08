@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$221.00",
+   "price": "$291.72",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 04:03:43 GMT",
+   "stock_text": "3",
    "url": "http://www.hobbyking.com/hobbyking/store/__19202__Pitts_12_EPO_1600mm_w_Brushless_Motor_Servos_ARF_Yellow_Black_.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$256.66",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:03:40 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27023"
   }
  ],

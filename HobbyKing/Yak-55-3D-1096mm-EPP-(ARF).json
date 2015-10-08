@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$51.35",
+   "price": "$67.78",
    "stock_state": "in_stock",
-   "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:10:05 GMT",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/__17521__HobbyKing_Yak_55_3D_1096mm_EPP_ARF_.html"
   },
   {
    "location": "USA West Warehouse",
    "price": "$67.00",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 04:08:16 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=20111"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$61.50",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:08:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22413"
   },
   {
@@ -39,15 +36,13 @@
    "price": "$66.03",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:08:14 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31726"
   },
   {
    "location": "UK Warehouse",
    "price": "$61.71",
    "stock_state": "in_stock",
-   "stock_text": "9",
-   "timestamp": "Mon, 28 Sep 2015 04:08:13 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32297"
   },
   {
@@ -55,15 +50,13 @@
    "price": "$86.78",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:08:12 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69739"
   },
   {
    "location": "USA East Warehouse",
    "price": "$67.00",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:08:11 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "9",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=71081"
   }
  ],

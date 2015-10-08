@@ -11,18 +11,30 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$12.80",
+   "price": "$16.90",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 02:12:18 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__37322__Turnigy_Stick_Pack_Sub_C_3000mAh_7_2v_NiMH_High_Power_Series_.html"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$13.41",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/__77939__Turnigy_Stick_Pack_Sub_C_3000mAh_7_2v_NiMH_High_Power_Series_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$16.90",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=37322"
   },
   {
    "location": "USA East Warehouse",
    "price": "$13.41",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:11:22 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=57362"
   },
   {
@@ -30,7 +42,6 @@
    "price": "$14.88",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:11:21 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77936"
   },
   {
@@ -38,23 +49,20 @@
    "price": "$15.63",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:11:20 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77937"
   },
   {
    "location": "Australia Warehouse",
    "price": "$14.13",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:11:19 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77938"
   },
   {
    "location": "USA West Warehouse",
    "price": "$13.41",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 02:11:18 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77939"
   }
  ],

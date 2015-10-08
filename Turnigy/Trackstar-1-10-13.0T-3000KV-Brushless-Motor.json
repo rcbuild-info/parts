@@ -11,18 +11,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$23.00",
+   "price": "$30.08",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:38:28 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__27865__Turnigy_Trackstar_1_10_13_0T_3000KV_Brushless_Motor.html"
   },
   {
    "location": "Australia Warehouse",
    "price": "$27.65",
    "stock_state": "in_stock",
-   "stock_text": "3",
-   "timestamp": "Mon, 28 Sep 2015 01:37:16 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=49219"
   },
   {
@@ -30,15 +28,13 @@
    "price": "$29.17",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 01:37:15 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=69965"
   },
   {
    "location": "European Warehouse",
    "price": "$29.04",
-   "stock_state": "out_of_stock",
-   "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 01:37:14 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=77513"
   }
  ],

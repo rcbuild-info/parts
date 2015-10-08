@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$32.95",
+   "price": "$43.49",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:29:35 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__18611__ZIPPY_5900mah_2S2P_60C_Hardcase_Pack.html"
   },
   {
@@ -23,7 +22,20 @@
    "price": "$33.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:27:09 GMT",
+   "url": "http://www.hobbyking.com/hobbyking/store/__27157__ZIPPY_5900mah_2S2P_60C_Hardcase_Pack_US_Warehouse_.html"
+  },
+  {
+   "location": "International Warehouse",
+   "price": "$43.49",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
+   "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=18611"
+  },
+  {
+   "location": "USA West Warehouse",
+   "price": "$33.98",
+   "stock_state": "in_stock",
+   "stock_text": "10+",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27157"
   },
   {
@@ -31,7 +43,6 @@
    "price": "$33.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:27:08 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=27998"
   },
   {
@@ -39,7 +50,6 @@
    "price": "$34.96",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:27:07 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=32232"
   },
   {
@@ -47,7 +57,6 @@
    "price": "$34.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:27:06 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=38346"
   },
   {
@@ -55,7 +64,6 @@
    "price": "$33.98",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:27:05 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=58721"
   },
   {
@@ -63,7 +71,6 @@
    "price": "$42.54",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 03:27:04 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=59633"
   }
  ],

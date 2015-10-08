@@ -12,18 +12,16 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$123.50",
+   "price": "$163.02",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:06:54 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/__22575__H_King_FW190_w_Lights_Flaps_Retracts_Gear_Doors_1200mm_PNF_.html"
   },
   {
    "location": "UK Warehouse",
    "price": "$149.99",
    "stock_state": "in_stock",
-   "stock_text": "8",
-   "timestamp": "Mon, 28 Sep 2015 04:05:45 GMT",
+   "stock_text": "5",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29028"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$146.61",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:05:44 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=30526"
   },
   {
@@ -39,7 +36,6 @@
    "price": "$149.99",
    "stock_state": "in_stock",
    "stock_text": "10+",
-   "timestamp": "Mon, 28 Sep 2015 04:05:43 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=66331"
   },
   {
@@ -47,7 +43,6 @@
    "price": "$154.18",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 04:05:42 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=67967"
   }
  ],

@@ -12,10 +12,9 @@
  "variants": [
   {
    "location": "International Warehouse",
-   "price": "$34.45",
+   "price": "$45.47",
    "stock_state": "in_stock",
-   "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 04:14:26 GMT",
+   "stock_text": "1",
    "url": "http://www.hobbyking.com/hobbyking/store/__17312__Mig_15_35mm_EDF_Micro_Jet_EPO_ARF_.html"
   },
   {
@@ -23,7 +22,6 @@
    "price": "$41.50",
    "stock_state": "out_of_stock",
    "stock_text": "0",
-   "timestamp": "Mon, 28 Sep 2015 04:12:46 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=31762"
   },
   {
@@ -31,7 +29,6 @@
    "price": "$55.07",
    "stock_state": "in_stock",
    "stock_text": "2",
-   "timestamp": "Mon, 28 Sep 2015 04:12:45 GMT",
    "url": "http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=63302"
   }
  ],
