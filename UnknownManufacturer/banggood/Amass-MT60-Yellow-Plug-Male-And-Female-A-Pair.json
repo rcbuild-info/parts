@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Amass MT60 Yellow Plug Male And Female A Pair",
@@ -7,9 +7,17 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Amass-MT60-Yellow-Plug-Male-And-Female-A-Pair-p-924339.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "price": "$3.40",
+   "stock_state": "in_stock",
+   "stock_text": "Sold Out Currently!",
+   "url": "http://www.banggood.com/Amass-MT60-Yellow-Plug-Male-And-Female-A-Pair-p-924339.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
