@@ -17,8 +17,8 @@
  },
  "variants": [
   {
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
    "url": "http://www.getfpv.com/qav250-mini-fpv-quadcopter.html"
   }
  ],

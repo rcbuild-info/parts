@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$39.95",
-   "stock_state": "backordered",
-   "stock_text": "Back Ordered - Ships When Available",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/5-8-ghz-spironet-antenna-set-sma.html"
   }
  ],

@@ -50,24 +50,24 @@
    "description": "Orange",
    "price": "$2.99",
    "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/15/2015",
    "url": "http://www.getfpv.com/hqprop-5x4-5-bullnose-ccw-propeller-2-blade-2-pack-orange.html"
   },
   {
    "description": "Black",
    "price": "$2.99",
    "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/15/2015",
    "url": "http://www.getfpv.com/hqprop-5x4-5-bullnose-ccw-propeller-2-blade-2-pack.html"
   },
   {
    "description": "Black",
    "price": "$2.99",
    "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/15/2015",
    "url": "http://www.getfpv.com/hqprop-5x4-5-bullnose-cw-propeller-2-blade-2-pack-black.html"
   },
   {

@@ -13,8 +13,8 @@
    "description": "Green",
    "price": "$3.09",
    "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/hqprop-6x4-5-ccw-bullnose-propeller-set-of-2-green.html"
   }
  ],

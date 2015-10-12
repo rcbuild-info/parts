@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "$49.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
    "url": "http://www.getfpv.com/lumenier-race-flag.html"
   }
  ],
