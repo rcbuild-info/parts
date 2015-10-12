@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "US$6.00",
-   "stock_state": "low_stock",
-   "stock_text": "Only 2 left",
-   "timestamp": "Wed, 30 Sep 2015 19:46:59 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/zippy-flightmax-1000mah-3s1p-25c"
   }
  ],

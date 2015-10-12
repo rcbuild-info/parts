@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "US$10.00",
-   "stock_state": "in_stock",
-   "timestamp": "Wed, 30 Sep 2015 20:07:40 GMT",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
    "url": "https://www.liftrc.com/3dr-gps-mast"
   }
  ],

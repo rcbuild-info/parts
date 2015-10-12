@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "US$18.00",
-   "stock_state": "low_stock",
-   "stock_text": "Only 2 left",
-   "timestamp": "Wed, 30 Sep 2015 19:56:52 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/ftdi-usb-to-serial-basic-breakout-3-3-5v"
   }
  ],

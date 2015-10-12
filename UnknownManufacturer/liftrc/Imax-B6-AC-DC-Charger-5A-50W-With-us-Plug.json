@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "US$23.00",
-   "stock_state": "low_stock",
-   "stock_text": "Only 1 left",
-   "timestamp": "Wed, 30 Sep 2015 19:55:02 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/imax-b6-ac-dc-charger-5a-50w-with-us-plug"
   }
  ],

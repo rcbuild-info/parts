@@ -17,9 +17,8 @@
   },
   {
    "price": "US$6.00",
-   "stock_state": "low_stock",
-   "stock_text": "Only 2 left",
-   "timestamp": "Wed, 30 Sep 2015 20:00:27 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/pololu-12v-step-up-step-down-voltage-regulator-s10v2f12"
   }
  ],

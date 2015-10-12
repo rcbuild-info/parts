@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "US$23.00",
-   "stock_state": "in_stock",
-   "timestamp": "Wed, 30 Sep 2015 20:12:15 GMT",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
    "url": "https://www.liftrc.com/lumenier-1300mah-4s-35c-lipo-battery"
   }
  ],

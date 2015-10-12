@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "US$11.99",
-   "stock_state": "low_stock",
-   "stock_text": "Only 2 left",
-   "timestamp": "Wed, 30 Sep 2015 20:10:11 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/lumenier-qav250-replacement-led-lights"
   }
  ],
