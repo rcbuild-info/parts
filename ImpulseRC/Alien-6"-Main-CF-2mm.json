@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$23.99",
-   "stock_state": "backordered",
-   "stock_text": "Available For Pre-Order",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
    "url": "http://impulserc.com/alien-6-main-cf-2mm"
   }
  ],

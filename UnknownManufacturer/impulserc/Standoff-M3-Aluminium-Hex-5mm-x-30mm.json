@@ -13,8 +13,8 @@
   {
    "price": "$3.99",
    "quantity": 4,
-   "stock_state": "backordered",
-   "stock_text": "Available For Pre-Order",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
    "url": "http://impulserc.com/4x-standoff-m3-aluminium-hex-5mm-x-30mm"
   }
  ],
