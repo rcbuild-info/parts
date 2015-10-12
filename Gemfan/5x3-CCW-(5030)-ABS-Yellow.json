@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "A$0.44",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
-   "timestamp": "Wed, 30 Sep 2015 21:15:24 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Back Order",
    "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=374"
   }
  ],
