@@ -11,6 +11,11 @@
  },
  "variants": [
   {
+   "price": "R 950.00",
+   "stock_state": "out_of_stock",
+   "url": "http://flyingrobot.co/products/immersionrc-ezuhf-4-channel-lite-receiver"
+  },
+  {
    "price": "$64.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",

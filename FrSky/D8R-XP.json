@@ -15,6 +15,12 @@
  },
  "variants": [
   {
+   "price": "R 650.00",
+   "stock_state": "low_stock",
+   "stock_text": "Currently 1 in stock.",
+   "url": "http://flyingrobot.co/products/frsky-d8r-xp-2-4ghz-receiver-w-telemetry"
+  },
+  {
    "price": "$33.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
