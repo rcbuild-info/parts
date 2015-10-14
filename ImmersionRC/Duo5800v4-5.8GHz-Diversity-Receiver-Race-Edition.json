@@ -11,6 +11,12 @@
  },
  "variants": [
   {
+   "price": "USD$175.08",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out Of Stock",
+   "url": "http://buzzhobbies.com.au/index.php?route=product%2Fproduct&product_id=775"
+  },
+  {
    "price": "$149.99",
    "stock_state": "in_stock",
    "stock_text": "35 Units in Stock",

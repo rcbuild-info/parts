@@ -39,6 +39,12 @@
    "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=725"
   },
   {
+   "price": "USD$21.45",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "url": "http://buzzhobbies.com.au/index.php?route=product%2Fproduct&product_id=386"
+  },
+  {
    "price": "$21.50",
    "stock_state": "out_of_stock",
    "stock_text": "Out Of Stock",
