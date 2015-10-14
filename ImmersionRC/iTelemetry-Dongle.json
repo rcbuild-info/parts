@@ -11,6 +11,12 @@
  },
  "variants": [
   {
+   "price": "CHF  21.95",
+   "stock_state": "out_of_stock",
+   "stock_text": "This product is no longer in stock",
+   "url": "http://fpvracing.ch/en/measurement/239-itelemetry-dongle.html"
+  },
+  {
    "price": "$19.95",
    "stock_state": "in_stock",
    "stock_text": "In Stock",

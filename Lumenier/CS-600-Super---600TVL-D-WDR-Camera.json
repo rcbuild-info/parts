@@ -11,6 +11,12 @@
  },
  "variants": [
   {
+   "price": "CHF  63.50",
+   "stock_state": "out_of_stock",
+   "stock_text": "This product is no longer in stock",
+   "url": "http://fpvracing.ch/en/cameras/57-lumenier-cs-600-super-600tvl-d-wdr-camera.html"
+  },
+  {
    "price": "$56.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",

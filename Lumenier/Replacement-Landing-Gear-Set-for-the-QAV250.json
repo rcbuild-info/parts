@@ -11,6 +11,12 @@
  },
  "variants": [
   {
+   "price": "CHF  5.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "This product is no longer in stock",
+   "url": "http://fpvracing.ch/en/frames/49-replacement-landing-gear-set-for-the-qav250.html"
+  },
+  {
    "price": "$4.99",
    "stock_state": "in_stock",
    "stock_text": "In Stock",

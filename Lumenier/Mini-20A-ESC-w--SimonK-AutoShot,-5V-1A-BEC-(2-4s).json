@@ -11,6 +11,12 @@
  },
  "variants": [
   {
+   "price": "CHF  22.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "This product is no longer in stock",
+   "url": "http://fpvracing.ch/en/esc/370-lumenier-mini-20a-esc-w-simonk-autoshot-5v1a-bec-2-4s.html"
+  },
+  {
    "stock_state": "backordered",
    "stock_text": "Back Ordered - Ships When Available",
    "url": "http://www.getfpv.com/lumenier-mini-20a-esc-w-simonk-autoshot-5v-1a-bec-2-4s.html"

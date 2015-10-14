@@ -11,6 +11,12 @@
  },
  "variants": [
   {
+   "price": "CHF  21.50",
+   "stock_state": "in_stock",
+   "stock_text": "1-3 Werktage",
+   "url": "http://fpvracing.ch/en/frames/53-qav250-flight-controller-cover-plate-cf.html"
+  },
+  {
    "price": "$18.99",
    "stock_state": "out_of_stock",
    "stock_text": "Out of Stock",

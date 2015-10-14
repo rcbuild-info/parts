@@ -11,6 +11,12 @@
  },
  "variants": [
   {
+   "price": "CHF  6.50",
+   "stock_state": "out_of_stock",
+   "stock_text": "This product is no longer in stock",
+   "url": "http://fpvracing.ch/en/components/197-lumenier-4power-mini-pdb.html"
+  },
+  {
    "price": "$5.99",
    "stock_state": "backordered",
    "stock_text": "Back Ordered - Ships When Available",
