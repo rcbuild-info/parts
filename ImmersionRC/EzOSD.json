@@ -15,8 +15,8 @@
  },
  "variants": [
   {
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/29/2015",
    "url": "http://www.getfpv.com/ezosd-current-sensor-375.html"
   },
   {

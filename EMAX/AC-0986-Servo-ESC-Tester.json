@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$4.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/emax-ac-0986-servo-tester.html"
   }
  ],

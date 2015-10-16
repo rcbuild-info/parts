@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$149.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 10/4/2015",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
    "url": "http://www.getfpv.com/phantom-3-battery.html"
   }
  ],

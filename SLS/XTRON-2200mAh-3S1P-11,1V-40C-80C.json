@@ -12,6 +12,11 @@
  "variants": [
   {
    "price": "24,19 \u20ac",
+   "stock_state": "in_stock",
+   "url": "http://flyduino.net/SLS-XTRON-2200mAh-3S1P-111V-40C/80C"
+  },
+  {
+   "price": "24,19 \u20ac",
    "stock_state": "out_of_stock",
    "url": "http://flyduino.net/SLS-XTRON-2200mAh-3S1P-111V-40C/80C_1"
   }
