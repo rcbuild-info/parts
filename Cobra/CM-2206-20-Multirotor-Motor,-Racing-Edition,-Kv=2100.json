@@ -14,6 +14,11 @@
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "url": "http://buzzhobbies.com.au/index.php?route=product%2Fproduct&product_id=765"
+  },
+  {
+   "price": "$25.99",
+   "stock_state": "out_of_stock",
+   "url": "http://innov8tivedesigns.com/cobra-cm-2206-20-multirotor-motor-kv-2100"
   }
  ],
  "version": 2,
