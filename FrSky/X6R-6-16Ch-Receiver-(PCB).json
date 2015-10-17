@@ -15,6 +15,11 @@
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=534"
+  },
+  {
+   "price": "$30.98",
+   "stock_state": "out_of_stock",
+   "url": "http://boltrc.eu/nl/en/receivers/13-frsky-x6r-616ch-receiver-pcb-99170000012.html"
   }
  ],
  "version": 2,

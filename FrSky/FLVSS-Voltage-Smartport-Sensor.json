@@ -15,6 +15,11 @@
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=359"
+  },
+  {
+   "price": "$18.57",
+   "stock_state": "out_of_stock",
+   "url": "http://boltrc.eu/nl/en/telemetry/15-frsky-flvss-voltage-smartport-sensor-99170000014.html"
   }
  ],
  "version": 2,

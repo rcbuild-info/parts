@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Surveilzone",
  "name": "HS1177 (PZ0420M) Sony Super HAD II Ultra Mini",
@@ -7,9 +7,18 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://boltrc.com/index.php?route=product%2Fproduct&product_id=843"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=843"
+  },
+  {
+   "price": "$36.15",
+   "stock_state": "out_of_stock",
+   "url": "http://boltrc.eu/nl/en/fpv/180-surveilzone-hs1177-pz0420m-sony-super-had-ii-ultra-mini-99170000180.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
