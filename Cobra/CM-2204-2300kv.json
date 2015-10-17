@@ -21,6 +21,11 @@
    "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=724"
   },
   {
+   "price": "$20.64",
+   "stock_state": "out_of_stock",
+   "url": "http://boltrc.eu/nl/en/20-30mm/109-cobra-cm220428-kv2300-99170000511.html"
+  },
+  {
    "price": "USD$23.09",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
@@ -38,10 +43,21 @@
    "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=109"
   },
   {
+   "price": "CHF  22.90",
+   "stock_state": "out_of_stock",
+   "stock_text": "This product is no longer in stock",
+   "url": "http://fpvracing.ch/en/motors/333-cobra-cm-220432-1960kv.html"
+  },
+  {
    "price": "$20.99",
    "stock_state": "out_of_stock",
    "stock_text": "Out of stock",
    "url": "http://impulserc.com/cobra-2204-2300kv-brushless-motor"
+  },
+  {
+   "price": "$20.99",
+   "stock_state": "out_of_stock",
+   "url": "http://innov8tivedesigns.com/cobra-cm-2204-28-brushless-motor-kv-2300"
   },
   {
    "price": "USD$21.99",

@@ -39,6 +39,10 @@
    "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=725"
   },
   {
+   "price": "$20.64",
+   "url": "http://boltrc.eu/nl/en/20-30mm/108-cobra-cm220432-kv1960-99170000510.html"
+  },
+  {
    "price": "USD$21.45",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
@@ -57,10 +61,21 @@
    "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=108"
   },
   {
+   "price": "CHF  27.90",
+   "stock_state": "in_stock",
+   "stock_text": "1-3 Werktage",
+   "url": "http://fpvracing.ch/en/motors/331-cobra-cm-220432-1960kv.html"
+  },
+  {
    "price": "$20.99",
    "stock_state": "in_stock",
    "stock_text": "In stock",
    "url": "http://impulserc.com/cobra-2204-1960kv-brushless-motor"
+  },
+  {
+   "price": "$20.99",
+   "stock_state": "out_of_stock",
+   "url": "http://innov8tivedesigns.com/cobra-cm-2204-32-brushless-motor-kv-1960"
   },
   {
    "price": "USD$21.99",
@@ -84,6 +99,11 @@
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "url": "http://www.getfpv.com/cobra-cm-2204-1960kv-motor.html"
+  },
+  {
+   "price": "$20.00",
+   "stock_state": "out_of_stock",
+   "url": "http://www.miniquadbros.com/products/cobramotors?variant=1927084547"
   },
   {
    "price": "$20.99",
