@@ -14,8 +14,8 @@
  "variants": [
   {
    "price": "$129.00",
-   "stock_state": "backordered",
-   "stock_text": "Available For Pre-Order",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
    "url": "http://impulserc.com/alien-4-fpv-frame"
   }
  ],

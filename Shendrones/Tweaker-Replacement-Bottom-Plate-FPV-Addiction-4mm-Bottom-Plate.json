@@ -23,7 +23,8 @@
   },
   {
    "price": "$37.00",
-   "stock_state": "in_stock",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left!",
    "url": "http://shendrones.myshopify.com/products/tweaker-replacement-bottom-plate?variant=5067277697"
   }
  ],

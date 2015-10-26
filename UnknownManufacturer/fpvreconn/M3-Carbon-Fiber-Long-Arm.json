@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$6.50",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out Of Stock",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://fpv-reconn.com/store/index.php?route=product%2Fproduct&product_id=86"
   }
  ],
