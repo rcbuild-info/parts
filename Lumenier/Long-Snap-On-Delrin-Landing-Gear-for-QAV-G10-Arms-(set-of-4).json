@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$14.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 11/29/2015",
    "url": "http://www.getfpv.com/long-delrin-landing-gear-for-g10-arms-set-of-4.html"
   }
  ],

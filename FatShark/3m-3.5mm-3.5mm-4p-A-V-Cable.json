@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$5.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 11/12/2015",
    "url": "http://www.getfpv.com/3m-3-5mm-3-5mm-4p-a-v-cable.html"
   }
  ],

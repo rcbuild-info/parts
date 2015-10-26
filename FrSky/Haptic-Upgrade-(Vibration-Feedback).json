@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$6.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 11/1/2015",
    "url": "http://www.getfpv.com/frsky-haptic-upgrade-vibration-feedback.html"
   }
  ],

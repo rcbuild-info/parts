@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "R 50.00",
-   "stock_state": "low_stock",
-   "stock_text": "Currently 2 in stock.",
+   "stock_state": "in_stock",
+   "stock_text": "Currently 6 in stock.",
    "url": "http://flyingrobot.co/products/gemfan-5040-carbon-nylon-propellers"
   }
  ],

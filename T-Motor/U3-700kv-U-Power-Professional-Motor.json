@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$109.99",
-   "stock_state": "backordered",
-   "stock_text": "Back Ordered - Ships When Available",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/tiger-motor-u3-700kv-u-power-professional-motor.html"
   }
  ],

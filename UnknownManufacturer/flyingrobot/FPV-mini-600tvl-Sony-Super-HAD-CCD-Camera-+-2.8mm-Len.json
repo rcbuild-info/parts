@@ -11,7 +11,8 @@
  "variants": [
   {
    "price": "R 650.00",
-   "stock_state": "out_of_stock",
+   "stock_state": "in_stock",
+   "stock_text": "Currently 29 in stock.",
    "url": "http://flyingrobot.co/products/fpv-mini-600tvl-sony-super-had-ccd-camera-2-8mm-len"
   }
  ],

@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "R 460.00",
-   "stock_state": "low_stock",
-   "stock_text": "Currently 2 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/tattu-1800mah-45c-4s-1"
   }
  ],

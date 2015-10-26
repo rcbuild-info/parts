@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$8.45",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 11/1/2015",
    "url": "http://www.getfpv.com/frusb-3-frsky-upgrade-cable.html"
   }
  ],

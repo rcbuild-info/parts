@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "R 120.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 35 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/pdb-with-5v-and-12v-bec-and-led-switch-1"
   }
  ],

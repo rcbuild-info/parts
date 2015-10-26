@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "R 970.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 6 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/tbs-core-pnp50"
   }
  ],

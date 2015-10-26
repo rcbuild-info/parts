@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$125.99",
-   "stock_state": "backordered",
-   "stock_text": "Back Ordered - Ships When Available",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 10/29/2015",
    "url": "http://www.getfpv.com/tiger-motor-u5-400kv-u-power-professional-motor.html"
   }
  ],
