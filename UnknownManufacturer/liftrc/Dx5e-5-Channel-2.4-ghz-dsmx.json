@@ -12,6 +12,8 @@
  "variants": [
   {
    "price": "US$99.99",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
    "url": "https://www.liftrc.com/dx5e-5-channel-2-4-ghz-dsmx"
   }
  ],

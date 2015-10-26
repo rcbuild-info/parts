@@ -12,6 +12,8 @@
  "variants": [
   {
    "price": "US$5.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
    "url": "https://www.liftrc.com/s1000-premium-power-cord-plug-as150-xt150-bullet-connectors-set-for-dji-s1000-part-1"
   }
  ],

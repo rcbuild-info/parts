@@ -12,6 +12,8 @@
  "variants": [
   {
    "price": "US$105.00",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
    "url": "https://www.liftrc.com/4-channel-video-audio-switcher-mixer"
   }
  ],

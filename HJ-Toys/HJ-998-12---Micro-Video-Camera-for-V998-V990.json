@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "USD10.99",
-   "stock_state": "in_stock",
-   "stock_text": "Usually ship within 48 hours (Estimated)",
-   "timestamp": "Sat, 03 Oct 2015 03:38:12 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
    "url": "http://www.myrcmart.com/hj99812-micro-video-camera-for-v998v990-p-6384.html"
   }
  ],

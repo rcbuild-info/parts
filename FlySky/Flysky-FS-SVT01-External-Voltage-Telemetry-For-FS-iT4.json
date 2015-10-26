@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "USD4.99",
-   "stock_state": "in_stock",
-   "stock_text": "Usually ship within 48 hours (Estimated)",
-   "timestamp": "Sat, 03 Oct 2015 03:16:01 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
    "url": "http://www.myrcmart.com/flysky-fssvt01-external-voltage-telemetry-for-fsit4-p-6059.html"
   }
  ],

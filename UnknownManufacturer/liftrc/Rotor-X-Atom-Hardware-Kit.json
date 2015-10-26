@@ -12,7 +12,8 @@
  "variants": [
   {
    "price": "US$3.99",
-   "stock_state": "in_stock",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/rotor-x-atom-hardware-kit"
   }
  ],

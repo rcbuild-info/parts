@@ -12,6 +12,8 @@
  "variants": [
   {
    "price": "US$8.99",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
    "url": "https://www.liftrc.com/flytrex-live-apm-2-5-2-6-cable"
   }
  ],

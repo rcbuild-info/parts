@@ -12,6 +12,8 @@
  "variants": [
   {
    "price": "US$25.99",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
    "url": "https://www.liftrc.com/40a-current-sensor-with-smart-port"
   }
  ],

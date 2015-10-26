@@ -13,7 +13,8 @@
   {
    "price": "US$2.48",
    "quantity": 2,
-   "stock_state": "in_stock",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/hqprop-5x4r-cw-propeller-pair-green-5040"
   }
  ],

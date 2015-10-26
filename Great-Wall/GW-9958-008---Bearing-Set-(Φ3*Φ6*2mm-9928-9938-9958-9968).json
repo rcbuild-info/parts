@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "USD0.50",
-   "stock_state": "in_stock",
-   "stock_text": "Usually ship within 48 hours (Estimated)",
-   "timestamp": "Sat, 03 Oct 2015 03:42:41 GMT",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
    "url": "http://www.myrcmart.com/gw9958008-bearing-set-%CE%A63%CE%A662mm9928993899589968-p-3810.html"
   }
  ],

@@ -12,9 +12,8 @@
  "variants": [
   {
    "price": "USD22.99",
-   "stock_state": "backordered",
-   "stock_text": "Usually ship within 2-5 business days (Estimated)",
-   "timestamp": "Sat, 03 Oct 2015 03:22:53 GMT",
+   "stock_state": "in_stock",
+   "stock_text": "Usually ship within 48 hours (Estimated)",
    "url": "http://www.myrcmart.com/mini32-pro-flight-controller-designed-for-naze32-pro-cleanflight-p-8798.html"
   }
  ],

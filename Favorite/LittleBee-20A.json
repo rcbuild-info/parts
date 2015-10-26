@@ -16,8 +16,8 @@
  "variants": [
   {
    "price": "A$19.95",
-   "stock_state": "backordered",
-   "stock_text": "Back Order",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=1001"
   },
   {
@@ -28,15 +28,14 @@
   },
   {
    "price": "$15.99",
-   "stock_state": "in_stock",
-   "stock_text": "In stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
    "url": "http://www.multirotorsuperstore.com/fvt-littlebee-20a-esc.html"
   },
   {
-   "price": "USD14.99",
+   "price": "USD13.99",
    "stock_state": "in_stock",
    "stock_text": "Usually ship within 48 hours (Estimated)",
-   "timestamp": "Sat, 03 Oct 2015 03:18:39 GMT",
    "url": "http://www.myrcmart.com/rcx-20a-fvt-little-bee-mini-blheli-multirotor-esc-p-9047.html"
   },
   {

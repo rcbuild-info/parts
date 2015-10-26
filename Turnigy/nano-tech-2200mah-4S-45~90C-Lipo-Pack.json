@@ -62,7 +62,8 @@
   },
   {
    "price": "US$19.65",
-   "stock_state": "in_stock",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
    "url": "https://www.liftrc.com/turnigy-nano-tech-2200mah-4s-45-90c-lipo-pack"
   }
  ],

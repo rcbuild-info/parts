@@ -12,6 +12,12 @@
  "variants": [
   {
    "price": "USD23.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=8879"
+  },
+  {
+   "price": "USD23.99",
    "stock_state": "in_stock",
    "stock_text": "Usually ship within 48 hours (Estimated)",
    "timestamp": "Sat, 03 Oct 2015 03:37:25 GMT",
