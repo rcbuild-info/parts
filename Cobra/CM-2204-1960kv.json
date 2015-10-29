@@ -51,8 +51,8 @@
   },
   {
    "price": "R 300.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 7 in stock.",
+   "stock_state": "low_stock",
+   "stock_text": "Currently 2 in stock.",
    "url": "http://flyingrobot.co/products/cobra-c2204-brushless-multirotor-motor-kv1960"
   },
   {

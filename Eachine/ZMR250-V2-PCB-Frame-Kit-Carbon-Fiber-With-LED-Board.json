@@ -11,9 +11,8 @@
  "variants": [
   {
    "location": "CN Warehouse",
-   "price": "$30.99",
-   "stock_state": "backordered",
-   "stock_text": "Coming soon",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
    "url": "http://www.banggood.com/Eachine-ZMR250-V2-PCB-Frame-Kit-Carbon-Fiber-With-LED-Board-p-1001925.html"
   }
  ],

@@ -10,8 +10,9 @@
  },
  "variants": [
   {
-   "price": "R 180.00",
-   "stock_state": "out_of_stock",
+   "price": "R 120.00",
+   "stock_state": "in_stock",
+   "stock_text": "Currently 7 in stock.",
    "url": "http://flyingrobot.co/products/fpv-camera-3-channel-3-way-video-switcher-module"
   }
  ],

@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "R 600.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 3 in stock.",
+   "stock_state": "low_stock",
+   "stock_text": "Currently 2 in stock.",
    "url": "http://flyingrobot.co/products/fx799t-2-600mw-5-8ghz-40ch-race-band-video-transmitter-with-push-button"
   }
  ],

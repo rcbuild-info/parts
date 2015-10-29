@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$83.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 11/12/2015",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/trinity-external-head-tracker-3-axis.html"
   }
  ],

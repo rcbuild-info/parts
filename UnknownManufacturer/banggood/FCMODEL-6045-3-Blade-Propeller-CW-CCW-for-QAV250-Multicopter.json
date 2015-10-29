@@ -11,9 +11,8 @@
  "variants": [
   {
    "location": "CN Warehouse",
-   "price": "$2.09",
-   "stock_state": "backordered",
-   "stock_text": "Coming soon",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
    "url": "http://www.banggood.com/FCMODEL-6045-3-Blade-Propeller-CW-CCW-for-QAV250-Multicopter-p-1006366.html"
   }
  ],

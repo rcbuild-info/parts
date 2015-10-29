@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "Tarot",
  "name": "5045 Propellers Carbon Fiber 3-blade CW CCW For Mini Quadcopter 200 250 TL300E9",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Tarot-5045-Propellers-Carbon-Fiber-3-blade-CW-CCW-For-Mini-Quadcopter-200-250-TL300E9-p-993952.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "stock_state": "in_stock",
+   "stock_text": "Only 1 units,dispatched in 1 business day",
+   "url": "http://www.banggood.com/Tarot-5045-Propellers-Carbon-Fiber-3-blade-CW-CCW-For-Mini-Quadcopter-200-250-TL300E9-p-993952.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

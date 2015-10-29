@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "R 16.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 10 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/1m-silicon-wire-18awg-1?variant=2542439364"
   }
  ],

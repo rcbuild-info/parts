@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "R 380.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 3 in stock.",
+   "stock_state": "low_stock",
+   "stock_text": "Currently 2 in stock.",
    "url": "http://flyingrobot.co/products/mini-5-8g-ts5823-32ch-200mw-wireless-video-transmitter-for-fpv"
   }
  ],
