@@ -1,0 +1,43 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "",
+ "name": "Bottom plates for Scorpia 250",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "center_part",
+   "price": "110,00 kr",
+   "stock_state": "in_stock",
+   "stock_text": "2 items in stock",
+   "url": "http://lizard-rc.se/index.php?id_product=62&controller=product&id_lang=1"
+  },
+  {
+   "description": "front_part",
+   "price": "110,00 kr",
+   "stock_state": "in_stock",
+   "stock_text": "1 items in stock",
+   "url": "http://lizard-rc.se/index.php?id_product=62&controller=product&id_lang=1"
+  },
+  {
+   "description": "rear_part",
+   "price": "110,00 kr",
+   "stock_state": "in_stock",
+   "stock_text": "1 items in stock",
+   "url": "http://lizard-rc.se/index.php?id_product=62&controller=product&id_lang=1"
+  },
+  {
+   "description": "complete_set",
+   "price": "110,00 kr",
+   "stock_state": "in_stock",
+   "stock_text": "2 items in stock",
+   "url": "http://lizard-rc.se/index.php?id_product=62&controller=product&id_lang=1"
+  }
+ ],
+ "version": 2,
+ "weight": ""
+}
