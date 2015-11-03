@@ -14,7 +14,8 @@
  "variants": [
   {
    "price": "$52.00",
-   "stock_state": "backordered",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left!",
    "url": "http://shendrones.myshopify.com/products/tweaker-fpv-addiction-edition-pre-order"
   }
  ],
