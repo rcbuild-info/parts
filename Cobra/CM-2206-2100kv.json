@@ -44,7 +44,8 @@
   },
   {
    "price": "R 380.00",
-   "stock_state": "out_of_stock",
+   "stock_state": "in_stock",
+   "stock_text": "Currently 100 in stock.",
    "url": "http://flyingrobot.co/products/cobra-2206-2100kv-brushless-motor"
   },
   {
@@ -89,7 +90,7 @@
   },
   {
    "price": "\u20ac22.85",
-   "stock_state": "out_of_stock",
+   "stock_state": "in_stock",
    "url": "https://www.multirotorparts.com/cobra-2206-2100kv-racing-edition.html"
   }
  ],

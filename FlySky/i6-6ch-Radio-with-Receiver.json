@@ -11,7 +11,8 @@
  "variants": [
   {
    "price": "R 1250.00",
-   "stock_state": "out_of_stock",
+   "stock_state": "in_stock",
+   "stock_text": "Currently 4 in stock.",
    "url": "http://flyingrobot.co/products/flysky-i6-6ch-radio-with-receiver"
   }
  ],

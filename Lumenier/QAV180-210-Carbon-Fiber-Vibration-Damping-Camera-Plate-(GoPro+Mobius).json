@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "$15.99",
-   "stock_state": "backordered",
-   "stock_text": "Back Ordered - Ships When Available",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/qav180-210-carbon-fiber-vibration-damping-camera-plate-gopro-mobius.html"
   }
  ],

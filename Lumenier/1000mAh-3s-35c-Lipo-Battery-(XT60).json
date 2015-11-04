@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$15.99",
-   "stock_state": "backordered",
-   "stock_text": "Back Ordered - Ships When Available",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/lumenier-1000mah-3s-35c-lipo-battery-xt60.html"
   }
  ],
