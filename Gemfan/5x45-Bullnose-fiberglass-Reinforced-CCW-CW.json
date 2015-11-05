@@ -1,0 +1,31 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "Gemfan",
+ "name": "5x45 Bullnose fiberglass Reinforced CCW/CW",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "black",
+   "price": "80,00 kr",
+   "quantity": 8,
+   "stock_state": "in_stock",
+   "stock_text": "29 items in stock",
+   "url": "http://lizard-rc.se/index.php?id_product=24&controller=product&id_lang=1"
+  },
+  {
+   "description": "green",
+   "price": "80,00 kr",
+   "quantity": 8,
+   "stock_state": "in_stock",
+   "stock_text": "44 items in stock",
+   "url": "http://lizard-rc.se/index.php?id_product=24&controller=product&id_lang=1"
+  }
+ ],
+ "version": 2,
+ "weight": ""
+}
