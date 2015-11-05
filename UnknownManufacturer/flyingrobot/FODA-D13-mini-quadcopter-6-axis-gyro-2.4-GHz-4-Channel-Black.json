@@ -10,9 +10,9 @@
  },
  "variants": [
   {
-   "price": "R 550.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 3 in stock.",
+   "price": "R 600.00",
+   "stock_state": "low_stock",
+   "stock_text": "Currently 1 in stock.",
    "url": "http://flyingrobot.co/products/foda-d13-quadcopter-6-axis-red?variant=4169260228"
   }
  ],
