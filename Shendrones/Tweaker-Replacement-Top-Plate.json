@@ -12,8 +12,7 @@
  "variants": [
   {
    "price": "$12.00",
-   "stock_state": "low_stock",
-   "stock_text": "Only 1 left!",
+   "stock_state": "in_stock",
    "url": "http://shendrones.myshopify.com/products/tweaker-replacement-top-plate"
   }
  ],
