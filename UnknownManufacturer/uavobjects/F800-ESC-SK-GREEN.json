@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$21.60",
-   "stock_state": "in_stock",
-   "stock_text": "6 in stock (can be backordered)",
+   "stock_state": "backordered",
+   "stock_text": "Available on backorder",
    "url": "http://www.uavobjects.com/product/f800-esc-sk-green/"
   }
  ],

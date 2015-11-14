@@ -12,7 +12,8 @@
  "variants": [
   {
    "price": "$4.49",
-   "stock_state": "in_stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
    "url": "http://demonframes.com/product/pack-of-5-m3x35mm-black-nylon-6-6-pillars/"
   }
  ],

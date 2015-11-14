@@ -29,8 +29,8 @@
   },
   {
    "price": "USD$3.32",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out Of Stock",
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=190"
   },
   {
@@ -92,7 +92,7 @@
   {
    "price": "\u20ac5.40",
    "quantity": 4,
-   "stock_state": "in_stock",
+   "stock_state": "out_of_stock",
    "url": "https://www.multirotorparts.com/hqprop-5-x-4-x-3-glasvezel-versterkte-3-blads-propeller-set-van-4-groen.html"
   },
   {

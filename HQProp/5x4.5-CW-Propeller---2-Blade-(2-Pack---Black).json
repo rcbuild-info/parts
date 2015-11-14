@@ -10,6 +10,12 @@
  },
  "variants": [
   {
+   "price": "$2.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "url": "http://www.getfpv.com/hqprop-5x4-5-cw-propeller-2-blade-2-pack-black-carbon-composite.html"
+  },
+  {
    "description": "Black",
    "price": "$2.99",
    "quantity": 2,
