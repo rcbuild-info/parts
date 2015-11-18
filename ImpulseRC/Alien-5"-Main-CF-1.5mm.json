@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$19.99",
-   "stock_state": "in_stock",
-   "stock_text": "In stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
    "url": "http://impulserc.com/alien-5-main-cf-15mm"
   }
  ],

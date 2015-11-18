@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$17.50",
-   "stock_state": "in_stock",
-   "stock_text": "2 in stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
    "url": "http://demonframes.com/product/evo250-power-distribution-board-v-1/"
   }
  ],

@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "$1.00",
-   "stock_state": "low_stock",
-   "stock_text": "Only 1 left!",
+   "stock_state": "out_of_stock",
    "url": "http://shendrones.myshopify.com/products/replacement-standoffs?variant=7786062529"
   }
  ],
