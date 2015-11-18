@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$1.31",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/m2-x-12mm-bolt-black-nylon-6-6-set-of-4.html"
   }
  ],

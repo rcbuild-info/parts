@@ -10,8 +10,9 @@
  },
  "variants": [
   {
-   "price": "R 180.00",
-   "stock_state": "out_of_stock",
+   "price": "R 200.00",
+   "stock_state": "in_stock",
+   "stock_text": "Currently 3 in stock.",
    "url": "http://flyingrobot.co/products/5-8g-circular-polarized-omni-cloud-spirit-tx-rx-rhcp-sma-antenna-set"
   }
  ],

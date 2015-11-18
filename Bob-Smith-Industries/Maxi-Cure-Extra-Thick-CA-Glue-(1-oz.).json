@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$5.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/maxi-cure-extra-thick-ca-glue-1-oz.html"
   }
  ],

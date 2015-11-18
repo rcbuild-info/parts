@@ -25,8 +25,8 @@
    "description": "Orange",
    "price": "$4.40",
    "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/hqprop-8x5-bullnose-ccw-propeller-2-blade-2-pack-orange.html"
   }
  ],

@@ -10,8 +10,9 @@
  },
  "variants": [
   {
-   "price": "R 150.00",
-   "stock_state": "out_of_stock",
+   "price": "R 160.00",
+   "stock_state": "in_stock",
+   "stock_text": "Currently 37 in stock.",
    "url": "http://flyingrobot.co/products/dys-usb-linker-esc-programmer"
   }
  ],

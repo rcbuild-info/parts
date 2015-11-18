@@ -16,8 +16,7 @@
  "variants": [
   {
    "price": "R 530.00",
-   "stock_state": "low_stock",
-   "stock_text": "Currently 2 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/frsky-d4r-ii-4ch-2-4ghz-accst-receiver-w-telemetry"
   },
   {

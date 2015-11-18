@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$40.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 11/2/2015",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/2-4ghz-a-v-receiver.html"
   }
  ],

@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "R 595.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 3 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/frsky-x4rsb-3-16ch-sbus-2-4ghz-accst-receiver-w-telemetry"
   }
  ],
