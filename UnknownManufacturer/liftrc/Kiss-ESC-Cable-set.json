@@ -12,8 +12,7 @@
  "variants": [
   {
    "price": "US$4.00",
-   "stock_state": "low_stock",
-   "stock_text": "Only 2 left",
+   "stock_state": "in_stock",
    "url": "https://www.liftrc.com/kiss-esc-cable-set"
   }
  ],

@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$299.99",
-   "stock_state": "in_stock",
-   "stock_text": "In stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
    "url": "http://www.multirotorsuperstore.com/dji-naza-m-v2-gps-compass.html"
   }
  ],

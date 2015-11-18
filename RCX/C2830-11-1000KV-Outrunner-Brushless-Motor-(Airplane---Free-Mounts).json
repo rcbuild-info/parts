@@ -12,6 +12,12 @@
  "variants": [
   {
    "price": "USD9.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=6892"
+  },
+  {
+   "price": "USD9.99",
    "stock_state": "backordered",
    "stock_text": "Usually ship within 2-5 business days (Estimated)",
    "url": "http://www.myrcmart.com/rcx-c283011-1000kv-outrunner-brushless-motor-airplane-free-mounts-p-6892.html"

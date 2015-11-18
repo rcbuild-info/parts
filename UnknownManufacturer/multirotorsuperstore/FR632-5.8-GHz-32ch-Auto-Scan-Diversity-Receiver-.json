@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$64.99",
-   "stock_state": "in_stock",
-   "stock_text": "In stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
    "url": "http://www.multirotorsuperstore.com/fr632-5-8-ghz-32ch-auto-scan-diversity-receiver.html"
   }
  ],

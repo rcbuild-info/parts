@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "US$130.00",
-   "stock_state": "backordered",
-   "stock_text": "Ships when available",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
    "url": "https://www.liftrc.com/turnigy-mega-1000w-8s-40a-lithium-polymer-balance-charger"
   }
  ],

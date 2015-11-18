@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "US$34.99",
-   "stock_state": "low_stock",
-   "stock_text": "Only 1 left",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/fat-shark-5-8ghz-race-bands-receiver-module-for-dominators"
   }
  ],

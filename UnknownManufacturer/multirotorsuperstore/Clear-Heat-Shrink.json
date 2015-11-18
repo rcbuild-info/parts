@@ -11,8 +11,14 @@
  },
  "variants": [
   {
-   "description": "1/4\" Clear Heat Shrink",
-   "price": "$2.99",
+   "description": "1\" Clear Heat Shrink",
+   "price": "$6.99",
+   "stock_state": "in_stock",
+   "url": "http://www.multirotorsuperstore.com/clear-heat-shrink.html"
+  },
+  {
+   "description": "3/4\" Clear Heat Shrink",
+   "price": "$4.99",
    "stock_state": "in_stock",
    "url": "http://www.multirotorsuperstore.com/clear-heat-shrink.html"
   },
@@ -23,15 +29,15 @@
    "url": "http://www.multirotorsuperstore.com/clear-heat-shrink.html"
   },
   {
-   "description": "3/4\" Clear Heat Shrink",
-   "price": "$4.99",
-   "stock_state": "out_of_stock",
+   "description": "1/4\" Clear Heat Shrink",
+   "price": "$2.99",
+   "stock_state": "in_stock",
    "url": "http://www.multirotorsuperstore.com/clear-heat-shrink.html"
   },
   {
-   "description": "1\" Clear Heat Shrink",
-   "price": "$6.99",
-   "stock_state": "out_of_stock",
+   "description": "1/8\" Clear Heat Shrink",
+   "price": "$2.49",
+   "stock_state": "in_stock",
    "url": "http://www.multirotorsuperstore.com/clear-heat-shrink.html"
   }
  ],

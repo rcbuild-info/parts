@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "$74.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of stock",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
    "url": "http://www.multirotorsuperstore.com/lumenier-qav210-charpu.html"
   }
  ],

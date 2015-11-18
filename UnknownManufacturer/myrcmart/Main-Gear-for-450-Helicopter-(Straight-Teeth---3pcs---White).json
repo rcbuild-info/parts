@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "USD3.99",
-   "stock_state": "backordered",
-   "stock_text": "Usually ship within 2-5 business days (Estimated)",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
    "url": "http://www.myrcmart.com/main-gear-for-450-helicopter-straight-teeth-3pcs-white-p-6249.html"
   }
  ],

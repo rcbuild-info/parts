@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "KK21 EVO KK2.1.5 Flight Controller - Larger LCD Screen!",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3511"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$29.99",
+   "stock_state": "in_stock",
+   "stock_text": "3 Units in Stock",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3511"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

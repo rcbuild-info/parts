@@ -24,7 +24,8 @@
   },
   {
    "price": "US$56.00",
-   "stock_state": "in_stock",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
    "url": "https://www.liftrc.com/lumenier-cs-600-super-600tvl-d-wdr-camera"
   }
  ],

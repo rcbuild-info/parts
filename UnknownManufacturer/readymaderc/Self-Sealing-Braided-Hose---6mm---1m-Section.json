@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Self Sealing Braided Hose - 6mm - 1m Section",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3073"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "price": "$2.50",
+   "stock_state": "in_stock",
+   "stock_text": "57 Units in Stock",
+   "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3073"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }

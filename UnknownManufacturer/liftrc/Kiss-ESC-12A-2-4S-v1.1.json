@@ -11,8 +11,9 @@
  },
  "variants": [
   {
-   "price": "US$21.50",
-   "stock_state": "in_stock",
+   "price": "US$15.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/kiss-esc-12a-2-4s-v1-1"
   }
  ],

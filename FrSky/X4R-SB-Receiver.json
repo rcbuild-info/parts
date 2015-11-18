@@ -11,9 +11,15 @@
  "variants": [
   {
    "price": "$26.99",
-   "stock_state": "in_stock",
-   "stock_text": "In stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
    "url": "http://www.multirotorsuperstore.com/frsky-x4r-sb-receiver.html"
+  },
+  {
+   "price": "US$24.99",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
+   "url": "https://www.liftrc.com/frsky-x4r-sb-receiver"
   }
  ],
  "version": 2,
