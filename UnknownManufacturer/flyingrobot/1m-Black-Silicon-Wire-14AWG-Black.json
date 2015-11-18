@@ -11,7 +11,8 @@
  "variants": [
   {
    "price": "R 22.00",
-   "stock_state": "out_of_stock",
+   "stock_state": "in_stock",
+   "stock_text": "Currently 4 in stock.",
    "url": "http://flyingrobot.co/products/1m-silicon-wire-14awg-1?variant=2542441988"
   }
  ],

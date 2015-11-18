@@ -11,7 +11,8 @@
  "variants": [
   {
    "price": "R 55.00",
-   "stock_state": "out_of_stock",
+   "stock_state": "in_stock",
+   "stock_text": "Currently 20 in stock.",
    "url": "http://flyingrobot.co/products/adjustable-receiver-antenna-mount-dual"
   }
  ],

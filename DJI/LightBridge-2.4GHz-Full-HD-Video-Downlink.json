@@ -11,8 +11,8 @@
  },
  "variants": [
   {
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
    "url": "http://www.getfpv.com/dji-lightbridge-2-4ghz-full-hd-video-downlink.html"
   }
  ],
