@@ -11,8 +11,8 @@
  },
  "variants": [
   {
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of Stock",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/hermit-micro-fpv-brushless-quadcopter-rtf-nofpv.html"
   }
  ],

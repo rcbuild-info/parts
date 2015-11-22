@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "$44.99",
-   "stock_state": "backordered",
-   "stock_text": "Back Ordered - Ships When Available",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/qav210-carbon-fiber-main-unibody-frame-plate-4mm.html"
   }
  ],

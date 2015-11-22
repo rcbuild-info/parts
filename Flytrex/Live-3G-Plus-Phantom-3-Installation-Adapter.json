@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "$9.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/flytrex-live-3g-plus-phantom-3-installation-adapter.html"
   }
  ],

@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$64.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
    "url": "http://www.getfpv.com/lumenier-cm-650-mini-650tvl-camera-26x26mm.html"
   }
  ],
