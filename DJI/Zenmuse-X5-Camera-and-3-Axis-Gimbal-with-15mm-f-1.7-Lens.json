@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "$2,199.00",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/dji-zenmuse-x5-camera-and-3-axis-gimbal-with-15mm-f-1-7-lens.html"
   }
  ],

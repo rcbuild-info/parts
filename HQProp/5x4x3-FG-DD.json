@@ -29,8 +29,8 @@
   },
   {
    "price": "USD$3.32",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out Of Stock",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=190"
   },
   {
@@ -76,17 +76,17 @@
   },
   {
    "price": "$3.32",
-   "stock_state": "in_stock",
+   "stock_state": "out_of_stock",
    "url": "http://www.readytoflyquads.com/hq-prop-5x4x3-fiberglass-composite-prop-black"
   },
   {
-   "price": "$3.32",
+   "price": "$1.50",
    "stock_state": "in_stock",
    "url": "http://www.readytoflyquads.com/hq-prop-5x4x3-fiberglass-composite-prop-green"
   },
   {
-   "price": "$3.32",
-   "stock_state": "in_stock",
+   "price": "$1.50",
+   "stock_state": "out_of_stock",
    "url": "http://www.readytoflyquads.com/hq-prop-5x4x3-fiberglass-composite-prop-orange"
   },
   {

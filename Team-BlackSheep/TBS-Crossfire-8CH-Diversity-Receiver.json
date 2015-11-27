@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$123.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 12/27/2015",
    "url": "http://www.getfpv.com/tbs-crossfire-8ch-diversity-receiver.html"
   }
  ],

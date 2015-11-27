@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "R 220.00",
-   "stock_state": "low_stock",
-   "stock_text": "Currently 2 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/black-box-logger-for-naze32"
   }
  ],

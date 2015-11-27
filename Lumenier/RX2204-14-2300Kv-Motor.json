@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "$26.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "backordered",
+   "stock_text": "Back Ordered - Ships When Available",
    "url": "http://www.getfpv.com/lumenier-rx2204-14-2300kv.html"
   }
  ],

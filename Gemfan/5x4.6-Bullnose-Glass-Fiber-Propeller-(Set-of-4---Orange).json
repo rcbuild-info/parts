@@ -13,24 +13,24 @@
    "description": "Orange",
    "price": "$3.79",
    "quantity": 4,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/gemfan-5x4-6-bullnose-glass-fiber-propeller-set-of-4-orange.html"
   },
   {
    "description": "Orange",
    "price": "$17.95",
    "quantity": 20,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/gemfan-5x4-6-bullnose-glass-fiber-propeller-set-of-4-orange.html"
   },
   {
    "description": "Orange",
    "price": "$33.90",
    "quantity": 40,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/gemfan-5x4-6-bullnose-glass-fiber-propeller-set-of-4-orange.html"
   }
  ],
