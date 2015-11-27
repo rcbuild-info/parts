@@ -11,7 +11,8 @@
  "variants": [
   {
    "price": "149,00 kr",
-   "stock_state": "out_of_stock",
+   "stock_state": "in_stock",
+   "stock_text": "20 items in stock",
    "url": "http://lizard-rc.se/index.php?id_product=53&controller=product&id_lang=1"
   }
  ],
