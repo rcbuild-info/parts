@@ -12,6 +12,12 @@
  "variants": [
   {
    "price": "USD159.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=6865"
+  },
+  {
+   "price": "USD159.99",
    "stock_state": "in_stock",
    "stock_text": "Usually ship within 48 hours (Estimated)",
    "url": "http://www.myrcmart.com/walkera-devention-devo8s-8ch-24ghz-radio-system-p-6865.html"

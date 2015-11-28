@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "USD0.60",
-   "stock_state": "in_stock",
-   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
    "url": "http://www.myrcmart.com/gw992813-main-blades-orange-p-5831.html"
   }
  ],

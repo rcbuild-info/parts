@@ -18,9 +18,14 @@
   },
   {
    "price": "$89.99",
-   "stock_state": "in_stock",
-   "stock_text": "12 Units in Stock",
+   "stock_state": "low_stock",
+   "stock_text": "2 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2540"
+  },
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "url": "https://www.multirotorsuperstore.com/3dr-ublox-gps-with-compass-kit.html"
   }
  ],
  "version": 2,

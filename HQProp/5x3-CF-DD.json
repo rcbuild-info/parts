@@ -44,19 +44,29 @@
   {
    "price": "$2.38",
    "stock_state": "in_stock",
-   "stock_text": "298 Units in Stock",
+   "stock_text": "280 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2276"
   },
   {
    "price": "$2.38",
    "stock_state": "in_stock",
-   "stock_text": "264 Units in Stock",
+   "stock_text": "256 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=2277"
   },
   {
    "price": "$2.38",
    "stock_state": "in_stock",
    "url": "http://www.readytoflyquads.com/hq-prop-5x3-carbon-composite-prop"
+  },
+  {
+   "description": "HQProp 5030 Props (CF/Nylon) - CW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-5030-props.html"
+  },
+  {
+   "description": "HQProp 5030 Props (CF/Nylon) - CCW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-5030-props.html"
   }
  ],
  "version": 2,

@@ -12,6 +12,12 @@
  "variants": [
   {
    "price": "USD2.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=6630"
+  },
+  {
+   "price": "USD2.99",
    "stock_state": "backordered",
    "stock_text": "Usually ship within 2-5 business days (Estimated)",
    "url": "http://www.myrcmart.com/wll95942-differential-access-cups-set-p-6630.html"

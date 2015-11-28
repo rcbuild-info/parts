@@ -15,7 +15,7 @@
  },
  "variants": [
   {
-   "price": "A$19.95",
+   "price": "A$17.95",
    "stock_state": "in_stock",
    "stock_text": "In Stock",
    "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=1001"
@@ -47,6 +47,11 @@
    "price": "\u20ac14.25",
    "stock_state": "in_stock",
    "url": "https://www.multirotorparts.com/favourite-littlebee-20a-blheli.html"
+  },
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "url": "https://www.multirotorsuperstore.com/fvt-littlebee-20a-esc.html"
   }
  ],
  "version": 2,

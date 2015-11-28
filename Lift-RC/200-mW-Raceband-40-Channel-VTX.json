@@ -11,7 +11,8 @@
  "variants": [
   {
    "price": "US$33.99",
-   "stock_state": "in_stock",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
    "url": "https://www.liftrc.com/lrc-raceband-vtx-200"
   }
  ],

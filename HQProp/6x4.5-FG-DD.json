@@ -92,19 +92,19 @@
   {
    "price": "$3.08",
    "stock_state": "in_stock",
-   "stock_text": "238 Units in Stock",
+   "stock_text": "223 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3182"
   },
   {
    "price": "$3.08",
    "stock_state": "in_stock",
-   "stock_text": "246 Units in Stock",
+   "stock_text": "231 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3183"
   },
   {
    "price": "$3.08",
    "stock_state": "in_stock",
-   "stock_text": "182 Units in Stock",
+   "stock_text": "181 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3185"
   },
   {
@@ -116,13 +116,13 @@
   {
    "price": "$3.08",
    "stock_state": "in_stock",
-   "stock_text": "217 Units in Stock",
+   "stock_text": "207 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3554"
   },
   {
    "price": "$3.08",
    "stock_state": "in_stock",
-   "stock_text": "281 Units in Stock",
+   "stock_text": "271 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3555"
   },
   {
@@ -163,6 +163,36 @@
    "quantity": 4,
    "stock_state": "in_stock",
    "url": "https://www.multirotorparts.com/hqprop-6-x-4-5-glasvezel-versterkte-propeller-set-van-4-zwart.html"
+  },
+  {
+   "description": "HQProp 6045 - Black CW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 - Black CCW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 - Green CCW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 - Green CW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 - Orange CCW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6045-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6045 - Orange CW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6045-glass-composite.html"
   }
  ],
  "version": 2,

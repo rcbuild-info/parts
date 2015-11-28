@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "USD39.99",
-   "stock_state": "in_stock",
-   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
    "url": "http://www.myrcmart.com/dual-ttl-3drobotics-3dr-radio-telemetry-kit-915mhz-500mw-for-pixhawkapm-p-9059.html"
   }
  ],

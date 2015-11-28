@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "US$129.99",
-   "stock_state": "backordered",
-   "stock_text": "Ships when available",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
    "url": "https://www.liftrc.com/x4-80-4-port-dc-multicharger"
   }
  ],

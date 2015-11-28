@@ -31,8 +31,18 @@
   {
    "price": "$15.99",
    "stock_state": "in_stock",
-   "stock_text": "436 Units in Stock",
+   "stock_text": "437 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4123"
+  },
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "url": "https://www.multirotorsuperstore.com/bl30a-opto-esc-blheli-oneshot-rdy.html"
+  },
+  {
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
+   "url": "https://www.multirotorsuperstore.com/sn30a-opto-esc.html"
   }
  ],
  "version": 2,

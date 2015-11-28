@@ -22,7 +22,8 @@
   },
   {
    "price": "US$10.99",
-   "stock_state": "in_stock",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/lumenier-450mah-3s-35c-lipo-battery"
   }
  ],

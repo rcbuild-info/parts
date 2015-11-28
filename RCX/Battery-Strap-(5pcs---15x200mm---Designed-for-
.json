@@ -12,6 +12,12 @@
  "variants": [
   {
    "price": "USD0.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=3695"
+  },
+  {
+   "price": "USD0.99",
    "stock_state": "backordered",
    "stock_text": "Usually ship within 2-5 business days (Estimated)",
    "url": "http://www.myrcmart.com/rcx-battery-strap-5pcs-15x200mm-designed-for-450-helicopter-p-3695.html"

@@ -15,6 +15,12 @@
    "stock_state": "in_stock",
    "stock_text": "In stock",
    "url": "http://www.multirotorsuperstore.com/taranis-replacement-case.html"
+  },
+  {
+   "price": "$14.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
+   "url": "https://www.multirotorsuperstore.com/taranis-replacement-case.html"
   }
  ],
  "version": 2,

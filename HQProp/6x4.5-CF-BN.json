@@ -32,19 +32,31 @@
   {
    "price": "$3.24",
    "stock_state": "in_stock",
-   "stock_text": "55 Units in Stock",
+   "stock_text": "51 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4107"
   },
   {
    "price": "$3.24",
    "stock_state": "in_stock",
-   "stock_text": "334 Units in Stock",
+   "stock_text": "329 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=4108"
   },
   {
    "price": "$3.24",
    "stock_state": "in_stock",
    "url": "http://www.readytoflyquads.com/hq-prop-6x4-4-bull-carbon-composite-prop"
+  },
+  {
+   "description": "HQProp 6045 Bullnose (CF/Nylon) - CW",
+   "price": "$3.74",
+   "stock_state": "out_of_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6045-bullnose-props.html"
+  },
+  {
+   "description": "HQProp 6045 Bullnose (CF/Nylon) - CCW",
+   "price": "$3.74",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6045-bullnose-props.html"
   }
  ],
  "version": 2,

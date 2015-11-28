@@ -150,19 +150,19 @@
   {
    "price": "$2.38",
    "stock_state": "in_stock",
-   "stock_text": "177 Units in Stock",
+   "stock_text": "176 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3187"
   },
   {
    "price": "$2.38",
    "stock_state": "in_stock",
-   "stock_text": "163 Units in Stock",
+   "stock_text": "162 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3188"
   },
   {
    "price": "$2.38",
    "stock_state": "in_stock",
-   "stock_text": "249 Units in Stock",
+   "stock_text": "248 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3558"
   },
   {
@@ -215,6 +215,36 @@
    "quantity": 4,
    "stock_state": "in_stock",
    "url": "https://www.multirotorparts.com/hqprop-5-x-4-glasvezel-versterkte-propeller-set-van-4-zwart.html"
+  },
+  {
+   "description": "HQProp 5040 - Black CCW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-5040-glass-composite.html"
+  },
+  {
+   "description": "HQProp 5040 - Black CW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-5040-glass-composite.html"
+  },
+  {
+   "description": "HQProp 5040 - Green CCW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-5040-glass-composite.html"
+  },
+  {
+   "description": "HQProp 5040 - Green CW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-5040-glass-composite.html"
+  },
+  {
+   "description": "HQProp 5040 - Orange CCW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-5040-glass-composite.html"
+  },
+  {
+   "description": "HQProp 5040 - Orange CW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-5040-glass-composite.html"
   }
  ],
  "version": 2,

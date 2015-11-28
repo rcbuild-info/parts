@@ -11,7 +11,8 @@
  "variants": [
   {
    "price": "US$16.99",
-   "stock_state": "in_stock",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/lrc-race-bottom-plate"
   }
  ],

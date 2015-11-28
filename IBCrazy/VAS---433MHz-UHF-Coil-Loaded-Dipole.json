@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$14.99",
-   "stock_state": "backordered",
-   "stock_text": "0 Units in Stock",
+   "stock_state": "in_stock",
+   "stock_text": "25 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3909"
   }
  ],

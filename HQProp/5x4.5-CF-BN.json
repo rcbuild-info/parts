@@ -46,13 +46,13 @@
   {
    "price": "$2.58",
    "stock_state": "in_stock",
-   "stock_text": "172 Units in Stock",
+   "stock_text": "160 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3551"
   },
   {
    "price": "$2.58",
    "stock_state": "in_stock",
-   "stock_text": "173 Units in Stock",
+   "stock_text": "161 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3553"
   },
   {
@@ -65,6 +65,18 @@
    "price": "$2.38",
    "stock_state": "in_stock",
    "url": "http://www.readytoflyquads.com/hq-prop-5x4-carbon-composite-prop-693"
+  },
+  {
+   "description": "HQProp 5045 Bullnose Props (CF/Nylon) - CW",
+   "price": "$2.74",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-5045-bullnose-carbon-fiber-nylon.html"
+  },
+  {
+   "description": "HQProp 5045 Bullnose Props (CF/Nylon) - CCW",
+   "price": "$2.74",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-5045-bullnose-carbon-fiber-nylon.html"
   }
  ],
  "version": 2,

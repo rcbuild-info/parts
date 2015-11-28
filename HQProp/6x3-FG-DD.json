@@ -126,7 +126,7 @@
   {
    "price": "$3.08",
    "stock_state": "in_stock",
-   "stock_text": "94 Units in Stock",
+   "stock_text": "84 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3180"
   },
   {
@@ -138,7 +138,7 @@
   {
    "price": "$3.08",
    "stock_state": "in_stock",
-   "stock_text": "105 Units in Stock",
+   "stock_text": "95 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3189"
   },
   {
@@ -191,6 +191,36 @@
    "quantity": 4,
    "stock_state": "in_stock",
    "url": "https://www.multirotorparts.com/hqprop-6-x-3-glasvezel-versterkte-propeller-set-van-4-zwart.html"
+  },
+  {
+   "description": "HQProp 6030 - Black CW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6030-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6030 - Black CCW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6030-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6030 - Orange CCW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6030-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6030 - Orange CW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6030-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6030 - Green CCW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6030-glass-composite.html"
+  },
+  {
+   "description": "HQProp 6030 - Green CW",
+   "stock_state": "in_stock",
+   "url": "https://www.multirotorsuperstore.com/hqprop-6030-glass-composite.html"
   }
  ],
  "version": 2,
