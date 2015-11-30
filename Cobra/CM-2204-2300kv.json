@@ -27,14 +27,14 @@
   },
   {
    "price": "USD$23.09",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out Of Stock",
    "url": "http://buzzhobbies.com.au/index.php?route=product%2Fproduct&product_id=399"
   },
   {
    "price": "R 300.00",
    "stock_state": "in_stock",
-   "stock_text": "Currently 150 in stock.",
+   "stock_text": "Currently 146 in stock.",
    "url": "http://flyingrobot.co/products/cobra-c2204-brushless-multirotor-motor-kv2300"
   },
   {
