@@ -1,8 +1,8 @@
 {
  "categories": [],
  "equivalent": [],
- "manufacturer": "Armattan",
- "name": "F1-5 Front Arm",
+ "manufacturer": "HQProp",
+ "name": "6x3.5 Props",
  "subpart": [],
  "urls": {
   "manufacturer": [],
@@ -10,9 +10,10 @@
  },
  "variants": [
   {
-   "price": "US$14.75",
+   "price": "$6.16",
    "stock_state": "in_stock",
-   "url": "http://www.armattanquads.com/f1-5-front-arm/"
+   "stock_text": "In stock",
+   "url": "http://impulserc.com/hq-prop-6x55-props"
   }
  ],
  "version": 2,

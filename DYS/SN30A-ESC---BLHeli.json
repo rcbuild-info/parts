@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$14.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of stock",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
    "url": "http://impulserc.com/dys-sn30a-esc-blheli"
   }
  ],

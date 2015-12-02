@@ -1,8 +1,8 @@
 {
  "categories": [],
  "equivalent": [],
- "manufacturer": "Armattan",
- "name": "F1-5 Front Arm",
+ "manufacturer": "",
+ "name": "HQ Prop 4x4.5 Bullnose Props",
  "subpart": [],
  "urls": {
   "manufacturer": [],
@@ -10,9 +10,11 @@
  },
  "variants": [
   {
-   "price": "US$14.75",
+   "price": "$4.76",
+   "quantity": 4,
    "stock_state": "in_stock",
-   "url": "http://www.armattanquads.com/f1-5-front-arm/"
+   "stock_text": "In stock",
+   "url": "http://impulserc.com/4x-hq-prop-4x45-bullnose-props"
   }
  ],
  "version": 2,
