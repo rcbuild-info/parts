@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "R 50.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 4 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/5cm-sma-plug-to-right-angle-sma-jack-cable"
   }
  ],

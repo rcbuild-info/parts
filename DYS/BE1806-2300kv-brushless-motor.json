@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "R 215.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 19 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/dys-be1806-2300kv-brushless-motor"
   }
  ],

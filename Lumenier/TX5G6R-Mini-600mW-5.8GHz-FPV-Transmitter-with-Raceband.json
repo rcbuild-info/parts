@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$49.99",
-   "stock_state": "backordered",
-   "stock_text": "Back Ordered - Ships When Available",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 12/10/2015",
    "url": "http://www.getfpv.com/lumenier-tx5g6r-mini-600mw-5-8ghz-fpv-transmitter-with-raceband.html"
   }
  ],

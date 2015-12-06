@@ -33,8 +33,8 @@
   {
    "price": "$5.99",
    "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 12/30/2015",
    "url": "http://www.getfpv.com/hqprop-9x5-cw-propeller-thin-electric-2-blade-2-pack.html"
   }
  ],

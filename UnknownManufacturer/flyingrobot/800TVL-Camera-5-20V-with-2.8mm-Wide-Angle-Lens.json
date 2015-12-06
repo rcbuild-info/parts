@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "R 220.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 7 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/800tvl-camera-5-20v-with-2-8mm-wide-angle-lens"
   }
  ],

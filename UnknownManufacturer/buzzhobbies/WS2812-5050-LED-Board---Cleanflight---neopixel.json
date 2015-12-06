@@ -11,14 +11,14 @@
  "variants": [
   {
    "price": "USD$4.67",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out Of Stock",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://buzzhobbies.com.au/index.php?route=product%2Fproduct&product_id=674"
   },
   {
    "price": "USD$4.67",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out Of Stock",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://buzzhobbies.com.au/index.php?route=product%2Fproduct&product_id=877"
   }
  ],

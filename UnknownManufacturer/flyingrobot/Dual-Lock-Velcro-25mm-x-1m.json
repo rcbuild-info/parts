@@ -11,7 +11,8 @@
  "variants": [
   {
    "price": "R 80.00",
-   "stock_state": "out_of_stock",
+   "stock_state": "in_stock",
+   "stock_text": "Currently 39 in stock.",
    "url": "http://flyingrobot.co/products/dual-lock-velcro-25mm-x-1m"
   }
  ],
