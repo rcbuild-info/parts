@@ -11,7 +11,7 @@
  "variants": [
   {
    "price": "$10.00",
-   "stock_state": "low_stock",
+   "stock_state": "out_of_stock",
    "stock_text": "Only 1 left!",
    "url": "http://shendrones.myshopify.com/products/kriegerpus-replacement-parts?variant=10559537217"
   }
