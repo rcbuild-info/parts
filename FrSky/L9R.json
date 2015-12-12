@@ -16,7 +16,7 @@
  "variants": [
   {
    "price": "38,90 \u20ac",
-   "stock_state": "low_stock",
+   "stock_state": "out_of_stock",
    "url": "http://flyduino.net/Frsky-L9R-9-12ch-Non-telemetry-Long-Range-Receiver_1"
   },
   {
@@ -26,8 +26,8 @@
   },
   {
    "price": "$39.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 11/29/2015",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/frsky-l9r-long-range-receiver-9-12-non-telemetry.html"
   },
   {

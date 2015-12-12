@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "R 200.00",
-   "stock_state": "low_stock",
-   "stock_text": "Currently 1 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/flying-robot-flexfit-baseball-hat-one-size-fit-all-black"
   }
  ],

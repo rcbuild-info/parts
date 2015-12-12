@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$22.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 12/6/2015",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/fatshark-pan-tilt-for-600tvl-cmos-camera.html"
   }
  ],

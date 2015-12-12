@@ -13,8 +13,8 @@
    "description": "Black",
    "price": "$2.49",
    "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/hqprop-5x4-5x3-ccw-bullnose-propeller-set-of-2-black.html"
   }
  ],

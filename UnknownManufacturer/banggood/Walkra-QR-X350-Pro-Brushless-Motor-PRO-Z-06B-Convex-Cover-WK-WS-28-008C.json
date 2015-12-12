@@ -1,5 +1,5 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "Walkra QR X350 Pro Brushless Motor PRO-Z-06B Convex Cover WK-WS-28-008C",
@@ -7,9 +7,16 @@
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": [
-   "http://www.banggood.com/Walkera-QR-X350PRO-Spare-Part-Brushless-Motor-Z-06-WK-WS-28-008C-p-977875.html"
-  ]
- }
+  "related": []
+ },
+ "variants": [
+  {
+   "location": "CN Warehouse",
+   "stock_state": "in_stock",
+   "stock_text": "Usually dispatched in 6-9 business days",
+   "url": "http://www.banggood.com/Walkera-QR-X350PRO-Spare-Part-Brushless-Motor-Z-06-WK-WS-28-008C-p-977875.html"
+  }
+ ],
+ "version": 2,
+ "weight": ""
 }
