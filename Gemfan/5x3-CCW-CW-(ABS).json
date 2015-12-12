@@ -1,0 +1,39 @@
+{
+ "categories": [],
+ "equivalent": [],
+ "manufacturer": "Gemfan",
+ "name": "5x3 CCW/CW (ABS)",
+ "subpart": [],
+ "urls": {
+  "manufacturer": [],
+  "related": []
+ },
+ "variants": [
+  {
+   "description": "white",
+   "price": "59,00 kr",
+   "quantity": 8,
+   "stock_state": "in_stock",
+   "stock_text": "56 items in stock",
+   "url": "http://lizard-rc.se/index.php?id_product=11&controller=product&id_lang=1"
+  },
+  {
+   "description": "black",
+   "price": "59,00 kr",
+   "quantity": 8,
+   "stock_state": "in_stock",
+   "stock_text": "10 items in stock",
+   "url": "http://lizard-rc.se/index.php?id_product=11&controller=product&id_lang=1"
+  },
+  {
+   "description": "green",
+   "price": "59,00 kr",
+   "quantity": 8,
+   "stock_state": "in_stock",
+   "stock_text": "10 items in stock",
+   "url": "http://lizard-rc.se/index.php?id_product=11&controller=product&id_lang=1"
+  }
+ ],
+ "version": 2,
+ "weight": ""
+}
