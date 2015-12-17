@@ -14,12 +14,12 @@
  "variants": [
   {
    "price": "6,00 \u20ac",
-   "stock_state": "out_of_stock",
+   "stock_state": "in_stock",
    "url": "http://flyduino.net/HQProp-Triple-Prop-5x4x3-Propeller-Set-Green-2CW-2-CCW"
   },
   {
    "price": "6,00 \u20ac",
-   "stock_state": "out_of_stock",
+   "stock_state": "in_stock",
    "url": "http://flyduino.net/HQProp-Triple-Prop-5x4x3-Propeller-Set-Orange-2CW-2-CCW"
   },
   {
@@ -92,7 +92,7 @@
   {
    "price": "\u20ac5.40",
    "quantity": 4,
-   "stock_state": "in_stock",
+   "stock_state": "out_of_stock",
    "url": "https://www.multirotorparts.com/hqprop-5-x-4-x-3-glasvezel-versterkte-3-blads-propeller-set-van-4-groen.html"
   },
   {

@@ -10,8 +10,9 @@
  },
  "variants": [
   {
-   "price": "R 1400.00",
-   "stock_state": "out_of_stock",
+   "price": "R 1650.00",
+   "stock_state": "low_stock",
+   "stock_text": "Currently 2 in stock.",
    "url": "http://flyingrobot.co/products/immersionrc-ezuhf-tx-jr-module"
   }
  ],

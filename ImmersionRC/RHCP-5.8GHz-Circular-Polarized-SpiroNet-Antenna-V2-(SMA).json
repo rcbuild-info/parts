@@ -10,8 +10,9 @@
  },
  "variants": [
   {
-   "price": "R 680.00",
-   "stock_state": "out_of_stock",
+   "price": "R 720.00",
+   "stock_state": "in_stock",
+   "stock_text": "Currently 14 in stock.",
    "url": "http://flyingrobot.co/products/immersionrc-rhcp-5-8ghz-circular-polarized-spironet-antenna-v2-sma"
   }
  ],

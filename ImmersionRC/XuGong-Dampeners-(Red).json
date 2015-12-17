@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$8.95",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 12/30/2015",
    "url": "http://www.getfpv.com/xugong-dampeners-red.html"
   },
   {

@@ -14,8 +14,8 @@
    "description": "Orange",
    "price": "$3.39",
    "quantity": 2,
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/hqprop-5x4x3-ccw-propeller-3-blade-black-2-pack-2294.html"
   }
  ],
