@@ -12,7 +12,7 @@
  "variants": [
   {
    "price": "$5.00",
-   "stock_state": "in_stock",
+   "stock_state": "out_of_stock",
    "url": "http://store.flitetest.com/ft-elements-simple-firewall/"
   }
  ],
