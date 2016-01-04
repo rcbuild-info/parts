@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$24.49",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/mr-03-h-micro-brushless-motor-4000kv-2s-ccw.html"
   }
  ],

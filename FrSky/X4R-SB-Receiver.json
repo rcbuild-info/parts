@@ -10,6 +10,12 @@
  },
  "variants": [
   {
+   "price": "USD$28.00",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "url": "http://rotorgeeks.com/index.php?route=product%2Fproduct&product_id=340"
+  },
+  {
    "price": "$26.99",
    "stock_state": "out_of_stock",
    "stock_text": "Out of stock",

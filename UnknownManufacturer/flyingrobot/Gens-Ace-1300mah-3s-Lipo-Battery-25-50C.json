@@ -10,8 +10,9 @@
  },
  "variants": [
   {
-   "price": "R 230.00",
-   "stock_state": "out_of_stock",
+   "price": "R 305.00",
+   "stock_state": "in_stock",
+   "stock_text": "Currently 31 in stock.",
    "url": "http://flyingrobot.co/products/gens-ace-1300mah-3s-lipo-battery-25-50c"
   }
  ],

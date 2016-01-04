@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$199.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 1/28/2016",
    "url": "http://www.getfpv.com/fatshark-teleporter-v3-video-goggles.html"
   }
  ],

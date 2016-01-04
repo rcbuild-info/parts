@@ -27,14 +27,14 @@
   },
   {
    "price": "USD$23.09",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out Of Stock",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://buzzhobbies.com.au/index.php?route=product%2Fproduct&product_id=399"
   },
   {
    "price": "R 300.00",
    "stock_state": "in_stock",
-   "stock_text": "Currently 95 in stock.",
+   "stock_text": "Currently 82 in stock.",
    "url": "http://flyingrobot.co/products/cobra-c2204-brushless-multirotor-motor-kv2300"
   },
   {
@@ -79,8 +79,8 @@
   },
   {
    "price": "$20.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/cobra-cm-2204-2300kv-motor.html"
   },
   {
@@ -113,8 +113,8 @@
    "url": "https://www.liftrc.com/cobra-cm-2204-28-2300kv"
   },
   {
-   "price": "\u20ac23.95",
-   "stock_state": "out_of_stock",
+   "price": "\u20ac22.95",
+   "stock_state": "in_stock",
    "url": "https://www.multirotorparts.com/new-cobra-2204-2300kv-multirotor-editie-met-vaste-adapter.html"
   },
   {

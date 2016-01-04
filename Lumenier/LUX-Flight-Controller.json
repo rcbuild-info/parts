@@ -11,7 +11,7 @@
  "variants": [
   {
    "price": "$39.99",
-   "stock_state": "backordered",
+   "stock_state": "out_of_stock",
    "stock_text": "Pre-Order",
    "url": "http://www.getfpv.com/lumenier-lux-flight-controller.html"
   }

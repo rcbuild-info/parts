@@ -10,8 +10,9 @@
  },
  "variants": [
   {
-   "price": "R 380.00",
-   "stock_state": "out_of_stock",
+   "price": "R 450.00",
+   "stock_state": "in_stock",
+   "stock_text": "Currently 27 in stock.",
    "url": "http://flyingrobot.co/products/tattu-1300mah-45c-4s"
   }
  ],

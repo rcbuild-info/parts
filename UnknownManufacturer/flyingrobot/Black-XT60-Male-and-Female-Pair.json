@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "R 20.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 11 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/black-xt60-male-and-female-pair"
   }
  ],

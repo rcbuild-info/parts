@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$1,900.00",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 1/17/2016",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/dji-s1000-octocopter.html"
   }
  ],

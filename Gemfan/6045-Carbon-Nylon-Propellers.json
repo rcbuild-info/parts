@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "R 60.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 23 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/gemfan-6045-carbon-nylon-propellers-1"
   }
  ],

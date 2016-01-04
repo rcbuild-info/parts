@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$6.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 1/7/2016",
    "url": "http://www.getfpv.com/lumenier-medium-lipo-velcro-strap-3pcs.html"
   }
  ],

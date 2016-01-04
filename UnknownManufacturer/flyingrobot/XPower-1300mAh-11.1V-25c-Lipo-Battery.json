@@ -11,8 +11,7 @@
  "variants": [
   {
    "price": "R 250.00",
-   "stock_state": "in_stock",
-   "stock_text": "Currently 5 in stock.",
+   "stock_state": "out_of_stock",
    "url": "http://flyingrobot.co/products/xpower-1300mah-11-1v-25c-lipo-battery"
   }
  ],

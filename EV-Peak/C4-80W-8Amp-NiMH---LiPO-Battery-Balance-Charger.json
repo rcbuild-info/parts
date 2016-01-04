@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "$49.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of Stock",
    "url": "http://www.getfpv.com/ev-peak-r1-200w-20amp-nimh-lipo-battery-balance-charger-2490.html"
   }
  ],

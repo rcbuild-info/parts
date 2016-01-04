@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "$99.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Expected on 12/30/2015",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://www.getfpv.com/3dr-radio-set-915-mhz.html"
   }
  ],

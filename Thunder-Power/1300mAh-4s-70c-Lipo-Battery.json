@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "$53.99",
-   "stock_state": "in_stock",
-   "stock_text": "In Stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Expected on 1/24/2016",
    "url": "http://www.getfpv.com/thunder-power-1300mah-4s-70c-lipo-battery.html"
   }
  ],

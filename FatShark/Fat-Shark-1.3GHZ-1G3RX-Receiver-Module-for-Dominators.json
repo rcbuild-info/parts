@@ -12,6 +12,12 @@
  "variants": [
   {
    "price": "$37.99",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
+   "url": "http://www.getfpv.com/fat-shark-1-3ghz-1g3rx-8ch-receiver-module-for-dominators.html"
+  },
+  {
+   "price": "$37.99",
    "stock_state": "out_of_stock",
    "stock_text": "Expected on 12/17/2015",
    "url": "http://www.getfpv.com/fat-shark-1-3ghz-1g3rx-receiver-module-for-dominators.html"

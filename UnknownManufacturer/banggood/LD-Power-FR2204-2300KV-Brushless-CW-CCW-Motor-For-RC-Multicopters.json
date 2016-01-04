@@ -10,9 +10,9 @@
  },
  "variants": [
   {
-   "location": "CN Warehouse",
-   "stock_state": "backordered",
-   "stock_text": "Coming soon",
+   "location": "CN Direct",
+   "stock_state": "in_stock",
+   "stock_text": "In stock, usually dispatched in 1 business day",
    "url": "http://www.banggood.com/LD-Power-FR2204-2300KV-Brushless-CWCCW-Motor-For-RC-Multicopters-p-1019756.html"
   }
  ],
