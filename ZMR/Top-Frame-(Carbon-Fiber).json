@@ -12,6 +12,12 @@
  "variants": [
   {
    "price": "USD2.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=6276"
+  },
+  {
+   "price": "USD2.99",
    "stock_state": "in_stock",
    "stock_text": "Usually ship within 48 hours (Estimated)",
    "url": "http://www.myrcmart.com/top-frame-carbon-fiber-p-6276.html"

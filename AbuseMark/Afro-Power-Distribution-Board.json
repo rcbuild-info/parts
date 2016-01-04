@@ -25,13 +25,13 @@
   {
    "price": "$3.99",
    "stock_state": "in_stock",
-   "stock_text": "102 Units in Stock",
+   "stock_text": "66 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3287"
   },
   {
    "price": "$4.99",
-   "stock_state": "out_of_stock",
-   "stock_text": "Out of stock",
+   "stock_state": "in_stock",
+   "stock_text": "In stock",
    "url": "https://www.multirotorsuperstore.com/afro-power-board.html"
   }
  ],

@@ -12,7 +12,8 @@
  "variants": [
   {
    "price": "US$48.00",
-   "stock_state": "in_stock",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/naze32-full-funfly-controller-genuine"
   }
  ],

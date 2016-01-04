@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "US$99.00",
-   "stock_state": "backordered",
-   "stock_text": "Ships when available",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
    "url": "https://www.liftrc.com/3dr-telemetry-radio-set-915-mhz"
   }
  ],

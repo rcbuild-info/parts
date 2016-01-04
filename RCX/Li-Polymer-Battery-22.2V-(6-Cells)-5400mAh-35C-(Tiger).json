@@ -12,6 +12,12 @@
  "variants": [
   {
    "price": "USD44.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=8918"
+  },
+  {
+   "price": "USD44.99",
    "stock_state": "in_stock",
    "stock_text": "Usually ship within 48 hours (Estimated)",
    "url": "http://www.myrcmart.com/rcx-lipolymer-battery-222v-cells-5400mah-35c-tiger-p-8918.html"

@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "US$44.99",
-   "stock_state": "backordered",
-   "stock_text": "Ships when available",
+   "stock_state": "low_stock",
+   "stock_text": "Only 2 left",
    "url": "https://www.liftrc.com/qav250-main-unibody-frame-plate-g10"
   }
  ],

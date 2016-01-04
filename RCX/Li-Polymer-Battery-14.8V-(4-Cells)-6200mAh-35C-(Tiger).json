@@ -12,6 +12,12 @@
  "variants": [
   {
    "price": "USD31.99",
+   "stock_state": "out_of_stock",
+   "stock_text": "Time is unforeseen",
+   "url": "http://www.myrcmart.com/product_info.php?products_id=8939"
+  },
+  {
+   "price": "USD31.99",
    "stock_state": "in_stock",
    "stock_text": "Usually ship within 48 hours (Estimated)",
    "url": "http://www.myrcmart.com/rcx-lipolymer-battery-148v-cells-6200mah-35c-tiger-p-8939.html"

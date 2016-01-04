@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "US$3.99",
-   "stock_state": "low_stock",
-   "stock_text": "Only 1 left",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/e-flight-1s-3-7v-150mah-25c-battery"
   }
  ],

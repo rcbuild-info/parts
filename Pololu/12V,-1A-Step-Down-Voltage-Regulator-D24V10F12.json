@@ -13,13 +13,13 @@
   {
    "price": "$6.99",
    "stock_state": "in_stock",
-   "stock_text": "46 Units in Stock",
+   "stock_text": "111 Units in Stock",
    "url": "http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=3768"
   },
   {
    "price": "US$9.00",
-   "stock_state": "low_stock",
-   "stock_text": "Only 1 left",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/pololu-12v-1a-step-down-voltage-regulator-d24v10f12"
   }
  ],

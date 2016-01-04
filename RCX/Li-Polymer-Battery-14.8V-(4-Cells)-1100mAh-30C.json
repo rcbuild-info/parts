@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "USD12.99",
-   "stock_state": "in_stock",
-   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
    "url": "http://www.myrcmart.com/rcx-lipolymer-battery-148v-cells-1100mah-30c-p-9144.html"
   }
  ],

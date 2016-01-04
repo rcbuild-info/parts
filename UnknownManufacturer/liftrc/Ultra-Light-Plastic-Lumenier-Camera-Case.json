@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "US$5.99",
-   "stock_state": "backordered",
-   "stock_text": "Ships when available",
+   "stock_state": "low_stock",
+   "stock_text": "Only 1 left",
    "url": "https://www.liftrc.com/ultra-light-plastic-lumenier-camera-case"
   }
  ],

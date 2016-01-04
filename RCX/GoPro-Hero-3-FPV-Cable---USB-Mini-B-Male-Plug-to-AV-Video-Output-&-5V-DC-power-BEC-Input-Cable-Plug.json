@@ -12,8 +12,8 @@
  "variants": [
   {
    "price": "USD1.99",
-   "stock_state": "in_stock",
-   "stock_text": "Usually ship within 48 hours (Estimated)",
+   "stock_state": "backordered",
+   "stock_text": "Usually ship within 2-5 business days (Estimated)",
    "url": "http://www.myrcmart.com/gopro-hero-fpv-cable-usb-mini-male-plug-to-av-video-output-5v-dc-power-bec-input-cable-plug-p-8818.html"
   }
  ],

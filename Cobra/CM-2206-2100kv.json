@@ -37,9 +37,9 @@
    "url": ""
   },
   {
-   "price": "A$34.95",
-   "stock_state": "backordered",
-   "stock_text": "Back Order",
+   "price": "A$39.20",
+   "stock_state": "in_stock",
+   "stock_text": "In Stock",
    "url": "http://boltrc.com/index.php?route=product%2Fproduct&product_id=953"
   },
   {
@@ -94,6 +94,7 @@
    "url": "https://www.multirotorparts.com/cobra-2206-2100kv-racing-edition.html"
   },
   {
+   "price": "$25.99",
    "stock_state": "in_stock",
    "stock_text": "In stock",
    "url": "https://www.multirotorsuperstore.com/cobra-2206-2100kv-brushless-motor.html"

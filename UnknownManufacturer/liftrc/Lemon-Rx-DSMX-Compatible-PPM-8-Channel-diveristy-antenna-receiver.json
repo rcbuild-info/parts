@@ -11,8 +11,8 @@
  "variants": [
   {
    "price": "US$29.99",
-   "stock_state": "low_stock",
-   "stock_text": "Only 1 left",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/lemon-rx-dsmx-compatible-ppm"
   }
  ],

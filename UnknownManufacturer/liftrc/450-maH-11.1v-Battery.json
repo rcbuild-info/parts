@@ -12,7 +12,8 @@
  "variants": [
   {
    "price": "US$9.49",
-   "stock_state": "in_stock",
+   "stock_state": "backordered",
+   "stock_text": "Ships when available",
    "url": "https://www.liftrc.com/450-mah-11-1v-battery"
   }
  ],

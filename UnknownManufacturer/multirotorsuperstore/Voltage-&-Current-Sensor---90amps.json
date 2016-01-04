@@ -18,8 +18,8 @@
   },
   {
    "price": "$13.99",
-   "stock_state": "in_stock",
-   "stock_text": "In stock",
+   "stock_state": "out_of_stock",
+   "stock_text": "Out of stock",
    "url": "https://www.multirotorsuperstore.com/voltage-current-sensor-90amps.html"
   }
  ],
